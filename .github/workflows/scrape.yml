@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Fetch latest data
         run: |-
-          curl https://inciweb.nwcg.gov/feeds/json/esri/ | jq '.'  > inciweb-incidents.json
+          curl https://inciweb.nwcg.gov/api/map_data | jq '.'  > inciweb-incidents.json
       - name: Commit and push if changed
         run: |-
           git config user.name "Automated"
