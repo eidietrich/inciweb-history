@@ -1512,6 +1512,27 @@
     "field_title_and_unit": "CAINF COWTRACK LIGHTNING FIRE"
   },
   {
+    "title": "NEWELL ROAD",
+    "lat_deg": "45",
+    "long_deg": "120",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "Brush, grass, rangeland, with some stands of trees. ",
+    "field_active": "1",
+    "created": "2023-07-23",
+    "changed": "2023-07-24",
+    "id": "313586",
+    "field_incident_overview": "<p>The Newell Road fire began on July 21, rapidly growing in multiple directions. The fire quickly became a hazard to residents, homes, farm structures, livestock, crops, as well a solar farm, wind farms, the Williams Natural Gas Pipeline and the Roosevelt Landfill. There is a Type 3 Incident Management Team on site managing resources. Due to the increasing complexity of the fire, a type 2 Incident Management Team has been ordered and will take over management of the fire at 0600 on Monday July 24. </p>\n\n<p>Currently the fire is 51,694 acres and 0% containment. </p>",
+    "size": "51694",
+    "lat_min": "49",
+    "lat_sec": "50.88",
+    "urlPath": "/wases-newell-road",
+    "long_min": "27",
+    "long_sec": "32.09",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "WASES NEWELL ROAD"
+  },
+  {
     "title": "2023 Grapevine Fire",
     "lat_deg": "34",
     "long_deg": "112",
@@ -1615,5 +1636,26 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Bedrock Fire"
+  },
+  {
+    "title": "2023 Racetrack Fire",
+    "lat_deg": "34",
+    "long_deg": "112",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-07-24",
+    "changed": "2023-07-24",
+    "id": "313621",
+    "field_incident_overview": "<p><span><span><span><span><span>Firefighters responded to a smoke report at 1:00 pm today, Sunday, July 23, 2023, north of Highway 169 near the community of Cherry.  Upon arrival the Racetrack Fire was estimated to be 30-40 acres, with moderate fire behavior until late afternoon when monsoonal activity and winds increased fire activity.   </span></span></span></span></span></p>\n\n<p><span><span><strong><span><span><span>Evacuations</span></span></span></strong><span><span><span> – Please follow Yavapai County Sheriff’s Office Facebook page for current evacuation information at: https://www.facebook.com/YavapaiCountySheriff</span></span></span></span></span></p>",
+    "size": "405",
+    "lat_min": "33",
+    "lat_sec": "31",
+    "urlPath": "/azpnf-2023-racetrack-fire",
+    "long_min": "2",
+    "long_sec": "39",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "AZPNF 2023 Racetrack Fire"
   }
 ]
