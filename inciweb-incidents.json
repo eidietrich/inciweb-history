@@ -953,7 +953,7 @@
     "field_incident_description": "",
     "field_active": "1",
     "created": "2023-07-04",
-    "changed": "2023-07-24",
+    "changed": "2023-07-25",
     "id": "313324",
     "field_incident_overview": "<p>The Bee Top Fire was reported on 7/1 and is currently estimated at 45 acres. The fire is located near Bee Top Mountain, approximately 5 miles up Lightning Creek, outside of Clark Fork, ID. <span><span><span><span>Northern Rockies Incident Management Team 9 transferred command back to the Sandpoint Ranger District on 7/19 at 0600.  </span></span></span></span></p>\n\n<p> </p>",
     "size": "45",
@@ -1720,5 +1720,26 @@
     "long_sec": "49",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Pasture Fire"
+  },
+  {
+    "title": "Elkhorn Fire",
+    "lat_deg": "45",
+    "long_deg": "115",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-07-25",
+    "changed": "2023-07-25",
+    "id": "313655",
+    "field_incident_overview": "<p>The Elkhorn Fire on the Payette National Forest is located in the vicinity of Campbell's Ferry on the main Salmon River in the Frank Church River of No Return Wilderness.  The wildfire is burning on the south side of the river and the river remains open for recreational rafting uses.  A closure order for the trails in the fire area is being developed and expected to be in effect soon.</p>\n\n<p>The wildfire was detected in the late evening of July 24, 2023, and is currently under initial attack.  Sixteen smokejumpers and a 10-person handcrew are assigned to conduct structure protection in the area.</p>\n\n<p>Visit the Payette National Forest Facebook page for incident updates:  https://www.facebook.com/payettenationalforest</p>",
+    "size": "1200",
+    "lat_min": "30",
+    "lat_sec": "25",
+    "urlPath": "/idpaf-elkhorn-fire",
+    "long_min": "18",
+    "long_sec": "92",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "IDPAF Elkhorn Fire"
   }
 ]
