@@ -1783,5 +1783,26 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Agua Fire"
+  },
+  {
+    "title": "Magdalena RD Hutchinson Fire",
+    "lat_deg": "33",
+    "long_deg": "107",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-07-26",
+    "changed": "2023-07-26",
+    "id": "313680",
+    "field_incident_overview": "",
+    "size": "",
+    "lat_min": "41",
+    "lat_sec": "55.8",
+    "urlPath": "/nmcif-magdalena-rd-hutchinson-fire",
+    "long_min": "33",
+    "long_sec": "22.2",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NMCIF Magdalena RD Hutchinson Fire"
   }
 ]
