@@ -1725,7 +1725,7 @@
     "title": "Pipeline Fire",
     "lat_deg": "32",
     "long_deg": "97",
-    "field_percent_of_perimeter": "40",
+    "field_percent_of_perimeter": "50",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
