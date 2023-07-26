@@ -1765,8 +1765,8 @@
   },
   {
     "title": "Agua Fire",
-    "lat_deg": "34 26&#039; 18&quot;",
-    "long_deg": "118 19&#039; 35&quot;",
+    "lat_deg": "34 ",
+    "long_deg": "118 ",
     "field_percent_of_perimeter": "10",
     "type": "Wildfire",
     "field_incident_description": "",
@@ -1776,11 +1776,11 @@
     "id": "313669",
     "field_incident_overview": "<p>The Agua Fire started around 2:17 P.M. near Soledad Canyon, west of Acton and is currently 421 acres with 10 percent containment. The fire grew in size overnight due to steep terrain making some areas difficult to reach. Firefighters remain working around the clock to reach further containment. The Angeles National Forest is in unified command with the Los Angeles County Fire Department.</p>\n\n<p><strong>Closures: </strong>Soledad Canyon Road between Agua Dulce Road and Crown Valley Road.</p>\n\n<p><strong>Evacuations:</strong> There are no current evacuations</p>\n\n<p>Please continue to check back for updates as they will be posted as soon as they are available.  </p>",
     "size": "421",
-    "lat_min": "",
-    "lat_sec": "",
+    "lat_min": "26",
+    "lat_sec": "18",
     "urlPath": "/caanf-agua-fire",
-    "long_min": "",
-    "long_sec": "",
+    "long_min": "19",
+    "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Agua Fire"
   }
