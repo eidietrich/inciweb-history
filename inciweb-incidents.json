@@ -1638,27 +1638,6 @@
     "field_title_and_unit": "IDIPF Sawtooth Fire"
   },
   {
-    "title": "Big Iron Fire",
-    "lat_deg": "30",
-    "long_deg": "100",
-    "field_percent_of_perimeter": "90",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-07-25",
-    "changed": "2023-07-28",
-    "id": "313637",
-    "field_incident_overview": "<p>At 5:10 pm on Monday July 24th, Texas A&amp;M Forest Service received a request for assistance for a fire approximately 3 miles east of Rocksprings. It is burning in a very remote location, making access difficult. The fire did not presenting any threats to structures, but it was showing heavy resistance to control during the initial hours of response.</p>\n\n<p>In coordination with local fire departments, Texas A&amp;M Forest Service crews and aviation from Fredericksburg, as well as a Texas Intrastate Fire Mutual Aid System Strike Team prepositioned in Kerrville, initially responded. The Single Engine Air Tankers (SEATs) were able to apply retardant along the most active fronts of the fire while ground crews worked to find safe access. Crews remained on the fire until approximately 11:30 pm on the 24th and returned early the next morning. Additional fireline leadership, heavy equipment, and a handcrew were requested to bolster original crews, along with the resources which responded initially. On the second day, July 25th, crews worked to create containment lines using bulldozers, engines and aviation resources. </p>\n\n<p>The fire had a high growth potential on the 25th, with continuing dry and hot weather conditions. Afternoon conditions include highs near 98 degrees with minimum relative humidity levels down near 22%, along with gusty winds in the afternoon and early evening hours.</p>\n\n<p>Observed fire behavior remained low on the second day, with crews observing heavy down woody debris continuing to burn through out the fire perimeter. Bull dozers tied containment lines into a creek bed, which is naturally holding the fire on one side and are patrolling sections of containment line which are undrivable by wheeled vehicles. Engines focused mop up efforts along the northern edge of the perimeter. </p>\n\n<p> </p>",
-    "size": "129",
-    "lat_min": "1",
-    "lat_sec": "47.73",
-    "urlPath": "/txtxs-big-iron-fire",
-    "long_min": "9",
-    "long_sec": "2.72",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Big Iron Fire"
-  },
-  {
     "title": "Pasture Fire",
     "lat_deg": "33",
     "long_deg": "108",
