@@ -1536,7 +1536,7 @@
     "title": "Golden Fire",
     "lat_deg": "42",
     "long_deg": "121",
-    "field_percent_of_perimeter": "18",
+    "field_percent_of_perimeter": "27",
     "type": "Wildfire",
     "field_incident_description": "Wildfire",
     "field_active": "1",
