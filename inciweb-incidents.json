@@ -1977,7 +1977,7 @@
     "title": "Grasshopper Fire",
     "lat_deg": "33",
     "long_deg": "98",
-    "field_percent_of_perimeter": "20",
+    "field_percent_of_perimeter": "40",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
