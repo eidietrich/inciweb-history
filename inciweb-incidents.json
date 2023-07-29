@@ -1144,7 +1144,7 @@
     "created": "2023-07-13",
     "changed": "2023-07-29",
     "id": "313457",
-    "field_incident_overview": "<p><span><span><span><span>The Midnight Fire on the Salmon River Ranger District is approximately 179 acres and located about 10 miles southeast of Clearwater, Idaho. The fire is being managed by a Wyoming Type 3 team.</span></span></span></span></p>\n\n<p><span><span><span>Significant firefighting traffic is expected to continue through the week on Forest Service Roads (FSR) #244, #284, and #1852 as resources continue to contribute to the suppression effort</span></span></span><span><span>.</span></span></p>\n\n<p><span><span><span>Heavy equipment is being utilized to construct contingency line on FSR #1853 and #1855, and in Peasley Creek drainage area FSR #469 to #648.</span></span></span></p>\n\n<p><span><span><span><span>A fire camp is established near McComas Meadows (Camp 58) to support the ongoing suppression efforts.</span></span></span></span></p>\n\n<p><span><span><span><span>There are no road or area closures associated with this fire, but the public is urged to avoid these areas for the safety of all.</span></span></span></span></p>\n\n<p><span><span><span><span>There is a Temporary Flight Restriction (TFR) in place over the Midnight Fire area for the safety of the aviation resources on scene.</span></span></span></span></p>\n\n<p><strong> </strong></p>",
+    "field_incident_overview": "<p><span><span><span><span>The Midnight Fire on the Salmon River Ranger District is approximately 179 acres and located about 10 miles southeast of Clearwater, Idaho. The fire is being managed by a Wyoming Type 3 team.</span></span></span></span></p>\n\n<p><span><span><span>Significant firefighting traffic is expected to continue through the week on Forest Service Roads (FSR) #244, #284, and #1852 as resources continue to contribute to the suppression effort</span></span></span><span><span>.</span></span></p>\n\n<p><span><span><span>Heavy equipment is being utilized to construct contingency line on FSR #1853 and #1855, and in Peasley Creek drainage area FSR #469 to #648.</span></span></span></p>\n\n<p><span><span><span><span>A fire camp is established near McComas Meadows (Camp 58) to support the ongoing suppression efforts.</span></span></span></span></p>\n\n<p><span><span><span><span>There are no road or area closures associated with this fire, but the public is urged to avoid these areas for the safety of all.</span></span></span></span></p>\n\n<p><strong> </strong></p>",
     "size": "179",
     "lat_min": "56",
     "lat_sec": "00",
@@ -1972,5 +1972,26 @@
     "long_sec": "6629",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Classic Canyon Fire"
+  },
+  {
+    "title": "Grasshopper Fire",
+    "lat_deg": "33",
+    "long_deg": "98",
+    "field_percent_of_perimeter": "20",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-07-29",
+    "changed": "2023-07-29",
+    "id": "313797",
+    "field_incident_overview": "<p>At roughly 3 p.m. on Saturday, July 29th, Texas A&amp;M Forest Service received a request for assistance for a wildfire 1 mile South of Wichita Falls near the junction of HWY 281 and 287. Multiple structures are threatened and local engines are currently engaged in structure protection. Agency crews are currently working in unified command with locals and aviation resources are working to slow the fire's perimeter.</p>",
+    "size": "350",
+    "lat_min": "52",
+    "lat_sec": "6",
+    "urlPath": "/txtxs-grasshopper-fire",
+    "long_min": "28",
+    "long_sec": "10",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Grasshopper Fire"
   }
 ]
