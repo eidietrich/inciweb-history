@@ -1893,7 +1893,7 @@
     "title": "Cottonwood Ridge Fire ",
     "lat_deg": "34",
     "long_deg": "110",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "30",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
