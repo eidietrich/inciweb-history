@@ -1958,7 +1958,7 @@
     "long_deg": "115",
     "field_percent_of_perimeter": "0",
     "type": "Wildfire",
-    "field_incident_description": "",
+    "field_incident_description": "Wildfire",
     "field_active": "1",
     "created": "2023-07-28",
     "changed": "2023-07-28",
