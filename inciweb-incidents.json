@@ -1956,7 +1956,7 @@
     "title": "Classic Canyon Fire",
     "lat_deg": "31",
     "long_deg": "97",
-    "field_percent_of_perimeter": "65",
+    "field_percent_of_perimeter": "85",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
