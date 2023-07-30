@@ -1993,5 +1993,26 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grasshopper Fire"
+  },
+  {
+    "title": "Eagle Bluff",
+    "lat_deg": "48",
+    "long_deg": "119",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "Wildfire",
+    "field_active": "1",
+    "created": "2023-07-30",
+    "changed": "2023-07-30",
+    "id": "313831",
+    "field_incident_overview": "<p>Initially reported on July 29, the Eagle Bluff Fire has grown to approximately 8,000 acres in the first 24 hours. The Okanogan County Sheriff's office has evacuated area residences that were evaluated to be at risk due to fire behavior. There is currently a Red Cross shelter established at the high school in Oroville, WA.</p>\n\n<p>The most up to date evacuation information, road closures and other important community information can be found at the Okanogan County Emergency Management webpage: https://okanogancounty.org/government/emergency_management/active_incidents.php</p>\n\n<p> </p>",
+    "size": "8000",
+    "lat_min": "53",
+    "lat_sec": "20",
+    "urlPath": "/wacof-eagle-bluff",
+    "long_min": "28",
+    "long_sec": "10",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "WACOF Eagle Bluff"
   }
 ]
