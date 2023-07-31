@@ -1995,6 +1995,27 @@
     "field_title_and_unit": "TXTXS Grasshopper Fire"
   },
   {
+    "title": "Anderson Complex",
+    "lat_deg": "64 ",
+    "long_deg": "149",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-07-30",
+    "changed": "2023-07-30",
+    "id": "313823",
+    "field_incident_overview": "<p>The Anderson Complex was established on Saturday, July 29 to manage multiple fires in the Anderson-Clear area. The complex includes the following fires,</p>\n\n<ul><li><strong>Teklanika River Fire (#257)</strong></li>\n\t<li><strong>Kobe Road Fire (#297)</strong></li>\n\t<li><strong>Birch Creek Fire (#285)</strong></li>\n\t<li><strong>Nenana River Fire (#288)</strong></li>\n\t<li><strong>Nenana River 2 Fire (#289)</strong>. </li>\n</ul><p>Fires in the Complex are primarily burning in dense black spruce stands. Winds fed rapid fire growth on several of the fires within the complex.  </p>",
+    "size": "3500",
+    "lat_min": "24",
+    "lat_sec": "8000",
+    "urlPath": "/akfas-anderson-complex",
+    "long_min": "22",
+    "long_sec": "2000",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "AKFAS Anderson Complex"
+  },
+  {
     "title": "Eagle Bluff",
     "lat_deg": "48",
     "long_deg": "119",
