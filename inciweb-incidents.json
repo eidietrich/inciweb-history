@@ -1368,7 +1368,7 @@
     "title": "Colt Fire",
     "lat_deg": "47",
     "long_deg": "113",
-    "field_percent_of_perimeter": "6",
+    "field_percent_of_perimeter": "8",
     "type": "Wildfire",
     "field_incident_description": "Thick, heavy dead and down timber",
     "field_active": "1",
