@@ -1302,6 +1302,27 @@
     "field_title_and_unit": "AZA3S Adams Robles Complex Fire "
   },
   {
+    "title": "Hayden Fire",
+    "lat_deg": "44",
+    "long_deg": "113",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-07-20",
+    "changed": "2023-07-31",
+    "id": "313532",
+    "field_incident_overview": "<p>Today's Operational Briefing, 7/31/23: <a href=\"http://tiny.cc/OPSvideoJuly30\">http://tiny.cc/OpsVideoJuly31</a></p>\n\n<p><span><span><span><span><span><span>The Hayden Fire started on Wednesday, July 19th, 2023, at approximately 11:30 am. The fire is located in the Lemhi Range, 18 miles west of Leadore, Idaho.  The fire is burning in steep and difficult terrain with spruce/subalpine fir containing a heavy dead/down timber component.  Fire cause is undetermined. </span></span></span></span></span></span></p>",
+    "size": "18085",
+    "lat_min": "42",
+    "lat_sec": "9",
+    "urlPath": "/idscf-hayden-fire",
+    "long_min": "44",
+    "long_sec": "32",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "IDSCF Hayden Fire"
+  },
+  {
     "title": "Guzzler Fire",
     "lat_deg": "34",
     "long_deg": "110",
