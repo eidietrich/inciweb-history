@@ -2035,5 +2035,26 @@
     "long_sec": "47.94",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Powder Keg Pine Fire"
+  },
+  {
+    "title": "Sourdough Fire",
+    "lat_deg": "48.72 591",
+    "long_deg": "121.135 77",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "The Sourdough Fire was first reported on 29 July 2023 and is burning in very steep terrain.",
+    "field_active": "1",
+    "created": "2023-08-01",
+    "changed": "2023-08-01",
+    "id": "313904",
+    "field_incident_overview": "<p>The Sourdough Fire was reported on Saturday 29 July 2023. The fire is located in Ross Lake National Recreation Area within the North Cascade Park Service Complex, burning in very steep terrain.</p>",
+    "size": "25",
+    "lat_min": "",
+    "lat_sec": "",
+    "urlPath": "/warlp-sourdough-fire",
+    "long_min": "",
+    "long_sec": "",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "WARLP Sourdough Fire"
   }
 ]
