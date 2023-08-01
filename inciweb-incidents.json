@@ -1706,7 +1706,7 @@
     "long_deg": "97",
     "field_percent_of_perimeter": "97",
     "type": "Wildfire",
-    "field_incident_description": "",
+    "field_incident_description": "Blum Fire Update<br />\r\nTuesday August 1, 2023<br />\r\n <br />\r\nSize: est. 300 acres<br />\r\nContainment: 97%<br />\r\nStart Date: July 26, 2023<br />\r\nCause: Under Investigation<br />\r\n <br />\r\nThe Blum Fire started on July 26, 2023, and was initially responded to by multiple local and county entities. Texas A&amp;M Forest Service was requested to assist at 3:15 p.m. and responded with aviation resources, heavy equipment and engines from Texas A&amp;M Forest Service and Texas Intrastate Fire Mutual Aid System (TIFMAS). Multiple departments from Hill, Johnson and Bosque counties are working in unified command with Texas A&amp;M Forest Service and Texas Division of Emergency Management (TDEM).<br />\r\n<br />\r\nYesterday: Crews continued to engage in mop up operations across the fire area, checking for hotspots or smoke. <br />\r\n<br />\r\nToday: Crews will patrol the perimeter of the fire and interior roadways, checking for hotspots and smoke and perform mop up as needed. If there are no unexpected changes in the fire conditions, the incident commander anticipates accomplishing 100% containment at the end of shift today. The remaining resources on the fire will be available to respond to any new wildfire activity if it occurs. <br />\r\n<br />\r\nWeather and Fire Behavior: RED FLAG WARNING IN EFFECT FROM 1 PM THIS AFTERNOON TO 1 AM WEDNESDAY. Excessive heat warning is in effect until 8 pm this evening. Hot and dry conditions will persist through Wednesday with highs near 108 today and minimum humidity around 20%. South winds around 10 mph will continue. RH recovery is expected to be around 65% tonight. No precipitation is expected. With the increased potential to wildfire due to the hot, dry, and windy conditions, residents should avoid outdoor activities that may cause a spark, including welding, grinding and using heavy machinery. <br />\r\n<br />\r\nEvacuations: There are currently no evacuations in place.<br />\r\n<br />\r\nDamages/Injuries: One outbuilding was confirmed to be destroyed by the fire. No homes have been destroyed by the fire. No injuries have been reported at this time. <br />\r\n<br />\r\nClosures: There are currently no closures in place.<br />\r\n<br />\r\n<br />\r\nFire Information <br />\r\n<br />\r\nInformation Officer<br />\r\nTexas A&amp;M Forest Service<br />\r\nEmail: information@tfs.tamu.edu<br />\r\nPhone: 979-255-0591<br />\r\n\tInciweb: https://inciweb.wildfire.gov/incident-information/txtxs-blum-fire<br />\r\nFacebook: https://www.facebook.com/AllHazardsTFS<br />\r\nTwitter: https://twitter.com/AllHazardsTFS<br />\r\n<br />\r\n",
     "field_active": "1",
     "created": "2023-07-26",
     "changed": "2023-08-01",
@@ -1993,5 +1993,26 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Prior Fire"
+  },
+  {
+    "title": "West Hallett",
+    "lat_deg": "47",
+    "long_deg": "117",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "The fire is burning along the north side of the Cheney-Spokane road, along the Burlington Northern Railroad Tracks.",
+    "field_active": "1",
+    "created": "2023-08-01",
+    "changed": "2023-08-01",
+    "id": "313900",
+    "field_incident_overview": "<p>The West Hallett Fire was first reported at 1337 on Monday, July 31st.  It is located approximately 2 miles west of Highway 195, north of the Cheney-Spokane Road.  The fire is approximately 155 acres in size and about 200 personnel are assigned as of August 1st.</p>",
+    "size": "155",
+    "lat_min": "35",
+    "lat_sec": "22",
+    "urlPath": "/wanes-west-hallett",
+    "long_min": "27",
+    "long_sec": "31",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "WANES West Hallett"
   }
 ]
