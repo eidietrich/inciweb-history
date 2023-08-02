@@ -2111,7 +2111,7 @@
     "changed": "2023-08-02",
     "id": "313924",
     "field_incident_overview": "<p>The East Fork Fire was detected on the Fortine Ranger District on 7/30/23 on a ridge just west of the East Fork of Sunday Creek, approximately 12 miles south of Trego, MT. Aggressive initial attack combined with air resources responded to the fire. Hot, dry, and windy conditions have been causing fire growth. A local Kootenai Incident Management Team 3 took command of the fire Tuesday, August 1st. </p>",
-    "size": "102",
+    "size": "150",
     "lat_min": "31",
     "lat_sec": "47.2188",
     "urlPath": "/mtknf-east-fork-fire",
@@ -2140,5 +2140,26 @@
     "long_sec": "48.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Rogers Pass Fire"
+  },
+  {
+    "title": "San Jacinto 2715",
+    "lat_deg": "30",
+    "long_deg": "95",
+    "field_percent_of_perimeter": "10",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-02",
+    "changed": "2023-08-02",
+    "id": "313951",
+    "field_incident_overview": "<p><span>At 1:19 pm on Wednesday August 2nd, Texas A&amp;M Forest Service received a request for assistance for a fire on farm to market road (FM) 946 approximately 7 miles southeast of Oakhurst, Texas. The fire is actively burning in a pine plantation. </span></p>\n\n<p><span>Elevated fire weather, including triple digit temperatures and low relative humidity is supporting moderate to high fire behavior where dry vegetation is present on the fire.<span> </span></span></p>\n\n<p><span>In coordination with local fire departments, Texas A&amp;M Forest Service crews, United States Forest Service (USFS) from the Sam Houston National Forest, and several aviation resources prepositioned in the area have responded and are engaged in suppression efforts. Multiple dozers are constructing containment line on both the right and left flank of the fire. Two Type 1 helicopters and 2 super scoopers are working to slow forward progression.</span></p>\n\n<p><span>A road closure on FM 946 from FM 3018 south to Carter Road is currently in effect. Additional information on road closures in the area can be found on <a href=\"http://www.drivetexas.org\">www.drivetexas.org</a>. </span></p>",
+    "size": "50",
+    "lat_min": "40",
+    "lat_sec": "39.528",
+    "urlPath": "/txtxs-san-jacinto-2715",
+    "long_min": "13",
+    "long_sec": "51.036",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS San Jacinto 2715"
   }
 ]
