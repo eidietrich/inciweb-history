@@ -1809,7 +1809,7 @@
     "title": "Spoon Fire",
     "lat_deg": "33",
     "long_deg": "110",
-    "field_percent_of_perimeter": "50",
+    "field_percent_of_perimeter": "25",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
