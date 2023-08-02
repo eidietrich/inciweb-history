@@ -2077,5 +2077,26 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "WARLP Sourdough Fire"
+  },
+  {
+    "title": "Niarada",
+    "lat_deg": "47",
+    "long_deg": "114",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-01",
+    "changed": "2023-08-01",
+    "id": "313913",
+    "field_incident_overview": "<p>The Niarada Fire started on July 30, 2023 as part of the widespread lightning storm that went through the area. It is approximately 12 miles west of Elmo, Montana. Hot, dry, and windy conditions have been causing fire growth. The Northern Rockies Complex Incident Management Team 3 will take command of the fire at 6:00 AM on August 2.</p>",
+    "size": "8400",
+    "lat_min": "49",
+    "lat_sec": "40",
+    "urlPath": "/mtfha-niarada",
+    "long_min": "35",
+    "long_sec": "33",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "MTFHA Niarada"
   }
 ]
