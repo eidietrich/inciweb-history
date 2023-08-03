@@ -2182,5 +2182,26 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Ridge Fire"
+  },
+  {
+    "title": "Mesquite Field Fire",
+    "lat_deg": "29 ",
+    "long_deg": "97 ",
+    "field_percent_of_perimeter": "80",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-03",
+    "changed": "2023-08-03",
+    "id": "313965",
+    "field_incident_overview": "<p><span><span><span><span><span>On Wednesday August 2nd, Texas A&amp;M Forest Service (TAMFS) received a request for assistance on a fire approximately 10.5 miles southwest of Smithville, Texas. Texas A&amp;M Forest Service responded around 3:30pm, providing personnel, dozers and air operation assistance to the local fire department. The fire was burning in mesquite brush, grass and timber within an estimated 30 acre area. </span></span></span></span></span></p>\n\n<p><span><span><span><span><span>The local fire department provided structure protection on three structures while a Texas A&amp;M Forest Service dozer constructed fireline on the right flank of the fire. One helicopter arrived at approximately 4:15 pm, dropping water over the fire to reduce the fire’s intensity and enable ground crews to safely suppress the fire within the containment lines. By 5:30 pm, the fire activity was moderate and the helicopter was released back to the air base.</span></span></span></span></span></p>\n\n<p><span><span><span><span>Dozer containment lines were completed by 7:00pm and forward progression of the fire was stopped. Texas A&amp;M Forest Service resources were released for the night at 8:00pm and local fire department will monitor overnight. By end of shift, acreage was 37 with 80% containment.</span></span></span></span></p>\n\n<p><span><span><span><span>No evacuations and no structure damage.</span></span></span></span></p>",
+    "size": "37",
+    "lat_min": "53",
+    "lat_sec": "18.99",
+    "urlPath": "/txtxs-mesquite-field-fire",
+    "long_min": "13",
+    "long_sec": "06.55",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Mesquite Field Fire"
   }
 ]
