@@ -2155,10 +2155,10 @@
     "field_incident_overview": "<p><span>At 1:19 pm on Aug. 2, Texas A&amp;M Forest Service received a request for assistance for a fire on farm to market road (FM) 946, approximately 7 miles southeast of Oakhurst, Texas. The fire is actively burning in a pine plantation. </span></p>\n\n<p><span>Elevated fire weather, including triple digit temperatures and low relative humidity is supporting moderate to high fire behavior where dry vegetation is present on the fire.<span> </span></span></p>\n\n<p><span>In coordination with local fire departments, crews from Texas A&amp;M Forest Service and USDA Forest Service - Sam Houston National Forest as well as several aviation resources responded and are engaged in suppression efforts. Multiple dozers are constructing containment line on both the right and left flank of the fire. Two Type 1 helicopters and 2 super scoopers are working to slow forward progression.</span></p>\n\n<p><span>A road closure on FM 946 from FM 3018 south to Carter Road is currently in effect. Additional information on road closures in the area can be found on <a href=\"http://www.drivetexas.org\">www.drivetexas.org</a>. </span></p>\n\n<p><span>There is a Temporary Flight Restriction (TFR) in place for the area over the </span><span>fire</span><span> [NOTAM: FDC 3/7308, </span><a dir=\"ltr\" href=\"https://t.co/czWy0PJgYy\"><span>https://</span>bit.ly/3OPZdBD</a><span>]. Please avoid the area to provide a safe environment for firefighting aircraft.</span></p>",
     "size": "215",
     "lat_min": "40",
-    "lat_sec": "39.528",
+    "lat_sec": "40",
     "urlPath": "/txtxs-snowhill-fire",
     "long_min": "13",
-    "long_sec": "51.036",
+    "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Snowhill Fire"
   },
