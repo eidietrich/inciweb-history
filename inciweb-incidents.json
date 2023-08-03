@@ -2224,5 +2224,26 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "WANES West Anderson"
+  },
+  {
+    "title": "Gravel Pit Fire",
+    "lat_deg": "48",
+    "long_deg": "115",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-03",
+    "changed": "2023-08-03",
+    "id": "314005",
+    "field_incident_overview": "",
+    "size": "90",
+    "lat_min": "1",
+    "lat_sec": "38.3982",
+    "urlPath": "/mtmts-gravel-pit-fire",
+    "long_min": "21",
+    "long_sec": "16.2",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "MTMTS Gravel Pit Fire"
   }
 ]
