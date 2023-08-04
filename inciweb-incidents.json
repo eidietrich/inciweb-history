@@ -1596,27 +1596,6 @@
     "field_title_and_unit": "IDPAF Elkhorn Fire"
   },
   {
-    "title": "Pipeline Fire",
-    "lat_deg": "32",
-    "long_deg": "97",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-07-25",
-    "changed": "2023-07-31",
-    "id": "313659",
-    "field_incident_overview": "<p>The Pipeline fire started around 3:00 pm on July 25th about 2 miles south east of Garner, Texas. The fire began actively burning in grass fields and thick brush. Parker county fire departments quickly responded and began working to suppress the fire before requesting assistance from Texas A&amp;M Forest Service. Heavy equipment and aerial resources from Texas A&amp;M Forest Service and engines from Texas Intrastate Fire Mutual Aid System (TIFMAS) are now working in unified command with Parker County to contain the Pipeline fire.</p>",
-    "size": "372",
-    "lat_min": "47",
-    "lat_sec": "3",
-    "urlPath": "/txtxs-pipeline-fire",
-    "long_min": "55",
-    "long_sec": "8",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Pipeline Fire"
-  },
-  {
     "title": "Tub Fire",
     "lat_deg": "33",
     "long_deg": " 108",
