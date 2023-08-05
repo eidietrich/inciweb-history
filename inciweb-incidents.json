@@ -2371,5 +2371,26 @@
     "long_sec": "52.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDIPF Buckskin 2 Fire"
+  },
+  {
+    "title": "Oak Grove Fire",
+    "lat_deg": "29",
+    "long_deg": "97",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-05",
+    "changed": "2023-08-05",
+    "id": "314110",
+    "field_incident_overview": "<p>At 1:30 p.m. on Aug. 5, Texas A&amp;M Forest Service received a request for assistance on a fire burning north of San Marcos, Hays County, Texas. The fire is burning in grass and brush fuels, and is making runs and spotting in several areas.</p>\n\n<p>Multiple structures are threatened and evacuations are in place. An evacuation shelter has been established at Promised Land Church, 1650 Lime Kiln Road, San Marcos, Texas. The <a href=\"https://www.facebook.com/HaysCountyOfficeOfEmergencyManagement/posts/678269651008942\">Hays County Office of Emergency Management</a> is providing updates on evacuations.</p>\n\n<p>Texas A&amp;M Forest Service has mobilized the following to assist with response efforts: fire managers and miscellaneous overhead, dozers, the Cherokee Interagency Hotshot Crew, engine crews from Texas Intrastate Fire Mutual Aid System (TIFMAS), Emergency Medical Task Force (EMTF) personnel and aircraft, including single engine air tankers and Super Scoopers.</p>\n\n<p><span>There is a Temporary Flight Restriction (TFR) in place for the area over the fire [NOTAM: FDC 3/8882, </span><a href=\"https://bit.ly/44Uhymh\">https://bit.ly/44Uhymh</a><span>]. Please avoid the area to provide a safe environment for firefighting aircraft.</span> </p>",
+    "size": "70",
+    "lat_min": "58",
+    "lat_sec": "50.928",
+    "urlPath": "/txtxs-oak-grove-fire",
+    "long_min": "59",
+    "long_sec": "22.116",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Oak Grove Fire"
   }
 ]
