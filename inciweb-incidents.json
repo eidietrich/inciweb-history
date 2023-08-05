@@ -2278,7 +2278,7 @@
     "created": "2023-08-04",
     "changed": "2023-08-05",
     "id": "314057",
-    "field_incident_overview": "<p>The Scott Fire was started by lightning on July 31st at approximately 5 pm.  The fire is currently 16 acres in size and is burning in ponderosa pine, Gambel oak and pinyon-juniper roughly 5 miles south of Kachina Village between Interstate 17 and US Highway 89A.  The fire is being managed for forest health to maintain and enhance ecosystem health. </p>\n\n<p>Wildfires are a natural part of the Coconino NF’s ecosystem, and when managed diligently and properly following the requisite planning process, improve the landscape long-term in several ways. Low-intensity fire works to release nutrients into soils and reduce the accumulation of hazardous fuels on the forest floor, such as dry pine needles and fallen leaves. The management of naturally-ignited wildfire can also protect critical infrastructure, watersheds, wildlife habitat and culturally sensitive areas from future high-severity wildfires. The management of these fires aligns with the Forest Service’s 10-year Wildfire Crisis Strategy, which aims to increase the use of fire on the landscape as well as other treatments to improve forest resiliency for generations to come.</p>",
+    "field_incident_overview": "<p>The Scott Fire was started by lightning on July 31st at approximately 5 pm.  The fire is currently 40 acres in size and is burning in ponderosa pine, Gambel oak and pinyon-juniper roughly 5 miles south of Kachina Village between Interstate 17 and US Highway 89A.  The fire is being managed for forest health to maintain and enhance ecosystem health. </p>\n\n<p>Wildfires are a natural part of the Coconino NF’s ecosystem, and when managed diligently and properly following the requisite planning process, improve the landscape long-term in several ways. Low-intensity fire works to release nutrients into soils and reduce the accumulation of hazardous fuels on the forest floor, such as dry pine needles and fallen leaves. The management of naturally-ignited wildfire can also protect critical infrastructure, watersheds, wildlife habitat and culturally sensitive areas from future high-severity wildfires. The management of these fires aligns with the Forest Service’s 10-year Wildfire Crisis Strategy, which aims to increase the use of fire on the landscape as well as other treatments to improve forest resiliency for generations to come.</p>",
     "size": "40",
     "lat_min": "01",
     "lat_sec": "29.4",
@@ -2392,5 +2392,26 @@
     "long_sec": "22.116",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Oak Grove Fire"
+  },
+  {
+    "title": "Mack Fire",
+    "lat_deg": "33",
+    "long_deg": "98",
+    "field_percent_of_perimeter": "-3",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-05",
+    "changed": "2023-08-05",
+    "id": "314113",
+    "field_incident_overview": "<p>Around 5:30 p.m. on August 5th, Texas A&amp;M Forest Service received a request for assistance for a fire approximately 1 mile West of Iowa Park off of HWY 287. Agency Crews are working in unified command with local responders. The Mack fire is reported to be very active with multiple structures threatened and crews are engaged in structure protection.</p>",
+    "size": "300",
+    "lat_min": "58",
+    "lat_sec": "27",
+    "urlPath": "/txtxs-mack-fire",
+    "long_min": "43",
+    "long_sec": "33",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Mack Fire"
   }
 ]
