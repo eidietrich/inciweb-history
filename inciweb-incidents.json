@@ -2371,5 +2371,26 @@
     "long_sec": "55.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Luke Fire"
+  },
+  {
+    "title": "Buckskin 2 Fire",
+    "lat_deg": "48",
+    "long_deg": "116",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-05",
+    "changed": "2023-08-05",
+    "id": "314100",
+    "field_incident_overview": "",
+    "size": "75",
+    "lat_min": "02",
+    "lat_sec": "05.6",
+    "urlPath": "/idipf-buckskin-2-fire",
+    "long_min": "09",
+    "long_sec": "52.5",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "IDIPF Buckskin 2 Fire"
   }
 ]
