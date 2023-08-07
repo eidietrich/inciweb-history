@@ -2255,9 +2255,9 @@
     "field_incident_description": "Wildfire on Flagstaff Ranger District between I-17 and Stoneman Lake. Fire is burning in ponderosa pine and Gambel oak, and pinyon juniper. Fire is primarily a surface fire.",
     "field_active": "1",
     "created": "2023-08-05",
-    "changed": "2023-08-05",
+    "changed": "2023-08-06",
     "id": "314064",
-    "field_incident_overview": "<p>The lightning caused Luke Fire is 9 acres and is located between I-17 and Stoneman Lake (GPS: 34°47'42.8\"N 111°33'55.9\"W), approximately. It was first reported 4 p.m. July 31 and is experiencing minimal fire behavior. The fire is being managed for forest health to maintain and enhance ecosystem health. </p>\n\n<p>Wildfires are a natural part of the Coconino NF’s ecosystem, and when managed diligently and properly following the requisite planning process, improve the landscape long-term in several ways. Low-intensity fire works to release nutrients into soils and reduce the accumulation of hazardous fuels on the forest floor, such as dry pine needles and fallen leaves. The management of naturally-ignited wildfire can also protect critical infrastructure, watersheds, wildlife habitat and culturally sensitive areas from future high-severity wildfires. The management of these fires aligns with the Forest Service’s 10-year Wildfire Crisis Strategy, which aims to increase the use of fire on the landscape as well as other treatments to improve forest resiliency for generations to come.</p>",
+    "field_incident_overview": "<p>The lightning caused Luke Fire is 9 acres and is located between I-17 and Stoneman Lake (GPS: 34°47'42.8\"N 111°33'55.9\"W), approximately. It was first reported 4 p.m. July 31 and is experiencing minimal fire behavior. The fire is being managed as a full suppression fire,</p>\n\n<p>Fire managers made the decision late last week to strategically manage both naturally-ignited fires for the long-term benefit of the fire-adapted ecosystem of the Coconino NF.<br />\nPrior to the fire management process, forestry and fire experts create a strategy that identifies resource objectives while relying on a risk management process. Objectives often include the reduction of fuels – such as dry pine needles and dead leaves – that contribute to unhealthy forest conditions that can lead to a greater risk of high-intensity wildfire. The risk management process determines the point at which the risks of suppressing a fire outweigh the benefits produced by the fire.</p>\n\n<p><br />\nFire managers have decided to fully suppress the Scott and Luke fires for several reasons, including predicted wind and weather conditions. A full suppression strategy will also free up firefighters and other resources for use on other emerging incidents in the area.</p>",
     "size": "9",
     "lat_min": "47",
     "lat_sec": "42.8",
@@ -2497,5 +2497,26 @@
     "long_sec": "6.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMSNF Black Feather Fire"
+  },
+  {
+    "title": "Brady Fire ",
+    "lat_deg": "34",
+    "long_deg": "111",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "Wildfire",
+    "field_active": "1",
+    "created": "2023-08-06",
+    "changed": "2023-08-06",
+    "id": "314184",
+    "field_incident_overview": "<p>Crews on the Payson Ranger District and Department of Forestry and Fire Management (DFFM) resources are engaged with initial attack on the Brady Fire on the side of the Mogollon Rim, about 11 miles north of Payson. Firefighters are working in steep, rugged terrain which makes operations difficult. Conditions are extremely dry with the lack of monsoonal moisture. Continued hot and dry weather is expected, and there is a possibility of monsoon winds which could cause additional issues for containment. Fire officials are working closely with the neighboring Coconino National Forest. For the health and safety of firefighters and the public, please refrain from traveling near the fire area so operations can proceed unimpeded. A closure order is soon to be implemented for the area. </p>\n\n<p>The fire started Sunday, August 6, around 2pm, 11 miles north of Payson and 11 miles northeast of Pine in Gila County. The fire is 100+ acres and is producing two columns. It is burning through Ponderosa, grass and brush and is pushing to the north and the east toward the Rim. It started on DFFM jurisdiction and has since moved onto the Tonto NF.</p>",
+    "size": "100",
+    "lat_min": "24",
+    "lat_sec": "32.5",
+    "urlPath": "/aza4s-brady-fire",
+    "long_min": "29",
+    "long_sec": "01.3",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "AZA4S Brady Fire "
   }
 ]
