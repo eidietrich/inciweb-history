@@ -2208,7 +2208,7 @@
     "title": "Luke Fire",
     "lat_deg": "34",
     "long_deg": "111",
-    "field_percent_of_perimeter": "80",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "Wildfire on Flagstaff Ranger District near Rattlesnake Canyon between I-17 and Stoneman Lake. Fire is burning in ponderosa pine and Gambel oak, and pinyon juniper. Fire is primarily a surface fire.",
     "field_active": "1",
@@ -2518,5 +2518,26 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Sidney Fire"
+  },
+  {
+    "title": "Bear Creek Fire",
+    "lat_deg": "37",
+    "long_deg": "108",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-07",
+    "changed": "2023-08-07",
+    "id": "314232",
+    "field_incident_overview": "<p>The Bear Creek Fire is located on the San Juan National Forest, Pagosa Ranger District approximately 2.5 miles west of the Weminuche Valley. </p>\n\n<p>The fire has been actively suppressed by air and ground resources since its ignition last week. These dead trees continue to fall across lines and compromise containment lines. Due to the severe terrain and presence of dead standing trees, firefighters are unable to directly engage at this time.</p>\n\n<p>Fire managers are developing a strategic plan to suppress the Bear Creek fire, taking into consideration the risk posed to responders. A multitude of resources are being ordered to support of this incident. </p>",
+    "size": "20",
+    "lat_min": "56",
+    "lat_sec": "3717",
+    "urlPath": "/cosjf-bear-creek-fire",
+    "long_min": "18",
+    "long_sec": "7800",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COSJF Bear Creek Fire"
   }
 ]
