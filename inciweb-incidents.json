@@ -1436,7 +1436,7 @@
     "field_incident_description": "",
     "field_active": "1",
     "created": "2023-07-24",
-    "changed": "2023-08-06",
+    "changed": "2023-08-07",
     "id": "313620",
     "field_incident_overview": "<p>The Bedrock Fire started near Bedrock Campground on the Middle Fork Ranger District on July 22, 2023. It is burning actively on rugged forested land. Resources from the US Forest Service, Oregon Department of Forestry, and private industry are working to fully suppress this fire. Unusually dry fuels, steep slopes, and gusty winds have contributed to rapid fire growth.</p>\n\n<p>Northwest Incident Management Team 13 assumed management of the fire the morning of July 25. On August 6, Northwest Incident Management Team 12 will assume command of the Bedrock Fire. Additional firefighting resources are arriving to assist with the fire as needed.</p>\n\n<p> </p>\n\n<p>On July 26, the Willamette National Forest issued a Forest Closure Order for the area around the Bedrock Fire. On July 29, the area covered by the Forest Closure was expanded to the south and east. All lands, roads, trails, and other recreation sites within the designated area are closed to the public.</p>",
     "size": "12978",
@@ -2491,10 +2491,10 @@
     "field_incident_overview": "<p>As of 0800 on Monday, August 7: </p>\n\n<p>Two scout camps have been placed on SET; Camp Geronimo and Shadow Ridge Camp. Both are private campgrounds within the forest. </p>\n\n<p>Overnight, the fire stayed active on all sides and has pushed onto the top of the Mogollon Rim. It is now estimated at 300 acres. Today, crews will be scouting for holding features on the east and west sides of the fire where access for ground crews has been difficult. Crews are working to keep the fire at the 300 Road on the north side of the fire and west of Washington Park on the east side. Along the south side, crews are trying to stop it north of a control road and trying to keep it at Webber Creek on the west side. On Sunday, the fire was spotting and running with difficult access for crews on the east side. The fire is burning in very rugged and remote terrain and is making operations difficult. Hot and dry conditions persist today with the potential for high winds associated with monsoonal storms which may cause issues with containment. A Department of Forestry and Fire Management (DFFM) task force arrived on the fire last night to assist with suppression efforts. The task force is made up of four Type 6 engines, one Type 3 engine, one water tender, and overhead. Additional hand crews were ordered and will be arriving on the incident later this morning. </p>\n\n<p>The fire started Sunday, August 6, around 2 pm approximately 11 miles north of Payson near the Mogollon Rim. Crews off the Payson Ranger District and DFFM resources engaged immediately with initial attack. At the time of the initial start, the fire was producing two columns and was pushing to the north and east toward the Mogollon Rim. It is burning through Ponderosa pine, grass and brush within unforgiving terrain. Fire officials are working closely with the neighboring Coconino National Forest. For the health and safety of firefighters and the public, please refrain from traveling near the fire area so operations can proceed unimpeded. A closure order is soon to be implemented for the area. The fire started within DFFM jurisdiction and has since moved onto the Tonto NF. </p>",
     "size": "300",
     "lat_min": "24",
-    "lat_sec": "32.5",
+    "lat_sec": "33.1",
     "urlPath": "/aza4s-brady-fire",
-    "long_min": "29",
-    "long_sec": "01.3",
+    "long_min": "19",
+    "long_sec": "58.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZA4S Brady Fire "
   }
