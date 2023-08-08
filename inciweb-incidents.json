@@ -1575,27 +1575,6 @@
     "field_title_and_unit": "NMCIF Magdalena RD Hutchinson Fire"
   },
   {
-    "title": "Blum Fire",
-    "lat_deg": "32",
-    "long_deg": "97",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-07-26",
-    "changed": "2023-08-02",
-    "id": "313690",
-    "field_incident_overview": "<p>At 3:15 pm on Wednesday July 26th, Texas A&amp;M Forest Service received a request for assistance for a fire approximately 3.5 miles south of Blum, Texas. The fire is burning actively in juniper and is presenting an immediate threat to approximately 25 homes in the area. There were voluntary evacuations in the town of Blum, Texas on the afternoon of the 26th, and they were lifted at 10 pm.</p>\n\n<p>In coordination with local fire departments, local Texas A&amp;M Forest Service crews and staged aviation, initially responded. Multiple pieces of rotor and fixed-wing aircraft  Single Engine Air Tankers (SEATs) were able to apply retardant along the most active fronts of the fire while ground crews worked to find safe access. A prepositioned Texas Intrastate Fire Mutual Aid System Strike Team has been requested, along with additional Texas A&amp;M Forest Service crews. Local department first responders are currently focused on structure protection</p>\n\n<p>With continuing dry, hot and gusty weather conditions, the potential for fire growth is high.</p>",
-    "size": "300",
-    "lat_min": "5",
-    "lat_sec": "36.012",
-    "urlPath": "/txtxs-blum-fire",
-    "long_min": "22",
-    "long_sec": "32",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Blum Fire"
-  },
-  {
     "title": "Noonday Fire",
     "lat_deg": "32",
     "long_deg": "107",
