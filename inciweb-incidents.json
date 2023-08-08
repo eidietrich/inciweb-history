@@ -2518,5 +2518,26 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire"
+  },
+  {
+    "title": "Jennings Fire",
+    "lat_deg": "27",
+    "long_deg": "99",
+    "field_percent_of_perimeter": "60",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-08",
+    "changed": "2023-08-08",
+    "id": "314255",
+    "field_incident_overview": "<p><span><span>At 2:11 p.m. on Aug. 7, Texas A&amp;M Forest Service responded to a request for assistance on a fire burning 15.5 miles north/northwest of Zapata in Zapata County, Texas. The fire began burning at a moderate rate of speed through grass and brush fuels in an oil field. Firefighters plan to use local roads to work off to box the fire into containment. No structures were directly threatened. </span></span></p>\n\n<p><span><span>Texas A&amp;M Forest Service has mobilized the following to assist with response: fire managers and miscellaneous overhead, air resources including an air attack plane, single engine air tanker (SEAT) planes, Blackhawk helicopters with buckets and a large air tanker (LAT); engines, dozers and crews from Edinburg and Alice; the Texas Intrastate Fire Mutual Aid System Strike Team (TIFMAS) from Cotulla.</span></span></p>\n\n<p><span><span><span><span><span>An air attack plane provided the early overview of the fire then directed SEATs, LAT and Helicopters to drop flame retardant and water on the western and southwestern flanks of the fire to provide initial heat suppression. State and Zapata County Dozer crews began constructing containment lines on the northern flanks, tying in with a containment line started by a local equipment operator on the eastern flank. After the fire died down a bit around 7:00 pm, engine crews worked with Zapata County resources to contain the fire on the western flank, off of County Road 3169.</span></span></span></span></span></p>",
+    "size": "2500",
+    "lat_min": "7",
+    "lat_sec": "19.464",
+    "urlPath": "/txtxs-jennings-fire",
+    "long_min": "11",
+    "long_sec": "48.474",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Jennings Fire"
   }
 ]
