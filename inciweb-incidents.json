@@ -399,27 +399,6 @@
     "field_title_and_unit": "AZTNF Bullet Fire"
   },
   {
-    "title": "Geology Fire",
-    "lat_deg": "33",
-    "long_deg": "116",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-06-12",
-    "changed": "2023-06-18",
-    "id": "313061",
-    "field_incident_overview": "<p>Wildfire in the Pleasant Valley area of Joshua Tree National Park ignited around 4 PM on Saturday, June 10, 2023. The cause of the fire is under investigation.</p>",
-    "size": "1088",
-    "lat_min": "53",
-    "lat_sec": "47.8",
-    "urlPath": "/cajtp-geology-fire",
-    "long_min": "3",
-    "long_sec": "12.6",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAJTP Geology Fire"
-  },
-  {
     "title": "INYO NATIONAL FOREST 2023 PRESCRIBED FIRE PROJECTS",
     "lat_deg": "37",
     "long_deg": "118",
