@@ -2523,7 +2523,7 @@
     "title": "Monkey Creek Fire",
     "lat_deg": "34",
     "long_deg": "99",
-    "field_percent_of_perimeter": "20",
+    "field_percent_of_perimeter": "25",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -2617,10 +2617,10 @@
     "field_incident_overview": "<p>On August 9, around 2:00 p.m. Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 15 miles northwest of Seymour, Texas in Knox County.</p>\n\n<p>Texas A&amp;M Forest Service mobilized the following resources to assist: fire managers, aircraft, dozers, and engines.</p>",
     "size": "1500",
     "lat_min": "42",
-    "lat_sec": "7400 N",
+    "lat_sec": "44",
     "urlPath": "/txtxs-cedar-top",
     "long_min": "30",
-    "long_sec": "1200 W",
+    "long_sec": "7.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Cedar Top"
   }
