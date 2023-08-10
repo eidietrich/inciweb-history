@@ -2544,7 +2544,7 @@
     "title": "Monkey Creek Fire",
     "lat_deg": "34",
     "long_deg": "99",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "20",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
