@@ -2607,7 +2607,7 @@
     "title": "Cedar Top",
     "lat_deg": "33",
     "long_deg": "99",
-    "field_percent_of_perimeter": "25",
+    "field_percent_of_perimeter": "35",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
