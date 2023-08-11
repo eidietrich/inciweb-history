@@ -2103,7 +2103,7 @@
     "title": "Kane Fire",
     "lat_deg": "36",
     "long_deg": "112",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "7",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
