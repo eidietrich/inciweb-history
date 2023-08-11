@@ -2003,9 +2003,9 @@
     "field_incident_description": "",
     "field_active": "1",
     "created": "2023-08-04",
-    "changed": "2023-08-10",
+    "changed": "2023-08-11",
     "id": "314053",
-    "field_incident_overview": "<p>The Margarita Fire started August 2nd at approximately 12:30am. Firefighters were dispatched to the scene in response to a 911 call. The Quinault Indian Nation requested support on August 3rd and the Western Washington Type 3 Incident Management Team responded.</p>",
+    "field_incident_overview": "<p>The Margarita Fire started August 2nd at approximately 12:30am. Firefighters were dispatched to the scene in response to a 911 call. The Quinault Indian Nation requested support on August 3rd and the Western Washington Type 3 Incident Management Team responded.</p>\n\n<p>Effective Friday, August 11, 2023 at 7:00 am, the Margarita Fire has been turned back over to the Quinault Fire Department. For Quinault Nation residents, brief information updates will continue through internal channels for the next several days as the Quinault Fire Deparment continues to suppress the fire. For those elsewhere in the county, please contact Grays Harbor County Emergency Management with any questions at (360) 249-3911.</p>",
     "size": "61",
     "lat_min": "15",
     "lat_sec": "50",
@@ -2581,5 +2581,26 @@
     "long_sec": "10.5006",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDNCF Snowden Fire"
+  },
+  {
+    "title": "Boggy Creek Fire",
+    "lat_deg": "29",
+    "long_deg": "97",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-11",
+    "changed": "2023-08-11",
+    "id": "314426",
+    "field_incident_overview": "<p><span><span>At 11:30 a.m. on Aug. 11, Texas A&amp;M Forest Service received a request for assistance on a fire burning southwest of Lockhart, Texas in Caldwell County. The fire is burning in grass fuels.</span></span></p>\n\n<p>The fire initially prompted the evacuation of two homes. Firefighters conducted a tactical firing operation on Boggy Creek Road and successfully protected structures in the area.</p>\n\n<p><span><span>Texas A&amp;M Forest Service mobilized the following to assist with response efforts: fire managers and miscellaneous overhead, dozers, engine crews from Texas Intrastate Fire Mutual Aid System (TIFMAS) and a helicopter.</span></span></p>",
+    "size": "60",
+    "lat_min": "51",
+    "lat_sec": "13.302",
+    "urlPath": "/txtxs-boggy-creek-fire",
+    "long_min": "43",
+    "long_sec": "17.856",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Boggy Creek Fire"
   }
 ]
