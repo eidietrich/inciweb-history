@@ -2565,7 +2565,7 @@
     "title": "Boggy Creek Fire",
     "lat_deg": "29",
     "long_deg": "97",
-    "field_percent_of_perimeter": "75",
+    "field_percent_of_perimeter": "85",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
