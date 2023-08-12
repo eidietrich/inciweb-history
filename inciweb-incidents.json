@@ -2616,11 +2616,11 @@
     "id": "314475",
     "field_incident_overview": "<p>The <strong>Ben Harrison Fire</strong>, which was reported on Friday, Aug. 11 and is located approximately 20 miles west of Sumpter, Oregon, is burning generally toward the north and northeast in steep and rocky terrain with heavy timber within the North Fork John Day Wilderness on the North Fork John Day Ranger District. The fire is displaying active fire behavior as hot and windy conditions contributed to increased fire behavior and growth.</p>",
     "size": "50",
-    "lat_min": "756333",
-    "lat_sec": "",
+    "lat_min": "45",
+    "lat_sec": "22.7988",
     "urlPath": "/orumf-ben-harrison-fire",
-    "long_min": "607667",
-    "long_sec": "",
+    "long_min": "36",
+    "long_sec": "27.6012",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUMF Ben Harrison Fire"
   }
