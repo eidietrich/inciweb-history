@@ -2602,5 +2602,26 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Campbell Fire"
+  },
+  {
+    "title": "Ben Harrison Fire",
+    "lat_deg": "44",
+    "long_deg": "118",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-12",
+    "changed": "2023-08-12",
+    "id": "314475",
+    "field_incident_overview": "<p>The <strong>Ben Harrison Fire</strong>, which was reported on Friday, Aug. 11 and is located approximately 20 miles west of Sumpter, Oregon, is burning generally toward the north and northeast in steep and rocky terrain with heavy timber within the North Fork John Day Wilderness on the North Fork John Day Ranger District. The fire is displaying active fire behavior as hot and windy conditions contributed to increased fire behavior and growth.</p>",
+    "size": "50",
+    "lat_min": "756333",
+    "lat_sec": "",
+    "urlPath": "/orumf-ben-harrison-fire",
+    "long_min": "607667",
+    "long_sec": "",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "ORUMF Ben Harrison Fire"
   }
 ]
