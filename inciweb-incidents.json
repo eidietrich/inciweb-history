@@ -2623,5 +2623,26 @@
     "long_sec": "27.6012",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUMF Ben Harrison Fire"
+  },
+  {
+    "title": "Burnett 109 Fire",
+    "lat_deg": "33",
+    "long_deg": "98",
+    "field_percent_of_perimeter": "10",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-12",
+    "changed": "2023-08-12",
+    "id": "314481",
+    "field_incident_overview": "<p>On August 12, around 4:00 p.m. Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 4 miles West of Iowa Park, Texas in Wichita County.</p>\n\n<p>Texas A&amp;M Forest Service mobilized the following resources to assist: fire managers, aircraft, dozers, and engines and is working in unified command with local responders.</p>",
+    "size": "600",
+    "lat_min": "56",
+    "lat_sec": "2",
+    "urlPath": "/txtxs-burnett-109-fire",
+    "long_min": "46",
+    "long_sec": "31",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Burnett 109 Fire"
   }
 ]
