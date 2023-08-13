@@ -2657,7 +2657,7 @@
     "changed": "2023-08-12",
     "id": "314482",
     "field_incident_overview": "<p>At 12:10 pm on Aug. 12, Texas A&amp;M Forest Service received a request for assistance for a fire near Bacon Switch Road and Rifle Range Road, approximately 9 miles northwest of Wichita Falls, Texas. The fire is actively burning in grass fields with mesquite and multiple structures are considered threatened. A Fire Warning was issued at 6:30 pm tonight, due to the incoming expected wind shift due to a passing outflow boundary with potential winds reaching 80 mph. During this period, the fire moved in an opposite direction to the southeast. The main concern this evening is erratic winds and potential lightning. There does remain a chance of actual precipitation making the site as well later this evening with lightning and hopefully some rainfall.</p>\n\n<p>Local crews are joined by personnel, heavy equipment, fire engines, and aviation resources from Texas A&amp;M Forest Service and Texas Intrastate Fire Mutual Aid System.  Current primary goals for responders include public and responder safety, initial construction of containment lines, and structure defense.  </p>\n\n<p>There is a Temporary Flight Restriction (TFR) in place for the area over the fire [NOTAM: FDC 3/3176, <a dir=\"ltr\" href=\"https://tfr.faa.gov/save_pages/detail_3_3176.html\">https://tfr.faa.gov/save_pages/detail_3_3176.html</a>]. Please avoid the area to provide a safe environment for firefighting aircraft.</p>",
-    "size": "800",
+    "size": "1200",
     "lat_min": "59",
     "lat_sec": "58.02",
     "urlPath": "/txtxs-hawkeye-fire",
