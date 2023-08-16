@@ -1659,27 +1659,6 @@
     "field_title_and_unit": "AKFAS Anderson Complex"
   },
   {
-    "title": "Eagle Bluff",
-    "lat_deg": "48",
-    "long_deg": "119",
-    "field_percent_of_perimeter": "80",
-    "type": "Wildfire",
-    "field_incident_description": "The Eagle Bluff Fire is exhibiting moderate fire behavior including short runs,  flanking, torching and short-range spotting.",
-    "field_active": "1",
-    "created": "2023-07-30",
-    "changed": "2023-08-07",
-    "id": "313831",
-    "field_incident_overview": "<p><span><span><span><span><span><span><span>The fire is burning just west of Oroville, Wash. on lands managed by the Washington Department of Natural Resources and the Spokane District – Bureau of Land Management and has crossed into Canada. The cause of the fire is still under investigation by the Washington Department of Natural Resources. </span></span></span></span></span></span></span>The Team’s top priority is public and firefighter safety, and they are using a full suppression strategy to contain the fire as small as possible, as safely as possible.</p>\n\n<p><span><span><span><span><span><span><span><span>Northwest Incident Management Team 7 is currently managing the fire. Ongoing coordination with the British Columbia Wildfire Service will seek to tie in firefighting efforts on both sides of the border.</span></span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>For up-to-date information on wildfire closures and evacuations, follow Okanogan County Emergency Management at </span></span></span><a href=\"https://okanogancounty.org/government/emergency_management/\"><span><span>https://okanogancounty.org/government/emergency_management/</span></span></a></span></span></span></p>\n\n<p> </p>",
-    "size": "16428",
-    "lat_min": "53",
-    "lat_sec": "20",
-    "urlPath": "/wanes-eagle-bluff",
-    "long_min": "28",
-    "long_sec": "10",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "WANES Eagle Bluff"
-  },
-  {
     "title": "Dolan Fire",
     "lat_deg": "33",
     "long_deg": "107",
