@@ -2623,5 +2623,26 @@
     "long_sec": "42.139",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Box Ranch Road Fire"
+  },
+  {
+    "title": "2023 Klamath National Forest August Lightning Fires",
+    "lat_deg": "41.7",
+    "long_deg": "-123.1",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-16",
+    "changed": "2023-08-16",
+    "id": "314599",
+    "field_incident_overview": "",
+    "size": "",
+    "lat_min": "",
+    "lat_sec": "",
+    "urlPath": "/caknf-2023-klamath-national-forest-august-lightning-fires",
+    "long_min": "",
+    "long_sec": "",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CAKNF 2023 Klamath National Forest August Lightning Fires"
   }
 ]
