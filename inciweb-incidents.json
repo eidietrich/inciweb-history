@@ -2612,7 +2612,7 @@
     "field_incident_description": "Burned Area Emergency Response (BAER)",
     "field_active": "1",
     "created": "2023-08-16",
-    "changed": "2023-08-16",
+    "changed": "2023-08-17",
     "id": "314606",
     "field_incident_overview": "<p>The York Fire began on July 28th in the New York Mountain Range of the Mojave National Preserve located in eastern San Bernardino County, CA.  As of 8/16/2023 the acreage is 93,078 acres with 9,127 acres located in Clark County, Nevada.</p>\n\n<p>A Burned Area Emergency Response (BAER) team is in the process of assessing the impacts of the York Fire on natural resources, cultural resources, and infrastructure. This team is composed of scientists and resource specialists including hydrologists, vegetation ecologists, and GIS technicians. These specialists are working closely with BLM and NPS land managers to create a plan to address the fire's impacts over the coming weeks and months. The BAER team is expected to complete their planning work by Monday 8/21/23.</p>\n\n<p>For continued updates on the York Fire incident response, please visit the incident webpage: <a href=\"https://inciweb.wildfire.gov/incident-information/camnp-2023-york-fire\">Camnp 2023 York Fire Information | InciWeb (wildfire.gov)</a></p>",
     "size": "93078",
@@ -2749,5 +2749,26 @@
     "long_sec": "00",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDBOF East"
+  },
+  {
+    "title": "Chilcoot Fire ",
+    "lat_deg": "44",
+    "long_deg": "115",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-17",
+    "changed": "2023-08-17",
+    "id": "314652",
+    "field_incident_overview": "<p>The Chilcoot Fire was detected on August 11.  <span>Firefighter and public safety is the number one priority for the Chilcoot Fire. <span> </span>When the fire was initially sized up, fire managers initiated actions to suppress the fire.  Due to the remote location of the fire, the steep and inaccessible terrain along with lack of safe ingress and egress for firefighters, fire managers changed strategy, keeping firefighter safety in mind.  Fire managers will be monitoring the fire by remote camera and reconnaissance flights.  Values at risk in the area have been identified and trigger points have been established.  If a trigger point is reached, additional actions will be taken by firefighters in order to protect those values at risk.  </span></p>",
+    "size": "685",
+    "lat_min": "45",
+    "lat_sec": "3",
+    "urlPath": "/idscf-chilcoot-fire",
+    "long_min": "23",
+    "long_sec": "19",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "IDSCF Chilcoot Fire "
   }
 ]
