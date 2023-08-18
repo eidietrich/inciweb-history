@@ -2791,5 +2791,26 @@
     "long_sec": "2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CARWP Lost Fire"
+  },
+  {
+    "title": "2023 Happy Camp Complex Klamath NF",
+    "lat_deg": "41",
+    "long_deg": "123",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-17",
+    "changed": "2023-08-17",
+    "id": "314686",
+    "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-news/caknf-2023-happy-camp-complex-klamath-nf\">News</a> | <a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/caknf-2023-happy-camp-complex-klamath-nf\">Photos</a> | <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/caknf-2023-happy-camp-complex-klamath-nf\">Maps</a> | <a href=\"mailto:2023_HappyCampComplex@firenet.gov\">Email</a> 2023_HappyCampComplex@firenet.gov</p>\n\n<p>A series of thunderstorms moved across the Klamath National Forest the night of Monday, August 14, 2023, bringing abundant lightning and igniting roughly 20 fires over the western side of the forest. Only scattered precipitation was received with these storms.</p>\n\n<p>The most active of the resulting fires was the Head Fire, burning at the confluence of the Klamath and Scott rivers. The fire was fanned by strong winds from thunderstorms that developed in the area and burned actively throughout Tuesday afternoon, growing to 3,500 acres by nightfall. </p>\n\n<p>Several of the fires are being managed together as the Happy Camp Complex. The Type-1 California Interagency Incident Management Team 5 was assigned to the complex and took over management as of 6:00 am on Thursday, August 17, 2023.</p>\n\n<p>Evacuation orders and warnings are in place. For the most up-to-date information on evacuations use the evacuation map at <a href=\"https://protect.genasys.com/search\">https://protect.genasys.com/search</a></p>\n\n<p>The Scott River Road and Highway 96 have closures in place. Road conditions information is available from CalTrans at <a href=\"https://roads.dot.ca.gov/\">https://roads.dot.ca.gov/</a></p>\n\n<p>The Pacific Crest Trail is closed between Etna Summit and the Oregon Border.</p>\n\n<p> </p>",
+    "size": "3500",
+    "lat_min": "46",
+    "lat_sec": "40.2234",
+    "urlPath": "/caknf-2023-happy-camp-complex-klamath-nf",
+    "long_min": "2",
+    "long_sec": "9.8514",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF"
   }
 ]
