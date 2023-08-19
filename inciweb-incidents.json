@@ -2835,7 +2835,7 @@
     "field_title_and_unit": "TXTXS Electric Slide Fire"
   },
   {
-    "title": "Hilltop Fire",
+    "title": "Hill Top Fire",
     "lat_deg": "32",
     "long_deg": "99",
     "field_percent_of_perimeter": "10",
@@ -2845,15 +2845,15 @@
     "created": "2023-08-18",
     "changed": "2023-08-18",
     "id": "314733",
-    "field_incident_overview": "<p>At approximately 4:30 p.m. on August 18, Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 5 miles south of Abilene, in Taylor County, Texas. The fire is burning in juniper and mesquite shrub and grass fuels.</p>\n\n<p>The Texas A&amp;M Forest Service is working in unified command with volunteer and municipal fire departments as well as with the Florida State Gold Incident Management Team.</p>",
+    "field_incident_overview": "<p>At approximately 4:30 p.m. on August 18, Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 5 miles south of Abilene, in Taylor County, Texas. The Hill Top Fire is burning in juniper and mesquite shrub as well as grass vegetation. The fire exhibited extreme fire behavior</p>\n\n<p> </p>\n\n<p>Texas A&amp;M Forest Service is working in unified command with volunteer and municipal fire departments as well as with the Florida State Gold Incident Management Team.</p>",
     "size": "400",
     "lat_min": "17",
     "lat_sec": "0",
-    "urlPath": "/txtxs-hilltop-fire",
+    "urlPath": "/txtxs-hill-top-fire",
     "long_min": "44",
     "long_sec": "40",
     "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Hilltop Fire"
+    "field_title_and_unit": "TXTXS Hill Top Fire"
   },
   {
     "title": "River Road East Fire",
