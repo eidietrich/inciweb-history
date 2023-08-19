@@ -2910,11 +2910,11 @@
     "id": "314752",
     "field_incident_overview": "<p><span><span>Shasta Trinity Forest, South fork Unit assumed the responsibility of 3-9 fire that had spotted over the forest line from the Six Rivers National Forest at 9:00pm, August 17.  The fire is spotting down Bear Canyon, and North and West of Hyampom. </span></span></p>\n\n<p><span><span>Overnight cooling conditions and the possibility of rain for allow for more overnight humidity, aiding with firefighting efforts by reducing fire activity. Winds today are expected to come from the east in the morning and shift west in the afternoon. The chance of thunderstorms remains today and may bring gusty and erratic winds near thunderstorm areas.</span></span></p>\n\n<p><span><span>The Pelletreau Fire has dozer and hose line around the perimeter of the 3.5 acres.  Firefighters are actively suppressing the fire.</span></span></p>\n\n<p><span><span>Sulphur Springs is holding at 30 acres.  Dozer and hose line is around the perimeter.  Firefighters are actively suppressing the fire.</span></span></p>\n\n<p><span><span>California Incident Management Team 11 (CA-IMT 11)  assumed control of the fire Saturday at 8am.</span></span></p>",
     "size": "450",
-    "lat_min": "33`",
-    "lat_sec": "16",
+    "lat_min": "38",
+    "lat_sec": "18",
     "urlPath": "/cashf-south-fork-complex",
-    "long_min": "10",
-    "long_sec": "59",
+    "long_min": "33",
+    "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex"
   }
