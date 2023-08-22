@@ -2817,7 +2817,7 @@
     "title": "Cearley Fire",
     "lat_deg": "33",
     "long_deg": "98",
-    "field_percent_of_perimeter": "90",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
