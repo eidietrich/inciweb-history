@@ -273,27 +273,6 @@
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response"
   },
   {
-    "title": "2023 - China Ridge Understory Burn, Groveland Ranger District  ",
-    "lat_deg": "37",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "Understory burn to reduce the buildup of flammable forest fuels, both ground fuels and ladder fuels; reduce the threat of uncontrolled, large and damaging fires; treat activity generated fuels; improve protection for life, property, and resources.",
-    "field_active": "1",
-    "created": "2023-05-19",
-    "changed": "2023-05-19",
-    "id": "312917",
-    "field_incident_overview": "<p><span><span>Located adjacent to the Groveland Ranger District office and following China Ridge south to Greeley Hill Road approximately 4 miles NE of Greeley Hill.  The majority of the underburn is adjacent to Forest road Smith Station Rd, Greeley Hill Rd and FR 2S05, at specific geographic location [sections 26, 27, 33, 34, 35 range 17E, township 1S; sections 2, 3, 4, 5, 9, 10, 11, 12, 13, 14, 15, 16, 27 range 17E, township 2S. Smoke may be visible from Smith Station Road, and Highway 120 with some down canyon drift smoke visible in the evening and early morning. </span></span></p>",
-    "size": "5000",
-    "lat_min": "47",
-    "lat_sec": "205",
-    "urlPath": "/castf-2023-china-ridge-understory-burn-groveland-ranger-district",
-    "long_min": "04",
-    "long_sec": "805",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASTF 2023 China Ridge Understory Burn Groveland Ranger District "
-  },
-  {
     "title": "2023 - Strawberry Prescribed Burn, Summit Ranger District, Stanislaus National Forest",
     "lat_deg": "38",
     "long_deg": "119",
