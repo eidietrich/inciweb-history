@@ -1837,7 +1837,7 @@
     "created": "2023-08-03",
     "changed": "2023-08-22",
     "id": "314006",
-    "field_incident_overview": "<p>The Ridge Creek Fire was reported on 8/3 at 2:30 PM, burning in the Ridge Creek drainage, approximately three miles east of the northern tip of Hayden Lake.</p>\n\n<p>On Tuesday 0822/23, the Southern Area Gold Complex Incident Management Team, assumed command of the fire. Investigators have determined that the fire was human caused. The Kootenai County Office of Emergency Management has issued an alert to inform residents of the identification of <strong>READY, SET, GO</strong> areas in the vicinity of the Bunco Road and Hayden Lake. In this status, residents are cautioned to heighten their awareness of fire information, be familiar with evacuation procedures should it become necessary, and consistently adhere to good fire prevention measures.</p>\n\n<p>Fire crews and heavy equipment operators have made substantial progress in building and reinforcing containment lines which will be reflected in future estimates of fire containment. The Ridge Creek Fire has a substantial fleet of aircraft available to support ground operations. Expect to see both fixed-wing aircraft and helicopters working, particularly on the northeast area of the fire.</p>\n\n<p>Fire managers and Kootenai County Emergency Management continue to assess the situation and will update status as warranted.  Follow Kootenai County Emergency Management Facebook Page for updates and sign up for automated Kootenai Alert for emergency alerts.  <a href=\"https://www.kcsheriff.com/186/Emergency-Management\">https://www.kcsheriff.com/186/Emergency-Management</a></p>",
+    "field_incident_overview": "<p>The Ridge Creek Fire was reported on 8/3 at 2:30 PM, burning in the Ridge Creek drainage, approximately three miles east of the northern tip of Hayden Lake.</p>\n\n<p>On Tuesday 08/22/23, the Southern Area Gold Complex Incident Management Team, assumed command of the fire.</p>\n\n<p>Investigators have determined that the fire was human caused.</p>\n\n<p>The Kootenai County Office of Emergency Management has issued an alert to inform residents of the identification of <strong>READY, SET, GO</strong> areas in the vicinity of the Bunco Road and Hayden Lake. In this status, residents are cautioned to heighten their awareness of fire information, be familiar with evacuation procedures should it become necessary, and consistently adhere to good fire prevention measures.</p>\n\n<p>Fire crews and heavy equipment operators have made substantial progress in building and reinforcing containment lines which will be reflected in future estimates of fire containment. The Ridge Creek Fire has a substantial fleet of aircraft available to support ground operations. Expect to see both fixed-wing aircraft and helicopters working, particularly on the northeast area of the fire.</p>\n\n<p>Fire managers and Kootenai County Emergency Management continue to assess the situation and will update status as warranted.  Follow Kootenai County Emergency Management Facebook Page for updates and sign up for automated Kootenai Alert for emergency alerts.  <a href=\"https://www.kcsheriff.com/186/Emergency-Management\">https://www.kcsheriff.com/186/Emergency-Management</a></p>",
     "size": "4293",
     "lat_min": "49",
     "lat_sec": "24.6",
@@ -2649,7 +2649,7 @@
     "title": "River Road East Fire",
     "lat_deg": "47",
     "long_deg": "114",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "2",
     "type": "Wildfire",
     "field_incident_description": "6 miles east of Plains, Montana",
     "field_active": "1",
@@ -2657,7 +2657,7 @@
     "changed": "2023-08-22",
     "id": "314734",
     "field_incident_overview": "<p>The River Road East Fire was reported on August 18 at 1:30 PM, on the Plains Ranger District of the Lolo National Forest, 6 miles east of Plains, MT. High winds caused rapid spread and extreme fire behavior. Fire activity decreased starting on August 21 due to rain that fell across the fire area. Rain will not put the fire out, but will provide firefighters with better opportunities to create direct control firelines. The cause of the fire is currently unknown and under investigation.</p>\n\n<p><strong>Evacuations</strong> are issued by Sanders County Sheriff's Office for Paradise, MT and surrounding areas. Follow <a href=\"https://www.facebook.com/profile.php?id=100064593409765\">Sanders County Montana Sheriff's Office Facebook Page</a> for updates and sign up for automated emergency alerts through <a href=\"https://hyper-reach.com/mtsanderssignup.html. \">https://hyper-</a><a href=\"https://hyper-reach.com/mtsanderssignup.html\">reach.com/mtsanderssignup.html</a><a href=\"https://hyper-reach.com/mtsanderssignup.html. \">. </a></p>\n\n<p>Additional official fire information can be found at the <a href=\"https://www.facebook.com/profile.php?id=61550604712286\">River Road East Facebook page.</a> </p>\n\n<p>For current road conditions and closures please visit the <a href=\"https://www.511mt.net/?fbclid=IwAR0eksmdDiO4dHGRiIE8G43bZNH8edXtOUGdWsYJA48UyuAW7ieAEKG8qgU#zoom=8.793127369668113&amp;lon=-114.39873729341423&amp;lat=47.411646638424685&amp;events&amp;road-cond&amp;rwis\"><strong>Montana Department of Transportation website</strong></a>. The fire has burned on both sides of Highway 200 and drivers must be alert for firefighters and emergency vehicles working along the road. Do not stop along the highway for the safety of firefighters and the public. </p>\n\n<p>An <strong>Emergency shelter</strong>  has been established by t<span><span><span>he Montana Red Cross at the Church on the Move, 300 Clayton St., in Plains, MT for displaced residents. All Red Cross services are free. Evacuated livestock can go to the Fairgrounds.</span></span></span></p>\n\n<p>Current smoke conditions can be seen by visiting the <a href=\"https://fire.airnow.gov/ \">Air now website</a> and<a href=\"https://deq.mt.gov/air/Programs/airquality\"> </a><a href=\"https://www.mtfireinfo.org/pages/07fccd5b412f46f4806816de3384d643\">Montana Air Quality websites</a><a href=\"https://deq.mt.gov/air/Programs/airquality\">.</a></p>\n\n<p>Multiple agencies including the Forest Service, Montana Montana Department of Natural Resources and Conservation, Confederated Salish and Kootenai Tribes and other partners are on scene.  Northern Rockies Complex Incident Management Team 1 took command of the fire at 6 pm on Saturday, August 19.  </p>",
-    "size": "16790",
+    "size": "16772",
     "lat_min": "22",
     "lat_sec": "54",
     "urlPath": "/mtlnf-river-road-east-fire",
@@ -2835,10 +2835,10 @@
     "field_title_and_unit": "TXTXS Cearley Fire"
   },
   {
-    "title": "Ridge Oak Fire",
+    "title": "Rigid Oak Fire",
     "lat_deg": "30",
     "long_deg": "98",
-    "field_percent_of_perimeter": "",
+    "field_percent_of_perimeter": "50",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -2849,10 +2849,10 @@
     "size": "100",
     "lat_min": "53",
     "lat_sec": "56.614",
-    "urlPath": "/txtxs-ridge-oak-fire",
+    "urlPath": "/txtxs-rigid-oak-fire",
     "long_min": "27",
     "long_sec": "24.002",
     "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Ridge Oak Fire"
+    "field_title_and_unit": "TXTXS Rigid Oak Fire"
   }
 ]
