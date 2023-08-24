@@ -1940,9 +1940,9 @@
     "field_incident_description": "",
     "field_active": "1",
     "created": "2023-08-05",
-    "changed": "2023-08-21",
+    "changed": "2023-08-24",
     "id": "314116",
-    "field_incident_overview": "<p>The Stadium Creek Fire was reported during the afternoon of Sunday, July 30th. The fire is located within the Bob Marshall Wilderness on the Spotted Bear Ranger District. <span><span>An IAA (Incident Awareness and Assessment) flight mapped the fire at 95 acres as of the morning of 8/15/2023. The fire is </span></span>established on both sides of the ridge near the confluence of Stadium and Gorge Creeks.</p>\n\n<p><span><span>The Spotted Bear Ranger District will continue to monitor the fire and implement point protection strategies to any values at risk as necessary. Firefighter safety will remain the top priority. </span></span><span><span>Aerial and mapping resources are currently prioritizing larger and more complex fires in the area. Information will be shared as it becomes available. </span></span></p>\n\n<p><em><strong><span><span>An area and trail closure order is in effect around the Stadium Creek Fire. There are also multiple closure orders that affect the non-Wilderness portions of the Spotted Bear Ranger District, the Hungry Horse Ranger District, and Forest Service Roads 38 and 895. Stage II Fire restrictions are in effect for the Flathead National Forest and the Bob Marshall Wilderness.</span></span></strong></em></p>",
+    "field_incident_overview": "<p>The Stadium Creek Fire was reported during the afternoon of Sunday, July 30th. The fire is located within the Bob Marshall Wilderness on the Spotted Bear Ranger District. <span><span>An IAA (Incident Awareness and Assessment) flight mapped the fire at 544 acres as of 8/19/2023. The fire is </span></span>established on both sides of the ridge near the confluence of Stadium and Gorge Creeks, and has spotted across the Stadium Creek drainage.</p>\n\n<p><span><span>The Spotted Bear Ranger District will continue to monitor the fire and implement point protection strategies to any values at risk as necessary. Firefighter safety will remain the top priority. </span></span><span><span>Aerial and mapping resources are currently prioritizing larger and more complex fires in the area. Information will be shared as it becomes available. </span></span></p>\n\n<p><em><strong><span><span>An area and trail closure order is in effect around the Stadium Creek Fire. There are also multiple closure orders that affect the non-Wilderness portions of the Spotted Bear Ranger District, the Hungry Horse Ranger District, and Forest Service Roads 38 and 895. Stage II Fire restrictions are in effect for the Flathead National Forest and the Bob Marshall Wilderness.</span></span></strong></em></p>",
     "size": "544",
     "lat_min": "44",
     "lat_sec": "32",
@@ -2814,7 +2814,7 @@
     "field_title_and_unit": "TXTXS Cearley Fire"
   },
   {
-    "title": "McKinney Fire ",
+    "title": "McKinney Fire",
     "lat_deg": "35",
     "long_deg": "106",
     "field_percent_of_perimeter": "10",
@@ -2832,6 +2832,6 @@
     "long_min": "40",
     "long_sec": "8.6412",
     "measurement_type": "Acres",
-    "field_title_and_unit": "NMSNF McKinney Fire "
+    "field_title_and_unit": "NMSNF McKinney Fire"
   }
 ]
