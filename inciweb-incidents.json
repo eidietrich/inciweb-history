@@ -2404,7 +2404,7 @@
     "created": "2023-08-16",
     "changed": "2023-08-24",
     "id": "314625",
-    "field_incident_overview": "<p>The Six Rivers National Forest (SRF) 2023 Lightning Complex includes the <span><span><span><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><span>Lone Pine, Pea</span></span><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">rch, Mosquito, Blue Creek, Blue Creek 2, Bluff #1, Let-er-buck in addition to Redwood National and State Parks wildfires; Lost, Devil and Glenn Fires.</span></span></span></span></p>\n\n<p><span><span><span><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">On the evening of August 15, the Six Rivers National Forest received 150 lighting strikes across the forest spanning almost 1 million acres. After this significant lightning activity there are 27 confirmed fires on the forest, including the 7 fires in this complex. </span></span></span></span></p>",
+    "field_incident_overview": "<p>The Six Rivers National Forest (SRF) 2023 Lightning Complex includes the <span><span><span><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><span>Lone Pine, Pea</span></span><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">rch, Mosquito, Blue Creek, Blue Creek 2, Bluff #1, Let-er-buck, Hancock, Iron in addition to Redwood National and State Parks wildfires; Lost, Devil and Glenn Fires.</span></span></span></span></p>\n\n<p><span><span><span><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">On the evening of August 15, the Six Rivers National Forest received 150 lighting strikes across the forest spanning almost 1 million acres. After this significant lightning activity there are 27 confirmed fires on the forest, including the 7 fires in this complex. </span></span></span></span></p>",
     "size": "5488",
     "lat_min": "01",
     "lat_sec": "02.9",
@@ -2814,7 +2814,7 @@
     "field_title_and_unit": "TXTXS Cearley Fire"
   },
   {
-    "title": "McKinney Fire",
+    "title": "McKinney Fire ",
     "lat_deg": "35",
     "long_deg": "106",
     "field_percent_of_perimeter": "10",
@@ -2832,6 +2832,6 @@
     "long_min": "40",
     "long_sec": "8.6412",
     "measurement_type": "Acres",
-    "field_title_and_unit": "NMSNF McKinney Fire"
+    "field_title_and_unit": "NMSNF McKinney Fire "
   }
 ]
