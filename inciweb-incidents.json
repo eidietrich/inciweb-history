@@ -2670,7 +2670,7 @@
     "title": "Crater Creek Fire",
     "lat_deg": "48",
     "long_deg": "119",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "5",
     "type": "Wildfire",
     "field_incident_description": "Weather: Forecast is based on an elevation range of 6000 to 7500 feet. The high today is 56 degrees with a minimum humidity of 53 percent. Winds will be dominated by the terrain and have the potential to gust up to 15 mph on ridgetops. Wind direction will dominantly be to the south, becoming southwest in the evening.<br />\r\n<br />\r\n",
     "field_active": "1",
