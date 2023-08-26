@@ -2900,7 +2900,7 @@
   {
     "title": "Camp Creek Fire",
     "lat_deg": "45",
-    "long_deg": "-122",
+    "long_deg": "122",
     "field_percent_of_perimeter": "0",
     "type": "Wildfire",
     "field_incident_description": "",
