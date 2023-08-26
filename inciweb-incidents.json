@@ -2896,5 +2896,26 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire"
+  },
+  {
+    "title": "Camp Creek Fire",
+    "lat_deg": "45",
+    "long_deg": "-122",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-26",
+    "changed": "2023-08-26",
+    "id": "315095",
+    "field_incident_overview": "<p><span><span><span><span>Following lightning across Oregon and Washington, the Camp Creek Fire started late on August 24 in the Bull Run Watershed, near the junction of Forest Road 1210 and Forest Road 12.  Firefighters responded quickly and have been expanding ground and air resources.  Bull Run Watershed is closed to the public, but is the primary source of drinking water for about 1 million people.</span></span></span></span></p>",
+    "size": "225",
+    "lat_min": "27",
+    "lat_sec": "23",
+    "urlPath": "/ormhf-camp-creek-fire",
+    "long_min": "04",
+    "long_sec": "56",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "ORMHF Camp Creek Fire"
   }
 ]
