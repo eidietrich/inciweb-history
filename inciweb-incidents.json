@@ -2712,7 +2712,7 @@
     "title": "Oregon Fire",
     "lat_deg": "48",
     "long_deg": "117",
-    "field_percent_of_perimeter": "44",
+    "field_percent_of_perimeter": "41",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
