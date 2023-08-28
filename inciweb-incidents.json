@@ -2861,7 +2861,7 @@
     "long_deg": "122",
     "field_percent_of_perimeter": "0",
     "type": "Wildfire",
-    "field_incident_description": "",
+    "field_incident_description": "10 miles east of Sandy, OR",
     "field_active": "1",
     "created": "2023-08-26",
     "changed": "2023-08-28",
@@ -2917,5 +2917,26 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Loop Fire"
+  },
+  {
+    "title": "Horse Creek Fire",
+    "lat_deg": "44",
+    "long_deg": "122",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-28",
+    "changed": "2023-08-28",
+    "id": "315183",
+    "field_incident_overview": "<p>The Horse Creek Fire was started by lightning the 25th of August about one mile south of McKenzie Bridge, OR. It is burning in timber, timber litter, and brush. Management objective is full suppression.</p>\n\n<p> </p>\n\n<p>PNW Team 2 took command of the Horse Creek fire on the 26th of August. </p>",
+    "size": "616",
+    "lat_min": "9",
+    "lat_sec": "42",
+    "urlPath": "/orwif-horse-creek-fire",
+    "long_min": "8",
+    "long_sec": "35",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "ORWIF Horse Creek Fire"
   }
 ]
