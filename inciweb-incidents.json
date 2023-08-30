@@ -2933,10 +2933,10 @@
     "size": "250",
     "lat_min": "40",
     "lat_sec": "1",
-    "urlPath": "/txwas-gibbs-forest-fire",
+    "urlPath": "/txcas-gibbs-forest-fire",
     "long_min": "45",
     "long_sec": "4",
     "measurement_type": "Acres",
-    "field_title_and_unit": "TXWAS Gibbs Forest Fire"
+    "field_title_and_unit": "TXCAS Gibbs Forest Fire"
   }
 ]
