@@ -2962,7 +2962,7 @@
   },
   {
     "title": "Marmont Road Fire",
-    "lat_deg": "45°",
+    "lat_deg": "45",
     "long_deg": "122",
     "field_percent_of_perimeter": "100",
     "type": "Wildfire",
@@ -2974,10 +2974,10 @@
     "field_incident_overview": "<p><span><span><span><span>Started on 3/18/2023</span></span></span></span></p>\n\n<p><span><span><span><span>Put out on 3/19/2023</span></span></span></span></p>\n\n<p><span><span><span><span>Size: 20 acres</span></span></span></span></p>",
     "size": "20",
     "lat_min": "23",
-    "lat_sec": "2.0    ",
+    "lat_sec": "19.7",
     "urlPath": "/or59s-marmont-road-fire",
     "long_min": "2",
-    "long_sec": "55.8",
+    "long_sec": "35.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "OR59S Marmont Road Fire"
   }
