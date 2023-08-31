@@ -3024,7 +3024,7 @@
     "field_title_and_unit": "ORUPF Brice Creek Fire"
   },
   {
-    "title": "Dinner",
+    "title": "Dinner Fire",
     "lat_deg": "43",
     "long_deg": "122",
     "field_percent_of_perimeter": "0",
@@ -3034,15 +3034,15 @@
     "created": "2023-08-31",
     "changed": "2023-08-31",
     "id": "315318",
-    "field_incident_overview": "<p>The lightning that passed through Oregon the night of August 24, left a mark on the Umpqua National Forest. Currently there are eleven fires, and two smoke reports with resources being assigned as they become available. The region is feeling a shortage of resources, and these new fires are being staffed based on the values that are at risk and the potential for growth.</p>\n\n<p>The Dinner Fire is located near Dinner Creek and Hollow Meadows Road.</p>",
+    "field_incident_overview": "<p>The lightning that passed through Oregon the night of August 24, left a mark on the Umpqua National Forest. The Pacific Northwest Region is feeling a shortage of resources, and these new fires are being staffed based on the values that are at risk and the potential for growth.</p>\n\n<p>Northwest Incident Management Team 12 is managing three of these fires including the Brice Creek, Dinner, and Grizzly Fires.</p>\n\n<p>The Dinner Fire is located near Dinner Creek and Hollow Meadows Road.</p>",
     "size": "329",
     "lat_min": "42",
     "lat_sec": "14.4",
-    "urlPath": "/orupf-dinner",
+    "urlPath": "/orupf-dinner-fire",
     "long_min": "41",
     "long_sec": "2.3994",
     "measurement_type": "Acres",
-    "field_title_and_unit": "ORUPF Dinner"
+    "field_title_and_unit": "ORUPF Dinner Fire"
   },
   {
     "title": "Grizzly Fire",
@@ -3056,7 +3056,7 @@
     "changed": "2023-08-31",
     "id": "315319",
     "field_incident_overview": "<p>On the evening of August 24th, lightning passed through the Umpqua National Forest.  Approximately a dozen fires were reported, three of which (Brice Creek, Dinner, Grizzly) are currently being managed by Northwest Incident Management Team 12.  </p>\n\n<p> </p>",
-    "size": "78",
+    "size": "92",
     "lat_min": "35",
     "lat_sec": "52.7994",
     "urlPath": "/orupf-grizzly-fire",
