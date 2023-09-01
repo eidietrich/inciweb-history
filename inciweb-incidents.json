@@ -3127,26 +3127,5 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire"
-  },
-  {
-    "title": "Lions Camp Road Fire",
-    "lat_deg": "31",
-    "long_deg": "-93",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-09-01",
-    "changed": "2023-09-01",
-    "id": "315359",
-    "field_incident_overview": "",
-    "size": "",
-    "lat_min": "12",
-    "lat_sec": "14.4",
-    "urlPath": "/lalas-lions-camp-road-fire",
-    "long_min": "20",
-    "long_sec": "51.1",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "LALAS Lions Camp Road Fire"
   }
 ]
