@@ -3148,5 +3148,26 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire"
+  },
+  {
+    "title": "Elizabeth Fire",
+    "lat_deg": "30",
+    "long_deg": "92",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-09-01",
+    "changed": "2023-09-01",
+    "id": "315372",
+    "field_incident_overview": "",
+    "size": "",
+    "lat_min": "55",
+    "lat_sec": "15",
+    "urlPath": "/lalas-elizabeth-fire",
+    "long_min": "48",
+    "long_sec": "31",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "LALAS Elizabeth Fire"
   }
 ]
