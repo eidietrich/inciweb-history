@@ -2688,6 +2688,27 @@
     "field_title_and_unit": "AZTNF Valentine Fire"
   },
   {
+    "title": "Shelby 3540",
+    "lat_deg": "31",
+    "long_deg": "94",
+    "field_percent_of_perimeter": "100",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-24",
+    "changed": "2023-09-02",
+    "id": "315010",
+    "field_incident_overview": "<p>Texas A&amp;M Forest Service received a request for assistance from Center Police Department for a fire at CR 1024 and HWY 96 south of Center, Texas on August 24, at 4:25 pm. </p>\n\n<p>Local firefighters were joined by personnel, heavy equipment, and aviation resources from Texas A&amp;M Forest Service during the initial attack phase. The fire displayed extreme behavior with crown runs and spotting in pine timber. Approximately 15 homes were considered immediately threatened and were evacuated. Texas Department of Emergency Management assisted local law enforcement with evacuations. All evacuations have since been lifted   </p>\n\n<p>The area has been, and will continue to experience excessive heat and low relative humidity, which has lead to record fuel dryness across the region.</p>\n\n<p>State resources have been released and, pending any significant change in fire activity, this incident will no longer be updated.</p>",
+    "size": "70",
+    "lat_min": "43",
+    "lat_sec": "50.427",
+    "urlPath": "/txtxs-shelby-3540",
+    "long_min": "12",
+    "long_sec": "12.981",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Shelby 3540"
+  },
+  {
     "title": "Tiger Island Fire",
     "lat_deg": "30.",
     "long_deg": "93",
