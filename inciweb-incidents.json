@@ -1554,7 +1554,7 @@
     "field_title_and_unit": "MTFHA Big Knife"
   },
   {
-    "title": "East Fork Fire",
+    "title": "East Fork Fire September 3",
     "lat_deg": "48",
     "long_deg": "114",
     "field_percent_of_perimeter": "35",
@@ -1562,17 +1562,17 @@
     "field_incident_description": "The East Fork Fire originated on the Fortine Ranger District of the Kootenai National Forest. Currently, the fire is being managed by the Northern Rockies Complex Incident Management Team 6, Incident Commander Paul Roose.",
     "field_active": "1",
     "created": "2023-08-02",
-    "changed": "2023-09-02",
+    "changed": "2023-09-03",
     "id": "313924",
     "field_incident_overview": "<p>The East Fork Fire began on July 30, 2023 from a lightning storm. The fire is located approximately 12 miles south of Trego, Montana. It is burning on the Ksanka/Fortine Ranger District of the Kootenai National Forest. On August 18th, the fire also began burning into the Talley Lake Ranger District of the Flathead National Forest. The Flathead National Forest and Kootenai National Forest are the two main cooperating agencies on the East Fork Fire.  </p>\n\n<p> </p>",
     "size": "5162",
     "lat_min": "31",
     "lat_sec": "47.2188",
-    "urlPath": "/mtknf-east-fork-fire",
+    "urlPath": "/mtknf-east-fork-fire-september-3",
     "long_min": "51",
     "long_sec": "17.1",
     "measurement_type": "Acres",
-    "field_title_and_unit": "MTKNF East Fork Fire"
+    "field_title_and_unit": "MTKNF East Fork Fire September 3"
   },
   {
     "title": "Rogers Pass Fire",
@@ -2733,7 +2733,7 @@
     "title": "Tyee Ridge Complex",
     "lat_deg": "43",
     "long_deg": "123",
-    "field_percent_of_perimeter": "15",
+    "field_percent_of_perimeter": "21",
     "type": "Wildfire",
     "field_incident_description": "Complex: Multiple Fires",
     "field_active": "1",
