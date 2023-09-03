@@ -3111,7 +3111,7 @@
     "title": "Lions Camp Road Fire",
     "lat_deg": "31",
     "long_deg": "93",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "10",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
