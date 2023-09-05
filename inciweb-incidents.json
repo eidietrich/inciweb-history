@@ -2502,7 +2502,7 @@
     "title": "South Fork Complex",
     "lat_deg": "40",
     "long_deg": "123",
-    "field_percent_of_perimeter": "52",
+    "field_percent_of_perimeter": "62",
     "type": "Wildfire",
     "field_incident_description": "This is a full suppression wildfire.",
     "field_active": "1",
