@@ -2751,27 +2751,6 @@
     "field_title_and_unit": "OR75S Tyee Ridge Complex"
   },
   {
-    "title": "Loop Fire",
-    "lat_deg": "33",
-    "long_deg": "97",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-08-27",
-    "changed": "2023-08-30",
-    "id": "315139",
-    "field_incident_overview": "<p>At approximately 5:58 p.m. on Aug. 26, Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 30 miles east of Wichita Falls, in Clay County, Texas. The Loop Fire is burning in juniper and mesquite shrub as well as grass vegetation.</p>\n\n<p>County and local firefighters have been joined by personnel, heavy equipment, fire engines and aviation resources from Texas A&amp;M Forest Service and Texas Intrastate Fire Mutual Aid System. Aircraft, including large airtankers, single engine airtankers and fire bosses, made beneficial drops well into the evening hours that helped to slow forward progression of the fire. Crews focused on cooling the flanks of the fire and slowing progression at the head utilizing aircraft heavily to assist.</p>\n\n<p>At 10:40 PM, fire managers reported the fire as looking good, dozers were making good progress and were continuing. The right flank's forward progression was still not stopped but close. Locals had done a few burnout operations that were successful.</p>\n\n<p><br />\nFire did not jump 82 as previously noted.</p>",
-    "size": "2230",
-    "lat_min": "49",
-    "lat_sec": "34",
-    "urlPath": "/txtxs-loop-fire",
-    "long_min": "59",
-    "long_sec": "23",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Loop Fire"
-  },
-  {
     "title": "2023 Chilcoot Fire UNF",
     "lat_deg": "43",
     "long_deg": "122",
