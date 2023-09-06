@@ -2184,27 +2184,6 @@
     "field_title_and_unit": "ORUMF Ben Harrison Fire"
   },
   {
-    "title": "2023 Klamath National Forest Lightning Fires",
-    "lat_deg": "41",
-    "long_deg": "-123",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-08-16",
-    "changed": "2023-09-01",
-    "id": "314599",
-    "field_incident_overview": "<h2><span><span><span><strong><span><span>Overview of Fire Activity on the Klamath National Forest</span></span></strong></span></span></span></h2>\n\n<p><span><span><span><strong><span>Happy Camp Complex: </span></strong><span>The Happy Camp Complex is being managed by California Incident Management Team 5 on the Klamath National Forest, and includes the Block, Den, Elliot, Head, Lake, Scott, Townsend, and Ufish Fires. </span>The Hancock Fire, located in the Marble Mountain Wilderness, near Bear Skull Camp northwest of Hancock Lake, has been added to the Happy Camp Complex. Fire managers are assessing that fire and planning suppression efforts. For information on the Happy Camp Complex visit: <span>Visit Inciweb for additional information on these fires:</span> <span><a href=\"https://inciweb.nwcg.gov/incident-information/caknf-2023-happy-camp-complex-klamath-nf\">https://inciweb.nwcg.gov/incident-information/caknf-2023-happy-camp-complex-klamath-nf</a>  </span></span></span></span></p>\n\n<p><span><span><span><strong><span>Klamath National Forest Lightning Fires Not Assigned to a Team: </span></strong>Over the course of the last three weeks, Klamath National Forest fire resources have responded to over 20 additional fires not associated with the Happy Camp Complex. Of those fires, only the most recently reported Kings Fire is uncontained. The Kings Fire is 3.5 acres near Kings Castle in the Marble Mountain Wilderness. Smokejumpers are on scene constructing fireline around the perimeter of the fire, which received heavy precipitation today. </span></span></span></p>\n\n<p> </p>\n\n<p> </p>",
-    "size": "",
-    "lat_min": "44",
-    "lat_sec": "27",
-    "urlPath": "/caknf-2023-klamath-national-forest-lightning-fires",
-    "long_min": "",
-    "long_sec": "",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAKNF 2023 Klamath National Forest Lightning Fires"
-  },
-  {
     "title": "2023 - York Fire Burned Area Emergency Response (BAER)",
     "lat_deg": "35",
     "long_deg": "115",
