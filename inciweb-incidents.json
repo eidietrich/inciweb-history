@@ -2793,27 +2793,6 @@
     "field_title_and_unit": "CAKNP Redwood Fire"
   },
   {
-    "title": "Gibbs Forest Fire",
-    "lat_deg": "30",
-    "long_deg": "95",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "2023-08-29",
-    "changed": "2023-09-01",
-    "id": "315232",
-    "field_incident_overview": "<p>At 3:30 p.m. on August 29, Walker County requested assistance from Texas A&amp;M Forest Service for a fire at the corner of Hwy 30 and Pool Road. A moderate smoke plume was observed as well as moderate to high fire behavior. Air resources as well as ground resources including dozers responded. There are no structures or roads threatened and there are no evacuations. Resources are anticipated to remain on the fire until early morning hours. Resources will return to the fire Wednesday, August 30.</p>",
-    "size": "348",
-    "lat_min": "40",
-    "lat_sec": "2",
-    "urlPath": "/txtxs-gibbs-forest-fire",
-    "long_min": "45",
-    "long_sec": "4",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Gibbs Forest Fire"
-  },
-  {
     "title": "Hurricane Fire",
     "lat_deg": "47",
     "long_deg": "123",
