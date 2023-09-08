@@ -1877,7 +1877,7 @@
     "field_incident_description": "",
     "field_active": "1",
     "created": "2023-08-07",
-    "changed": "2023-09-01",
+    "changed": "2023-09-08",
     "id": "314228",
     "field_incident_overview": "<p>On August 1, the Rocky Mountain Ranger District trail crew reported a fire near Sidney Creek approximately 7-8 miles south of Highway 2 and 2.5 miles west from the Badger Cabin admin site in Pondera County. Two fire footprints near the fire from 2007 and 2017 provide opportunities for fire management since fuels in these footprints are less dense and suppression actions are most likely to be effective.</p>",
     "size": "228",
@@ -3066,7 +3066,7 @@
     "field_title_and_unit": "TXTXS Thut Hill Fire"
   },
   {
-    "title": "El Valle",
+    "title": "El Valle Fire",
     "lat_deg": "36",
     "long_deg": "105",
     "field_percent_of_perimeter": "0",
@@ -3078,12 +3078,33 @@
     "id": "315696",
     "field_incident_overview": "<p>Carson National Forest fire crews and local fire departments are taking suppression actions on the 100-acre El Valle Fire on the Carson National Forest. It is located in the vicinity of El Valle and Las Trampas, NM.</p>",
     "size": "100",
-    "lat_min": "26",
-    "lat_sec": "36",
-    "urlPath": "/nmcaf-el-valle",
-    "long_min": "7",
-    "long_sec": "2",
+    "lat_min": "6",
+    "lat_sec": "59",
+    "urlPath": "/nmcaf-el-valle-fire",
+    "long_min": "44",
+    "long_sec": "10",
     "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF El Valle"
+    "field_title_and_unit": "NMCAF El Valle Fire"
+  },
+  {
+    "title": "Cowlan Fire",
+    "lat_deg": "33",
+    "long_deg": "99",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-09-08",
+    "changed": "2023-09-08",
+    "id": "315697",
+    "field_incident_overview": "",
+    "size": "699",
+    "lat_min": "37",
+    "lat_sec": "8",
+    "urlPath": "/txtxs-cowlan-fire",
+    "long_min": "4",
+    "long_sec": "5",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Cowlan Fire"
   }
 ]
