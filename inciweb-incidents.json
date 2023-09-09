@@ -2381,7 +2381,7 @@
     "field_incident_description": "",
     "field_active": "1",
     "created": "2023-08-17",
-    "changed": "2023-09-08",
+    "changed": "2023-09-09",
     "id": "314686",
     "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-news/caknf-2023-happy-camp-complex-klamath-nf\">News</a> | <a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/caknf-2023-happy-camp-complex-klamath-nf\">Photos</a> | <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/caknf-2023-happy-camp-complex-klamath-nf\">Maps</a> | <a href=\"https://inciweb.wildfire.gov/incident-closures/caknf-2023-happy-camp-complex-klamath-nf\">Closures</a> | <a href=\"mailto:2023.happycampcomplex@firenet.gov\">Email</a>  2023.HappyCampComplex@firenet.gov</p>\n\n<p>A series of thunderstorms moved across the Klamath National Forest the night of Monday, August 14, 2023, bringing abundant lightning and igniting roughly 20 fires over the western side of the forest. Only scattered precipitation was received with these storms.</p>\n\n<p>The most active of the resulting fires was the Head Fire, burning at the confluence of the Klamath and Scott rivers. The fire was fanned by strong winds from thunderstorms that developed in the area and burned actively throughout Tuesday afternoon, growing to 3,500 acres by nightfall. </p>\n\n<p>Several of the fires are being managed together as the Happy Camp Complex. The Northern Rockies Complex Incident Management Team 2, under the command of Incident Commander Scott Schuster was assigned to the complex and took over management as of 6:00 am on Thursday, August08, 2023. CAL FIRE Siskiyou Unit joined Team 5 in unified command at 6:00 am on Saturday, August 19, 2023 and remained with the complex through September 2, 2023 at noon.</p>\n\n<p>View current Siskiyou County evacuation warnings and orders on the evacuation map at <a href=\"https://protect.genasys.com/search\">https://protect.genasys.com/search</a></p>\n\n<p>View current road conditions for state roads from CalTrans at <a href=\"https://roads.dot.ca.gov/\">https://roads.dot.ca.gov/</a>  <span><span><span><span>County road closures are listed on the Siskiyou County Public Works website: </span><a href=\"https://www.co.siskiyou.ca.us/publicworks/page/closures-and-delays\"><span>https://www.co.siskiyou.ca.us/publicworks/page/closures-and-delays</span></a><span>. </span></span></span></span> </p>\n\n<p><span><span><span><span><span><span>The Pacific Crest Trail was closed between the Shelly Fork Junction and Seiad as part of an area closure under Forest Order 05-05-23-07. As of September 2, 2023, a reduction in the closure area was implemented with Forest Order 05-05-23-08 and the PCT became available for hikers.</span></span></span></span></span></span></p>\n\n<p>There are forest closures for areas around the fires and fire restrictions in the Klamath National Forest. For current closure orders and maps, go to <a href=\"https://www.fs.usda.gov/alerts/klamath/alerts-notices\">https://www.fs.usda.gov/alerts/klamath/alerts-notices</a></p>\n\n<p> </p>",
     "size": "29042",
@@ -2481,12 +2481,12 @@
     "title": "Oregon Fire",
     "lat_deg": "48",
     "long_deg": "117",
-    "field_percent_of_perimeter": "93",
+    "field_percent_of_perimeter": "94",
     "type": "Wildfire",
     "field_incident_description": " With the dry weather taking hold over the fire area after the recent moisture, there is the possibility for isolated sources of heat to pop up. Crews will continue to patrol the area, both on road and by foot, to find and mop-up any of those isolated heat sources. Those residing in and around the fire area will also start to see salvage logging and post fire clean up, by landowners, within in the fire perimeter. These activities will likely cause clouds of dust and ash that resemble smoke. With crews in the area for the foreseeable future, they will be able to verify if any reports are false alarms or cause for response. ",
     "field_active": "1",
     "created": "2023-08-20",
-    "changed": "2023-09-08",
+    "changed": "2023-09-09",
     "id": "314816",
     "field_incident_overview": "<p>The Oregon Fire is located approximately 4 miles northeast of Elk, WA. This fire was reported at approximately 1600hrs on Friday, August 18, 2023. </p>\n\n<p><span><span><span>Northeast WA Incident Management Team 3 is in command of the Oregon and Gray fires. The Oregon Fire continues to remain within the current footprint with no further growth, the strategy remains full suppression and work is progressing as expected. Northeast WA Incident Management Team 3 will continue their efforts through the 11th before turning the fire back to local resources next week.  </span></span></span></p>",
     "size": "10817",
@@ -3087,7 +3087,7 @@
     "field_title_and_unit": "NMCAF El Valle Fire"
   },
   {
-    "title": "Cowlan Fire",
+    "title": "Cowan Fire",
     "lat_deg": "33",
     "long_deg": "99",
     "field_percent_of_perimeter": "45",
@@ -3097,14 +3097,14 @@
     "created": "2023-09-08",
     "changed": "2023-09-09",
     "id": "315697",
-    "field_incident_overview": "<p>At approximately 4:00 p.m. on Friday Sept. 8, Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 10 miles East of the town of Seymore, in Baylor County, Texas. The Cowlan Fire is burning in juniper and mesquite shrub as well as grass vegetation. The fire exhibited extreme fire behavior making several runs with the column plume dominated.</p>\n\n<p>Texas A&amp;M Forest Service and Texas Intrastate Fire Mutual Aid System are working in unified command with local responders. Aircraft have assisted crews on the ground by making strategic drops of retardant and water to slow the flanks and head of the fire. Crews are working hard to construct containment line as several spotted thunderstorms in the area are creating sporadic wind shifts.</p>",
+    "field_incident_overview": "<p>At approximately 4:00 p.m. on Friday Sept. 8, Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 10 miles East of the town of Seymore, in Baylor County, Texas. The Cowlan Fire is burning in juniper and mesquite shrub as well as grass vegetation. The fire exhibited extreme fire behavior making several runs with the column plume dominated.</p>\n\n<p>Texas A&amp;M Forest Service and Texas Intrastate Fire Mutual Aid System are working in unified command with local responders. Aircraft have assisted crews on the ground by making strategic drops of retardant and water to slow the flanks and head of the fire. Crews are working hard to construct containment line as several spotted thunderstorms in the area are creating sporadic wind shifts.</p>\n\n<p>There is a Temporary Flight Restriction over the Cowan Fire. Please observe the TFR and allow firefighters safe access to work on this wildfire - <a href=\"https://bit.ly/45HOsad\">https://bit.ly/45HOsad </a>.</p>",
     "size": "5000",
     "lat_min": "37",
     "lat_sec": "8",
-    "urlPath": "/txtxs-cowlan-fire",
+    "urlPath": "/txtxs-cowan-fire",
     "long_min": "4",
     "long_sec": "5",
     "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Cowlan Fire"
+    "field_title_and_unit": "TXTXS Cowan Fire"
   }
 ]
