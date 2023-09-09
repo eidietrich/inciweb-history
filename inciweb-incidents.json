@@ -3048,7 +3048,7 @@
     "title": "Thut Hill Fire",
     "lat_deg": "35",
     "long_deg": "100",
-    "field_percent_of_perimeter": "35",
+    "field_percent_of_perimeter": "65",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
