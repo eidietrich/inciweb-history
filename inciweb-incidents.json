@@ -3127,5 +3127,26 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Cedar Creek"
+  },
+  {
+    "title": "Moonshine Fire",
+    "lat_deg": "33",
+    "long_deg": "99",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-09-09",
+    "changed": "2023-09-09",
+    "id": "315755",
+    "field_incident_overview": "<p>At approximately 3:30 p.m. on Saturday, Sept. 9, Texas A&amp;M Forest Service received a request for assistance on a fire burning approximately 6 miles North of the town of Seymour, in Baylor County, Texas. The Moonshine Fire is burning in juniper and mesquite shrub as well as grass vegetation. The fire exhibited extreme fire behavior making several runs with the column plume dominated.</p>\n\n<p>Texas A&amp;M Forest Service and Texas Intrastate Fire Mutual Aid System are working in unified command with local responders. Aircraft have assisted crews on the ground by making strategic drops of retardant and water to slow the flanks and head of the fire. </p>\n\n<p>The smoke column of the Moonshine Fire had been visible from the Cowan Fire by the time resources received a request for assistance from local responders.</p>",
+    "size": "500",
+    "lat_min": "41",
+    "lat_sec": "41",
+    "urlPath": "/txtxs-moonshine-fire",
+    "long_min": "12",
+    "long_sec": "44",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Moonshine Fire"
   }
 ]
