@@ -3232,5 +3232,26 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAYNP Chiquito Fire"
+  },
+  {
+    "title": "Gist Road Fire",
+    "lat_deg": "30",
+    "long_deg": "93",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-09-10",
+    "changed": "2023-09-10",
+    "id": "315801",
+    "field_incident_overview": "<p><span><span><span><span><span><span>At approximately 12:40 pm on September 10, 2023, Texas A&amp;M Forest Service received a request for a fire on County Road 826, 9 miles southeast of Evadale, Texas. The fire is actively burning in pine timber with yaupon understory.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>Elevated fire weather, including low relative humidity and high temperatures is supporting high fire behavior where dry vegetation is present on the fire despite recent precipitation.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>In coordination with local fire departments, state resources from Texas A&amp;M Forest Service and Texas Intrastate Fire Mutual Aid System (TIFMAS) as well as several aviation resources are engaged in suppression efforts. Multiple dozers are constructing containment lines on the fire with engine support from local fire departments. Multiple helicopters and fixed-winged aircraft are working to slow the fire’s forward progression and provide structure protection.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>Evacuations have been ordered for residents on Blankenship Road as well as residents 1 mile East and West of the same road and 1/2 mile South of Texla Road. An evacuation shelter has been established at Pine Forest Baptist Church in Vidor, Texas. Residents being evacuated should take all people and pets, personal items, prescriptions, important papers, and priceless items with them. Have enough of these necessary items to be out of the area for 24-48 hours.</span></span></span></span></span></span></p>",
+    "size": "300",
+    "lat_min": "16",
+    "lat_sec": "0.7",
+    "urlPath": "/txtxs-gist-road-fire",
+    "long_min": "58",
+    "long_sec": "39",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Gist Road Fire"
   }
 ]
