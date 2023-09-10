@@ -2838,7 +2838,7 @@
     "title": "Dinner Fire",
     "lat_deg": "43",
     "long_deg": "122",
-    "field_percent_of_perimeter": "90",
+    "field_percent_of_perimeter": "95",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
