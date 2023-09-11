@@ -3232,5 +3232,26 @@
     "long_sec": "39",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Gist Road Fire"
+  },
+  {
+    "title": "Spring Creek",
+    "lat_deg": "38.29778",
+    "long_deg": "-108.05946",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "East of Divide road, North of Spring Creek Canyon. The fire is approximately 15 miles southwest of Montrose, Colorado.",
+    "field_active": "1",
+    "created": "2023-09-11",
+    "changed": "2023-09-11",
+    "id": "315839",
+    "field_incident_overview": "<p><span><span><span>At approximately 3:44 p.m. Sunday, Sept.10, the Spring Creek Fire was reported on the Uncompahgre National Forest, approximately 15 miles southwest of Montrose, Colorado. </span></span></span></p>\n\n<p><span><span><span>Over the next several days, the fire area will see a potential for increased moisture, primarily in the afternoon and later into the evening. Winds remain low at 10 mph, and nighttime temperature lows remain in the mid-40s. </span></span></span></p>\n\n<p><span><span><span>The fire is zero percent contained as of 11:30 a.m. No structures are threatened. Resources on scene include one Type 2 Helicopter, two Montrose County Road and Bridge dozers, one Type 4 and two Type 6 engines, the Buzzard Creek Initial Attack module and the Skyway Fire module. Firefighter and public safety are the priorities for this incident. In the interest of public safety, fire officials ask visitors to be aware of fire traffic and avoid the area. Please do not call 911. </span></span></span></p>\n\n<p><span><span><span><span><span><span>All updates will be posted to the GMUG Fire Info Facebook page found at: <a href=\"https://www.facebook.com/GMUGFireInfo\">https://www.facebook.com/GMUGFireInfo</a></span></span></span></span></span></span></p>\n\n<p> </p>",
+    "size": "16",
+    "lat_min": "",
+    "lat_sec": "",
+    "urlPath": "/cogmf-spring-creek",
+    "long_min": "",
+    "long_sec": "",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COGMF Spring Creek"
   }
 ]
