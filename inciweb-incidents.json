@@ -63,6 +63,27 @@
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire "
   },
   {
+    "title": "Six Rivers Lightning Complex",
+    "lat_deg": "40",
+    "long_deg": "123",
+    "field_percent_of_perimeter": "100",
+    "type": "Wildfire",
+    "field_incident_description": "Full Suppression",
+    "field_active": "1",
+    "created": "2022-08-06",
+    "changed": "2023-09-13",
+    "id": "309267",
+    "field_incident_overview": "<p>Six Rivers Lightning Complex<br /><strong>November 3, 2022 UPDATE </strong></p>\n\n<p>The Six Rivers Lightning Complex is currently 41,600acres and 100% contained. <br />\n </p>\n\n<p> </p>",
+    "size": "41600",
+    "lat_min": "54",
+    "lat_sec": "26",
+    "urlPath": "/casrf-six-rivers-lightning-complex",
+    "long_min": "35",
+    "long_sec": "54",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CASRF Six Rivers Lightning Complex"
+  },
+  {
     "title": "San Juan National Forest Prescribed Fire Program",
     "lat_deg": "37",
     "long_deg": "107",
