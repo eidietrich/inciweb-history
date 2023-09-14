@@ -2859,7 +2859,7 @@
     "title": "Elizabeth Fire",
     "lat_deg": "30",
     "long_deg": "92",
-    "field_percent_of_perimeter": "73",
+    "field_percent_of_perimeter": "85",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
