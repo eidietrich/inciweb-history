@@ -3232,5 +3232,26 @@
     "long_sec": "59",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF South Fork Complex"
+  },
+  {
+    "title": "South Slope / Roza Slope",
+    "lat_deg": "46",
+    "long_deg": "120",
+    "field_percent_of_perimeter": "60",
+    "type": "Wildfire",
+    "field_incident_description": "2 Separate wildland fires burning near each other started minutes apart. ",
+    "field_active": "1",
+    "created": "2023-09-14",
+    "changed": "2023-09-14",
+    "id": "315949",
+    "field_incident_overview": "<p><span><span>The South Slope and Roza Slope</span></span><span lang=\"IT\" xml:lang=\"IT\" xml:lang=\"IT\"><span> Fire</span></span><span><span>s started on September 12, 2023</span></span><span lang=\"DA\" xml:lang=\"DA\" xml:lang=\"DA\"><span>, at </span></span><span><span>around noon on BLM-managed land along State Highway 821 in the Yakima River Canyon. Local resources provided initial responses to attack the fire and immediately requested air support and assistance from regional mutual aid partners. The two fires remain as separate incidents with a significant amount of unburnt dry brush and grass between them. The cause of both fires is under investigation. </span></span></p>\n\n<p><span><span>SEWAIIMT Team 2 took over the fire on September 13, 2023 at 0600</span></span></p>",
+    "size": "292",
+    "lat_min": "43",
+    "lat_sec": "41",
+    "urlPath": "/coccd-south-slope-roza-slope",
+    "long_min": "26",
+    "long_sec": "54",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COCCD South Slope Roza Slope"
   }
 ]
