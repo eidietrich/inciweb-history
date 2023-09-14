@@ -2297,7 +2297,7 @@
     "field_incident_description": "6 miles southeast of Plains, Montana",
     "field_active": "1",
     "created": "2023-08-18",
-    "changed": "2023-09-13",
+    "changed": "2023-09-14",
     "id": "314734",
     "field_incident_overview": "<p><span><span><span><a href=\"https://inciweb.nwcg.gov/incident-announcement/mtlnf-river-road-east-fire\">Announcements</a>     <a href=\"https://inciweb.nwcg.gov/incident-closures/mtlnf-river-road-east-fire\">Closures</a>     <a href=\"https://inciweb.nwcg.gov/incident-news/mtlnf-river-road-east-fire\">News</a>     <a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/mtlnf-river-road-east-fire\">Photographs</a>     <a href=\"https://inciweb.nwcg.gov/incident-videos-gallery/mtlnf-river-road-east-fire\">Videos</a>     <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/mtlnf-river-road-east-fire\">Maps</a></span></span></span></p>\n\n<p>The River Road East Fire was reported on August 18 at 1:30 PM, on the Plains Ranger District of the Lolo National Forest, 6 miles southeast of Plains, MT. High winds caused rapid spread and extreme fire behavior. <span><span>T</span></span>he cause of the fire is currently unknown and under investigation.</p>\n\n<p><span><span>Northern Rockies Complex Incident Management Team 1  transitioned management of the fire to a local Type 3 organization on the Plains/Thompson Falls Ranger District of the Lolo National Forest. Transfer of Command of the fire on Tuesday, September 5, 2023. </span></span>No additional<span><span> Fire Fact Sheets will be produced for the River Road East Fire unless fire activity increases.</span></span></p>\n\n<p>Any and all pre-evacuation/evacuation orders have now been lifted from River Road East Fire.</p>\n\n<p>Fire suppression repair continues along the containment lines on the River Road East Fire, see the <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/mtlnf-river-road-east-fire\">Suppression Repair map</a> for details.</p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>",
     "size": "17313",
@@ -3211,5 +3211,26 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire"
+  },
+  {
+    "title": "South Fork Complex",
+    "lat_deg": "40",
+    "long_deg": "123",
+    "field_percent_of_perimeter": "90",
+    "type": "Wildfire",
+    "field_incident_description": "Wildfire",
+    "field_active": "1",
+    "created": "2023-09-14",
+    "changed": "2023-09-14",
+    "id": "315946",
+    "field_incident_overview": "<p>Minimal fire behavior observed or anticipated unless fire crosses outside of control lines. There are isolated areas of interior heat on the Pilot and 3-9 fires as indicated by the 9/12 infrared (IR) flight. Anticipated fire behavior is primarily smoldering with slightly elevated flare-up potential in unburned, interior pockets during the heat of the burn period. Elevated fire behavior potential as warming and drying continues. Ongoing mop-up efforts continue to mitigate much significant fire behavior potential or threat. </p>",
+    "size": "3929",
+    "lat_min": "33",
+    "lat_sec": "16",
+    "urlPath": "/casrf-south-fork-complex",
+    "long_min": "10",
+    "long_sec": "59",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CASRF South Fork Complex"
   }
 ]
