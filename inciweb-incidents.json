@@ -2436,6 +2436,27 @@
     "field_title_and_unit": "NMSNF McKinney Fire"
   },
   {
+    "title": "Shearwood Creek Fire",
+    "lat_deg": "31",
+    "long_deg": "94",
+    "field_percent_of_perimeter": "98",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-08-24",
+    "changed": "2023-09-14",
+    "id": "315002",
+    "field_incident_overview": "<p><span><span><span><span><span><span>At 12:16 pm on Aug. 24, Texas A&amp;M Forest Service received a request for assistance for a fire on County Road (CO) 032 off State Highway 63, approximately 15 miles northwest of Jasper, Texas. The fire is actively burning in mixed oak/pine timber with grass and yaupon understory.</span></span></span></span></span></span></p>\n\n<p>The fire initially prompted evacuations and road closures throughout the area. As of 6 p.m. on Aug. 26, all evacuation orders have been lifted. There are no road closure in place at this time. <span><span><span><span><span><span>Additional information can be found on </span></span><span><a href=\"http://www.drivetexas.org/\"><strong><span><span>www.drivetexas.org</span></span></strong></a></span><span><span>.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>In coordination with local fire departments, crews from Texas A&amp;M Forest Service and USDA Forest Service Forest as well as several aviation resources are engaged in suppression efforts. Multiple dozers worked to construct containment lines on the fire and have made progress on the eastern western sides of the fire. Before the wind shift, when the fire was still moving southwest, it did spot over the Neches River, and crews moved to the south side to create containment line. The fire started to experience winds from the southwest around nightfall, and it did continue forward progression on the northwest side. During daylight hours on the first day, two Type 1 helicopters and 2 super scoopers worked to slow forward progression and provide structure protection.</span></span></span></span></span></span></p>\n\n<p>State resources have been released and, pending any significant change in fire activity, this incident will no longer be updated.</p>",
+    "size": "3562",
+    "lat_min": "02",
+    "lat_sec": "54",
+    "urlPath": "/txtxs-shearwood-creek-fire",
+    "long_min": "12",
+    "long_sec": "20",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Shearwood Creek Fire"
+  },
+  {
     "title": "Valentine Fire",
     "lat_deg": "34",
     "long_deg": "110",
@@ -3194,7 +3215,7 @@
   {
     "title": "Wolf Creek Fire",
     "lat_deg": "38",
-    "long_deg": "-119",
+    "long_deg": "119",
     "field_percent_of_perimeter": "25",
     "type": "Wildfire",
     "field_incident_description": "Wolf Creek Fire started Tuesday 09/12/2023 near Wolf Creek Campground Road and Highland Peak. Resources are on scene working to contain the incident.",
