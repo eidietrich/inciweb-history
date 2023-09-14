@@ -2502,7 +2502,7 @@
     "title": "Tyee Ridge Complex",
     "lat_deg": "43",
     "long_deg": "123",
-    "field_percent_of_perimeter": "55",
+    "field_percent_of_perimeter": "65",
     "type": "Wildfire",
     "field_incident_description": "Complex: Multiple Fires",
     "field_active": "1",
