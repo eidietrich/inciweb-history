@@ -3211,5 +3211,26 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "COCCD South Slope Roza Slope"
+  },
+  {
+    "title": "Montoya and Blas Units, Canjilon Wildland Urban Interface Project",
+    "lat_deg": "36",
+    "long_deg": "106",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-09-15",
+    "changed": "2023-09-15",
+    "id": "315993",
+    "field_incident_overview": "<p>The Canijlon Ranger District is planning to continue implementing the Canjilon Wildland Urban Interface Project in fall 2023. </p>\n\n<p lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Should weather and conditions align, potential plans for prescribed fire will be on two units. The 899-acre Montoya Unit is to the east of Canjilon, with some areas directly adjacent to private land. The 842-acre Blas Unit is south of Canjilon and east of Placita Garcia. </p>\n\n<p>Since 2011, staff and contractors have been thinning and applying prescribed fire around the communities, which are completely surrounded by Carson National Forest. Many adjacent private landowners have also been thinning on their properties.</p>\n\n<p>(Map pinpoint location is general to the area only)</p>",
+    "size": "",
+    "lat_min": "28",
+    "lat_sec": "50",
+    "urlPath": "/nmcaf-montoya-and-blas-units-canjilon-wildland-urban-interface-project",
+    "long_min": "26",
+    "long_sec": "15",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project"
   }
 ]
