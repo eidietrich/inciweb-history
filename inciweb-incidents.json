@@ -2670,7 +2670,7 @@
     "title": "Brice Creek Fire",
     "lat_deg": "43",
     "long_deg": "122",
-    "field_percent_of_perimeter": "50",
+    "field_percent_of_perimeter": "55",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
