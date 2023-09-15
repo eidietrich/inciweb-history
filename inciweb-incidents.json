@@ -1092,6 +1092,27 @@
     "field_title_and_unit": "OR98S Golden Fire"
   },
   {
+    "title": "2023 GMUG National Forests Prescribed Fire Program",
+    "lat_deg": "38.716650",
+    "long_deg": "-108.054010",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "2023-07-24",
+    "changed": "2023-09-15",
+    "id": "313611",
+    "field_incident_overview": "<p>This incident encompasses all of the prescribed fire and slash pile burning projects planned for the Grand Mesa, Uncompahgre, and Gunnison National Forests for the year 2023.</p>\n\n<p>The 2023 GMUG National Forests' prescribed fire program began with plans to treat areas within the Uncompahgre National Forest in early July. However, the window for the prescribed treatment closed earlier than anticipated with a sudden shift into hot, dry, and windy weather. The Spring prescribed fire season has come to an end, and operations will continue in the fall if conditions permit. </p>\n\n<p><a>The forests within the GMUG National Forests are part of a fire-adapted ecosystem, which historically experienced frequent, low intensity fires on a large scale. </a>Prescribed fire replicates that fire regime and increases the health and resilience of our forests.</p>\n\n<p> </p>\n\n<p><strong>Grand Mesa National Forest</strong></p>\n\n<p> </p>\n\n<p><strong>Uncompahgre National Forest</strong></p>\n\n<p> </p>\n\n<p><strong>Gunnison National Forest</strong></p>",
+    "size": "",
+    "lat_min": "",
+    "lat_sec": "",
+    "urlPath": "/cogmf-2023-gmug-national-forests-prescribed-fire-program",
+    "long_min": "",
+    "long_sec": "",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COGMF 2023 GMUG National Forests Prescribed Fire Program"
+  },
+  {
     "title": "Bedrock Fire",
     "lat_deg": "43",
     "long_deg": "122",
