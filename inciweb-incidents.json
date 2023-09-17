@@ -1116,7 +1116,7 @@
     "title": "Bedrock Fire",
     "lat_deg": "43",
     "long_deg": "122",
-    "field_percent_of_perimeter": "97",
+    "field_percent_of_perimeter": "98",
     "type": "Wildfire",
     "field_incident_description": "Full suppression wildfire.",
     "field_active": "1",
