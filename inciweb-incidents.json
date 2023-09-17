@@ -3211,5 +3211,26 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires"
+  },
+  {
+    "title": "2023-STF-Quarry Fire",
+    "lat_deg": "38",
+    "long_deg": "119",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "Multiple Lightning Fires located off Forest Road 3N01, east of Bourland Creek and approximately four miles east of the Emigrant Wilderness Border. Analysis shows fire spread probability over 7 days (9/14 to 9/20) using Pinecrest2 RAWS for ERCs &amp; winds over the last 10 years. Ignitions are based the initial 2 lightning-caused origin locations (which are 1 mile from each other south to north). Immediate fire origin area: 20-40% chance fire growth is ~1/3 mile or less in 7 days in the general fire origin areas (N, S, E, W). Larger area: 20% chance or less that the fire growth ~1.5 miles to NE up Bourland and Paddle Creek drainages with fire growth covering a total length of 2.7 miles or less from north to south (Bourland to Lost Creek drainages) over the next 7 days. Also 20% chance or less of fire growth to E and S towards Lost Creek, NW towards Looney Creek, &amp; W toward where 3N01 road crosses Looney Creek. ",
+    "field_active": "1",
+    "created": "2023-09-17",
+    "changed": "2023-09-17",
+    "id": "316056",
+    "field_incident_overview": "<p><span><span><span><span>Following a tumultuous series of weekend storms resulting in more than 38 ignitions on the Forest, fire personnel with the Stanislaus National Forest are currently managing the Quarry Fire to achieve multiple resource objectives.  The Quarry Fire is located off Forest Road 3N01, east of Bourland Creek and approximately four miles east of the Emigrant Wilderness Border. </span></span></span></span></p>",
+    "size": "3",
+    "lat_min": "3",
+    "lat_sec": "39.4194",
+    "urlPath": "/castf-2023stfquarry-fire",
+    "long_min": "59",
+    "long_sec": "29.8212",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CASTF 2023STFQuarry Fire"
   }
 ]
