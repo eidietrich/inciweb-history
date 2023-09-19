@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire ",
-    "changed": "6 days 17 hours ago"
+    "changed": "6 days 18 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "20 hours 52 minutes ago"
+    "changed": "21 hours 21 minutes ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -165,7 +165,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF DoradoCaada del Agua Prescribed Fire",
-    "changed": "5 days 20 hours ago"
+    "changed": "5 days 21 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -837,7 +837,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "18 hours 46 minutes ago"
+    "changed": "8 minutes 7 seconds ago"
   },
   {
     "title": "Adams Robles Complex Fire ",
@@ -879,7 +879,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDSCF Hayden Fire",
-    "changed": "1 day ago"
+    "changed": "1 day 1 hour ago"
   },
   {
     "title": "Colt Fire",
@@ -921,7 +921,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "3 days 22 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "COWTRACK LIGHTNING FIRE",
@@ -1026,7 +1026,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Bedrock Fire",
-    "changed": "39 minutes 31 seconds ago"
+    "changed": "3 minutes 8 seconds ago"
   },
   {
     "title": "2023 Racetrack Fire",
@@ -1194,7 +1194,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Turkey Fire",
-    "changed": "20 hours 38 minutes ago"
+    "changed": "21 hours 8 minutes ago"
   },
   {
     "title": "Anderson Complex",
@@ -1299,7 +1299,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFHA Big Knife",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "East Fork Fire",
@@ -1320,7 +1320,7 @@
     "long_sec": "17.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTKNF East Fork Fire",
-    "changed": "1 day 11 hours ago"
+    "changed": "1 day 12 hours ago"
   },
   {
     "title": "Rogers Pass Fire",
@@ -1425,7 +1425,7 @@
     "long_sec": "50",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDIPF Ridge Creek",
-    "changed": "16 hours 52 minutes ago"
+    "changed": "17 hours 21 minutes ago"
   },
   {
     "title": "Margarita Fire",
@@ -1572,7 +1572,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "21 hours 24 minutes ago"
+    "changed": "21 hours 53 minutes ago"
   },
   {
     "title": "Sidney Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "21 hours 24 minutes ago"
+    "changed": "21 hours 53 minutes ago"
   },
   {
     "title": "Salmon Fire",
@@ -1656,7 +1656,7 @@
     "long_sec": "59",
     "measurement_type": "Acres",
     "field_title_and_unit": "COUPD Little Mesa Fire",
-    "changed": "3 days 23 hours ago"
+    "changed": "4 days ago"
   },
   {
     "title": "Lookout Fire",
@@ -1669,7 +1669,7 @@
     "created": "<time datetime=\"2023-08-08T19:04:38-04:00\">2023-08-08</time>\n",
     "id": "314280",
     "field_incident_overview": "<p><span><span><span>The Lookout Fire was started by lightning on August 5th, near the top of Lookout Mountain. It is burning within the boundary of HJ Andrews Experimental Forest in and area with steep slopes and mostly comprised of old growth timber and dense understory vegetation.</span></span></span></p>\n\n<p>Pacific Northwest Incident Management Team 2 assumed control of the Lookout, Bedrock, Horse Creek and Pothole Fires on September 15th.</p>\n\n<p><span><span><span><strong>Evacuations:</strong> For up-to-date information on evacuations, please check these sites:</span></span></span><br /><span><span><span><a href=\"https://www.lanecountyor.gov/cms/one.aspx?pageId=19729054\">Lookout Fire - Lane County (lanecountyor.gov)</a></span></span></span><br /><span><span><span><a href=\"https://www.linnsheriff.org/wildfire_live_updates/\">Fire Evacuation and Status Live Updates - Linn County Sheriff's Office (linnsheriff.org)</a></span></span></span></p>\n\n<p><span><span><span><strong>Closures: </strong>For updated closure information, please visit:</span></span></span><br /><span><span><span><a href=\"https://www.fs.usda.gov/detail/willamette/alerts-notices/?cid=fseprd552029\">Willamette National Forest - Alerts &amp; Notices (usda.gov)</a></span></span></span></p>",
-    "size": "25467",
+    "size": "25515",
     "lat_min": "13",
     "lat_sec": "19.5",
     "urlPath": "/orwif-lookout-fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "37 minutes 14 seconds ago"
+    "changed": "4 minutes 6 seconds ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP August Lightning Fires",
-    "changed": "1 day 21 hours ago"
+    "changed": "1 day 22 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
@@ -1908,7 +1908,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "9 hours 49 minutes ago"
+    "changed": "10 hours 18 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1929,7 +1929,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "2 minutes 4 seconds ago"
+    "changed": "27 minutes 20 seconds ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1992,7 +1992,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDBOF East",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Chilcoot Fire ",
@@ -2013,7 +2013,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDSCF Chilcoot Fire ",
-    "changed": "1 day ago"
+    "changed": "1 day 1 hour ago"
   },
   {
     "title": "Blue Lake Fire",
@@ -2034,7 +2034,7 @@
     "long_sec": "34.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOWF Blue Lake Fire",
-    "changed": "6 days 21 hours ago"
+    "changed": "6 days 22 hours ago"
   },
   {
     "title": "Deep Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "1 hour 16 minutes ago"
+    "changed": "1 hour 46 minutes ago"
   },
   {
     "title": "River Road East Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF River Road East Fire",
-    "changed": "1 hour 21 minutes ago"
+    "changed": "1 hour 50 minutes ago"
   },
   {
     "title": "South Fork Complex",
@@ -2139,7 +2139,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "22 hours 42 minutes ago"
+    "changed": "23 hours 11 minutes ago"
   },
   {
     "title": "West Mountain ",
@@ -2160,7 +2160,7 @@
     "long_sec": "58",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF West Mountain ",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "McKinney Fire",
@@ -2202,7 +2202,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Shearwood Creek Fire",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "Valentine Fire",
@@ -2223,7 +2223,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "1 second ago"
+    "changed": "20 minutes 26 seconds ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -2244,7 +2244,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "3 minutes 6 seconds ago"
+    "changed": "32 minutes 16 seconds ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -2265,7 +2265,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "16 hours 54 minutes ago"
+    "changed": "17 hours 23 minutes ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -2286,7 +2286,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "OR75S Tyee Ridge Complex",
-    "changed": "22 hours 49 minutes ago"
+    "changed": "23 hours 18 minutes ago"
   },
   {
     "title": "2023 Chilcoot Fire UNF",
@@ -2307,7 +2307,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "16 hours 18 minutes ago"
+    "changed": "26 minutes 13 seconds ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -2328,7 +2328,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "16 hours 18 minutes ago"
+    "changed": "16 hours 47 minutes ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -2349,7 +2349,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "37 minutes 14 seconds ago"
+    "changed": "2 minutes 20 seconds ago"
   },
   {
     "title": "Redwood Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "4",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Gibbs Forest Fire",
-    "changed": "22 hours 1 minute ago"
+    "changed": "22 hours 30 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -2404,7 +2404,7 @@
     "created": "<time datetime=\"2023-08-30T11:51:29-04:00\">2023-08-30</time>\n",
     "id": "315257",
     "field_incident_overview": "<p><span>For current information, visit http://centralorfire.org or call the COFMS fire information line at (541) 316-7711.</span></p><p><span><strong>Central Oregon </strong>– Petes Lake Fire started by a lightning strike on Friday, August 25th along the border of the McKenzie River Ranger District of the Willamette National Forest and the Bend Fort-Rock Ranger District of the Deschutes National Forest in the Mink Lake Basin area of the Three Sisters Wilderness. The fire is burning five miles west of Elk Lake.</span></p><p><span>Pacific Northwest Incident Management Team 2 takes control of the fire September 19, 2023. </span></p><p> </p>",
-    "size": "3025",
+    "size": "3086",
     "lat_min": "58",
     "lat_sec": "8",
     "urlPath": "/orwif-petes-lake-fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "49 minutes 42 seconds ago"
+    "changed": "1 minute 25 seconds ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2445,7 +2445,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-08-30T21:29:18-04:00\">2023-08-30</time>\n",
     "id": "315279",
-    "field_incident_overview": "<p><span><strong>Facebook</strong>: </span><a href=\"https://www.facebook.com/cowlitzcomplex/\"><span>Cowlitz Complex</span></a><span> on Facebook    |    </span><a href=\"https://www.facebook.com/GiffordPinchot\"><span>Gifford Pinchot National Forest</span></a><span> on Facebook</span></p><p><span><strong>Twitter: </strong></span><a href=\"https://twitter.com/GPNF\"><span>https://twitter.com/GPNF</span></a></p><p><span><strong>Updates:</strong> </span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/Update_Final_20230918_001297.pdf?VersionId=WVPATZru.L9rbE.b3BahpvOrXajFKlzN\"><span>Daily Update (English)</span></a><span>    |    </span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/Update_FinalVersionSpanish_20230918_001297%20(1).pdf?VersionId=vqgbMiYXxIK33AzjUkbmqJTJNoyd97bu\"><span>Actualizaciones Diarias (Español)</span></a><span>    </span></p><p><span><strong>Video:</strong> </span><a href=\"https://inciweb.nwcg.gov/incident-videos-gallery/wagpf-cowlitz-complex\"><span>September 18 Operational Update</span></a><span>     |     </span><a href=\"https://www.dropbox.com/scl/fo/kczcrxz6g5rfbtv7znub7/h?dl=0&amp;preview=091423+Helicopter+water+bucket+filled+at+Cowlitz+River.mov&amp;rlkey=794wim8o7dwdzpyauajqilcvn\"><span>Helicopter Bucket Fill on the Cowlitz River</span></a></p><p><strong>Maps</strong>: <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/pio_11x17_land_20230917_1740_Cowlitz_Complex.pdf?VersionId=S.vGA4Zhi6HyMM4oIYltleyhxAy2Dmqh\">Daily Fire Public Info Map (pdf)</a>    |     <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/owner_8x11_land_20230911_1430_Cowlitz_Complex_WAGPF001297.pdf?VersionId=m8cLk7HZbbGHuYc3ztAGCPY.cZ2yUTS3\">Land Ownership Map (pdf)</a>     |     <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/brief_arch_e_land_20230917_1805_Cowlitz_Complex.pdf?VersionId=ECscQKHK2YJ8SMmBs_T4a4RPJwSrgyP9\">Overview Operations Map (pdf)        </a></p><p><strong>Operations Maps:</strong>  <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/ops_GRASSY_arch_e_land_20230917_1742_COWLITZ_COMPLEX.pdf?VersionId=ISQ3rEhrJlseQXRYgnGWgKa.g2k4G7KU\">Grassy Mountain Ops Map (pdf)</a>    |  <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/ops_SNAGTOOTH_arch_e_land_20230917_1730_COWLITZ_COMPLEX_.pdf?VersionId=4SxI.TT9QKPlsiploWcmApMZn9R9sb96\">Snagtooth and Spencer Quartz Ops Map (pdf)</a></p><p><strong>Incident Photos and Videos for download for public and media use:</strong> <a href=\"https://www.dropbox.com/scl/fo/kczcrxz6g5rfbtv7znub7/h?rlkey=794wim8o7dwdzpyauajqilcvn&amp;dl=0\">Dropbox.com/</a></p><p><span><strong>Current Situation: </strong>The Cowlitz Complex is 34% contained with a total of 695 acres and 352 personnel. Yesterday, firefighters worked around the 22-acre Mission Fire near Forest Road 21 to contain the fire from a spillover that occurred on Saturday. There was slight growth in the Grassy Mountain Fire but it still poses no threat to the communities of Randle or Packwood. Crews will continue to monitor and patrol the Mission and other smaller fires in the forthcoming days. There was less smoke yesterday and it will likely be light this week, although fires from outside the area may add to regional haze. For current air quality conditions, see </span><a href=\"https://www.airnow.gov/?city=Randle&amp;state=WA&amp;country=USA\"><span>Airnow.gov.</span></a></p><p><span>Crews are reinforcing and strengthening access points near these fires to improve physical barriers for slowing growth, and continue to patrol the smaller fires in the complex. Cooler temperatures and increasing moisture are expected through the next several days, with light precipitation possible over the fire areas.</span></p><p><span>The Grassy Mountain Fire is located 4.5 miles northeast of Randle, Washington, on the northern slope of Grassy Mountain. The remote location, dense forest canopy, and steep terrain limit access to safely get fire crews in and out of the fire area. </span></p><p><span>The Snagtooth and Spencer Quartz Fires are located 21 miles south of Randle on the south side of Snagtooth Mountain. Together, they are the largest of the Cowlitz Complex fires.</span></p><p><span><strong>Closures</strong>: Due to fire activity on the Snagtooth Fire the following roads and trails are closed to the public to reduce exposure and help ensure public safety: Forest Roads 9300 and 9341, Boundary Trail #1 (from Elk Pass to intersection with Summit Prairie), Summit Prairie #2, Craggy Peak #3, Snagtooth #4, Quartz #5, Stabler Camp #17, Wright Meadows #80, Basin Camp #3A, Quartz #5B, Quartz #5C (French Creek), Snyder Pasture #80A.   For more information, please view the </span><a href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1135686.pdf\"><span>Forest Order</span></a><span> and </span><a href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1135687.pdf\"><span>Forest Order Map.</span></a></p><p><span>Additionally, Forest Road 8410 is closed in the vicinity of the Pothole Fire, and Forest Road 78 is temporarily closed between the 7802 junction and the 2278 junction due to hazardous debris rolling out onto the roadway.    </span></p><p><span><strong>Temporary Flight Restrictions (TFR)</strong>: Two TFRs are in effect during daylight hours, one located north of US-12 to Mount Rainier National Park, and a new TFR south of US-12 to include Snagtooth and Spencer Quartz fires. Fire aviation response is halted or delayed if an unauthorized aircraft enters the TFR. Temporary flight restrictions also apply to unmanned aircraft systems or drones. Learn more: </span><a href=\"http://knowbeforeyoufly.org/home\"><span>Know Before You Fly</span></a><span>.</span></p><p><strong>Huckleberries - Did you know </strong>that there are twelve species of huckleberries that grow in Washington and Oregon. They are often grouped into plants producing red or blue berries, and plants that produce berries in clusters or individually on the twig. The most sought-after huckleberry is the <a href=\"http://nativeplantspnw.com/mountain-huckleberry-vaccinium-membranaceum/\">thin-leaved huckleberry (Vaccinium membranaceum)</a>. This species is renowned for its large, sweet, purple berries, occurring singly on the plant. The peak season for picking huckleberries occurs between mid-August to mid-September.  Read more about Huckleberry harvesting on the <a href=\"https://www.fs.usda.gov/detail/giffordpinchot/passes-permits/forestproducts/%3Fcid%3Dfsbdev3_005071#:~:text=Every%20harvester%20of%20huckleberries%20is,and%20take%20with%20while%20harvesting.\">Gifford Pinchot National Forest</a></p><p><span><strong>Recycling in Fire Camp: </strong>Fire camp is a busy place with hundreds, sometimes thousands, of people.  Just like a city, these fire camps generate huge amounts of waste.  Paper and cardboard, water and Gatorade bottles, stacks of wooden pallets, food and cooking waste and non-recyclable trash. </span></p><p><span>One technique that fire managers utilize to reduce this waste challenge is by ordering recycling specialist contractors to provide on-site recycling and trash service in fire camps.  Data collected during the 2020 fire season indicated that....  </span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/Project%20Greening%20-%20Cowlitz%20Complex.pdf?VersionId=HnuVytazHHXlTzdgH932_qhCu.o.kFRF\"><span>Read Full Article</span></a></p><p><span><strong>Gifford Pinchot National Forest</strong>: The </span>Gifford Pinchot National Forest includes over 1.3 million acres of forest, wildlife habitat, watersheds &amp; mountains, including Mt. Adams &amp; Mount St. Helens National Volcanic Monument.</p><p><span>The Cowlitz Valley area is administered by the Cowlitz Valley Ranger District. This area is located in the Northern most portion of the Gifford Pinchot National Forest in southwest Washington, and comprises about 575,000 acres of the Gifford Pinchot National Forest. The Cowlitz Valley area is roughly located among three volcanic peaks: Mt. Rainier to the north, Mt. Adams to the east, and Mt. St. Helens to the west. A line connecting Mt. Adams and Mt. St. Helens following the </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=31494\"><span>Boundary Trail #1</span></a><span> makes up the southern boundary. On clear days this trail affords spectacular views.</span></p><p><span>Nearby towns include Packwood, Glenoma, Morton and Ashford. The area has numerous campgrounds and over 500 miles of trails for a wide variety of users. Cowlitz Valley Ranger District manages four Wilderness areas including the </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79414\"><span>Goat Rocks Wilderness</span></a><span>, </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79409\"><span>Glacier View Wilderness</span></a><span>, </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79412\"><span>Tatoosh Wilderness</span></a><span> and </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79415\"><span>William O Douglass Wilderness</span></a><span>. Major River Drainages include the Cowlitz River, Clear Fork of the Cowlitz, and the Cispus River.</span></p><p><span>Nearby attractions include Mt. Rainier National Park and Mount St. Helens National Monument.</span></p>",
+    "field_incident_overview": "<p><span><strong>Facebook</strong>: </span><a href=\"https://www.facebook.com/cowlitzcomplex/\"><span>Cowlitz Complex</span></a><span> on Facebook    |    </span><a href=\"https://www.facebook.com/GiffordPinchot\"><span>Gifford Pinchot National Forest</span></a><span> on Facebook</span></p><p><span><strong>Twitter: </strong></span><a href=\"https://twitter.com/GPNF\"><span>https://twitter.com/GPNF</span></a></p><p><span><strong>Updates:</strong> </span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/Update_Final_20230918_001297.pdf?VersionId=WVPATZru.L9rbE.b3BahpvOrXajFKlzN\"><span>Daily Update (English)</span></a><span>    |    </span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/Update_FinalVersionSpanish_20230918_001297%20(1).pdf?VersionId=vqgbMiYXxIK33AzjUkbmqJTJNoyd97bu\"><span>Actualizaciones Diarias (Español)</span></a><span>    </span></p><p><span><strong>Video:</strong> </span><a href=\"https://inciweb.nwcg.gov/incident-videos-gallery/wagpf-cowlitz-complex\"><span>September 18 Operational Update</span></a><span>     |     </span><a href=\"https://www.dropbox.com/scl/fo/kczcrxz6g5rfbtv7znub7/h?dl=0&amp;preview=091423+Helicopter+water+bucket+filled+at+Cowlitz+River.mov&amp;rlkey=794wim8o7dwdzpyauajqilcvn\"><span>Helicopter Bucket Fill on the Cowlitz River</span></a></p><p><strong>Maps</strong>: <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/pio_11x17_land_20230918_1930_Cowlitz_Complex_WAGPF001297.pdf?VersionId=zgyXlFyY1eMo7kcGwboPA2jfPUhC7yvr\">Daily Fire Public Info Map (pdf)</a>    |     <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/owner_8x11_land_20230911_1430_Cowlitz_Complex_WAGPF001297.pdf?VersionId=m8cLk7HZbbGHuYc3ztAGCPY.cZ2yUTS3\">Land Ownership Map (pdf)</a>     |     <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/brief_arch_e_port_20230918_1832_COWLITZ_COMPLEX_WAGPF0001297.pdf?VersionId=FC8q7YXfzePhhw9o2wKPrY1qXptyGeT3\">Overview Operations Map (pdf)        </a></p><p><strong>Operations Maps:</strong>  <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/ops_GRASSY_arch_e_land_20230918_2006_COWLITZ_COMPLEX_WAGPF0001297.pdf?VersionId=4WGkVOZnYTflz8YfP3viYD7sjvc6RF_u\">Grassy Mountain Ops Map (pdf)</a>    |  <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/ops_SNAGTOOTH_arch_e_land_20230918_2015_COWLITZ_COMPLEX_WAGPF0001297.pdf?VersionId=2ABcyuN.dhecAWvnxhJsBZTBYzFJ7uzQ\">Snagtooth and Spencer Quartz Ops Map (pdf)</a></p><p><strong>IR Maps:</strong> <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/20230919_Grassy_Mountain_IR_Map_11x17_P_naip.pdf?VersionId=7w2XO52e.W5B_TPivIyuNrYCRidfRy_o\">Grassy Moutain IR Map (pdf)</a>    |     <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/20230919_Snagtooth_Spencer_Quartz_IR_Map_11x17_P_naip.pdf?VersionId=cE4lydC9Va58YWOch3Ki8GYmPY_otLRF\">Snagtooth and Spencer Quartz IR Map (pdf)</a></p><p><strong>Incident Photos and Videos for download for public and media use:</strong> <a href=\"https://www.dropbox.com/scl/fo/kczcrxz6g5rfbtv7znub7/h?rlkey=794wim8o7dwdzpyauajqilcvn&amp;dl=0\">Dropbox.com/</a></p><p><span><strong>Current Situation: </strong>The Cowlitz Complex is 34% contained with a total of 695 acres and 352 personnel. Yesterday, firefighters worked around the 22-acre Mission Fire near Forest Road 21 to contain the fire from a spillover that occurred on Saturday. There was slight growth in the Grassy Mountain Fire but it still poses no threat to the communities of Randle or Packwood. Crews will continue to monitor and patrol the Mission and other smaller fires in the forthcoming days. There was less smoke yesterday and it will likely be light this week, although fires from outside the area may add to regional haze. For current air quality conditions, see </span><a href=\"https://www.airnow.gov/?city=Randle&amp;state=WA&amp;country=USA\"><span>Airnow.gov.</span></a></p><p><span>Crews are reinforcing and strengthening access points near these fires to improve physical barriers for slowing growth, and continue to patrol the smaller fires in the complex. Cooler temperatures and increasing moisture are expected through the next several days, with light precipitation possible over the fire areas.</span></p><p><span>The Grassy Mountain Fire is located 4.5 miles northeast of Randle, Washington, on the northern slope of Grassy Mountain. The remote location, dense forest canopy, and steep terrain limit access to safely get fire crews in and out of the fire area. </span></p><p><span>The Snagtooth and Spencer Quartz Fires are located 21 miles south of Randle on the south side of Snagtooth Mountain. Together, they are the largest of the Cowlitz Complex fires.</span></p><p><span><strong>Closures</strong>: Due to fire activity on the Snagtooth Fire the following roads and trails are closed to the public to reduce exposure and help ensure public safety: Forest Roads 9300 and 9341, Boundary Trail #1 (from Elk Pass to intersection with Summit Prairie), Summit Prairie #2, Craggy Peak #3, Snagtooth #4, Quartz #5, Stabler Camp #17, Wright Meadows #80, Basin Camp #3A, Quartz #5B, Quartz #5C (French Creek), Snyder Pasture #80A.   For more information, please view the </span><a href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1135686.pdf\"><span>Forest Order</span></a><span> and </span><a href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1135687.pdf\"><span>Forest Order Map.</span></a></p><p><span>Additionally, Forest Road 8410 is closed in the vicinity of the Pothole Fire, and Forest Road 78 is temporarily closed between the 7802 junction and the 2278 junction due to hazardous debris rolling out onto the roadway.    </span></p><p><span><strong>Temporary Flight Restrictions (TFR)</strong>: Two TFRs are in effect during daylight hours, one located north of US-12 to Mount Rainier National Park, and a new TFR south of US-12 to include Snagtooth and Spencer Quartz fires. Fire aviation response is halted or delayed if an unauthorized aircraft enters the TFR. Temporary flight restrictions also apply to unmanned aircraft systems or drones. Learn more: </span><a href=\"http://knowbeforeyoufly.org/home\"><span>Know Before You Fly</span></a><span>.</span></p><p><strong>Huckleberries - Did you know </strong>that there are twelve species of huckleberries that grow in Washington and Oregon. They are often grouped into plants producing red or blue berries, and plants that produce berries in clusters or individually on the twig. The most sought-after huckleberry is the <a href=\"http://nativeplantspnw.com/mountain-huckleberry-vaccinium-membranaceum/\">thin-leaved huckleberry (Vaccinium membranaceum)</a>. This species is renowned for its large, sweet, purple berries, occurring singly on the plant. The peak season for picking huckleberries occurs between mid-August to mid-September.  Read more about Huckleberry harvesting on the <a href=\"https://www.fs.usda.gov/detail/giffordpinchot/passes-permits/forestproducts/%3Fcid%3Dfsbdev3_005071#:~:text=Every%20harvester%20of%20huckleberries%20is,and%20take%20with%20while%20harvesting.\">Gifford Pinchot National Forest</a></p><p><span><strong>Recycling in Fire Camp: </strong>Fire camp is a busy place with hundreds, sometimes thousands, of people.  Just like a city, these fire camps generate huge amounts of waste.  Paper and cardboard, water and Gatorade bottles, stacks of wooden pallets, food and cooking waste and non-recyclable trash. </span></p><p><span>One technique that fire managers utilize to reduce this waste challenge is by ordering recycling specialist contractors to provide on-site recycling and trash service in fire camps.  Data collected during the 2020 fire season indicated that....  </span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-09/Project%20Greening%20-%20Cowlitz%20Complex.pdf?VersionId=HnuVytazHHXlTzdgH932_qhCu.o.kFRF\"><span>Read Full Article</span></a></p><p><span><strong>Gifford Pinchot National Forest</strong>: The </span>Gifford Pinchot National Forest includes over 1.3 million acres of forest, wildlife habitat, watersheds &amp; mountains, including Mt. Adams &amp; Mount St. Helens National Volcanic Monument.</p><p><span>The Cowlitz Valley area is administered by the Cowlitz Valley Ranger District. This area is located in the Northern most portion of the Gifford Pinchot National Forest in southwest Washington, and comprises about 575,000 acres of the Gifford Pinchot National Forest. The Cowlitz Valley area is roughly located among three volcanic peaks: Mt. Rainier to the north, Mt. Adams to the east, and Mt. St. Helens to the west. A line connecting Mt. Adams and Mt. St. Helens following the </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=31494\"><span>Boundary Trail #1</span></a><span> makes up the southern boundary. On clear days this trail affords spectacular views.</span></p><p><span>Nearby towns include Packwood, Glenoma, Morton and Ashford. The area has numerous campgrounds and over 500 miles of trails for a wide variety of users. Cowlitz Valley Ranger District manages four Wilderness areas including the </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79414\"><span>Goat Rocks Wilderness</span></a><span>, </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79409\"><span>Glacier View Wilderness</span></a><span>, </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79412\"><span>Tatoosh Wilderness</span></a><span> and </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79415\"><span>William O Douglass Wilderness</span></a><span>. Major River Drainages include the Cowlitz River, Clear Fork of the Cowlitz, and the Cispus River.</span></p><p><span>Nearby attractions include Mt. Rainier National Park and Mount St. Helens National Monument.</span></p>",
     "size": "695",
     "lat_min": "31",
     "lat_sec": "57",
@@ -2454,7 +2454,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "9 minutes 34 seconds ago"
+    "changed": "16 minutes 7 seconds ago"
   },
   {
     "title": "Brice Creek Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "40 seconds ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "Dinner Fire",
@@ -2496,7 +2496,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "16 hours ago"
+    "changed": "16 hours 30 minutes ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "16 hours ago"
+    "changed": "55 seconds ago"
   },
   {
     "title": "Anvil Fire",
@@ -2538,7 +2538,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "18 hours 46 minutes ago"
+    "changed": "19 hours 15 minutes ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "15 seconds ago"
+    "changed": "28 minutes 58 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2580,7 +2580,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "1 minute 19 seconds ago"
+    "changed": "30 minutes 29 seconds ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2601,7 +2601,7 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "1 hour 43 minutes ago"
+    "changed": "27 minutes 19 seconds ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2643,7 +2643,7 @@
     "long_sec": "39",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF El Valle Fire",
-    "changed": "11 hours 38 minutes ago"
+    "changed": "12 hours 7 minutes ago"
   },
   {
     "title": "Cowan Fire",
@@ -2685,7 +2685,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Cedar Creek",
-    "changed": "4 days 22 hours ago"
+    "changed": "4 days 23 hours ago"
   },
   {
     "title": "Moonshine Fire",
@@ -2727,7 +2727,7 @@
     "long_sec": "22.25",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "6 minutes 58 seconds ago"
+    "changed": "27 minutes 25 seconds ago"
   },
   {
     "title": "Marmot Fire",
@@ -2811,7 +2811,7 @@
     "long_sec": "39",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Gist Road Fire",
-    "changed": "3 days 22 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "Spring Creek",
@@ -2832,7 +2832,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "21 hours 56 minutes ago"
+    "changed": "22 hours 25 minutes ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -2853,7 +2853,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "WANCP 2023 Sourdough Fire Burned Area Emergency Response BAER",
-    "changed": "1 day 9 hours ago"
+    "changed": "1 day 10 hours ago"
   },
   {
     "title": "Collier 2",
@@ -2916,7 +2916,7 @@
     "long_sec": "49",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Myrtle Fire",
-    "changed": "21 hours 45 minutes ago"
+    "changed": "22 hours 14 minutes ago"
   },
   {
     "title": "Wolf Creek Fire",
@@ -2937,7 +2937,7 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "1 day 15 hours ago"
+    "changed": "1 day 16 hours ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -2979,7 +2979,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "17 hours 39 minutes ago"
+    "changed": "18 hours 8 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -3000,7 +3000,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "9 hours 39 minutes ago"
+    "changed": "10 hours 9 minutes ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -3042,6 +3042,6 @@
     "long_sec": "93",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDPAF Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
-    "changed": "14 hours 52 minutes ago"
+    "changed": "15 hours 21 minutes ago"
   }
 ]
