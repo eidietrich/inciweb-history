@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire ",
-    "changed": "6 days 19 hours ago"
+    "changed": "6 days 20 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "3 minutes 33 seconds ago"
+    "changed": "29 minutes 14 seconds ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -165,7 +165,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF DoradoCaada del Agua Prescribed Fire",
-    "changed": "5 days 22 hours ago"
+    "changed": "5 days 23 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -417,7 +417,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "COWRF Spring Creek Fire",
-    "changed": "52 minutes 42 seconds ago"
+    "changed": "1 hour 18 minutes ago"
   },
   {
     "title": "Diamond Fire",
@@ -837,7 +837,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "53 minutes 43 seconds ago"
+    "changed": "17 minutes 49 seconds ago"
   },
   {
     "title": "Adams Robles Complex Fire ",
@@ -1026,7 +1026,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Bedrock Fire",
-    "changed": "31 minutes 6 seconds ago"
+    "changed": "23 minutes 10 seconds ago"
   },
   {
     "title": "2023 Racetrack Fire",
@@ -1194,7 +1194,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Turkey Fire",
-    "changed": "22 hours 38 minutes ago"
+    "changed": "23 hours 4 minutes ago"
   },
   {
     "title": "Anderson Complex",
@@ -1320,7 +1320,7 @@
     "long_sec": "17.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTKNF East Fork Fire",
-    "changed": "1 day 13 hours ago"
+    "changed": "1 day 14 hours ago"
   },
   {
     "title": "Rogers Pass Fire",
@@ -1425,7 +1425,7 @@
     "long_sec": "50",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDIPF Ridge Creek",
-    "changed": "18 hours 52 minutes ago"
+    "changed": "19 hours 17 minutes ago"
   },
   {
     "title": "Margarita Fire",
@@ -1572,7 +1572,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "23 hours 24 minutes ago"
+    "changed": "23 hours 50 minutes ago"
   },
   {
     "title": "Sidney Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "23 hours 24 minutes ago"
+    "changed": "23 hours 50 minutes ago"
   },
   {
     "title": "Salmon Fire",
@@ -1656,7 +1656,7 @@
     "long_sec": "59",
     "measurement_type": "Acres",
     "field_title_and_unit": "COUPD Little Mesa Fire",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 2 hours ago"
   },
   {
     "title": "Lookout Fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "31 minutes 6 seconds ago"
+    "changed": "23 minutes 10 seconds ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1740,7 +1740,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "AKDAS Pogo Mine Road Fire",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "West Fork Fire",
@@ -1782,7 +1782,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "AKDAS Mount Hayes Fire",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Wahoo Peak Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP August Lightning Fires",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
@@ -1908,20 +1908,20 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "14 minutes 1 second ago"
+    "changed": "39 minutes 42 seconds ago"
   },
   {
     "title": "Smith River Complex ",
     "lat_deg": "41",
     "long_deg": "123",
-    "field_percent_of_perimeter": "65",
+    "field_percent_of_perimeter": "73",
     "type": "Wildfire",
     "field_incident_description": "Wildland fires",
     "field_active": "1",
     "created": "<time datetime=\"2023-08-16T15:01:26-04:00\">2023-08-16</time>\n",
     "id": "314628",
     "field_incident_overview": "<p><span><span>On the evening of August 15, 2023, the Six Rivers National Forest experienced approximately 150 lightning strikes, which triggered the outbreak of wildfires. Ther were at least 27 confirmed fires as a result of the lightning strikes Out of 27 confirmed fires, 12 were located on the Gasquet Ranger District in Del Norte County, and they are included in the Smith River Complex.<br /><br />\nGiven the threat to life and property, resources were focused on identifying fire locations and triaging suppression efforts on those posing the highest risk. This is a challenging task due to the rugged terrain and limited access. </span></span><span><span> </span></span></p>\n\n<p><span><span>This situation is exacerbated by the fact that the area has experienced a year of below-average rainfall, which has let the vegetation unusually dry, The dryness adds a difficulty to control the fires.  Despite these difficult conditions, ground and air resources have been engaged in full suppression efforts. </span></span></p>\n\n<p><span><span><strong>Timeline</strong><br />\nAugust 18, 2023          California Interagency Incident Management Team 15 assumed command of the complex. </span></span></p>\n\n<p><span><span>August 21, 2023          Northwest Incident Management Team 13 assumed command of the Smith River Complex North.</span></span></p>\n\n<p>August 29, 2023          Oregon State Fire Marshal Blue Team joined NWIMT 13 in unified command of the Smith River Complex North.</p>\n\n<p>                                         The OSFM resources left as they completed their mission, with the last engines leaving September 2, 2023.</p>\n\n<p>August 31, 2023          Southwest Area Incident Management Team 2 (SWAIMT2) assumed command of the Smith River Complex – South</p>\n\n<p>                                          Zone from California Interagency Incident Management Team 15.</p>\n\n<p>September 6, 2023      Alaska Interagency Incident Management Team (AIIMT) <span><span>assumed command of the Smith River Complex North from </span></span></p>\n\n<p><span><span>                                           Northwest Incident Management Team 13.</span></span></p>\n\n<p><span><span>September 13, 2023    California Interagency Incident Management Team 4 (CAIIMT4) assumed command of the Smith River Complex </span></span></p>\n\n<p><span><span>                                            South from</span></span><span><span>  Southwest Area Incident Management Team 2</span></span></p>\n\n<p><strong>*********</strong></p>\n\n<p><strong>EVACUATIONS</strong></p>\n\n<p><strong>Evacuation levels are subject to change as conditions vary on the Smith River Complex.   </strong>For the latest evacuation levels, please check the following sites:</p>\n\n<p><a href=\"https://www.facebook.com/search/top?q=del%20norte%20office%20of%20emergency%20services\">Del Norte County Emergency Services Facebook</a> page has updates about evacuations on Smith River Complex - South Zone.</p>\n\n<p>Josephine County Emergency Management has the latest evacuation notices at their <a href=\"https://www.josephinecounty.gov/departments/emergency_management/response_(activities_during_an_emergency)/stay_informed.php\">2023 Fire Season Information</a> page.</p>\n\n<p>Go to the <a href=\"https://rvem.org/\">www.rvem.org site</a> and select the Fire First Response Map for the latest evacuation map.</p>\n\n<p> </p>\n\n<p><strong>CLOSURES</strong></p>\n\n<p><span><span><span><span><em><strong>Intermittent Closure of US-199</strong></em>. Starting Thursday, September 14, US-199 in Del Norte County will have a schedule of road closures and lane restrictions. The Del Norte Sheriff’s Office is asking residents to refrain from any unnecessary travel along that route. If you must travel, please do not follow mapping systems that direct you to leave the US-199 corridor; alternate routes are in a fire closure area creating safety risks to you and fire personnel. For additional information on road conditions, please see the Caltrans QuickMap site </span><a href=\"https://quickmap.dot.ca.gov/\"><span>https://quickmap.dot.ca.gov/</span></a><span> and Oregon Department of Transportation’s </span><a href=\"https://www.tripcheck.com/\"><span>https://www.tripcheck.com/</span></a><span><span><span><span>.</span></span></span></span></span></span></span></p>\n\n<p>Check for closures on the <a href=\"https://www.fs.usda.gov/detail/srnf/notices/?cid=FSEPRD1096395\">Six Rivers National Forest</a>.</p>\n\n<p>For closures on the Rogue River - Siskiyou National Forest, see their <a href=\"https://www.fs.usda.gov/alerts/rogue-siskiyou/alerts-notices\">Alerts &amp; Notices page</a>.</p>\n\n<p>For Bureau of Land Management - Medford District, see their <a href=\"https://www.blm.gov/programs/public-safety-and-fire/fire-and-aviation/regional-info/oregon-washington/fire-restrictions\">Closures and Restrictions</a>.</p>\n\n<p> </p>",
-    "size": "92142",
+    "size": "92180",
     "lat_min": "56",
     "lat_sec": "45.4",
     "urlPath": "/casrf-smith-river-complex",
@@ -1929,7 +1929,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "2 minutes 30 seconds ago"
+    "changed": "23 seconds ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -2034,7 +2034,7 @@
     "long_sec": "34.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOWF Blue Lake Fire",
-    "changed": "6 days 23 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "Deep Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "3 hours 16 minutes ago"
+    "changed": "3 hours 42 minutes ago"
   },
   {
     "title": "River Road East Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF River Road East Fire",
-    "changed": "2 seconds ago"
+    "changed": "19 minutes 33 seconds ago"
   },
   {
     "title": "South Fork Complex",
@@ -2139,7 +2139,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "37 minutes 31 seconds ago"
+    "changed": "1 hour 3 minutes ago"
   },
   {
     "title": "West Mountain ",
@@ -2202,7 +2202,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Shearwood Creek Fire",
-    "changed": "4 days 20 hours ago"
+    "changed": "4 days 21 hours ago"
   },
   {
     "title": "Valentine Fire",
@@ -2223,7 +2223,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "1 hour 51 minutes ago"
+    "changed": "2 hours 17 minutes ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -2244,7 +2244,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "2 hours 3 minutes ago"
+    "changed": "2 hours 28 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -2265,7 +2265,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "1 minute 55 seconds ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -2286,7 +2286,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "OR75S Tyee Ridge Complex",
-    "changed": "1 day ago"
+    "changed": "1 day 1 hour ago"
   },
   {
     "title": "2023 Chilcoot Fire UNF",
@@ -2307,7 +2307,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "1 hour 26 minutes ago"
+    "changed": "1 hour 51 minutes ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -2328,7 +2328,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "18 hours 18 minutes ago"
+    "changed": "18 hours 44 minutes ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -2349,7 +2349,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "31 minutes 6 seconds ago"
+    "changed": "23 minutes 9 seconds ago"
   },
   {
     "title": "Redwood Fire",
@@ -2361,8 +2361,8 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-08-29T21:04:08-04:00\">2023-08-29</time>\n",
     "id": "315230",
-    "field_incident_overview": "<p><em><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Update 9/17/23: Yesterday, firefighters </span></span></span></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span>wrapped the Redwood Meadow Ranger Station with structure protection wrap to add another layer of defense from firing operations. Aerial and manual ignitions will pause for a few days and continue later this week. The fire is currently measured at 1,158 acres. Performing ignitions allows firefighters to regulate the intensity of the fire as fuels are consumed. Regulating the intensity of the fire will help to ensure that there are favorable fire effects within the burned area, especially as the fire moves through giant sequoia groves. When ignitions resume, smoke impacts are expected to be more pronounced overnight and in the morning in Grant Grove, Giant Forest, the foothills of Sequoia National Park, and the community of Three Rivers. However, ignitions will also serve to limit the overall duration of smoke impacts from the Redwood Fire. </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></em> </p>",
-    "size": "1158",
+    "field_incident_overview": "<p><span>Update 9/19/23: Fire continues to back towards Cliff Creek, west of the current footprint. Fire behavior continues at low intensity, spreading within containment lines. One more day of aerial ignitions is planned on Wednesday, 9/20, which will result in smoke impacts overnight and the following morning. Smoke impacts are expected to reduce after that. The fire is currently measured at 1,555 acres. </span></p><p><span>Performing ignitions allows firefighters to regulate the intensity of the fire as fuels are consumed. Regulating the intensity of the fire will help to ensure that there are favorable fire effects within the burned area, especially as the fire moves through giant sequoia groves. When ignitions resume, smoke impacts are expected to be more pronounced overnight and in the morning in Grant Grove, Giant Forest, the foothills of Sequoia National Park, and the community of Three Rivers. However, ignitions will also serve to limit the overall duration of smoke impacts from the Redwood Fire. </span> </p><p>The parks are utilizing an indirect confine-and-contain suppression strategy for the Redwood Fire. </p>",
+    "size": "1555",
     "lat_min": "32",
     "lat_sec": "",
     "urlPath": "/caknp-redwood-fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "1 day 23 hours ago"
+    "changed": "4 minutes 46 seconds ago"
   },
   {
     "title": "Gibbs Forest Fire",
@@ -2382,7 +2382,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-08-29T21:55:57-04:00\">2023-08-29</time>\n",
     "id": "315232",
-    "field_incident_overview": "<p>At 3:30 p.m. on August 29, Walker County requested assistance from Texas A&amp;M Forest Service for a fire at the corner of Hwy 30 and Pool Road. A moderate smoke plume was observed as well as moderate to high fire behavior. Air resources as well as ground resources including dozers responded. There are no structures or roads threatened and there are no evacuations.</p>\n\n<p>On Sept. 9, the fire rekindled and multiple spot fires were contained by firefighters. The Florida Forest Service Red Complex Incident Management Team has assumed command of the fire as of Sept. 10.</p>\n\n<p><strong>September 16</strong> - Management of the fire has transferred back to Texas A&amp;M Forest Service</p>",
+    "field_incident_overview": "<p>At 3:30 p.m. on August 29, Walker County requested assistance from Texas A&amp;M Forest Service for a fire at the corner of Hwy 30 and Pool Road. A moderate smoke plume was observed as well as moderate to high fire behavior. Air resources as well as ground resources including dozers responded. There are no structures or roads threatened and there are no evacuations.</p><p>On Sept. 9, the fire rekindled and multiple spot fires were contained by firefighters. The Florida Forest Service Red Complex Incident Management Team has assumed command of the fire as of Sept. 10.</p><p><strong>September 16</strong> - Management of the fire has transferred back to Texas A&amp;M Forest Service</p><p>State resources have been released and, pending any significant change in fire activity, this incident will no longer be updated.</p>",
     "size": "400",
     "lat_min": "40",
     "lat_sec": "2",
@@ -2391,7 +2391,7 @@
     "long_sec": "4",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Gibbs Forest Fire",
-    "changed": "1 day ago"
+    "changed": "15 minutes 1 second ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "1 hour 29 minutes ago"
+    "changed": "1 hour 55 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "24 minutes 40 seconds ago"
+    "changed": "50 minutes 21 seconds ago"
   },
   {
     "title": "Brice Creek Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "1 hour 30 minutes ago"
+    "changed": "1 hour 56 minutes ago"
   },
   {
     "title": "Dinner Fire",
@@ -2496,7 +2496,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "25 minutes 20 seconds ago"
+    "changed": "51 minutes 1 second ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "1 hour 28 minutes ago"
+    "changed": "21 minutes 34 seconds ago"
   },
   {
     "title": "Anvil Fire",
@@ -2538,7 +2538,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "53 minutes 44 seconds ago"
+    "changed": "17 minutes 49 seconds ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "1 hour 59 minutes ago"
+    "changed": "2 hours 25 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2580,7 +2580,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "2 hours 1 minute ago"
+    "changed": "2 hours 27 minutes ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2601,7 +2601,7 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "1 hour 58 minutes ago"
+    "changed": "2 hours 23 minutes ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2613,7 +2613,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-09-01T17:06:18-04:00\">2023-09-01</time>\n",
     "id": "315373",
-    "field_incident_overview": "<p><span><span><span><span><span><span>At approximately 2:00 pm on September 1, 2023, Texas A&amp;M Forest Service received a request for a fire on Lost Indian Camp Road off State Highway 247, 9 miles northwest of Huntsville, Texas. The fire is actively burning in pine timber with grass and yaupon understory. </span></span></span></span></span></span><span><span><span><span><span><span>Elevated fire weather, including low relative humidity and winds out of the East are supporting high fire behavior where dry vegetation is present on the fire.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>At 8:00 a.m. on September 3, Florida Forest Service Red Complex Incident Management Team assumed command of the Game Preserve Fire. The team had been pre-positioned in Texas to be able to respond and assist with incidents as needed. This team will manage the fire with resources from local fire departments, Texas A&amp;M Forest Service, Texas Intrastate Fire Mutual Aid System (TIFMAS), and Texas Emergency Medical Task Force (TEMTF).</span></span></span></span></span></span></p>\n\n<p>As of 8:30 a.m. on September 3, all evacuation orders and road closures for the Game Preserve Fire have been lifted. </p>\n\n<p><strong>September 16, 2023, 8:00 a.m. </strong>Management of the fire has been transferred over to Texas A&amp;M Forest Service.</p>\n\n<p><span><span><span><span><span><span><span>There is a Temporary Flight Restriction (TFR) in place for the area over the fire NOTAM: FDC 3/4932, <a href=\"https://bit.ly/3qWdnHY\"><strong>https://bit.ly/3qWdnHY</strong> </a><span><span><span><span><span>]. This TFR will expire at 2:00 p.m. on September 16. </span></span></span></span></span></span></span></span></span></span></span></span></p>",
+    "field_incident_overview": "<p><span>At approximately 2:00 pm on September 1, 2023, Texas A&amp;M Forest Service received a request for a fire on Lost Indian Camp Road off State Highway 247, 9 miles northwest of Huntsville, Texas. The fire is actively burning in pine timber with grass and yaupon understory. Elevated fire weather, including low relative humidity and winds out of the East are supporting high fire behavior where dry vegetation is present on the fire.</span></p><p><span>At 8:00 a.m. on September 3, Florida Forest Service Red Complex Incident Management Team assumed command of the Game Preserve Fire. The team had been pre-positioned in Texas to be able to respond and assist with incidents as needed. This team will manage the fire with resources from local fire departments, Texas A&amp;M Forest Service, Texas Intrastate Fire Mutual Aid System (TIFMAS), and Texas Emergency Medical Task Force (TEMTF).</span></p><p>As of 8:30 a.m. on September 3, all evacuation orders and road closures for the Game Preserve Fire have been lifted. </p><p>September 16, 2023, 8:00 a.m.<strong> </strong>Management of the fire has been transferred over to Texas A&amp;M Forest Service.</p><p>State resources have been released and, pending any significant change in fire activity, this incident will no longer be updated.</p>",
     "size": "4428",
     "lat_min": "51",
     "lat_sec": "21",
@@ -2622,7 +2622,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Game Preserve Fire",
-    "changed": "3 days ago"
+    "changed": "18 minutes 27 seconds ago"
   },
   {
     "title": "El Valle Fire",
@@ -2643,7 +2643,7 @@
     "long_sec": "39",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF El Valle Fire",
-    "changed": "11 minutes 27 seconds ago"
+    "changed": "37 minutes 8 seconds ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -2664,7 +2664,7 @@
     "long_sec": "22.25",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 hour 58 minutes ago"
+    "changed": "2 hours 24 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2748,7 +2748,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "23 hours 56 minutes ago"
+    "changed": "1 day ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -2769,7 +2769,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "WANCP 2023 Sourdough Fire Burned Area Emergency Response BAER",
-    "changed": "1 day 11 hours ago"
+    "changed": "1 day 12 hours ago"
   },
   {
     "title": "Collier 2",
@@ -2832,7 +2832,7 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "1 day 17 hours ago"
+    "changed": "1 day 18 hours ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -2874,7 +2874,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "19 hours 39 minutes ago"
+    "changed": "20 hours 5 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2895,7 +2895,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "48 minutes 38 seconds ago"
+    "changed": "1 hour 14 minutes ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2937,6 +2937,6 @@
     "long_sec": "93",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDPAF Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
-    "changed": "7 minutes 22 seconds ago"
+    "changed": "33 minutes 3 seconds ago"
   }
 ]
