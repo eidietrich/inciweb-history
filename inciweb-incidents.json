@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "5 hours 46 minutes ago"
+    "changed": "6 hours 12 minutes ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -81,7 +81,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Six Rivers Lightning Complex",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "1 hour 26 minutes ago"
+    "changed": "1 hour 51 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -144,7 +144,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF DoradoCaada del Agua Prescribed Fire",
-    "changed": "5 days 22 hours ago"
+    "changed": "5 days 23 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -396,7 +396,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "COWRF Spring Creek Fire",
-    "changed": "6 days 6 hours ago"
+    "changed": "6 days 7 hours ago"
   },
   {
     "title": "Diamond Fire",
@@ -744,7 +744,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-07-17T14:51:04-04:00\">2023-07-17</time>\n",
     "id": "313492",
-    "field_incident_overview": "<p><em><strong>HTNF Initial Attack Incidents less than 10 acres in size will be placed here. All others will have their own page. </strong></em></p>\n\n<p><em><strong>        DATE/TIME          LOCATION                       NAME                  LAT/LONG                                SIZE                  STATUS         </strong></em></p>\n\n<p>1. 07/08/23 1512     NVHTF-CRD-RENO   <strong>Peavine Peak</strong>    9.593000, -119.988500            8.3 Acres       Controlled</p>\n\n<p>2. 07/19/23 1346     NVHTF-CRD-SOUTH      <strong>Scotts    </strong>      38.767763, -119.941730           1/10 Acre       Controlled</p>\n\n<p>3. 07/20/23 0812     NVHTF-ELY, RD             <strong>Manzonie         </strong>38.793200, -115.367000         1/10 Acre      Controlled</p>\n\n<p>4. 07/20/23 0707     NVHTF-ELY, RD           <strong>Summit Spring    </strong>38.830067, -115.318500       1/10 Acre      Controlled</p>\n\n<p>5. 07/24/23 1402     NVHTF-ELY, RD           <strong> West Spring      </strong>38.825167, -115.319883         3.5 Acres      Controlled</p>\n\n<p>6. 08/09/23 1529     NVHTF-LAS VEGAS     <strong>Mt Sterling</strong>          36.468000, 115.816167          43 Acres     Controlled</p>\n\n<p>7. 08/11/23 1603     NVHTF-CRD-SOUTH      <strong>Hope</strong>                38.756383, 119.909033          1/10 Acre      Controlled</p>\n\n<p>8. 08/14/23 1014    NVHTF-CRD-NORTH       <strong>Rose</strong>                39.327550, 119.927217          1/10 Acre     Controlled</p>\n\n<p>9. 08/17/23 1743    NVHTF-CRD-NORTH      <strong>Mitchell</strong>            39.618095, 120.006950          1/10 Acre      Controlled</p>\n\n<p>10. 08/20/23 0805  NVHTF-CRD-SOUTH      <strong>Davis</strong>                38.655533, 119.906417          1/10 Acre      Controlled</p>\n\n<p> </p>",
+    "field_incident_overview": "<p><em><strong>HTNF Initial Attack Incidents less than 10 acres in size will be placed here. All others will have their own page. </strong></em></p><p><em><strong>        DATE/TIME          LOCATION                       NAME                  LAT/LONG                                SIZE                  STATUS         </strong></em></p><p>1. 07/08/23 1512     NVHTF-CRD-RENO   <strong>Peavine Peak</strong>    9.593000, -119.988500            8.3 Acres       Controlled</p><p>2. 07/19/23 1346     NVHTF-CRD-SOUTH      <strong>Scotts    </strong>      38.767763, -119.941730           1/10 Acre       Controlled</p><p>3. 07/20/23 0812     NVHTF-ELY, RD             <strong>Manzonie         </strong>38.793200, -115.367000         1/10 Acre      Controlled</p><p>4. 07/20/23 0707     NVHTF-ELY, RD           <strong>Summit Spring    </strong>38.830067, -115.318500       1/10 Acre      Controlled</p><p>5. 07/24/23 1402     NVHTF-ELY, RD           <strong> West Spring      </strong>38.825167, -115.319883         3.5 Acres      Controlled</p><p>6. 08/09/23 1529     NVHTF-LAS VEGAS     <strong>Mt Sterling</strong>          36.468000, -115.816167          43 Acres       Controlled</p><p>7. 08/11/23 1603     NVHTF-CRD-SOUTH      <strong>Hope</strong>                38.756383, -119.909033         1/10 Acre      Controlled</p><p>8. 08/14/23 1014    NVHTF-CRD-NORTH       <strong>Rose</strong>                39.327550, -119.927217         1/10 Acre     Controlled</p><p>9. 08/17/23 1743    NVHTF-CRD-NORTH      <strong>Mitchell</strong>            39.618095, -120.006950         1/10 Acre      Controlled</p><p>10. 08/20/23 0805  NVHTF-CRD-SOUTH      <strong>Davis</strong>                38.655533, -119.906417         1/10 Acre      Controlled</p><p>11. 09/09/23 1925  NVHTF-BPORT RD      <strong>Cedar Hill             </strong>38.184800, -118.817250          1/10 Acre     Controlled</p><p>12. 09/10/23 0711  NVHTF-BPORT RD     <strong>Dry Canyon</strong>           38.651417, -119.378917           1/10 Acre    Controlled</p><p>13. 09/10/23 1130  NVHTF-BPORT RD      <strong>Snowline</strong>              38.135772, -119.285560           1/10 Acre    Controlled</p><p>14. 09/10/23 1655  NVHTF-BPORT RD    <strong>Sweetwater            </strong>38.617167, -119.281333            1/10 Acre    Controlled</p><p>15. 09/10/23 1851  NVHTF-BPORT RD     <strong>Sandwash</strong>             38.642743, -119.412062            1/10 Acre    Controlled</p><p>16. 09/19/23 1130  NVHTF-CRD SOUTH   <strong>East Fork      </strong>        38.610250, -119.660717           1/10 Acre     Contained</p><p> </p>",
     "size": "0",
     "lat_min": "31",
     "lat_sec": "25",
@@ -752,8 +752,8 @@
     "long_min": "43",
     "long_sec": "10",
     "measurement_type": "Acres",
-    "field_title_and_unit": "NVHTF HTF 2023 Initial Attack ",
-    "changed": "3 weeks 3 days ago"
+    "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
+    "changed": "6 seconds ago"
   },
   {
     "title": "Cutoff Ridge Fire",
@@ -795,7 +795,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "1 hour 37 minutes ago"
+    "changed": "2 hours 2 minutes ago"
   },
   {
     "title": "Adams Robles Complex Fire ",
@@ -858,7 +858,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "5 hours 53 minutes ago"
+    "changed": "6 hours 19 minutes ago"
   },
   {
     "title": "COWTRACK LIGHTNING FIRE",
@@ -963,7 +963,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Bedrock Fire",
-    "changed": "1 hour 3 minutes ago"
+    "changed": "1 hour 28 minutes ago"
   },
   {
     "title": "2023 Racetrack Fire",
@@ -1509,7 +1509,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1551,7 +1551,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "Salmon Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "1 hour 3 minutes ago"
+    "changed": "1 hour 29 minutes ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1740,7 +1740,7 @@
     "long_sec": "60.00",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDNCF Wahoo Peak Fire",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Snowden Fire",
@@ -1845,7 +1845,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "6 hours 10 minutes ago"
+    "changed": "6 hours 35 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "4 hours 8 minutes ago"
+    "changed": "4 hours 33 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1929,7 +1929,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDBOF East",
-    "changed": "4 days 7 hours ago"
+    "changed": "4 days 8 hours ago"
   },
   {
     "title": "Chilcoot Fire ",
@@ -1950,7 +1950,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDSCF Chilcoot Fire",
-    "changed": "8 hours 19 minutes ago"
+    "changed": "8 hours 45 minutes ago"
   },
   {
     "title": "Blue Lake Fire",
@@ -2034,7 +2034,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "5 hours 8 minutes ago"
+    "changed": "5 hours 34 minutes ago"
   },
   {
     "title": "River Road East Fire",
@@ -2055,7 +2055,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF River Road East Fire",
-    "changed": "8 hours 8 minutes ago"
+    "changed": "8 hours 33 minutes ago"
   },
   {
     "title": "South Fork Complex",
@@ -2076,7 +2076,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "7 hours 22 minutes ago"
+    "changed": "7 hours 48 minutes ago"
   },
   {
     "title": "West Mountain ",
@@ -2139,7 +2139,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "9 hours 2 minutes ago"
+    "changed": "9 hours 27 minutes ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -2160,7 +2160,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "8 hours 3 minutes ago"
+    "changed": "8 hours 29 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "17 hours 54 minutes ago"
+    "changed": "18 hours 20 minutes ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -2223,7 +2223,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "1 hour 42 minutes ago"
+    "changed": "2 hours 7 minutes ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -2244,7 +2244,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "18 hours 22 minutes ago"
+    "changed": "18 hours 48 minutes ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -2265,7 +2265,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "3 hours 33 minutes ago"
+    "changed": "3 hours 58 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Gibbs Forest Fire",
@@ -2328,7 +2328,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "3 hours 11 minutes ago"
+    "changed": "3 hours 36 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "3 hours 6 minutes ago"
+    "changed": "3 hours 32 minutes ago"
   },
   {
     "title": "Brice Creek Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "6 hours 15 minutes ago"
+    "changed": "6 hours 40 minutes ago"
   },
   {
     "title": "Dinner Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "1 hour 41 minutes ago"
+    "changed": "2 hours 7 minutes ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "4 hours 43 minutes ago"
+    "changed": "5 hours 9 minutes ago"
   },
   {
     "title": "Anvil Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 second ago"
+    "changed": "25 minutes 34 seconds ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "8 hours ago"
+    "changed": "8 hours 26 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2496,7 +2496,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "7 hours 57 minutes ago"
+    "changed": "8 hours 22 minutes ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "7 hours 58 minutes ago"
+    "changed": "8 hours 24 minutes ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2538,7 +2538,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Game Preserve Fire",
-    "changed": "6 days 5 hours ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -2559,7 +2559,7 @@
     "long_sec": "22.25",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "8 hours 29 minutes ago"
+    "changed": "8 hours 55 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2727,7 +2727,7 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "1 hour 49 minutes ago"
+    "changed": "2 hours 15 minutes ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -2769,7 +2769,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "1 hour 41 minutes ago"
+    "changed": "2 hours 6 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2782,7 +2782,7 @@
     "created": "<time datetime=\"2023-09-17T00:23:58-04:00\">2023-09-17</time>\n",
     "id": "316033",
     "field_incident_overview": "<p><span>All seven active fires in Olympic National Park ignited when a series of lightning strikes occurred on the Olympic Peninsula in the afternoon on August 28.</span></p><p><span>The fires in Olympic National Park have seen minimal growth in the last few days due to wetting rains over the fire area; A Type 3 incident management organization was established at 0600 on 9/17 to manage the lightning caused fires.</span></p><p>The Delabarre Fire is the largest of the fires and started in the Delabarre Creek drainage and burned to the northeast over a ridge and into the Buckinghorse Creek drainage.</p><p><span>There continues to remain no threat to critical infrastructure or communities from these fires at this time. </span></p><p><span>Smoke from fires burning in Olympic National Park can still be seen throughout the north Olympic Peninsula region. </span></p><p lang=\"en-US\" xml:lang=\"en-US\" xml:lang=\"en-US\">Fire is an integral part of the forested ecosystems on the Olympic Peninsula; plants and animals here have evolved with fire for thousands of years. Many factors such as weather, topography, and vegetation influence fire behavior and the effects that fires have on natural resources.   </p><p lang=\"en-US\" xml:lang=\"en-US\" xml:lang=\"en-US\"> </p><p><strong>Due to wildfire activity the following closures are in effect until further notice: </strong></p><ul><li><span><strong>Elwha River Trail from Whiskey Bend Trailhead to Low Divide</strong></span></li><li><span><strong>Bailey Range Traverse beyond Cat Basin</strong></span></li><li><span><strong>Long Ridge Trail to Dodger Point</strong></span></li><li><span><strong>Hayden Pass Trail</strong></span></li><li><span><strong>Dosewallips River Trail from Dose Meadows to Hayden Pass</strong></span></li><li><span><strong>Dodger Point Way Trail</strong></span></li><li><span><strong>North Fork Quinault Trail from Elip Creek trail junction to Low Divide</strong></span></li><li><span><strong>Skyline Trail from Elip Creek Trail junction to Low Divide</strong></span></li><li><span><strong>Martin Park Trail</strong></span></li><li><span><strong>Obstruction Point Road and Trailhead</strong></span></li></ul><p>Olympic National Park Wilderness Information Center (WIC) will be notifying backcountry permit holders who may be impacted by this closure. Any permit holders who plan to backpack in the above impacted areas should contact the WIC at 360-565-2992 or by emailing OLYM_WIC@nps.gov. </p>",
-    "size": "4702",
+    "size": "4795",
     "lat_min": "44",
     "lat_sec": "13",
     "urlPath": "/waolp-2023-olympic-national-park-lightning-fires",
@@ -2790,7 +2790,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "6 hours 39 minutes ago"
+    "changed": "1 minute 27 seconds ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2832,7 +2832,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "20 hours 57 minutes ago"
+    "changed": "21 hours 22 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2853,7 +2853,7 @@
     "long_sec": "93",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDPAF Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
-    "changed": "7 hours 4 minutes ago"
+    "changed": "7 hours 30 minutes ago"
   },
   {
     "title": "Morgan Fire",
@@ -2874,7 +2874,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "17 minutes 45 seconds ago"
+    "changed": "43 minutes 18 seconds ago"
   },
   {
     "title": "Hope Fire ",
@@ -2895,7 +2895,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "1 hour 40 minutes ago"
+    "changed": "2 hours 6 minutes ago"
   },
   {
     "title": "Buford Wildfire Mountainair Ranger District",
@@ -2937,7 +2937,7 @@
     "long_sec": "08",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAKIF Ida",
-    "changed": "10 hours 46 minutes ago"
+    "changed": "11 hours 11 minutes ago"
   },
   {
     "title": "2023 Happy Camp Complex BAER Assessment",
