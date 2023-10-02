@@ -84,6 +84,27 @@
     "changed": "2 weeks 4 days ago"
   },
   {
+    "title": "Blue Ridge Prescribed Burn",
+    "lat_deg": "40",
+    "long_deg": "106",
+    "field_percent_of_perimeter": "0",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2022-10-06T11:44:14-04:00\">2022-10-06</time>\n",
+    "id": "311786",
+    "field_incident_overview": "<p>The Blue Ridge Salvage and Fuels Reduction Project is part of the Forest Service’s on-going effort to improve forest health conditions on the Sulphur Ranger District. Blue Ridge is the geographic feature that runs North-South from Granby to Fraser, between the East Troublesome, Church Park and Williams Fork fires. Improving conditions in this area is a key component of the Hot Sulphur, Fraser and Grand County Community Wildfire Protection Plans.</p> <p>Much of the adjacent private land is developed or proposed for development. In addition, the adjacent private land contains large ranches and the YMCA of the Rockies’ Snow Mountain Ranch. The project area and the adjacent private land experienced a mountain pine beetle epidemic about a decade ago. As a result, the majority of the mature lodgepole pine trees within this area have been killed, both on and off the National Forest.</p> <p>The prescribed burning portion of the decision includes approximately 11,652 acres to be treated using prescribed burning. Prescribed burning includes burning in shrub lands and aspen to rejuvenate these habitat types; and burning stands of beetle-killed lodgepole pine to accelerate regeneration, reduce hazardous fuels, and improve wildlife habitat. </p> <p>The prescribed burning treatments would be implemented over several years, with the amount treated per year dependent on weather and available resources and generally being between 100 and 2,000 acres per year. Acres treated per year would vary depending on ground conditions at the time of implementation. Close coordination will occur with Grand County and Hot Sulphur Springs to reduce impacts of smoke on the town and individuals sensitive to smoke. Prior to implementing prescribed fire the Forest Service will also coordinate and review implementation procedures with the County and Town.</p>",
+    "size": "",
+    "lat_min": "2",
+    "lat_sec": "1",
+    "urlPath": "/coarf-blue-ridge-prescribed-burn",
+    "long_min": "3",
+    "long_sec": "10",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
+    "changed": "12 minutes 6 seconds ago"
+  },
+  {
     "title": "San Juan National Forest Prescribed Fire Program",
     "lat_deg": "37",
     "long_deg": "107",
@@ -102,7 +123,28 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "3 days 13 hours ago"
+    "changed": "3 days 14 hours ago"
+  },
+  {
+    "title": "Magic Feather Prescribed Burn",
+    "lat_deg": "40",
+    "long_deg": "105",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "Although the entire project area is 6,329 acres, 520 acres have previously been burned. For spring 2023, we anticipate 1,255 acres could be burned. ",
+    "field_active": "1",
+    "created": "<time datetime=\"2022-11-08T12:02:21-05:00\">2022-11-08</time>\n",
+    "id": "312554",
+    "field_incident_overview": "<p><strong>July 31 Update:</strong></p>\n\n<p>Over the weekend, the burn area received some precipitation. This, along with work by firefighters along the trails in the area, allows those trails to open back up. Firefighters are pulling closure signs today in anticipation of the trails opening back up tomorrow. Firefighters will continue to be in the area monitoring, but no additional burning is expected at this time. Last week, 553 acres were successfully burned. </p>\n\n<p><strong>July 20 Update: </strong></p>\n\n<p>Firefighters have been closely monitoring local conditions at the Magic Feather Prescribed Burn, located south and southeast of Red Feather Lakes. Burning could begin as soon as July 24, 2023. Until recently, conditions at this site have been too wet to carry fire and achieve the desired fuel reduction effects.</p>\n\n<p>Burning of the Magic Feather Prescribed Burn has been taking place over recent years as conditions have allowed. In May 2023, 200 acres were successfully burned, all north of County Road 74E (Red Feather Lakes Road).</p>\n\n<p>People in the area should expect to see smoke when operations are taking place, including around Dowdy Lake and West Lake campgrounds and day-use areas. The trail system in the Mount Margaret, Molly Lake, Elkhorn and Lady Moon area is open until burning resumes but will be closed during burning operations.</p>\n\n<p>___________________________________</p>\n\n<p><span><span><span><span><span>The burn is located east and southeast of Red Feather Lakes. Work has already taken place in the area to prepare for ignitions, including tree cutting around the perimeter and within the interior of the project.</span></span></span></span></span></p>\n\n<p><span><span><span><span><span>Appropriate, localized conditions must be met before ignition of prescribed burns can take place. Fire managers have been carefully monitoring these conditions, including favorable weather forecast (temperature, wind, precipitation, relative humidity), fuel moisture, smoke dispersal and staffing. Weather is monitored throughout the burn and burning is halted if conditions fall outside of the required conditions.</span></span></span></span></span></p>\n\n<p><span><span><span><span><span>People in the area should expect to see smoke when operations are taking place. Smoke may also impact those using the Dowdy Lake Campgrounds and Day-Use Area. Prescribed fire smoke may affect your health. More information about smoke impacts is available at </span></span></span><strong><span><span><a href=\"https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health\">https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health</a></span></span></strong><span><span><span>.</span></span></span></span></span></p>\n\n<p><span><span><span><span><span>Even with the most thorough planning and preparation, the use of prescribed fire carries an innate level of risk that cannot be eliminated entirely. However, prescribed fire is one of the most efficient ways of reducing wildfire risk. Regularly conducting prescribed fires, which mimic nature, reduces the buildup of flammable vegetation and overgrowth.</span></span></span></span></span></p>\n\n<p><span><span><span>To receive updates, follow us on </span></span></span><span><span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001_4jQevMBOHm3ij4X-dPiBcWzTzhBlKNG7Ak20ATiL5hV8dbH0ztFvQihs44UwsWlSe5bGkI176N1h-l5TyqtuEYfaE-_LANcpc9obrtT3nKEAqFO18PTR_dqaAf8xPtNcyHOtfrqyMKc1KJyLkHLe0bNKsbpmaxc%26c%3Dtu6-bHUBD7B_o7CiWT7VjbjY3EQ2RGUdJBnV-2-5PJc7kz6ezD4ikQ%3D%3D%26ch%3DKkBmbkI9Pj8Pw596zy9vJ8hEwx5R_V70FL4MGPZT38jjcVXICPoHrQ%3D%3D&amp;data=05%7C01%7C%7C8d7f5e8910d04f77a0d108db467312f9%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C638181304112273720%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=P1Ou3zBgeWBfIK4j%2BLeuEVKv5zx3UIfq4QcPlVYZJFY%3D&amp;reserved=0\"><strong><span>facebook</span></strong></a><span> and </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001_4jQevMBOHm3ij4X-dPiBcWzTzhBlKNG7Ak20ATiL5hV8dbH0ztFvQihs44UwsWlvNfg4L24yNGmpu9fPnYBAJtkHFFkIvXBbTSaxVAht5IWVcU3hkHisQptxY3jQ5vxqilRu7y7KVtWlVz_jX-eqQ%3D%3D%26c%3Dtu6-bHUBD7B_o7CiWT7VjbjY3EQ2RGUdJBnV-2-5PJc7kz6ezD4ikQ%3D%3D%26ch%3DKkBmbkI9Pj8Pw596zy9vJ8hEwx5R_V70FL4MGPZT38jjcVXICPoHrQ%3D%3D&amp;data=05%7C01%7C%7C8d7f5e8910d04f77a0d108db467312f9%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C638181304112273720%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=xYh6uQsYifWyNPeUQOlhzbPuxGpy9a2r5%2FcjrVk80B0%3D&amp;reserved=0\"><strong><span>twitter</span></strong></a><span> and join our email list through Constant Contact and select list \"Forest Health &amp; Fire: North of Hwy 14 to Wyoming Border (Red Feather Lakes).\" </span></span></span></p>",
+    "size": "6329",
+    "lat_min": "46",
+    "lat_sec": "46.5492",
+    "urlPath": "/coarf-magic-feather-prescribed-burn",
+    "long_min": "32",
+    "long_sec": "16.692",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
+    "changed": "11 minutes 20 seconds ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -732,7 +774,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "14 minutes 54 seconds ago"
+    "changed": "4 seconds ago"
   },
   {
     "title": "Adams Robles Complex Fire ",
@@ -795,7 +837,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "6 days 22 hours ago"
+    "changed": "6 days 23 hours ago"
   },
   {
     "title": "COWTRACK LIGHTNING FIRE",
@@ -1047,7 +1089,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Turkey Fire",
-    "changed": "4 days ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Anderson Complex",
@@ -1242,13 +1284,13 @@
     "title": "Ridge Creek",
     "lat_deg": "47",
     "long_deg": "116",
-    "field_percent_of_perimeter": "80",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "Wildfire",
     "field_active": "1",
     "created": "<time datetime=\"2023-08-03T19:11:11-04:00\">2023-08-03</time>\n",
     "id": "314006",
-    "field_incident_overview": "<p>The Ridge Creek Fire was reported on 8/3 at 2:30 PM, burning in the Ridge Creek drainage, approximately three miles east of the northern tip of Hayden Lake.</p>\n\n<p>On September 9, 2023 the Coeur d'Alene River Ranger District  assumed command of the fire.</p>\n\n<p>Investigators have determined that the fire was human-caused.</p>\n\n<p> </p>",
+    "field_incident_overview": "<p>**The Ridge Creek Fire is 100% contained. This inciweb page will stay active until the closure order is rescinded, which is set for October 6th. </p><p> </p><p>The Ridge Creek Fire was reported on 8/3 at 2:30 PM, burning in the Ridge Creek drainage, approximately three miles east of the northern tip of Hayden Lake.</p><p>On September 9, 2023 the Coeur d'Alene River Ranger District  assumed command of the fire.</p><p>Investigators have determined that the fire was human-caused.</p><p> </p>",
     "size": "4474",
     "lat_min": "49",
     "lat_sec": "25",
@@ -1257,7 +1299,7 @@
     "long_sec": "50",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDIPF Ridge Creek",
-    "changed": "1 week 5 days ago"
+    "changed": "2 minutes 2 seconds ago"
   },
   {
     "title": "Margarita Fire",
@@ -1404,7 +1446,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "18 hours 8 minutes ago"
+    "changed": "18 hours 30 minutes ago"
   },
   {
     "title": "Sidney Fire",
@@ -1446,7 +1488,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "1 day 21 hours ago"
+    "changed": "1 day 22 hours ago"
   },
   {
     "title": "Salmon Fire",
@@ -1509,7 +1551,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "11 hours 41 minutes ago"
+    "changed": "12 hours 4 minutes ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1698,7 +1740,7 @@
     "long_sec": "2.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNP 2023 York Fire Burned Area Emergency Response BAER",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "August Lightning Fires",
@@ -1740,7 +1782,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "44 minutes 47 seconds ago"
+    "changed": "38 seconds ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1761,7 +1803,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 hour 51 minutes ago"
+    "changed": "2 hours 13 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1908,7 +1950,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "18 hours 58 minutes ago"
+    "changed": "19 hours 20 minutes ago"
   },
   {
     "title": "River Road East Fire",
@@ -1950,7 +1992,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "23 hours 33 minutes ago"
+    "changed": "23 hours 55 minutes ago"
   },
   {
     "title": "McKinney Fire",
@@ -1992,7 +2034,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -2013,7 +2055,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "15 hours 48 minutes ago"
+    "changed": "16 hours 11 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -2034,7 +2076,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "1 day 16 hours ago"
+    "changed": "1 day 17 hours ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -2076,7 +2118,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "11 minutes 52 seconds ago"
+    "changed": "34 minutes 13 seconds ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -2097,7 +2139,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "4 days 14 hours ago"
+    "changed": "4 days 15 hours ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -2118,7 +2160,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "23 hours 9 minutes ago"
+    "changed": "23 hours 32 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -2181,7 +2223,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "11 hours 35 minutes ago"
+    "changed": "11 hours 58 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2244,7 +2286,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Dinner Fire",
@@ -2265,7 +2307,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2286,7 +2328,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "11 minutes 51 seconds ago"
+    "changed": "34 minutes 12 seconds ago"
   },
   {
     "title": "Anvil Fire",
@@ -2307,7 +2349,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "14 minutes 55 seconds ago"
+    "changed": "1 minute 26 seconds ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2328,7 +2370,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "15 hours 44 minutes ago"
+    "changed": "16 hours 6 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2349,7 +2391,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "15 hours 35 minutes ago"
+    "changed": "15 hours 57 minutes ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2370,7 +2412,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "15 hours 38 minutes ago"
+    "changed": "16 hours ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2412,7 +2454,7 @@
     "long_sec": "22.25",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "4 days ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Marmot Fire",
@@ -2580,7 +2622,7 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "6 days 18 hours ago"
+    "changed": "6 days 19 hours ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -2622,7 +2664,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "2 days 15 hours ago"
+    "changed": "2 days 16 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2664,7 +2706,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 second ago"
+    "changed": "13 minutes 40 seconds ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2727,7 +2769,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "2 days 10 hours ago"
+    "changed": "2 days 11 hours ago"
   },
   {
     "title": "Hope Fire ",
@@ -2748,7 +2790,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "23 hours 26 minutes ago"
+    "changed": "23 hours 48 minutes ago"
   },
   {
     "title": "Buford Wildfire Mountainair Ranger District",
@@ -2811,7 +2853,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "4 days 11 hours ago"
+    "changed": "4 days 12 hours ago"
   },
   {
     "title": "Cecil Fire",
@@ -2832,7 +2874,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "1 hour 48 minutes ago"
+    "changed": "18 minutes 39 seconds ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2874,7 +2916,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "5 days 12 hours ago"
+    "changed": "5 days 13 hours ago"
   },
   {
     "title": "Still Fire",
@@ -2895,6 +2937,6 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "11 hours 23 minutes ago"
+    "changed": "11 hours 45 minutes ago"
   }
 ]
