@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "5 days 15 hours ago"
+    "changed": "5 days 16 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -102,7 +102,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "18 hours 55 minutes ago"
+    "changed": "19 hours 7 minutes ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -774,7 +774,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "2 hours 2 minutes ago"
+    "changed": "2 hours 14 minutes ago"
   },
   {
     "title": "Adams Robles Complex Fire ",
@@ -1218,27 +1218,6 @@
     "changed": "1 month 3 weeks ago"
   },
   {
-    "title": "Dry Lake",
-    "lat_deg": "37",
-    "long_deg": "107",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Full Suppression",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-02T17:41:51-04:00\">2023-08-02</time>\n",
-    "id": "313953",
-    "field_incident_overview": "<p>The Dry Lake Fire is a lightning-caused fire currently burning on San Juan National Forest land in Archuleta County, Colorado<span> in the First Notch area on the Columbine Ranger District. It is 12 miles northeast of Bayfield. The lightning-caused fire started within a network of Off Highway Vehicle (OHV) trails and Forest Service System Roads that are being used as containment lines. </span></p>\n\n<p><span><span><span><span><span><span>The fire remains at 1,372 acres and is 100</span></span></span><span><span><span> percent contained</span></span></span><span><span><span><span><span><span><span><span><span><span><span><span><span>. <span>Firefighters continue to mop up and patrol fireline as needed</span><span><span><span>. Pockets of vegetation inside the </span></span></span><span><span><span>fireline</span></span></span><span><span><span> will continue to smolder, though fire activity and smoke production will remain minimal. </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>The Dry Lake Fire was transitioned from the San Juan National Forest Type 3 Incident Management Team to the local unit's Type 4 Incident Commander on August 7th.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<p><span>Light smoke may be visible to travelers along US Highway 160 between Bayfield and Pagosa Springs, and to some residents in La Plata and Archuleta counties. Please watch for extra fire traffic in the area and along First Notch Road (FR 620).</span></p>",
-    "size": "1372",
-    "lat_min": "16",
-    "lat_sec": "15",
-    "urlPath": "/cosjf-dry-lake",
-    "long_min": "23",
-    "long_sec": "16",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COSJF Dry Lake",
-    "changed": "1 month 2 weeks ago"
-  },
-  {
     "title": "Ridge Fire",
     "lat_deg": "48",
     "long_deg": "113",
@@ -1551,7 +1530,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "1 hour 1 minute ago"
+    "changed": "1 hour 13 minutes ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1782,7 +1761,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "2 hours 44 minutes ago"
+    "changed": "2 hours 56 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1971,7 +1950,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF River Road East Fire",
-    "changed": "4 days 3 hours ago"
+    "changed": "4 days 4 hours ago"
   },
   {
     "title": "South Fork Complex",
@@ -2055,7 +2034,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "2 hours 20 minutes ago"
+    "changed": "2 hours 32 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -2118,7 +2097,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "17 hours 11 minutes ago"
+    "changed": "17 hours 23 minutes ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -2160,7 +2139,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "1 hour 22 minutes ago"
+    "changed": "1 hour 34 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -2223,7 +2202,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "53 minutes 28 seconds ago"
+    "changed": "1 hour 5 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2265,7 +2244,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "1 hour 20 minutes ago"
+    "changed": "1 hour 32 minutes ago"
   },
   {
     "title": "Brice Creek Fire",
@@ -2328,7 +2307,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "18 hours ago"
+    "changed": "18 hours 12 minutes ago"
   },
   {
     "title": "Anvil Fire",
@@ -2349,7 +2328,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "2 hours 2 minutes ago"
+    "changed": "2 hours 14 minutes ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2370,7 +2349,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "2 hours 20 minutes ago"
+    "changed": "2 hours 32 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2391,7 +2370,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "2 hours 20 minutes ago"
+    "changed": "2 hours 32 minutes ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2412,7 +2391,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "2 hours 20 minutes ago"
+    "changed": "2 hours 32 minutes ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2454,7 +2433,7 @@
     "long_sec": "22.25",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 35 minutes ago"
+    "changed": "3 hours 46 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2538,7 +2517,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -2685,7 +2664,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2706,7 +2685,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 hour 53 minutes ago"
+    "changed": "2 hours 5 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2727,7 +2706,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "21 hours 27 minutes ago"
+    "changed": "21 hours 39 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2790,7 +2769,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "2 hours 49 minutes ago"
+    "changed": "3 hours 1 minute ago"
   },
   {
     "title": "Buford Wildfire Mountainair Ranger District",
@@ -2811,7 +2790,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "20 hours 55 minutes ago"
+    "changed": "21 hours 6 minutes ago"
   },
   {
     "title": "Ida",
@@ -2832,7 +2811,7 @@
     "long_sec": "08",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAKIF Ida",
-    "changed": "2 days 5 hours ago"
+    "changed": "2 days 6 hours ago"
   },
   {
     "title": "2023 Happy Camp Complex BAER Assessment",
@@ -2874,7 +2853,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "1 second ago"
+    "changed": "4 minutes 55 seconds ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2895,7 +2874,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "2 days 14 hours ago"
+    "changed": "2 days 15 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2937,6 +2916,6 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "13 hours 31 minutes ago"
+    "changed": "5 seconds ago"
   }
 ]
