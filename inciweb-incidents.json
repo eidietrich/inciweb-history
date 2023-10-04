@@ -93,7 +93,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2022-10-06T11:44:14-04:00\">2022-10-06</time>\n",
     "id": "311786",
-    "field_incident_overview": "<p>The Blue Ridge Salvage and Fuels Reduction Project is part of the Forest Service’s on-going effort to improve forest health conditions on the Sulphur Ranger District. Blue Ridge is the geographic feature that runs North-South from Granby to Fraser, between the East Troublesome, Church Park and Williams Fork fires. Improving conditions in this area is a key component of the Hot Sulphur, Fraser and Grand County Community Wildfire Protection Plans.</p><p>Much of the adjacent private land is developed or proposed for development. In addition, the adjacent private land contains large ranches and the YMCA of the Rockies’ Snow Mountain Ranch. The project area and the adjacent private land experienced a mountain pine beetle epidemic about a decade ago. As a result, the majority of the mature lodgepole pine trees within this area have been killed, both on and off the National Forest.</p><p>The prescribed burning portion of the decision includes approximately 11,652 acres to be treated using prescribed burning. Prescribed burning includes burning in shrub lands and aspen to rejuvenate these habitat types; and burning stands of beetle-killed lodgepole pine to accelerate regeneration, reduce hazardous fuels, and improve wildlife habitat.</p><p>The prescribed burning treatments would be implemented over several years, with the amount treated per year dependent on weather and available resources, and generally being between 100 and 2,000 acres per year. Acres treated per year would vary depending on ground conditions at the time of implementation. Close coordination will occur with Grand County and Hot Sulphur Springs to reduce the impacts of smoke on the town and individuals sensitive to smoke. Prior to implementing prescribed fire the Forest Service will also coordinate and review implementation procedures with the County and Town.</p><p><span>In past seasons, Arapaho National Forest firefighters with the help of many local cooperating agencies have successfully burned approximately 500 acres in the Blue Ridge area. This fall, fire managers are preparing to burn up to 1200 acres over multiple days, starting in Big Meadows south of Cottonwood Pass. Several local cooperating agencies will be involved. If conditions allow, burning could begin as soon as October 9, 2023.</span></p>",
+    "field_incident_overview": "<p>Burning to begin Oct. 6th. </p><p>_____________________________________________________________________________________________________</p><p> </p><p>The Blue Ridge Salvage and Fuels Reduction Project is part of the Forest Service’s on-going effort to improve forest health conditions on the Sulphur Ranger District. Blue Ridge is the geographic feature that runs North-South from Granby to Fraser, between the East Troublesome, Church Park and Williams Fork fires. Improving conditions in this area is a key component of the Hot Sulphur, Fraser and Grand County Community Wildfire Protection Plans.</p><p>Much of the adjacent private land is developed or proposed for development. In addition, the adjacent private land contains large ranches and the YMCA of the Rockies’ Snow Mountain Ranch. The project area and the adjacent private land experienced a mountain pine beetle epidemic about a decade ago. As a result, the majority of the mature lodgepole pine trees within this area have been killed, both on and off the National Forest.</p><p>The prescribed burning portion of the decision includes approximately 11,652 acres to be treated using prescribed burning. Prescribed burning includes burning in shrub lands and aspen to rejuvenate these habitat types; and burning stands of beetle-killed lodgepole pine to accelerate regeneration, reduce hazardous fuels, and improve wildlife habitat.</p><p>The prescribed burning treatments would be implemented over several years, with the amount treated per year dependent on weather and available resources, and generally being between 100 and 2,000 acres per year. Acres treated per year would vary depending on ground conditions at the time of implementation. Close coordination will occur with Grand County and Hot Sulphur Springs to reduce the impacts of smoke on the town and individuals sensitive to smoke. Prior to implementing prescribed fire the Forest Service will also coordinate and review implementation procedures with the County and Town.</p><p><span>In past seasons, Arapaho National Forest firefighters with the help of many local cooperating agencies have successfully burned approximately 500 acres in the Blue Ridge area. This fall, fire managers are preparing to burn up to 1200 acres over multiple days, starting in Big Meadows south of Cottonwood Pass. Several local cooperating agencies will be involved. If conditions allow, burning could begin as soon as October 9, 2023.</span></p>",
     "size": "",
     "lat_min": "2",
     "lat_sec": "39",
@@ -102,7 +102,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "1 day 17 hours ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -144,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -732,7 +732,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "41 seconds ago"
+    "changed": "10 minutes 27 seconds ago"
   },
   {
     "title": "Adams Robles Complex Fire ",
@@ -1047,7 +1047,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Turkey Fire",
-    "changed": "21 hours 51 minutes ago"
+    "changed": "22 hours 11 minutes ago"
   },
   {
     "title": "Anderson Complex",
@@ -1236,7 +1236,7 @@
     "long_sec": "50",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDIPF Ridge Creek",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "Margarita Fire",
@@ -1383,7 +1383,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "5 seconds ago"
+    "changed": "16 minutes 13 seconds ago"
   },
   {
     "title": "Sidney Fire",
@@ -1425,7 +1425,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "5 seconds ago"
+    "changed": "20 minutes 37 seconds ago"
   },
   {
     "title": "Salmon Fire",
@@ -1488,7 +1488,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "11 hours 28 minutes ago"
+    "changed": "11 hours 49 minutes ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "2.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNP 2023 York Fire Burned Area Emergency Response BAER",
-    "changed": "4 weeks 1 day ago"
+    "changed": "1 month ago"
   },
   {
     "title": "August Lightning Fires",
@@ -1719,7 +1719,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "54 minutes 48 seconds ago"
+    "changed": "1 hour 15 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1740,7 +1740,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "2 hours ago"
+    "changed": "2 hours 21 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1887,7 +1887,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "2 days 18 hours ago"
+    "changed": "2 days 19 hours ago"
   },
   {
     "title": "River Road East Fire",
@@ -1929,7 +1929,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "15 hours 9 minutes ago"
+    "changed": "15 hours 30 minutes ago"
   },
   {
     "title": "McKinney Fire",
@@ -1971,7 +1971,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -1992,7 +1992,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "39 minutes 1 second ago"
+    "changed": "59 minutes 33 seconds ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -2013,7 +2013,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "7 minutes 21 seconds ago"
+    "changed": "27 minutes 53 seconds ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -2055,7 +2055,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "16 hours 56 minutes ago"
+    "changed": "17 hours 17 minutes ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -2097,7 +2097,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "23 hours 34 minutes ago"
+    "changed": "23 hours 54 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -2160,7 +2160,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "11 hours 27 minutes ago"
+    "changed": "11 hours 48 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2202,7 +2202,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "23 hours 32 minutes ago"
+    "changed": "23 hours 53 minutes ago"
   },
   {
     "title": "Brice Creek Fire",
@@ -2223,7 +2223,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "1 day 22 hours ago"
+    "changed": "1 day 23 hours ago"
   },
   {
     "title": "Dinner Fire",
@@ -2244,7 +2244,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "1 day 22 hours ago"
+    "changed": "1 day 23 hours ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2265,7 +2265,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "16 hours 57 minutes ago"
+    "changed": "17 hours 17 minutes ago"
   },
   {
     "title": "Anvil Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "27 seconds ago"
+    "changed": "10 minutes 28 seconds ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2307,7 +2307,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "39 minutes ago"
+    "changed": "59 minutes 32 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2328,7 +2328,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "38 minutes 59 seconds ago"
+    "changed": "59 minutes 31 seconds ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2349,7 +2349,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "39 minutes ago"
+    "changed": "59 minutes 32 seconds ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "59 minutes 25 seconds ago"
+    "changed": "1 hour 19 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2601,7 +2601,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "4 days 15 hours ago"
+    "changed": "4 days 16 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2622,7 +2622,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "12 hours 17 minutes ago"
+    "changed": "12 hours 38 minutes ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2664,7 +2664,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "1 day 19 hours ago"
+    "changed": "1 day 20 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2706,7 +2706,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "4 days 10 hours ago"
+    "changed": "4 days 11 hours ago"
   },
   {
     "title": "Hope Fire ",
@@ -2727,7 +2727,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "19 minutes 17 seconds ago"
+    "changed": "39 minutes 49 seconds ago"
   },
   {
     "title": "Buford Wildfire Mountainair Ranger District",
@@ -2790,7 +2790,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "6 days 11 hours ago"
+    "changed": "6 days 12 hours ago"
   },
   {
     "title": "Cecil Fire",
@@ -2811,7 +2811,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "1 hour 40 minutes ago"
+    "changed": "2 hours ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2832,7 +2832,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "13 hours ago"
+    "changed": "13 hours 20 minutes ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2874,6 +2874,6 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "13 hours 3 minutes ago"
+    "changed": "13 hours 24 minutes ago"
   }
 ]
