@@ -102,7 +102,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "1 day 1 hour ago"
+    "changed": "4 seconds ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "6 days 16 hours ago"
+    "changed": "6 days 17 hours ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -144,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 hour ago"
+    "changed": "1 hour 11 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -441,27 +441,6 @@
     "changed": "2 months 4 weeks ago"
   },
   {
-    "title": "Pilot Fire ",
-    "lat_deg": "34",
-    "long_deg": "113",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-02T16:01:12-04:00\">2023-07-02</time>\n",
-    "id": "313295",
-    "field_incident_overview": "<p>As of Thursday, August 3, 2023, the Pilot Fire is now 100% contained at 34,810 acres. </p>\n\n<p><span><span><span>The human-caused Pilot Fire started Saturday, July 1, around 11 am near the O RO Ranch, approximately 20 miles east of the town of Wikieup in Yavapai County. </span></span></span><span><span><span>That afternoon, the terrain-driven fire made a run up Pilot Knob and produced a highly visible smoke column noticeable to residents as far away as Kingman. The fire is located in remote and rugged terrain within the Mohon Mountains, in a sparsely populated area with significant fire history. </span></span></span></p>\n\n<p>Department of Forestry and Fire Management Facebook: <a href=\"https://www.facebook.com/arizonaforestry\">https://www.facebook.com/arizonaforestry</a></p>\n\n<p>Department of Forestry and Fire Management Twitter: <a href=\"https://twitter.com/azstateforestry\">https://twitter.com/azstateforestry</a></p>",
-    "size": "34810",
-    "lat_min": "51",
-    "lat_sec": "23",
-    "urlPath": "/aza5s-pilot-fire",
-    "long_min": "17",
-    "long_sec": "38",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZA5S Pilot Fire ",
-    "changed": "2 months ago"
-  },
-  {
     "title": "Tunnel Five Fire",
     "lat_deg": "45",
     "long_deg": "121",
@@ -732,28 +711,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "1 hour 34 minutes ago"
-  },
-  {
-    "title": "Adams Robles Complex Fire ",
-    "lat_deg": "32",
-    "long_deg": "110",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-20T00:51:26-04:00\">2023-07-20</time>\n",
-    "id": "313529",
-    "field_incident_overview": "<p>The Adams Robles Complex is now 100% contained at 5,232 acres. </p>\n\n<p><span><span><span><span>The the Adams Peak and Robles Fires started July, 19, east of Dragoon, and both as a result of lightning strikes. The Adams Peak is located north of Interstate 10 and the Robles Fire is on the south side of I-10. Due to the close proximity of the two fires, the Arizona Department of Forestry and Fire Management complexed the fires to manage as one incident. </span></span></span></span></p>\n\n<p> </p>\n\n<p>DFFM Facebook: <a href=\"https://www.facebook.com/arizonaforestry\">https://www.facebook.com/arizonaforestry</a></p>\n\n<p>DFFM Twitter: <a href=\"https://twitter.com/azstateforestry\">https://twitter.com/azstateforestry</a></p>\n\n<p>Cochise County Sheriff's Office: <a href=\"https://www.facebook.com/CochiseSO\">https://www.facebook.com/CochiseSO</a></p>\n\n<p>Arizona Department of Transportation Road Information: <a href=\"az511.gov\">az511.gov</a></p>",
-    "size": "5232",
-    "lat_min": "00",
-    "lat_sec": "49.4",
-    "urlPath": "/aza3s-adams-robles-complex-fire",
-    "long_min": "05",
-    "long_sec": "23.3",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZA3S Adams Robles Complex Fire ",
-    "changed": "2 months 1 week ago"
+    "changed": "1 hour 45 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -774,7 +732,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTMTS Colt Fire",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -1344,27 +1302,6 @@
     "changed": "1 month 1 week ago"
   },
   {
-    "title": "Brady Fire ",
-    "lat_deg": "34",
-    "long_deg": "111",
-    "field_percent_of_perimeter": "80",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-06T22:33:10-04:00\">2023-08-06</time>\n",
-    "id": "314184",
-    "field_incident_overview": "<p>The Brady Fire is now 100% contained at 264 acres. All resources have been released from the incident. The Coconino and Tonto National Forests have rescinded their Emergency Closure Order. </p>\n\n<p><span><span><span><span><span>Stage 1 fire restrictions remain in effect on Arizona State Trust lands in Gila County and within the Tonto National Forest. Under Stage 1 restrictions, campfires are allowed only within a designated and developed campsite. </span></span></span></span></span></p>\n\n<p>The fire started Sunday, August 6, around 2 pm approximately 11 miles north of Payson near the Mogollon Rim. Crews off the Payson Ranger District and DFFM resources engaged immediately with initial attack. At the time of the initial start, the fire was producing two columns and was pushing to the north and east toward the Mogollon Rim. It is burning through Ponderosa pine, grass and brush within unforgiving terrain. </p>\n\n<p>READY, SET GO: <a href=\"https://ein.az.gov/ready-set-go\">https://ein.az.gov/ready-set-go</a></p>",
-    "size": "264",
-    "lat_min": "24",
-    "lat_sec": "33.1",
-    "urlPath": "/aza4s-brady-fire",
-    "long_min": "19",
-    "long_sec": "58.8",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZA4S Brady Fire ",
-    "changed": "1 month 2 weeks ago"
-  },
-  {
     "title": "Quartz Ridge Fire",
     "lat_deg": "37",
     "long_deg": "106",
@@ -1383,7 +1320,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1488,7 +1425,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "2 hours 10 minutes ago"
+    "changed": "2 hours 21 minutes ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1719,7 +1656,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "2 hours 6 minutes ago"
+    "changed": "2 hours 17 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1740,7 +1677,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "3 hours 36 minutes ago"
+    "changed": "3 hours 47 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1887,7 +1824,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 22 hours ago"
   },
   {
     "title": "River Road East Fire",
@@ -1929,7 +1866,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "23 hours 17 minutes ago"
+    "changed": "23 hours 28 minutes ago"
   },
   {
     "title": "McKinney Fire",
@@ -1971,7 +1908,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "20 hours 22 minutes ago"
+    "changed": "20 hours 33 minutes ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -1992,7 +1929,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "1 hour 24 minutes ago"
+    "changed": "1 hour 35 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -2055,7 +1992,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "4 hours 32 minutes ago"
+    "changed": "4 hours 43 minutes ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -2097,7 +2034,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "2 hours 10 minutes ago"
+    "changed": "2 hours 21 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -2160,7 +2097,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "2 hours 10 minutes ago"
+    "changed": "2 hours 21 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2265,7 +2202,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "3 hours 48 minutes ago"
+    "changed": "3 hours 59 minutes ago"
   },
   {
     "title": "Anvil Fire",
@@ -2286,7 +2223,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 hour 34 minutes ago"
+    "changed": "1 hour 45 minutes ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2307,7 +2244,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "1 hour 18 minutes ago"
+    "changed": "1 hour 29 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2328,7 +2265,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "1 hour 12 minutes ago"
+    "changed": "1 hour 23 minutes ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2349,7 +2286,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "1 hour 15 minutes ago"
+    "changed": "1 hour 26 minutes ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2391,7 +2328,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "4 hours 36 minutes ago"
+    "changed": "4 hours 47 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2601,7 +2538,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "5 days 18 hours ago"
+    "changed": "5 days 19 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2643,7 +2580,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "21 hours 57 minutes ago"
+    "changed": "39 seconds ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2748,7 +2685,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "23 hours 48 minutes ago"
+    "changed": "23 hours 59 minutes ago"
   },
   {
     "title": "Ida",
@@ -2769,7 +2706,7 @@
     "long_sec": "08",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAKIF Ida",
-    "changed": "4 days 6 hours ago"
+    "changed": "4 days 7 hours ago"
   },
   {
     "title": "2023 Happy Camp Complex BAER Assessment",
@@ -2790,7 +2727,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "18 hours 12 minutes ago"
+    "changed": "18 hours 23 minutes ago"
   },
   {
     "title": "Cecil Fire",
@@ -2811,7 +2748,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "3 hours 55 minutes ago"
+    "changed": "4 hours 6 minutes ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2832,7 +2769,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "1 day 15 hours ago"
+    "changed": "1 day 16 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2874,7 +2811,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "5 seconds ago"
+    "changed": "7 minutes 49 seconds ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2895,7 +2832,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "23 hours 52 minutes ago"
+    "changed": "1 day ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2916,7 +2853,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "2 hours 26 minutes ago"
+    "changed": "2 hours 37 minutes ago"
   },
   {
     "title": "Hope Fire",
@@ -2937,6 +2874,6 @@
     "long_sec": "12 ",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "49 minutes 32 seconds ago"
+    "changed": "1 hour ago"
   }
 ]
