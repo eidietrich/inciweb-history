@@ -81,7 +81,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "21 hours 48 minutes ago"
+    "changed": "22 hours ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "23 hours ago"
+    "changed": "23 hours 12 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -669,7 +669,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "52 minutes 41 seconds ago"
+    "changed": "1 hour 4 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1134,27 +1134,6 @@
     "changed": "1 month 2 weeks ago"
   },
   {
-    "title": "Ridge Creek",
-    "lat_deg": "47",
-    "long_deg": "116",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-03T19:11:11-04:00\">2023-08-03</time>\n",
-    "id": "314006",
-    "field_incident_overview": "<p>**The Ridge Creek Fire is 100% contained. This inciweb page will stay active until the closure order is rescinded, which is set for October 6th. </p><p> </p><p>The Ridge Creek Fire was reported on 8/3 at 2:30 PM, burning in the Ridge Creek drainage, approximately three miles east of the northern tip of Hayden Lake.</p><p>On September 9, 2023 the Coeur d'Alene River Ranger District  assumed command of the fire.</p><p>Investigators have determined that the fire was human-caused.</p><p> </p>",
-    "size": "4474",
-    "lat_min": "49",
-    "lat_sec": "25",
-    "urlPath": "/idipf-ridge-creek",
-    "long_min": "36",
-    "long_sec": "50",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "IDIPF Ridge Creek",
-    "changed": "4 days ago"
-  },
-  {
     "title": "Margarita Fire",
     "lat_deg": "47",
     "long_deg": "124",
@@ -1278,7 +1257,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "2 days ago"
+    "changed": "2 days 1 hour ago"
   },
   {
     "title": "Sidney Fire",
@@ -1383,7 +1362,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "29 minutes 49 seconds ago"
+    "changed": "41 minutes 58 seconds ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1614,7 +1593,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "41 minutes 41 seconds ago"
+    "changed": "53 minutes 50 seconds ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1635,7 +1614,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 hour ago"
+    "changed": "1 hour 12 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1782,7 +1761,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "4 days 19 hours ago"
+    "changed": "4 days 20 hours ago"
   },
   {
     "title": "River Road East Fire",
@@ -1887,7 +1866,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "1 hour 23 minutes ago"
+    "changed": "1 hour 35 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1950,7 +1929,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "2 hours 42 minutes ago"
+    "changed": "23 seconds ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -1992,7 +1971,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "36 minutes 2 seconds ago"
+    "changed": "48 minutes 11 seconds ago"
   },
   {
     "title": "Redwood Fire",
@@ -2055,7 +2034,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "28 minutes 39 seconds ago"
+    "changed": "40 minutes 48 seconds ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2160,7 +2139,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "2 hours 41 minutes ago"
+    "changed": "23 seconds ago"
   },
   {
     "title": "Anvil Fire",
@@ -2181,7 +2160,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "52 minutes 41 seconds ago"
+    "changed": "1 hour 4 minutes ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2202,7 +2181,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "1 hour 42 minutes ago"
+    "changed": "1 hour 54 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2223,7 +2202,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "23 hours 11 minutes ago"
+    "changed": "23 hours 23 minutes ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2244,7 +2223,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "1 hour 55 minutes ago"
+    "changed": "2 hours 8 minutes ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2286,7 +2265,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 hours 59 minutes ago"
+    "changed": "3 hours 11 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2496,7 +2475,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "6 days 16 hours ago"
+    "changed": "6 days 17 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2538,7 +2517,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "21 hours 36 minutes ago"
+    "changed": "21 hours 49 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2580,7 +2559,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "20 hours 42 minutes ago"
+    "changed": "20 hours 54 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2664,7 +2643,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "21 hours 3 minutes ago"
+    "changed": "21 hours 15 minutes ago"
   },
   {
     "title": "Ida",
@@ -2685,7 +2664,7 @@
     "long_sec": "08",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAKIF Ida",
-    "changed": "5 days 4 hours ago"
+    "changed": "5 days 5 hours ago"
   },
   {
     "title": "2023 Happy Camp Complex BAER Assessment",
@@ -2727,7 +2706,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "2 hours 4 minutes ago"
+    "changed": "2 hours 17 minutes ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2748,7 +2727,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "2 days 13 hours ago"
+    "changed": "2 days 14 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2790,7 +2769,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "21 hours 56 minutes ago"
+    "changed": "22 hours 8 minutes ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2802,7 +2781,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-10-04T14:11:07-04:00\">2023-10-04</time>\n",
     "id": "316482",
-    "field_incident_overview": "<p><strong>Sagehen Hills Underburn</strong><br /><strong>Truckee Ranger District</strong><br /><strong>Legal Location: Township 18 N Range 16 E</strong><br /><strong>Section(s): 5 and 6</strong><br /><strong>Acres: 1000</strong><br /><strong>Ignition Dates: 10/5-10/15, 2023</strong><br /><strong>Location Description: Sagehen Summit, Hwy 89 and FS RD 878-2</strong></p><ul><li><span>Tahoe National Forest plans to prescribed burn 406-acres at Sagehen Summit off Highway 89 and Forest Service Road 878-2 in Truckee, Calif.</span></li><li><span>The purpose of the project is to reduce fuels/wildfire risk and improve forest health and habitat</span></li><li><span>Smoke will be visible from Truckee, Donner and Independence Lake along with Stampede and Boca Reservoir areas. Any smoke impacts will be carefully monitored.</span></li></ul><p><span>Project partners include U.S. Forest Service Pacific Southwest Research Station, Sierra Nevada Conservancy and University of California, Berkeley.</span></p>",
+    "field_incident_overview": "<p><strong>Sagehen Hills Underburn</strong><br /><strong>Truckee Ranger District</strong><br /><strong>Legal Location: Township 18 N Range 16 E</strong><br /><strong>Section(s): 5 and 6</strong><br /><strong>Acres: 1000</strong><br /><strong>Ignition Dates: 10/5-10/15, 2023</strong><br /><strong>Location Description: Sagehen Summit, Hwy 89 and FS RD 878-2</strong></p><ul><li><span>Tahoe National Forest plans to prescribed burn up to 1000-acres at Sagehen Summit off Highway 89 and Forest Service Road 878-2 in Truckee, Calif.</span></li><li><span>The purpose of the project is to reduce fuels/wildfire risk and improve forest health and habitat</span></li><li><span>Smoke will be visible from Truckee, Donner and Independence Lake along with Stampede and Boca Reservoir areas. Any smoke impacts will be carefully monitored.</span></li></ul><p><span>Project partners include U.S. Forest Service Pacific Southwest Research Station, Sierra Nevada Conservancy and University of California, Berkeley.</span></p>",
     "size": "1000",
     "lat_min": "26.900",
     "lat_sec": "",
@@ -2811,7 +2790,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "8 minutes 14 seconds ago"
+    "changed": "9 minutes 52 seconds ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2819,12 +2798,12 @@
     "long_deg": "87",
     "field_percent_of_perimeter": "",
     "type": "Wildfire",
-    "field_incident_description": "The Yellow Dog Fire is burning in a remote forested area consisting of both hardwoods and conifers. The fire is burning through the understory with some wind and terrain driven runs, creeping and smoldering along the edges, and some group tree torching.  ",
+    "field_incident_description": "The Yellow Dog Fire is burning in a remote forested area consisting of both hardwoods and conifers. The fire is burning through the understory. Fire activity: creeping and smoldering through unburned fuel throughout the interior.  <br />\r\nMost of the fire is in a designated wilderness area with some of it on private forest land. ",
     "field_active": "1",
     "created": "<time datetime=\"2023-10-05T10:46:42-04:00\">2023-10-05</time>\n",
     "id": "316490",
-    "field_incident_overview": "<p><span>A wildfire was discovered on the northeast side of the McCormick Wilderness east of Yellow Dog River. The fire is mostly burning in the McCormick wilderness with a portion on the southeast side of the fire burning on private land. YELLOW DOG TRAILHEAD IS CLOSED and will be signed. </span></p><p><span>Forest Service and Michigan Department of Natural Resources personnel are on scene of the incident utilizing minimum impact suppression tactics in the wilderness portion and suppression tactics on private land. There are currently no structures threatened.  </span></p><p><span>The Yellow Dog Fire is burning in a forested area consisting of both hardwoods and conifers. Today the fire was burning through the understory with some wind and terrain driven runs, creeping and smoldering along the edges, and some group tree torching.  </span></p><p><span>Aircraft will be monitoring the fire and assisting crews on the ground.     </span></p><p><span>Smoke may be visible in the local area. Please heed emergency personnel. </span></p>",
-    "size": "98",
+    "field_incident_overview": "<p><span>Wetting rain and cooler temperatures has significantly moderated fire behavior and no new growth occurred overnight. The fire footprint has stayed on the northeast side of the McCormick Wilderness east of Yellow Dog River and west of private land boundaries. The section on private land has not increased and fire crews continue to improve lines in those areas. Precipitation is forecasted over the next few days with the current low-pressure system. </span></p><p><span>The <strong>Yellow Dog Trail is CLOSED</strong> until further notice for public and fire fighter safety. Signs are posted at the trailhead. </span></p><p><span>Aircraft will be monitoring the fire and assisting crews on the ground as needed.     </span></p><p><span>Smoke may be visible in very localized areas. For updated information go to Inciweb. </span></p>",
+    "size": "125",
     "lat_min": "42",
     "lat_sec": "43.1",
     "urlPath": "/miotf-yellow-dog",
@@ -2832,7 +2811,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "1 day ago"
+    "changed": "1 second ago"
   },
   {
     "title": "Hope Fire",
@@ -2853,6 +2832,6 @@
     "long_sec": "12 ",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "22 hours 48 minutes ago"
+    "changed": "23 hours ago"
   }
 ]
