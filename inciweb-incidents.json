@@ -81,7 +81,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "22 hours ago"
+    "changed": "22 hours 15 minutes ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "23 hours 12 minutes ago"
+    "changed": "23 hours 27 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -417,7 +417,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARCZ Coal Mine Fire",
-    "changed": "2 months 4 weeks ago"
+    "changed": "3 months ago"
   },
   {
     "title": "Tunnel Five Fire",
@@ -669,7 +669,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "1 hour 4 minutes ago"
+    "changed": "1 hour 19 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -711,7 +711,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "COWTRACK LIGHTNING FIRE",
@@ -963,7 +963,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Turkey Fire",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Anderson Complex",
@@ -1362,7 +1362,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "41 minutes 58 seconds ago"
+    "changed": "56 minutes 56 seconds ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1593,7 +1593,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "53 minutes 50 seconds ago"
+    "changed": "1 hour 8 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1614,7 +1614,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 hour 12 minutes ago"
+    "changed": "1 hour 27 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1866,7 +1866,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "1 hour 35 minutes ago"
+    "changed": "1 hour 50 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1914,13 +1914,13 @@
     "title": "2023 Chilcoot Fire UNF",
     "lat_deg": "43",
     "long_deg": "122",
-    "field_percent_of_perimeter": "85",
+    "field_percent_of_perimeter": "87",
     "type": "Wildfire",
     "field_incident_description": "Full suppression wildfire",
     "field_active": "1",
     "created": "<time datetime=\"2023-08-27T21:48:57-04:00\">2023-08-27</time>\n",
     "id": "315142",
-    "field_incident_overview": "<p>The Chilcoot Fire was started by lightning on August 24,2023 at 9:14 PM. The fire is located on the western edge of the Umpqua National Forest boundary, Bureau of Land Management land, and private timber land. It is about five miles north of the Steamboat Creek junction at Highway 138. It is burning in steep terrain in the Chilcoot Ridge area and headwaters of Hipower Creek. Northwest Incident Management Team 6 will be transferring command of the Umpqua Fires on September 25th 2023 at 1800. </p><p>The fires are as follows: the Chilcoot and Ridge Fires near Glide, Oregon, and the Brice Creek, Dinner, and Grizzly Fires near Oakridge, Oregon.  </p>",
+    "field_incident_overview": "<p>The Chilcoot Fire was started by lightning on August 24,2023 at 9:14 PM. The fire is located on the western edge of the Umpqua National Forest boundary, Bureau of Land Management land, and private timber land. It is about five miles north of the Steamboat Creek junction at Highway 138. It is burning in steep terrain in the Chilcoot Ridge area and headwaters of Hipower Creek. </p><p><strong>This page will only be updated if there is significant activity to report.</strong></p>",
     "size": "1940",
     "lat_min": "25",
     "lat_sec": "47",
@@ -1929,7 +1929,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "23 seconds ago"
+    "changed": "5 minutes 56 seconds ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -1950,7 +1950,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "3 days 23 hours ago"
+    "changed": "9 minutes 8 seconds ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -1971,7 +1971,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "48 minutes 11 seconds ago"
+    "changed": "1 hour 3 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -2034,7 +2034,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "40 minutes 48 seconds ago"
+    "changed": "55 minutes 46 seconds ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "3 days 23 hours ago"
+    "changed": "7 minutes 12 seconds ago"
   },
   {
     "title": "Dinner Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "3 days 23 hours ago"
+    "changed": "6 minutes 32 seconds ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2130,7 +2130,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-08-31T14:43:34-04:00\">2023-08-31</time>\n",
     "id": "315319",
-    "field_incident_overview": "<p>The Grizzly Fire was started by lightning on August 24, 2023. It is burning in steep and difficult-to-access terrain.</p>",
+    "field_incident_overview": "<p>The Grizzly Fire was started by lightning on August 24, 2023. It is burning in steep and difficult-to-access terrain.</p><p> </p><p><strong>This page will only be updated if there is significant activity to report.</strong></p>",
     "size": "324",
     "lat_min": "35",
     "lat_sec": "35",
@@ -2139,7 +2139,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "23 seconds ago"
+    "changed": "5 minutes 56 seconds ago"
   },
   {
     "title": "Anvil Fire",
@@ -2160,7 +2160,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 hour 4 minutes ago"
+    "changed": "1 hour 19 minutes ago"
   },
   {
     "title": "HWY 113 Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS HWY 113 Fire",
-    "changed": "1 hour 54 minutes ago"
+    "changed": "2 hours 9 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2202,7 +2202,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "23 hours 23 minutes ago"
+    "changed": "23 hours 38 minutes ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2223,7 +2223,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "2 hours 8 minutes ago"
+    "changed": "2 hours 22 minutes ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2265,7 +2265,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 11 minutes ago"
+    "changed": "3 hours 26 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Collier 2",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -2517,7 +2517,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "21 hours 49 minutes ago"
+    "changed": "22 hours 3 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2538,7 +2538,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "3 days 20 hours ago"
+    "changed": "3 days 21 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "20 hours 54 minutes ago"
+    "changed": "21 hours 9 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2601,7 +2601,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "6 days 11 hours ago"
+    "changed": "6 days 12 hours ago"
   },
   {
     "title": "Hope Fire ",
@@ -2643,7 +2643,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "21 hours 15 minutes ago"
+    "changed": "21 hours 30 minutes ago"
   },
   {
     "title": "Ida",
@@ -2706,7 +2706,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "2 hours 17 minutes ago"
+    "changed": "2 hours 32 minutes ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2754,14 +2754,14 @@
     "title": "Still Fire",
     "lat_deg": "34",
     "long_deg": "111",
-    "field_percent_of_perimeter": "26",
+    "field_percent_of_perimeter": "30",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-09-27T18:41:20-04:00\">2023-09-27</time>\n",
     "id": "316360",
     "field_incident_overview": "<p><span>The Still Fire is a lightning-caused wildfire located southwest of Flagstaff. Fire managers are strategically managing the Still Fire benefit the overall health of the Coconino National Forest. The management of the Still Fire aligns with the </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001wUqMtdvy7cndNLuw5SiHWBCjIQQocgWwCzoBFIL3qkfm84NznSjsgZ4rHil3SQ7quQZV6MZS3cZC1pCoBlnL-4A5_hYD416X_dWIjseVPSoUqSZQhXSt_rLtw_OGfwa_Av9FRS2eQIgkMGae__Ibu40HPezcbRFuvitdCeazEnqmJC68HA4a6XSuWIEYMhJhqF9DQ8ZFa_vldNfYDdl65qEqvGYaRIpYl47BgCmKquWkkOvH2vcjbMfnCpEsJXoGtD7ZrwnCGj6Nsl7Yqw1Sp9peU9x5D2AlMpe1BvqnHHBt2Hmj2F5YInYleNghJ5rT3CBuUCTu76gBYXXe_Tbx866qMQIEZ-pJ1bfQHeKY3-TP7UM5jJNyjEYiVhfInITsuzhD0DyKCFDQRk1udwHzy3XKg9N1sVjYhunDVxXXdfipaRHmyXOC-ekM8Qa9FDSqM1sf1cGK8Sx6ZFoyhiHNnyg_k0_lwpRcTQAQx5dAab7dOBr2sx1F23SCESwcs35GP4hmK_I_9O6GAaa_zsWPA9RfOPUV0d-YqfKMt6ahKOsS3L7HUS_5VTo5jSaDqfMMWcpmzCmxoPUiXAknfoMFzCSKXDMTHmcoJ-VvoMs_sIFscNWLBaB5-cTvi_l2RSno1-Wh4QEFgxDnTqqjxfLILQIEgI8NCdn5nXnTLLIzbj1daINGjxEAvy5NL1cV_cDksTbxcS0oK3s6wPsgk8lYpQ%3D%3D%26c%3DpZcQrfMFg_M1gL3ZjpI82f0frGfgvaWC-wP7IbQZN0G2wCiVza5xJw%3D%3D%26ch%3DKVahsK9LUtTlmavv3Z5h329drZnKtheJLcO9RfAdnie24-1DAaXa0Q%3D%3D&amp;data=05%7C01%7Crandi.shaffer%40usda.gov%7C725dac45d29a46f8913108dbbeb3f701%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638313452375238670%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Tugps7QwcqbMhRjgG%2F4WPm3k3tDNMEOqZwqI022m%2FrU%3D&amp;reserved=0\"><span><strong>Forest Service’s 10-year Wildfire Crisis Strategy</strong></span></a><span>, which aims to increase the use of fire on the landscape as well as other treatments to improve forest resiliency for generations to come. </span></p><p><span>The Still Fire is in the Blue Ridge urban interface, in an area that has been slated for upcoming fuels treatments including prescribed fire.</span></p><p><span>The management of the Still Fire will help reduce hazardous fuels, such as dead and down trees, and work to protect infrastructure, property and resources both south and west of the nearby Blue Ridge communities, including the C.C. Cragin watershed.</span></p>",
-    "size": "4889",
+    "size": "7781",
     "lat_min": "34",
     "lat_sec": "56.9",
     "urlPath": "/azcof-still-fire",
@@ -2769,7 +2769,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "22 hours 8 minutes ago"
+    "changed": "1 second ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2790,7 +2790,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "9 minutes 52 seconds ago"
+    "changed": "24 minutes 50 seconds ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2811,7 +2811,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "1 second ago"
+    "changed": "14 minutes 59 seconds ago"
   },
   {
     "title": "Hope Fire",
@@ -2832,6 +2832,6 @@
     "long_sec": "12 ",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "23 hours ago"
+    "changed": "23 hours 15 minutes ago"
   }
 ]
