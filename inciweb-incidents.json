@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "4 hours 36 minutes ago"
+    "changed": "4 hours 51 minutes ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 second ago"
+    "changed": "15 minutes 14 seconds ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -627,7 +627,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "6 hours 7 minutes ago"
+    "changed": "6 hours 23 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1068,7 +1068,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Ridge Fire",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "Gravel Pit Fire",
@@ -1311,7 +1311,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-08-08T19:04:38-04:00\">2023-08-08</time>\n",
     "id": "314280",
-    "field_incident_overview": "<p><span>The Lookout Fire was started by lightning on August 5, near the top of Lookout Mountain in the Willamette National Forest. It is burning within the boundary of HJ Andrews Experimental Forest in and area with steep slopes and mostly comprised of old growth timber and dense understory vegetation. </span>Northwest Team 10 assumed control of the Lookout, Bedrock, Petes Lake, Horse Creek and Pothole Fires on September 27.</p><p><span>As emergency closure orders change, the public is advised to remain cautious and vigilant when entering these areas. Hazards may be present, such as loose debris and falling trees, especially around trails, including the Pacific Crest Trail on Petes Lake Fire, where fire has affected the landscape. Significant work is still underway, especially along roadways. Be aware and considerate of the ongoing suppression repair activities and potential risks.</span></p><p><strong>BAER: </strong><span>The Burned Area Emergency Response (BAER) Team has finalized its assessments of the Lookout, Horse Creek and Pothole Fires. </span>Overwhelmingly, across the three fires, the soil burn severity was largely moderate to low burn severity (80+%). For more information on their findings, visit: <a href=\"http://inciweb.nwcg.gov/incident-publication/orwif-lookout-fire/emergencyresponseteamsharessoilburnseverity-map-and-research-from-lookout-fire\">http://inciweb.nwcg.gov/incident-publication/orwif-lookout-fire/emergencyresponseteamsharessoilburnseverity-map-and-research-from-lookout-fire</a></p><p><span><strong>Evacuations:</strong> For up-to-date information on evacuations, please check these sites:</span><br /><a href=\"https://www.lanecountyor.gov/cms/one.aspx?pageId=19729054\"><span>Lookout Fire - Lane County (lanecountyor.gov)</span></a><br /><a href=\"https://www.linnsheriff.org/wildfire_live_updates/\"><span>Fire Evacuation and Status Live Updates - Linn County Sheriff's Office (linnsheriff.org)</span></a></p><p><span><strong>Closures: </strong>For updated closure information, please visit:</span><br /><a href=\"https://www.fs.usda.gov/detail/willamette/alerts-notices/?cid=fseprd552029\"><span>Willamette National Forest - Alerts &amp; Notices (usda.gov)</span></a></p>",
+    "field_incident_overview": "<p><span>Today at 6 p.m., after a day of sharing information about the incident with the incoming team, Northwest Incident Management Team 10 (NWIMT 10) will transfer command to a Type 3 incident management team from the Willamette National Forest. Incident Commander Alan Lawson and the other members of NWIMT 10 extend their appreciation to the Willamette National Forest and other partners for their cooperation and assistance. </span></p><p><span>All inquiries for fire information should be directed to the McKenzie River Ranger District Office of the Willamette National Forest. </span><br /><span>Phone: (541) 822-3381</span></p><p><strong>BAER: </strong><span>The Burned Area Emergency Response (BAER) Team has finalized its assessments of the Lookout, Horse Creek and Pothole Fires. </span>Overwhelmingly, across the three fires, the soil burn severity was largely moderate to low burn severity (80+%). For more information on their findings, visit: <a href=\"http://inciweb.nwcg.gov/incident-publication/orwif-lookout-fire/emergencyresponseteamsharessoilburnseverity-map-and-research-from-lookout-fire\">http://inciweb.nwcg.gov/incident-publication/orwif-lookout-fire/emergencyresponseteamsharessoilburnseverity-map-and-research-from-lookout-fire</a></p><p><span><strong>Closures: </strong>For updated closure information, please visit:</span><br /><a href=\"https://www.fs.usda.gov/detail/willamette/alerts-notices/?cid=fseprd552029\"><span>Willamette National Forest - Alerts &amp; Notices (usda.gov)</span></a></p>",
     "size": "25754",
     "lat_min": "13",
     "lat_sec": "19.5",
@@ -1320,7 +1320,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "4 hours 9 minutes ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1551,7 +1551,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "6 hours 31 minutes ago"
+    "changed": "6 hours 46 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1572,7 +1572,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "7 hours 21 minutes ago"
+    "changed": "7 hours 36 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1803,7 +1803,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "8 hours 15 minutes ago"
+    "changed": "8 hours 30 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1824,7 +1824,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "6 days 5 hours ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -1908,7 +1908,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "3 hours 57 minutes ago"
+    "changed": "4 hours 12 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -1962,7 +1962,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-08-30T11:51:29-04:00\">2023-08-30</time>\n",
     "id": "315257",
-    "field_incident_overview": "<p><span>For current information, visit http://centralorfire.org or call the COFMS fire information line at (541) 316-7711.</span></p><p><span><strong>Central Oregon </strong>– Petes Lake Fire started by a lightning strike on Friday, August 25th in the Willamette National Forest. This remote wildfire is located in the Mink Lake Basin of Three Sisters Wilderness approximately four miles west of the Cascade Lakes Scenic Highway and Elk Lake. In terms of forest boundaries and jurisdiction, the fire perimeter is mostly within the McKenzie River Ranger District of the Willamette National Forest with a small portion in the Bend Fort-Rock Ranger District of the Deschutes National Forest.</span></p><p><span><strong>A closure order for the Petes Lake Fire expired this week</strong>, opening access to all trails within the Three Sisters Wilderness that are on the Willamette National Forest <strong>September 29, 2023</strong>.</span></p><p><span>Northwest Incident Management Team 10 assumed command of the fire September 27, 2023. </span></p><p> </p>",
+    "field_incident_overview": "<p><span>As of 6:00 p.m. today, all inquiries for fire information should be directed to the McKenzie River Ranger District Office of the Willamette National Forest. Phone: (541) 822-3381</span></p><p><span><strong>Central Oregon </strong>– Petes Lake Fire started by a lightning strike on Friday, August 25th in the Willamette National Forest. This remote wildfire is located in the Mink Lake Basin of Three Sisters Wilderness approximately four miles west of the Cascade Lakes Scenic Highway and Elk Lake. In terms of forest boundaries and jurisdiction, the fire perimeter is mostly within the McKenzie River Ranger District of the Willamette National Forest with a small portion in the Bend Fort-Rock Ranger District of the Deschutes National Forest.</span></p><p><span><strong>A closure order for the Petes Lake Fire expired this week</strong>, opening access to all trails within the Three Sisters Wilderness that are on the Willamette National Forest <strong>September 29, 2023</strong>.</span></p><p><span>Northwest Incident Management Team 10 assumed command of the fire September 27, 2023. </span></p><p> </p>",
     "size": "3254",
     "lat_min": "58",
     "lat_sec": "8",
@@ -1971,7 +1971,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "17 hours 42 minutes ago"
+    "changed": "1 second ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "5 hours 10 minutes ago"
+    "changed": "5 hours 26 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2139,7 +2139,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "8 hours 28 minutes ago"
+    "changed": "8 hours 43 minutes ago"
   },
   {
     "title": "Game Preserve Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "6 hours 37 minutes ago"
+    "changed": "6 hours 53 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "3 hours 3 minutes ago"
+    "changed": "3 hours 18 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2601,7 +2601,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "18 hours 41 minutes ago"
+    "changed": "18 hours 57 minutes ago"
   },
   {
     "title": "Cecil Fire",
@@ -2622,7 +2622,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "4 hours 46 minutes ago"
+    "changed": "5 hours 1 minute ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2643,7 +2643,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "18 hours 34 minutes ago"
+    "changed": "18 hours 50 minutes ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2664,7 +2664,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "19 hours 17 minutes ago"
+    "changed": "19 hours 32 minutes ago"
   },
   {
     "title": "Still Fire",
@@ -2685,7 +2685,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "1 day 3 hours ago"
+    "changed": "1 day 4 hours ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2706,7 +2706,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "4 hours 5 minutes ago"
+    "changed": "4 hours 20 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2727,7 +2727,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "5 hours 59 minutes ago"
+    "changed": "6 hours 14 minutes ago"
   },
   {
     "title": "Hope Fire",
@@ -2748,7 +2748,7 @@
     "long_sec": "12 ",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "16 hours 51 minutes ago"
+    "changed": "17 hours 7 minutes ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2811,7 +2811,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "4 hours 3 minutes ago"
+    "changed": "4 hours 18 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2832,6 +2832,6 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "17 minutes 9 seconds ago"
+    "changed": "32 minutes 22 seconds ago"
   }
 ]
