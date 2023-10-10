@@ -60,7 +60,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Six Rivers Lightning Complex",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "Blue Ridge Prescribed Burn",
@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "8 seconds ago"
+    "changed": "3 minutes 16 seconds ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 hour 16 minutes ago"
+    "changed": "1 hour 32 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -627,7 +627,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "7 hours 24 minutes ago"
+    "changed": "7 hours 40 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1215,7 +1215,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "6 days 6 hours ago"
+    "changed": "6 days 7 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1236,7 +1236,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Sidney Fire",
-    "changed": "3 days 23 hours ago"
+    "changed": "4 days ago"
   },
   {
     "title": "Bear Creek Fire",
@@ -1320,7 +1320,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "1 hour 1 minute ago"
+    "changed": "1 hour 17 minutes ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1551,7 +1551,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "7 hours 47 minutes ago"
+    "changed": "8 hours 3 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1572,7 +1572,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "8 hours 37 minutes ago"
+    "changed": "8 hours 53 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1803,7 +1803,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "9 hours 31 minutes ago"
+    "changed": "9 hours 48 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -1887,7 +1887,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -1908,7 +1908,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "10 minutes 7 seconds ago"
+    "changed": "26 minutes 34 seconds ago"
   },
   {
     "title": "Redwood Fire",
@@ -1929,28 +1929,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "3 days 2 hours ago"
-  },
-  {
-    "title": "Gibbs Forest Fire",
-    "lat_deg": "30",
-    "long_deg": "95",
-    "field_percent_of_perimeter": "95",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-29T21:55:57-04:00\">2023-08-29</time>\n",
-    "id": "315232",
-    "field_incident_overview": "<p>At 3:30 p.m. on August 29, Walker County requested assistance from Texas A&amp;M Forest Service for a fire at the corner of Hwy 30 and Pool Road. A moderate smoke plume was observed as well as moderate to high fire behavior. Air resources as well as ground resources including dozers responded. There are no structures or roads threatened and there are no evacuations.</p><p>On Sept. 9, the fire rekindled and multiple spot fires were contained by firefighters. The Florida Forest Service Red Complex Incident Management Team has assumed command of the fire as of Sept. 10.</p><p><strong>September 16</strong> - Management of the fire has transferred back to Texas A&amp;M Forest Service</p><p>State resources have been released and, pending any significant change in fire activity, this incident will no longer be updated.</p>",
-    "size": "400",
-    "lat_min": "40",
-    "lat_sec": "2",
-    "urlPath": "/txtxs-gibbs-forest-fire",
-    "long_min": "45",
-    "long_sec": "4",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Gibbs Forest Fire",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 days 3 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1971,7 +1950,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "1 hour 1 minute ago"
+    "changed": "1 hour 17 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2034,7 +2013,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Dinner Fire",
@@ -2055,7 +2034,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2076,7 +2055,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "4 days 3 hours ago"
+    "changed": "4 days 4 hours ago"
   },
   {
     "title": "Anvil Fire",
@@ -2097,7 +2076,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "6 hours 27 minutes ago"
+    "changed": "6 hours 43 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2118,7 +2097,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "3 days 9 hours ago"
+    "changed": "3 days 10 hours ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -2139,28 +2118,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "9 hours 44 minutes ago"
-  },
-  {
-    "title": "Game Preserve Fire",
-    "lat_deg": "30",
-    "long_deg": "95",
-    "field_percent_of_perimeter": "95",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-01T17:06:18-04:00\">2023-09-01</time>\n",
-    "id": "315373",
-    "field_incident_overview": "<p><span>At approximately 2:00 pm on September 1, 2023, Texas A&amp;M Forest Service received a request for a fire on Lost Indian Camp Road off State Highway 247, 9 miles northwest of Huntsville, Texas. The fire is actively burning in pine timber with grass and yaupon understory. Elevated fire weather, including low relative humidity and winds out of the East are supporting high fire behavior where dry vegetation is present on the fire.</span></p><p><span>At 8:00 a.m. on September 3, Florida Forest Service Red Complex Incident Management Team assumed command of the Game Preserve Fire. The team had been pre-positioned in Texas to be able to respond and assist with incidents as needed. This team will manage the fire with resources from local fire departments, Texas A&amp;M Forest Service, Texas Intrastate Fire Mutual Aid System (TIFMAS), and Texas Emergency Medical Task Force (TEMTF).</span></p><p>As of 8:30 a.m. on September 3, all evacuation orders and road closures for the Game Preserve Fire have been lifted. </p><p>September 16, 2023, 8:00 a.m.<strong> </strong>Management of the fire has been transferred over to Texas A&amp;M Forest Service.</p><p>State resources have been released and, pending any significant change in fire activity, this incident will no longer be updated.</p>",
-    "size": "4428",
-    "lat_min": "51",
-    "lat_sec": "21",
-    "urlPath": "/txtxs-game-preserve-fire",
-    "long_min": "37",
-    "long_sec": "40",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Game Preserve Fire",
-    "changed": "3 weeks ago"
+    "changed": "10 hours ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -2181,7 +2139,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "7 hours 54 minutes ago"
+    "changed": "8 hours 10 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2265,7 +2223,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -2287,27 +2245,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "WANCP 2023 Sourdough Fire Burned Area Emergency Response BAER",
     "changed": "2 weeks 3 days ago"
-  },
-  {
-    "title": "Collier 2",
-    "lat_deg": "30",
-    "long_deg": "95",
-    "field_percent_of_perimeter": "90",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-12T10:15:16-04:00\">2023-09-12</time>\n",
-    "id": "315859",
-    "field_incident_overview": "<p>At 2:00 p.m. on September 9, San Jacinto County requested assistance from Texas A&amp;M Forest Service for a fire on Collier Road. A moderate smoke plume was observed as well as moderate to high fire behavior. Air resources as well as ground resources including dozers responded. There are no structures or roads threatened and there are no evacuations.</p>\n\n<p>On Sept. 10, the fire continue were contained by firefighters. The Florida Forest Service Red Complex Incident Management Team has assumed command of the fire as of Sept. 11.</p>\n\n<p><strong>September 16</strong>, Management of the fire has been transferred back to Texas A&amp;M Forest Service.</p>",
-    "size": "127",
-    "lat_min": "29",
-    "lat_sec": "44",
-    "urlPath": "/txtxs-collier-2",
-    "long_min": "20",
-    "long_sec": "46",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Collier 2",
-    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -2433,7 +2370,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "4 hours 19 minutes ago"
+    "changed": "4 hours 36 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2454,7 +2391,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2475,7 +2412,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "5 days 2 hours ago"
+    "changed": "5 days 3 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2601,7 +2538,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "19 hours 58 minutes ago"
+    "changed": "20 hours 14 minutes ago"
   },
   {
     "title": "Cecil Fire",
@@ -2622,7 +2559,7 @@
     "long_sec": "52.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "6 hours 2 minutes ago"
+    "changed": "6 hours 19 minutes ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2643,7 +2580,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "19 hours 51 minutes ago"
+    "changed": "20 hours 7 minutes ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2664,7 +2601,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "20 hours 33 minutes ago"
+    "changed": "20 hours 49 minutes ago"
   },
   {
     "title": "Still Fire",
@@ -2706,7 +2643,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "5 hours 21 minutes ago"
+    "changed": "5 hours 38 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2727,7 +2664,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "7 hours 15 minutes ago"
+    "changed": "7 hours 32 minutes ago"
   },
   {
     "title": "Hope Fire",
@@ -2748,7 +2685,7 @@
     "long_sec": "12 ",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "18 hours 8 minutes ago"
+    "changed": "18 hours 24 minutes ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2790,7 +2727,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 2 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2811,7 +2748,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "5 hours 19 minutes ago"
+    "changed": "5 hours 36 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2832,6 +2769,6 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "1 hour 33 minutes ago"
+    "changed": "1 hour 49 minutes ago"
   }
 ]
