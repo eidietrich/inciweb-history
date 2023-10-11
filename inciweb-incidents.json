@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "4 hours 35 minutes ago"
+    "changed": "4 hours 42 minutes ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "21 hours 28 minutes ago"
+    "changed": "21 hours 35 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -375,7 +375,7 @@
     "long_sec": "42",
     "measurement_type": "Acres",
     "field_title_and_unit": "WASES Tunnel Five Fire",
-    "changed": "2 months 3 weeks ago"
+    "changed": "2 months 4 weeks ago"
   },
   {
     "title": "2023 - Whiskey Fire",
@@ -606,7 +606,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 hours 52 minutes ago"
+    "changed": "3 hours 59 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1047,7 +1047,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Ridge Fire",
-    "changed": "4 weeks ago"
+    "changed": "4 weeks 1 day ago"
   },
   {
     "title": "Gravel Pit Fire",
@@ -1299,7 +1299,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "22 hours 25 minutes ago"
+    "changed": "22 hours 31 minutes ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "2 seconds ago"
+    "changed": "6 minutes 37 seconds ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1551,7 +1551,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "7 hours 36 minutes ago"
+    "changed": "7 hours 42 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1782,7 +1782,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "6 hours 58 minutes ago"
+    "changed": "7 hours 5 minutes ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "23 hours 5 minutes ago"
+    "changed": "23 hours 12 minutes ago"
   },
   {
     "title": "Redwood Fire",
@@ -1929,7 +1929,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "22 hours 4 minutes ago"
+    "changed": "22 hours 11 minutes ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2055,7 +2055,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 hours 52 minutes ago"
+    "changed": "3 hours 59 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "6 hours 59 minutes ago"
+    "changed": "7 hours 6 minutes ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -2118,7 +2118,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "7 hours 41 minutes ago"
+    "changed": "7 hours 48 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2307,7 +2307,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "6 hours ago"
+    "changed": "6 hours 7 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2349,7 +2349,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "14 minutes 45 seconds ago"
+    "changed": "21 minutes 20 seconds ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2517,28 +2517,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "1 day 18 hours ago"
-  },
-  {
-    "title": "Cecil Fire",
-    "lat_deg": "35",
-    "long_deg": "111",
-    "field_percent_of_perimeter": "90",
-    "type": "Wildfire",
-    "field_incident_description": "WIldfire being managed for Forest Health. Fire managers decided to manage this fire for forest health, rather than immediately suppressing the fire. Wildfires are a natural part of the Coconino NF’s ecosystem, and when managed diligently and properly following the requisite planning process, improve the landscape long-term in several ways. Low-intensity fire works to release nutrients into soils and reduce the accumulation of hazardous fuels on the forest floor, such as dry pine needles and fallen leaves. The management of naturally-ignited wildfire can also protect critical infrastructure, watersheds, wildlife habitat and culturally sensitive areas from future high-severity wildfires. ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-26T13:10:57-04:00\">2023-09-26</time>\n",
-    "id": "316325",
-    "field_incident_overview": "<p>The Cecil Fire is a lightning-caused wildfire located southwest of Flagstaff. Fire managers are strategically managing the Cecil Fire to benefit the overall health of the Coconino National Forest. <span>The management of the Cecil Fire aligns with the </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001wUqMtdvy7cndNLuw5SiHWBCjIQQocgWwCzoBFIL3qkfm84NznSjsgZ4rHil3SQ7quQZV6MZS3cZC1pCoBlnL-4A5_hYD416X_dWIjseVPSoUqSZQhXSt_rLtw_OGfwa_Av9FRS2eQIgkMGae__Ibu40HPezcbRFuvitdCeazEnqmJC68HA4a6XSuWIEYMhJhqF9DQ8ZFa_vldNfYDdl65qEqvGYaRIpYl47BgCmKquWkkOvH2vcjbMfnCpEsJXoGtD7ZrwnCGj6Nsl7Yqw1Sp9peU9x5D2AlMpe1BvqnHHBt2Hmj2F5YInYleNghJ5rT3CBuUCTu76gBYXXe_Tbx866qMQIEZ-pJ1bfQHeKY3-TP7UM5jJNyjEYiVhfInITsuzhD0DyKCFDQRk1udwHzy3XKg9N1sVjYhunDVxXXdfipaRHmyXOC-ekM8Qa9FDSqM1sf1cGK8Sx6ZFoyhiHNnyg_k0_lwpRcTQAQx5dAab7dOBr2sx1F23SCESwcs35GP4hmK_I_9O6GAaa_zsWPA9RfOPUV0d-YqfKMt6ahKOsS3L7HUS_5VTo5jSaDqfMMWcpmzCmxoPUiXAknfoMFzCSKXDMTHmcoJ-VvoMs_sIFscNWLBaB5-cTvi_l2RSno1-Wh4QEFgxDnTqqjxfLILQIEgI8NCdn5nXnTLLIzbj1daINGjxEAvy5NL1cV_cDksTbxcS0oK3s6wPsgk8lYpQ%3D%3D%26c%3DpZcQrfMFg_M1gL3ZjpI82f0frGfgvaWC-wP7IbQZN0G2wCiVza5xJw%3D%3D%26ch%3DKVahsK9LUtTlmavv3Z5h329drZnKtheJLcO9RfAdnie24-1DAaXa0Q%3D%3D&amp;data=05%7C01%7Crandi.shaffer%40usda.gov%7C725dac45d29a46f8913108dbbeb3f701%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638313452375238670%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Tugps7QwcqbMhRjgG%2F4WPm3k3tDNMEOqZwqI022m%2FrU%3D&amp;reserved=0\"><span>Forest Service’s 10-year Wildfire Crisis Strategy</span></a><span>, which aims to increase the use of fire on the landscape as well as other treatments to improve forest resiliency for generations to come. </span></p>",
-    "size": "2180",
-    "lat_min": "03",
-    "lat_sec": "77.2",
-    "urlPath": "/azcof-cecil-fire",
-    "long_min": "45",
-    "long_sec": "52.4",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZCOF Cecil Fire",
-    "changed": "1 day 4 hours ago"
+    "changed": "1 day 19 hours ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2601,7 +2580,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "49 minutes 5 seconds ago"
+    "changed": "55 minutes 40 seconds ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2622,7 +2601,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "51 minutes 37 seconds ago"
+    "changed": "58 minutes 12 seconds ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2685,7 +2664,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "23 minutes 49 seconds ago"
+    "changed": "30 minutes 24 seconds ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2706,7 +2685,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 hours 50 minutes ago"
+    "changed": "2 hours 56 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2727,7 +2706,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "49 minutes 14 seconds ago"
+    "changed": "55 minutes 49 seconds ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2769,7 +2748,7 @@
     "long_sec": "43.98",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS 287 Complex",
-    "changed": "7 hours 22 minutes ago"
+    "changed": "7 hours 29 minutes ago"
   },
   {
     "title": "Burlington Pileburn",
@@ -2790,6 +2769,6 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Burlington Pileburn",
-    "changed": "1 hour 13 minutes ago"
+    "changed": "1 hour 20 minutes ago"
   }
 ]
