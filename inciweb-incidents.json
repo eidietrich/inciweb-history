@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "13 hours 29 minutes ago"
+    "changed": "13 hours 34 minutes ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "15 hours 57 minutes ago"
+    "changed": "16 hours 2 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -606,7 +606,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "21 minutes 46 seconds ago"
+    "changed": "26 minutes 41 seconds ago"
   },
   {
     "title": "Colt Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "17 hours 48 minutes ago"
+    "changed": "17 hours 53 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1551,7 +1551,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "11 minutes 2 seconds ago"
+    "changed": "15 minutes 57 seconds ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -2055,7 +2055,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "23 minutes 17 seconds ago"
+    "changed": "28 minutes 12 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "51 minutes 26 seconds ago"
+    "changed": "56 minutes 21 seconds ago"
   },
   {
     "title": "Marmot Fire",
@@ -2307,7 +2307,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "23 hours 49 minutes ago"
+    "changed": "23 hours 54 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2349,7 +2349,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "18 hours 3 minutes ago"
+    "changed": "18 hours 8 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2391,7 +2391,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "12 hours 46 minutes ago"
+    "changed": "12 hours 51 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2580,7 +2580,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "14 hours 55 minutes ago"
+    "changed": "15 hours ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2601,7 +2601,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "18 hours 40 minutes ago"
+    "changed": "18 hours 44 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2622,7 +2622,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "Hope Fire",
@@ -2664,7 +2664,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "17 hours 15 minutes ago"
+    "changed": "17 hours 20 minutes ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2685,7 +2685,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "16 hours 48 minutes ago"
+    "changed": "16 hours 53 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2706,7 +2706,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "18 hours 37 minutes ago"
+    "changed": "18 hours 42 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2727,7 +2727,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "1 day 18 hours ago"
+    "changed": "15 seconds ago"
   },
   {
     "title": "287 Complex",
@@ -2748,7 +2748,7 @@
     "long_sec": "43.98",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS 287 Complex",
-    "changed": "1 hour 41 minutes ago"
+    "changed": "1 hour 46 minutes ago"
   },
   {
     "title": "Burlington Pileburn",
@@ -2769,6 +2769,27 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Burlington Pileburn",
-    "changed": "5 seconds ago"
+    "changed": "5 minutes ago"
+  },
+  {
+    "title": "2023 - Sourgrass RX Burn",
+    "lat_deg": "38",
+    "long_deg": "120",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-10-12T11:15:51-04:00\">2023-10-12</time>\n",
+    "id": "316566",
+    "field_incident_overview": "<p>The Sourgrass prescribed burn will benefit natural resources and reduce the risk of unwanted wildfires in the future. Managed prescribed fires reduce hazardous fuels and protect communities. Ecosystems need periodic fire to remain healthy, provide forage for wildlife, recycle nutrients back to the soil, promote the growth of trees, wildflowers and other plants.</p>",
+    "size": "40",
+    "lat_min": "20",
+    "lat_sec": "167",
+    "urlPath": "/castf-2023-sourgrass-rx-burn",
+    "long_min": "15",
+    "long_sec": "167",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
+    "changed": "35 seconds ago"
   }
 ]
