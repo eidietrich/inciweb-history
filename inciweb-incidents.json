@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "21 hours 56 minutes ago"
+    "changed": "22 hours 5 minutes ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "19 hours 40 minutes ago"
+    "changed": "19 hours 48 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 hours 57 minutes ago"
+    "changed": "3 hours 6 minutes ago"
   },
   {
     "title": "2023 - Strawberry Prescribed Burn, Summit Ranger District, Stanislaus National Forest",
@@ -606,7 +606,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "2 hours 12 minutes ago"
+    "changed": "2 hours 21 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1278,7 +1278,7 @@
     "long_sec": "59",
     "measurement_type": "Acres",
     "field_title_and_unit": "COUPD Little Mesa Fire",
-    "changed": "3 weeks 1 day ago"
+    "changed": "3 weeks 2 days ago"
   },
   {
     "title": "Lookout Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "19 hours 21 minutes ago"
+    "changed": "19 hours 29 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1551,7 +1551,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "5 hours 44 minutes ago"
+    "changed": "5 hours 52 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -2034,7 +2034,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "2 hours 12 minutes ago"
+    "changed": "2 hours 21 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "6 hours 10 minutes ago"
+    "changed": "6 hours 18 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "4 minutes 52 seconds ago"
+    "changed": "13 minutes 32 seconds ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "1 day 1 hour ago"
+    "changed": "1 day 2 hours ago"
   },
   {
     "title": "Ida",
@@ -2559,7 +2559,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "1 hour 37 minutes ago"
+    "changed": "1 hour 46 minutes ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2580,7 +2580,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "5 hours 23 minutes ago"
+    "changed": "5 hours 31 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2601,7 +2601,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "3 days 3 hours ago"
+    "changed": "3 days 4 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2685,7 +2685,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "5 hours 28 minutes ago"
+    "changed": "5 hours 37 minutes ago"
   },
   {
     "title": "287 Complex",
@@ -2727,7 +2727,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Burlington Pileburn",
-    "changed": "5 hours 25 minutes ago"
+    "changed": "5 hours 34 minutes ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2752,8 +2752,8 @@
   },
   {
     "title": "Rabbit Fire",
-    "lat_deg": "36 N",
-    "long_deg": "118 W",
+    "lat_deg": "36 ",
+    "long_deg": "118 ",
     "field_percent_of_perimeter": "15",
     "type": "Wildfire",
     "field_incident_description": "",
@@ -2762,13 +2762,13 @@
     "id": "316580",
     "field_incident_overview": "<p><span>The Rabbit Wildfire originated from a September 30, 2023, lightning strike on the Sequoia National Forest, Hume Lake Ranger District. The Rabbit Fire has grown to approximately 28 acres. It continues burning with a low fire intensity as it creeps through and consumes the dead and downed trees and brush that cover the ground’s surface around the fire’s perimeter. Fire managers continue to evaluate the Rabbit Wildfire to determine the initial and long-term risks associated with the wildfire. </span></p><p><span>This process considers of the firefighters and public safety, natural and cultural resources, and values to be protected. This revolving evaluation ensures fire managers apply a risk management process that minimizes unnecessary risk in wildfire response while maximizing the opportunities to achieve agency management objectives by providing for safety first. </span></p><p><span>A significant role of the Forest Service is to manage natural resources on public lands, and the Rabbit Fire response decision includes objectives that include improving and enhancing natural resources while managing naturally occurring wildfires. To achieve that objective, Land and Resource Management Plans identify that fire plays a role in managing natural systems which is a primary mission.</span></p>",
     "size": "413",
-    "lat_min": "42",
-    "lat_sec": "46.6",
+    "lat_min": "43",
+    "lat_sec": "5",
     "urlPath": "/casqf-rabbit-fire",
-    "long_min": "52",
-    "long_sec": "41.8",
+    "long_min": "53",
+    "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "12 seconds ago"
+    "changed": "2 seconds ago"
   }
 ]
