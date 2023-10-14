@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 day 15 hours ago"
+    "changed": "1 day 16 hours ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "23 hours 10 minutes ago"
+    "changed": "23 hours 22 minutes ago"
   },
   {
     "title": "2023 - Strawberry Prescribed Burn, Summit Ranger District, Stanislaus National Forest",
@@ -606,7 +606,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 seconds ago"
+    "changed": "12 minutes 5 seconds ago"
   },
   {
     "title": "Colt Fire",
@@ -1551,7 +1551,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 hour 51 minutes ago"
+    "changed": "2 hours 3 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1677,7 +1677,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "15 hours 36 minutes ago"
+    "changed": "15 hours 48 minutes ago"
   },
   {
     "title": "South Fork Complex",
@@ -1782,7 +1782,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "1 week 2 days ago"
+    "changed": "1 week 3 days ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -1908,7 +1908,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "3 days 15 hours ago"
+    "changed": "3 days 16 hours ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -2034,7 +2034,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "2 minutes 21 seconds ago"
+    "changed": "14 minutes 23 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2328,7 +2328,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "15 hours 50 minutes ago"
+    "changed": "16 hours 2 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2370,7 +2370,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "11 hours 34 minutes ago"
+    "changed": "11 hours 46 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2496,7 +2496,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "4 days 12 hours ago"
+    "changed": "4 days 13 hours ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2559,7 +2559,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "42 minutes 21 seconds ago"
+    "changed": "6 seconds ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2643,7 +2643,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 days 16 hours ago"
+    "changed": "2 days 17 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2769,6 +2769,6 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "9 hours 27 minutes ago"
+    "changed": "9 hours 39 minutes ago"
   }
 ]
