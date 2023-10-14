@@ -18,7 +18,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Animas City Mountain Prescribed Burn",
-    "changed": "1 month ago"
+    "changed": "1 month 1 week ago"
   },
   {
     "title": "Southwest District BLM Prescribed Fire ",
@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "1 day 20 hours ago"
+    "changed": "1 day 23 hours ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 day 17 hours ago"
+    "changed": "1 day 20 hours ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "1 day 1 hour ago"
+    "changed": "1 day 4 hours ago"
   },
   {
     "title": "INYO NATIONAL FOREST--FLOOD RESPONSE",
@@ -186,7 +186,7 @@
     "long_sec": "59",
     "measurement_type": "",
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
-    "changed": "4 days 21 hours ago"
+    "changed": "5 days ago"
   },
   {
     "title": "INYO NATIONAL FOREST 2023 PRESCRIBED FIRE PROJECTS",
@@ -210,27 +210,6 @@
     "changed": "2 months 3 weeks ago"
   },
   {
-    "title": "2023 - South Fork Prescribed Burn, Summit Ranger District, Stanislaus National Forest",
-    "lat_deg": "38",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "100",
-    "type": "Prescribed Fire",
-    "field_incident_description": "Prescribed-fire operations likely to resume between mid-October and mid-November. ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-06-19T19:26:58-04:00\">2023-06-19</time>\n",
-    "id": "313124",
-    "field_incident_overview": "<p>Prescribed-fire operations in the South Fork project area, which began on May 26, 2023, were suspended at the end of June as weather conditions became unfavorable. Nearly 4,200 acres were treated with prescribed fire in the Strawberry, Dry Meadow, South Fork, and Experimental Forest project areas. Crews also prepared more than 5,000 acres in the North Beardsley project area for prescribed-fire treatment. Stanislaus National Forest fire managers anticipate being able to resume firing operations on the remaining untreated units this fall, most likely from mid-October to mid-November. </p>\n\n<p>Stanislaus National Forest employees thank residents and visitors for their patience and support as they use prescribed fire and other treatment methods to reduce wildfire risk to communities, protect infrastructure, and improve forest health. </p>",
-    "size": "56",
-    "lat_min": "4",
-    "lat_sec": "13.098",
-    "urlPath": "/castf-2023-south-fork-prescribed-burn-summit-ranger-district-stanislaus-national-forest",
-    "long_min": "12",
-    "long_sec": "3.524",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASTF 2023 South Fork Prescribed Burn Summit Ranger District Stanislaus National Forest",
-    "changed": "3 months ago"
-  },
-  {
     "title": "Spring Creek Fire",
     "lat_deg": "39",
     "long_deg": "108",
@@ -250,27 +229,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "COWRF Spring Creek Fire",
     "changed": "3 weeks 4 days ago"
-  },
-  {
-    "title": "2023 - Bone Lightning Fire",
-    "lat_deg": "38",
-    "long_deg": "119",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "This fire was caused by lightning on 6/15/23 (based on spatial lighting strike maps), and smoke/fire behavior detection took a while to develop and was delayed by road access and melting snow. The origin location is near the Emigrant Wilderness and surrounded by USFS roads, natural features like granite outcrops, Reynolds and Cherry Creeks, and Cherry Lake Reservoir.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-06-28T23:45:17-04:00\">2023-06-28</time>\n",
-    "id": "313240",
-    "field_incident_overview": "<p><span><span><span><strong><span><span>SONORA, California June 28</span></span></strong><span><span>, <strong>2023</strong> – </span></span><span>What began as a lightning-caused wildfire along Jawbone Pass in the pre-planned Cherry North Prescribed (RX) Burn Unit on the Stanislaus National Forest’s Groveland Ranger District is being managed to achieve multiple objectives. </span></span></span></span></p>\n\n<p><span><span><span><strong>              </strong><span><span>The lightning ignition was originally detected on June 15, and district fire managers immediately began work to ensure this naturally ignited fire stayed within pre-determined boundaries. Much of the work, including thinning vegetation along containment lines and clearing roads impacted by winter storm damage has already been completed based upon pre-existing prescribed fire plans.</span></span></span></span></span></p>",
-    "size": "1163",
-    "lat_min": "2",
-    "lat_sec": "30.6",
-    "urlPath": "/castf-2023-bone-lightning-fire",
-    "long_min": "55",
-    "long_sec": "33.6",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASTF 2023 Bone Lightning Fire",
-    "changed": "3 months ago"
   },
   {
     "title": "Pika Fire",
@@ -396,7 +354,7 @@
     "long_sec": "49.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Lucky Fire",
-    "changed": "2 months 3 weeks ago"
+    "changed": "2 months 4 weeks ago"
   },
   {
     "title": "Boulder Fire",
@@ -543,7 +501,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 seconds ago"
+    "changed": "3 hours ago"
   },
   {
     "title": "Colt Fire",
@@ -606,7 +564,7 @@
     "long_sec": "7",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAINF COWTRACK LIGHTNING FIRE",
-    "changed": "2 months ago"
+    "changed": "2 months 1 week ago"
   },
   {
     "title": "NEWELL ROAD",
@@ -837,7 +795,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Turkey Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Anderson Complex",
@@ -1068,7 +1026,7 @@
     "long_sec": "22",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Stadium Creek Fire",
-    "changed": "1 month 2 weeks ago"
+    "changed": "1 month 3 weeks ago"
   },
   {
     "title": "Black River Complex",
@@ -1215,7 +1173,7 @@
     "long_sec": "59",
     "measurement_type": "Acres",
     "field_title_and_unit": "COUPD Little Mesa Fire",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "Lookout Fire",
@@ -1236,7 +1194,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "3 days 18 hours ago"
+    "changed": "3 days 21 hours ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1446,7 +1404,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP August Lightning Fires",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
@@ -1467,7 +1425,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "1 day 17 hours ago"
+    "changed": "1 day 20 hours ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1488,7 +1446,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "3 hours 53 minutes ago"
+    "changed": "6 hours 53 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1551,7 +1509,7 @@
     "long_sec": "34.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOWF Blue Lake Fire",
-    "changed": "2 weeks 3 days ago"
+    "changed": "2 weeks 4 days ago"
   },
   {
     "title": "Deep Fire",
@@ -1614,7 +1572,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "17 hours 39 minutes ago"
+    "changed": "20 hours 39 minutes ago"
   },
   {
     "title": "South Fork Complex",
@@ -1635,7 +1593,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "1 week 2 days ago"
+    "changed": "1 week 3 days ago"
   },
   {
     "title": "McKinney Fire",
@@ -1698,7 +1656,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "2 days 1 hour ago"
+    "changed": "2 days 4 hours ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1761,7 +1719,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "6 days 18 hours ago"
+    "changed": "6 days 21 hours ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -1782,7 +1740,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "6 days 18 hours ago"
+    "changed": "6 days 21 hours ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -1803,7 +1761,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "3 days 19 hours ago"
+    "changed": "3 days 22 hours ago"
   },
   {
     "title": "Redwood Fire",
@@ -1824,7 +1782,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "6 days 21 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1845,7 +1803,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "3 days 18 hours ago"
+    "changed": "3 days 21 hours ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -1908,7 +1866,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "6 days 18 hours ago"
+    "changed": "6 days 21 hours ago"
   },
   {
     "title": "Dinner Fire",
@@ -1929,7 +1887,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "6 days 18 hours ago"
+    "changed": "6 days 21 hours ago"
   },
   {
     "title": "Grizzly Fire",
@@ -1950,7 +1908,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "1 week ago"
+    "changed": "1 week 1 day ago"
   },
   {
     "title": "Anvil Fire",
@@ -1971,7 +1929,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 seconds ago"
+    "changed": "3 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2013,7 +1971,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "2 days 1 hour ago"
+    "changed": "2 days 4 hours ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -2034,7 +1992,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 day 4 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -2118,7 +2076,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "5 days 1 hour ago"
+    "changed": "5 days 4 hours ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -2202,7 +2160,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "COCCD South Slope Roza Slope",
-    "changed": "4 weeks 1 day ago"
+    "changed": "1 month ago"
   },
   {
     "title": "Montoya and Blas Units, Canjilon Wildland Urban Interface Project",
@@ -2223,7 +2181,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "3 days 1 hour ago"
+    "changed": "3 days 4 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2244,7 +2202,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "6 days 1 hour ago"
+    "changed": "6 days 4 hours ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2257,7 +2215,7 @@
     "created": "<time datetime=\"2023-09-17T15:13:18-04:00\">2023-09-17</time>\n",
     "id": "316056",
     "field_incident_overview": "<p><span>The Quarry fire was one of many fires ignited by lightning strikes across the forest on September 9, 2023.  District fire managers immediately worked to ensure these naturally ignited fires stayed within pre-determined boundaries. Fire personnel with the Stanislaus National Forest are currently managing the Quarry Fire to achieve multiple resource objectives.</span></p>",
-    "size": "6553",
+    "size": "6779",
     "lat_min": "3",
     "lat_sec": "39.4194",
     "urlPath": "/castf-2023stfquarry-fire",
@@ -2265,7 +2223,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "17 hours 52 minutes ago"
+    "changed": "13 seconds ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2286,7 +2244,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "5 days 1 hour ago"
+    "changed": "5 days 4 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2307,7 +2265,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "13 hours 36 minutes ago"
+    "changed": "16 hours 36 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2391,7 +2349,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "2 days ago"
+    "changed": "2 days 3 hours ago"
   },
   {
     "title": "Ida",
@@ -2433,7 +2391,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "4 days 14 hours ago"
+    "changed": "4 days 17 hours ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2454,7 +2412,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "4 days 14 hours ago"
+    "changed": "4 days 17 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2475,7 +2433,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "4 days 15 hours ago"
+    "changed": "4 days 18 hours ago"
   },
   {
     "title": "Still Fire",
@@ -2496,7 +2454,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "1 hour 50 minutes ago"
+    "changed": "4 hours 50 minutes ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2517,7 +2475,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "39 minutes 54 seconds ago"
+    "changed": "3 hours 39 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2538,7 +2496,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "4 days 2 hours ago"
+    "changed": "4 days 5 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2559,7 +2517,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 19 hours ago"
+    "changed": "2 days 22 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2580,7 +2538,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 days 18 hours ago"
+    "changed": "2 days 21 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2601,7 +2559,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "2 days 20 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2622,7 +2580,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "37 minutes 56 seconds ago"
+    "changed": "3 hours 37 minutes ago"
   },
   {
     "title": "287 Complex",
@@ -2643,7 +2601,7 @@
     "long_sec": "43.98",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS 287 Complex",
-    "changed": "2 days 3 hours ago"
+    "changed": "2 days 6 hours ago"
   },
   {
     "title": "Burlington Pileburn",
@@ -2664,7 +2622,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Burlington Pileburn",
-    "changed": "1 day 3 hours ago"
+    "changed": "1 day 6 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2685,7 +2643,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "2 days 2 hours ago"
+    "changed": "2 days 5 hours ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2706,6 +2664,6 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "11 hours 29 minutes ago"
+    "changed": "14 hours 29 minutes ago"
   }
 ]
