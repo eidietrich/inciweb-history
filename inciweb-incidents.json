@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "7 hours 33 minutes ago"
+    "changed": "8 hours 17 minutes ago"
   },
   {
     "title": "2023 - Strawberry Prescribed Burn, Summit Ranger District, Stanislaus National Forest",
@@ -207,7 +207,7 @@
     "long_sec": "59",
     "measurement_type": "",
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
-    "changed": "4 days 3 hours ago"
+    "changed": "4 days 4 hours ago"
   },
   {
     "title": "INYO NATIONAL FOREST 2023 PRESCRIBED FIRE PROJECTS",
@@ -606,7 +606,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "6 hours 48 minutes ago"
+    "changed": "7 hours 32 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1299,7 +1299,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "23 hours 57 minutes ago"
+    "changed": "1 day ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1551,7 +1551,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "10 hours 20 minutes ago"
+    "changed": "11 hours 3 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1677,7 +1677,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "3 seconds ago"
+    "changed": "43 minutes 22 seconds ago"
   },
   {
     "title": "South Fork Complex",
@@ -1845,7 +1845,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "6 days ago"
+    "changed": "6 days 1 hour ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "3 days 1 hour ago"
+    "changed": "3 days 2 hours ago"
   },
   {
     "title": "Redwood Fire",
@@ -1908,7 +1908,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -1971,7 +1971,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "6 days ago"
+    "changed": "6 days 1 hour ago"
   },
   {
     "title": "Dinner Fire",
@@ -1992,7 +1992,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "6 days ago"
+    "changed": "6 days 1 hour ago"
   },
   {
     "title": "Grizzly Fire",
@@ -2034,7 +2034,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "6 hours 48 minutes ago"
+    "changed": "7 hours 32 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "10 hours 46 minutes ago"
+    "changed": "11 hours 29 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "2 days 8 hours ago"
+    "changed": "2 days 9 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2307,7 +2307,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "5 days 7 hours ago"
+    "changed": "5 days 8 hours ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2328,7 +2328,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "13 minutes 40 seconds ago"
+    "changed": "56 minutes 59 seconds ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2361,8 +2361,8 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-09-18T14:44:06-04:00\">2023-09-18</time>\n",
     "id": "316094",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The McCrystal Rock Unit is part of the larger 21,000-acre Valle Vidal Northeast Prescribed Fire Project. The goal is to improve wildlife habitat by, in part, promoting grassland and meadow regeneration and reducing the potential for high-severity wildfires in forested areas.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire crews have used prescribed fire to treat most of the project area in recent years, including a 1,694-acre unit in 2016 and a 2,000-acre unit in 2009. The 2002 Ponil Complex Fire burn area is also within the unit and the 2017 Whitman Fire is adjacent.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire-adapted forests in the Southwest must undergo fire disturbance on a regular basis to maintain resiliency. Reintroducing and maintaining regular fire intervals in the Valle Vidal, the so-called “Yellowstone of the Southwest,” is a key component of the USDA Forest Service’s </span><a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Wildfire Crisis Strategy</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">. The emphasis of the strategy is to increase fuels and forest health treatments to protect natural resources in designated landscapes, including the 1.5-million-acre </span><a href=\"https://experience.arcgis.com/experience/0fe032e92fad464fbcdc7faf12cd7928/page/Enchanted-Circle/?data_id=dataSource_28-180de4cd8a9-layer-6%3A2480\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Enchanted Circle Landscape</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"> in Northern New Mexico.</span></p>",
-    "size": "",
+    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The 6,333-acre McCrystal Rock Unit is part of the larger 21,000-acre Valle Vidal Northeast Prescribed Fire Project. The goal is to improve wildlife habitat by, in part, promoting grassland and meadow regeneration and reducing the potential for high-severity wildfires in forested areas.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire crews have used prescribed fire to treat most of the project area in recent years, including a 1,694-acre unit in 2016 and a 2,000-acre unit in 2009. The 2002 Ponil Complex Fire burn area is also within the unit and the 2017 Whitman Fire is adjacent.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire-adapted forests in the Southwest must undergo fire disturbance on a regular basis to maintain resiliency. Reintroducing and maintaining regular fire intervals in the Valle Vidal, the so-called “Yellowstone of the Southwest,” is a key component of the USDA Forest Service’s </span><a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Wildfire Crisis Strategy</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">. The emphasis of the strategy is to increase fuels and forest health treatments to protect natural resources in designated landscapes, including the 1.5-million-acre </span><a href=\"https://experience.arcgis.com/experience/0fe032e92fad464fbcdc7faf12cd7928/page/Enchanted-Circle/?data_id=dataSource_28-180de4cd8a9-layer-6%3A2480\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Enchanted Circle Landscape</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"> in Northern New Mexico.</span></p>",
+    "size": "1200",
     "lat_min": "47",
     "lat_sec": "36.6",
     "urlPath": "/nmcaf-mccrystal-rock-unit-valle-vidal-northeast-prescribed-fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "4 hours 40 minutes ago"
+    "changed": "33 seconds ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "Ida",
@@ -2538,7 +2538,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 22 hours ago"
   },
   {
     "title": "Still Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "6 hours 13 minutes ago"
+    "changed": "6 hours 56 minutes ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2580,7 +2580,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "9 hours 59 minutes ago"
+    "changed": "10 hours 42 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2601,7 +2601,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "3 days 8 hours ago"
+    "changed": "3 days 9 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2622,7 +2622,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 1 hour ago"
+    "changed": "2 days 2 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2643,7 +2643,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 days 1 hour ago"
+    "changed": "2 days 2 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2685,7 +2685,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "10 hours 4 minutes ago"
+    "changed": "10 hours 47 minutes ago"
   },
   {
     "title": "287 Complex",
@@ -2727,7 +2727,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Burlington Pileburn",
-    "changed": "10 hours 1 minute ago"
+    "changed": "10 hours 45 minutes ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2748,7 +2748,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "1 day 8 hours ago"
+    "changed": "1 day 9 hours ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2769,6 +2769,6 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "4 hours 3 minutes ago"
+    "changed": "4 hours 46 minutes ago"
   }
 ]
