@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "23 hours 6 minutes ago"
+    "changed": "23 hours 10 minutes ago"
   },
   {
     "title": "2023 - Strawberry Prescribed Burn, Summit Ranger District, Stanislaus National Forest",
@@ -1551,7 +1551,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 hour 46 minutes ago"
+    "changed": "1 hour 51 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1677,7 +1677,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "15 hours 32 minutes ago"
+    "changed": "15 hours 36 minutes ago"
   },
   {
     "title": "South Fork Complex",
@@ -1866,7 +1866,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "3 days 16 hours ago"
+    "changed": "3 days 17 hours ago"
   },
   {
     "title": "Redwood Fire",
@@ -2034,7 +2034,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "32 seconds ago"
+    "changed": "2 minutes 21 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2328,7 +2328,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "15 hours 45 minutes ago"
+    "changed": "15 hours 50 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2370,7 +2370,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "11 hours 29 minutes ago"
+    "changed": "11 hours 34 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "37 minutes 39 seconds ago"
+    "changed": "42 minutes 21 seconds ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2748,7 +2748,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2769,6 +2769,6 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "9 hours 22 minutes ago"
+    "changed": "9 hours 27 minutes ago"
   }
 ]
