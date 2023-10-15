@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "2 days 19 hours ago"
+    "changed": "2 days 20 hours ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 days ago"
+    "changed": "2 days 1 hour ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -186,7 +186,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response",
-    "changed": "17 hours 47 minutes ago"
+    "changed": "18 hours 3 minutes ago"
   },
   {
     "title": "INYO NATIONAL FOREST--FLOOD RESPONSE",
@@ -501,7 +501,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "10 seconds ago"
+    "changed": "16 minutes 28 seconds ago"
   },
   {
     "title": "Colt Fire",
@@ -1425,7 +1425,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "18 hours 20 minutes ago"
+    "changed": "18 hours 37 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1446,7 +1446,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "15 hours 50 minutes ago"
+    "changed": "16 hours 6 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1761,7 +1761,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "Redwood Fire",
@@ -1782,7 +1782,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "1 hour 11 minutes ago"
+    "changed": "1 hour 27 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1803,7 +1803,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "4 days 17 hours ago"
+    "changed": "4 days 18 hours ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -1929,7 +1929,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "11 seconds ago"
+    "changed": "16 minutes 29 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2223,7 +2223,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "20 hours 26 minutes ago"
+    "changed": "13 seconds ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2265,7 +2265,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "12 hours 9 minutes ago"
+    "changed": "12 hours 25 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2349,7 +2349,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Ida",
@@ -2496,7 +2496,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "5 days 1 hour ago"
+    "changed": "5 days 2 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2643,7 +2643,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "3 days 1 hour ago"
+    "changed": "3 days 2 hours ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2664,6 +2664,6 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "17 hours 46 minutes ago"
+    "changed": "18 hours 2 minutes ago"
   }
 ]
