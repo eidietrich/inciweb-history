@@ -186,7 +186,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response",
-    "changed": "15 hours 28 minutes ago"
+    "changed": "15 hours 33 minutes ago"
   },
   {
     "title": "INYO NATIONAL FOREST--FLOOD RESPONSE",
@@ -522,7 +522,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "8 seconds ago"
+    "changed": "1 second ago"
   },
   {
     "title": "Colt Fire",
@@ -1446,7 +1446,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "16 hours 1 minute ago"
+    "changed": "16 hours 6 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1467,7 +1467,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "13 hours 31 minutes ago"
+    "changed": "13 hours 35 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1950,7 +1950,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "9 seconds ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -2223,7 +2223,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "6 days 22 hours ago"
+    "changed": "6 days 23 hours ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2244,7 +2244,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "18 hours 7 minutes ago"
+    "changed": "18 hours 12 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2286,7 +2286,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "9 hours 50 minutes ago"
+    "changed": "9 hours 54 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "23 hours 16 minutes ago"
+    "changed": "23 hours 20 minutes ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2496,7 +2496,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "22 hours 5 minutes ago"
+    "changed": "22 hours 10 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2601,7 +2601,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "22 hours 3 minutes ago"
+    "changed": "22 hours 8 minutes ago"
   },
   {
     "title": "287 Complex",
@@ -2685,6 +2685,6 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "15 hours 27 minutes ago"
+    "changed": "15 hours 32 minutes ago"
   }
 ]
