@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "1 hour 28 minutes ago"
+    "changed": "5 minutes 1 second ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -315,27 +315,6 @@
     "changed": "3 months ago"
   },
   {
-    "title": "Flying V Fire",
-    "lat_deg": "33",
-    "long_deg": "110",
-    "field_percent_of_perimeter": "73",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-06T22:10:20-04:00\">2023-07-06</time>\n",
-    "id": "313361",
-    "field_incident_overview": "<p><span><span><span>The Flying V fire started on July 5 in the early afternoon and the cause is undetermined. Due to the fires growth and increasing complexity, the White Mountain Zone Type 3 Incident Management Team assumed command at 6:00pm on July 6, 2023. A full suppression strategy will be deployed to minimize impacts to highway 60 and protect tribal resources.</span></span></span></p>",
-    "size": "831",
-    "lat_min": "50",
-    "lat_sec": "20",
-    "urlPath": "/azwat-flying-v-fire",
-    "long_min": "25",
-    "long_sec": "44",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZWAT Flying V Fire",
-    "changed": "3 months ago"
-  },
-  {
     "title": "Lucky Fire",
     "lat_deg": "38",
     "long_deg": "118",
@@ -501,7 +480,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "1 hour 53 minutes ago"
+    "changed": "9 minutes 18 seconds ago"
   },
   {
     "title": "Colt Fire",
@@ -1194,7 +1173,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "5 days 17 hours ago"
+    "changed": "5 days 18 hours ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1782,7 +1761,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "1 day ago"
+    "changed": "1 day 1 hour ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1929,7 +1908,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 hour 53 minutes ago"
+    "changed": "9 minutes 19 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1992,7 +1971,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 hours 1 minute ago"
+    "changed": "2 hours 14 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2205,6 +2184,27 @@
     "changed": "1 week 1 day ago"
   },
   {
+    "title": "2023-STF-Quarry Fire",
+    "lat_deg": "38",
+    "long_deg": "119",
+    "field_percent_of_perimeter": "45",
+    "type": "Wildfire",
+    "field_incident_description": "Wildfire.",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-09-17T15:13:18-04:00\">2023-09-17</time>\n",
+    "id": "316056",
+    "field_incident_overview": "<p><span>The Quarry fire was one of many fires ignited by lightning strikes across the forest on September 9, 2023.  District fire managers immediately worked to ensure these naturally ignited fires stayed within pre-determined boundaries. Fire personnel with the Stanislaus National Forest are currently managing the Quarry Fire to achieve multiple resource objectives.</span></p>",
+    "size": "6929",
+    "lat_min": "3",
+    "lat_sec": "39.4194",
+    "urlPath": "/castf-2023stfquarry-fire",
+    "long_min": "59",
+    "long_sec": "30",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CASTF 2023STFQuarry Fire",
+    "changed": "6 seconds ago"
+  },
+  {
     "title": "Cow Creek Prescribed Burn",
     "lat_deg": "38",
     "long_deg": "108",
@@ -2244,7 +2244,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "57 minutes 32 seconds ago"
+    "changed": "1 hour 11 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "6 days 14 hours ago"
+    "changed": "6 days 15 hours ago"
   },
   {
     "title": "Still Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "1 hour 4 minutes ago"
+    "changed": "1 hour 18 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2466,7 +2466,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-10-05T10:46:42-04:00\">2023-10-05</time>\n",
     "id": "316490",
-    "field_incident_overview": "<p><span>Wetting rain and cooler temperatures has made a huge impact and no new growth has occurred. The fire footprint has stayed on the northeast side of the McCormick Wilderness east of Yellow Dog River and west of private land boundaries. The section on private land has not increased and fire crews continue to improve lines in those areas. </span></p><p><span>The <strong>Yellow Dog Trail is CLOSED</strong> until further notice for public and fire fighter safety. Signs are posted at the trailhead. </span></p><p><span>Aircraft will be monitoring the fire as needed.     </span></p><p><span>Smoke may be visible in very localized areas. The size change is only because of more accurate mapping. </span></p>",
+    "field_incident_overview": "<p><span>Seasonal changes that include wetting rain and cooler temperatures has made a huge impact and no new growth has occurred. The fire footprint has stayed on the northeast side of the McCormick Wilderness east of Yellow Dog River and west of private land boundaries.  The section that did burn onto private land has also stayed within its footprint. </span></p><p><span>The <strong>Yellow Dog Trail </strong>has reopened. </span></p><p> </p>",
     "size": "144",
     "lat_min": "42",
     "lat_sec": "43.1",
@@ -2475,7 +2475,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "6 days 1 hour ago"
+    "changed": "9 minutes 33 seconds ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2496,7 +2496,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2643,6 +2643,6 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "17 hours 46 minutes ago"
+    "changed": "18 hours ago"
   }
 ]
