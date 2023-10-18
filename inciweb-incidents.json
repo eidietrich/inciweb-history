@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "5 days 23 hours ago"
+    "changed": "6 days 1 hour ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "20 hours 26 minutes ago"
+    "changed": "22 hours 10 minutes ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "3 hours 55 minutes ago"
+    "changed": "5 hours 40 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 8 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -186,7 +186,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "INYO NATIONAL FOREST--FLOOD RESPONSE",
@@ -291,27 +291,6 @@
     "long_sec": "42",
     "measurement_type": "Acres",
     "field_title_and_unit": "WASES Tunnel Five Fire",
-    "changed": "3 months ago"
-  },
-  {
-    "title": "2023 Los Padres National Forest - Flood Response",
-    "lat_deg": "34",
-    "long_deg": "119",
-    "field_percent_of_perimeter": "",
-    "type": "Flood",
-    "field_incident_description": "A series of winter storms brought heavy rainfall to California and impacted many areas of the Los Padres National Forest as a series of 12 atmospheric rivers hit the west coast from December 2022 through March 2023 (NOAA atmospheric river). This consistent barrage of rainfall created debris flows that washed out forest roads, buried recreation areas, and left some residences stranded without ingress/egress to their homes.<br />\r\n<br />\r\nAfter the initial powerful storm in January that caused flooding, Los Padres National Forest employees immediately began assessing the damage. The initial focus was to help residents regain access to their homes. Afterwards, the objectives shifted to safely reopening areas for public and emergency responder personnel, including firefighting vehicles for initial attack and extended attack operations throughout the forest.<br />\r\n<br />\r\nThe Incident Management Organization (IMO) was established to safely reopen areas to the public for access, recreation, and other permitted uses and projects. Assist with the revision of the forest order closure as areas have been reopened or continue the closure. To understand fire suppression limitations and constraints given known access issues and to revise expectations for fire suppression if needed within and with stakeholders.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-05T17:43:28-04:00\">2023-07-05</time>\n",
-    "id": "313341",
-    "field_incident_overview": "<h2><strong>SUMMARY</strong></h2>\n\n<p>The intention of this InciWeb page is to keep the public, media, cooperators, elected officials, and agency staff informed about the 2023 Los Padres National Forest Emergency Flood Response, addressing road, trail, and recreation status. This page also highlights the ongoing storm recovery effort of an established USDA Forest Service Incident Management Organization (IMO) that was implemented January 17 to safely and systematically open storm-damaged areas of the forest for public and emergency responder access. </p>\n\n<p>More information on the 2023 Los Padres National Forest Emergency Flood Recovery can be found at the following websites:</p>\n\n<p><a href=\"https://www.fs.usda.gov/lpnf\">Los Padres National Forest website</a></p>\n\n<p><a href=\"https://www.flickr.com/photos/usfsregion5/albums/72177720309579324\">Los Padres Storm Damage and Storm Recovery Flickr Album</a></p>\n\n<p><a href=\"https://www.facebook.com/lospadresnationalforest\">Los Padres National Forest Facebook Page</a></p>\n\n<p><a href=\"https://twitter.com/LosPadresNF\">Los Padres National Forest Twitter Page</a></p>\n\n<h2> </h2>\n\n<h2><strong>INCIDENT BACKGROUND</strong></h2>\n\n<p>A series of winter storms brought heavy rainfall to California and impacted many areas of the Los Padres National Forest as a series of 12 atmospheric rivers hit the west coast from December 2022 through March 2023 (<a href=\"https://research.noaa.gov/2023/01/11/atmospheric-rivers-what-are-they-and-how-does-noaa-study-them/\">NOAA atmospheric river</a>). This consistent barrage of rainfall created debris flows that washed out forest roads, buried recreation areas, and left some residences stranded without ingress/egress to their homes.</p>\n\n<p>After the initial powerful storm in January that caused flooding, Los Padres National Forest employees immediately began assessing the damage, and on January 17 an emergency flood response IMO was established. The initial focus was to help residents regain access to their homes. Afterwards, the objectives shifted to safely reopening areas for public and emergency responder personnel, including firefighting vehicles for initial attack and extended attack operations throughout the forest.</p>\n\n<p> </p>\n\n<h2>INCIDENT OBJECTIVES</h2>\n\n<ol><li>\n\t<p>Provide for public safety by identifying and mitigating road, trail, and recreational infrastructure damage. Reopen sections of the Forest that are safe for public use.</p>\n\t</li>\n\t<li>\n\t<p>Provide for safety of agency personnel by identifying and mitigating hazards to administrative sites and ensuring travel routes are safe.</p>\n\t</li>\n\t<li>\n\t<p>Provide for emergency response preparedness by identifying and mitigating damage to critical infrastructure such as communication towers.</p>\n\t</li>\n\t<li>\n\t<p>Provide for rapid damage assessment on infrastructure (roads, trails, bridges, buildings, developed recreation sites, etc.) forest wide.</p>\n\t</li>\n\t<li>\n\t<p>Provide for access to private property, residences and businesses that are located within Forest boundaries.</p>\n\t</li>\n\t<li>\n\t<p>Coordinate with the Regional Storm Damage Response team as requested. - Actively communicate with the public and elected officials about status of storm damage and mitigation.</p>\n\t</li>\n\t<li>\n\t<p>Coordinate with partners, agencies, and volunteers in storm damage assessment and mitigation activities.</p>\n\t</li>\n</ol><h2> </h2>\n\n<h2>CURRENT IMO OPERATIONS</h2>\n\n<p>The Incident Management Organization (IMO) will continue to assess roads, trails and recreation areas. USDA Forest Service equipment operators and contractors will use equipment to repair roads and culverts. Firefighting crews will focus on opening trails while maintaining initial attack readiness in the event of any new wildfire starts.</p>\n\n<p>Resource advisors (READs) will determine potential impacts to plant, animal, cultural, archaeology, engineering, recreation, hydrology and other forest resources prior to beginning work. Assessments, heavy equipment work, and handcrew work is ongoing on the Monterey, Santa Lucia, Santa Barbara, Mt. Pinos and Ojai ranger districts. </p>\n\n<p> </p>\n\n<h2><strong>CLOSURE INFORMATION BY DISTRICT </strong></h2>\n\n<p>The Los Padres National Forest strongly encourages the public to adhere to closure signs as hazardous conditions are still present on these roads, making travel unsafe and potentially impossible. Violators who become stranded in closed areas and require assistance create unnecessary risk for search and rescue teams and may face legal consequences. </p>\n\n<p>Forest visitors should also be aware that heavy equipment including bulldozers, excavators and road graders will be working to repair storm-damaged roads. Please allow adequate space when walking or driving around equipment and ensure verbal and visual confirmation is given before passing. </p>\n\n<h2>1. Monterey Ranger District </h2>\n\n<p><a href=\"https://www.fs.usda.gov/detail/lpnf/recreation/?cid=stelprdb5347980\">Closures and Current Conditions</a></p>\n\n<h3><em>Road Closures:</em></h3>\n\n<ul><li>Highway 1 is closed from Limekiln State Park to 18.7 mi south of Big Sur /at Big Creek Vista Point/ (Monterey Co) - Due to rock slides - Motorists are advised to use an alternate route. Hwy 1 is open from the south to Limekiln State Park. Check <a href=\"https://dot.ca.gov/\">Caltrans website.</a></li>\n\t<li>19S08.2 / Reliz Canyon Road</li>\n\t<li>22S01C / Nacimiento Station Road</li>\n\t<li>19S09A / Arroyo Seco DUA Road</li>\n\t<li>22S02 / Kirk Creek Campground Road</li>\n\t<li>20S05.3 / Central Coast Ridge Road</li>\n\t<li>22S04 / Prewitt Ridge Campground Road</li>\n\t<li>20S05.4 / South Coast Ridge Road</li>\n\t<li>22S04A / Alms Ridge Campground Road</li>\n\t<li>20S05.5 / South Coast Ridge Road</li>\n\t<li>23S01.2 / Los Burros Road</li>\n\t<li>20S05.6 / South Coast Ridge Road, excluding the section between the junction with 5E10 / Cruickshank Trail and the junction with 6E11 / Salmon Creek Trail</li>\n\t<li>23S01A / Prisoner Flat Road</li>\n\t<li>20S05.7 / South Coast Ridge Road</li>\n\t<li>23S01B / San Martin Road</li>\n\t<li>20S05D / Chalk Peak Campground Road</li>\n\t<li>23S01C / Los Burros Mine Road</li>\n\t<li>22S01 / Nacimiento-Fergusson Road</li>\n\t<li>23S02.1 / Plaskett Ridge Road</li>\n\t<li>22S01A / Ponderosa Campground Road</li>\n\t<li>23S02.3 / Plaskett Ridge Road</li>\n\t<li>22S01B / Nacimiento Campground Road</li>\n</ul><h3><em>Hiking Trail Closures:</em></h3>\n\n<ul><li>5E13.1 / Sand Dollar/Jade Cove #1 Trail</li>\n\t<li>5E13.2 / Sand Dollar/Jade Cove #2 Trail</li>\n\t<li>4E04 / Rocky Creek Trail</li>\n\t<li>Pine Ridge Trail from China Camp</li>\n\t<li>Pine Valley</li>\n</ul><h3><em>Campground Closures:</em></h3>\n\n<ul><li>Alder Creek (Hwy 1)</li>\n\t<li>Arroyo Seco Campground and Day Use Area</li>\n\t<li>China Camp (Tassajara Rd)</li>\n\t<li>Escondido</li>\n\t<li>Kirk Creek (Hwy 1)</li>\n\t<li>Nacimiento</li>\n\t<li>Ponderosa</li>\n\t<li>White Oaks (Tassajara Rd)</li>\n</ul><h2><strong>2. Santa Lucia Ranger District</strong></h2>\n\n<p><a href=\"https://www.fs.usda.gov/detail/lpnf/recreation/?cid=stelprdb5307963\">Closures and Current Conditions</a></p>\n\n<h3><em><strong>Road Closures: </strong></em></h3>\n\n<ul><li>15E06 Caldwell/Trout Creek Trail</li>\n\t<li>17E10 Big Rocks OHV Trail</li>\n\t<li>16E01 Castle Crags Trail</li>\n\t<li>17E11 Jack Springs OHV Trail</li>\n\t<li>16E03 American Canyon Trail</li>\n\t<li>17E12 Twin Rocks OHV Trail</li>\n\t<li>16E05 Sellers Potrero Trail</li>\n\t<li>17E13 Upper 35 Canyon OHV Trail</li>\n\t<li>16E06 Avenales Trail</li>\n\t<li>17E14 Rock Front OHV Trail</li>\n\t<li>17E05 Logan Ridge OHV Trail</li>\n\t<li>17E06 Shaw Ridge OHV Trail</li>\n\t<li>31W06 Buckhorn Ridge Trail</li>\n\t<li>17E07 Los Machos OHV Trail</li>\n\t<li>31W04 Madre OHV Trail</li>\n\t<li>17E08 Paradise OHV Trail</li>\n\t<li>31W14 Buckhorn OHV Trail</li>\n\t<li>17E09 Branch Creek OHV Trail</li>\n\t<li>10N06.1 / La Brea Canyon OHV Road</li>\n\t<li>30S03 / Queen Bee Road</li>\n\t<li>11N03 / Miranda Pine Road</li>\n\t<li>30S04 / American Canyon Road</li>\n\t<li>11N04.1 / Pine Canyon Road</li>\n\t<li>30S06.1 / Rock Front Road</li>\n\t<li>11N04.2 / Pine Canyon Road</li>\n\t<li>30S06.2 / Rock Front Road</li>\n\t<li>11N04.4 / Colson Canyon Road</li>\n\t<li>30S11 / Hi Mountain Road</li>\n\t<li>12N03.1 / Old Sierra OHV Road</li>\n\t<li>30S11A / Hi Mountain Lookout Road</li>\n\t<li>12N03.2 / Old Sierra Road</li>\n\t<li>31S02.1 / Branch Mountain Road</li>\n\t<li>28S02.1 / Fernandez Road</li>\n\t<li>31S02.2 / Branch Mountain Road</li>\n\t<li>28S02.2 / Fernandez Road</li>\n\t<li>31S02.3 / Branch Mountain OHV Road</li>\n\t<li>29S02.1 / Navajo Road</li>\n\t<li>31S02.4 / Branch Mountain OHV Road</li>\n\t<li>29S02.2 / Navajo Road</li>\n\t<li>31S13 / Branch Mountain Road</li>\n\t<li>29S14 / Friis Road</li>\n\t<li>32S09 / Jolla Road</li>\n\t<li>29S18.1 / Queen Bee Loop OHV Road</li>\n\t<li>32S11A / Jack Springs Road</li>\n\t<li>29S18.2 / Queen Bee Loop OHV Road</li>\n\t<li>30S02.5 / Branch Creek OHV Road</li>\n\t<li>30S02A / Avenales Station Road</li>\n</ul><h3><em><strong>Off Highway Vehicle Area (OHV) Closures:</strong></em></h3>\n\n<h4>Pozo/La Panza OHV Area Trails</h4>\n\n<ul><li>31S02.3 / Branch Mountain OHV Road</li>\n\t<li>31S02.4 / Branch Mountain OHV Road</li>\n\t<li>30S02.5 / Branch Creek OHV Road</li>\n\t<li>28S02A / Benchmark OHV Road</li>\n\t<li>12N03.1 / Old Sierra OHV Road</li>\n\t<li>29S18.1 / Queen Bee Loop OHV Road</li>\n\t<li>29S18.2 / Queen Bee Loop OHV Road</li>\n\t<li>15E06 Caldwell/Trout Creek Trail</li>\n\t<li>16E01 Castle Crags Trail</li>\n\t<li>17E09 Branch Creek OHV Trail</li>\n\t<li>17E10 Big Rocks OHV Trail</li>\n\t<li>16E03 American Canyon Trail</li>\n\t<li>16E05 Sellers Potrero Trail</li>\n\t<li>17E13 Upper 35 Canyon OHV Trail</li>\n\t<li>16E06 Avenales Trail</li>\n</ul><h4><strong>Rock Front Ranch OHV Area Trails</strong></h4>\n\n<ul><li>17E14 Rock Front OHV Trail</li>\n\t<li>17E05 Logan Ridge OHV Trail</li>\n\t<li>7E06 Shaw Ridge OHV Trail</li>\n\t<li>17E07 Los Machos OHV Trail</li>\n\t<li>17E08 Paradise OHV Trail</li>\n\t<li>17E11 Jack Springs OHV Trail</li>\n\t<li>17E12 Twin Rocks OHV Trail</li>\n</ul><h4>Buckhorn Ridge</h4>\n\n<ul><li>31W14 Buckhorn OHV Trail</li>\n\t<li>31W06 Buckhorn Ridge Trail</li>\n\t<li>31W04 Madre OHV Trail</li>\n</ul><h3><em><strong>Campground Closures:</strong></em></h3>\n\n<ul><li>American Canyon Seasonal Campground - (Only open during Zone A deer hunting season)</li>\n\t<li>Baja (Rock Front OHV Area)</li>\n\t<li>Barrel Springs Campground</li>\n\t<li>Bear Canyon Campground</li>\n\t<li>Brookshire</li>\n\t<li>Buck Springs (Rock Front OHV Area)</li>\n\t<li>Colson Campground (permanently closed)</li>\n\t<li>Friis (Pozo/La Panzan OHV Area)</li>\n\t<li>Hi Mountain Campground</li>\n\t<li>Horseshoe Springs</li>\n\t<li>La Panza Campground (Pozo/La Panza OHV Area)</li>\n\t<li>Paradise (Rock Front OHV Area)</li>\n\t<li>Wagon Flat Campground</li>\n</ul><h2><strong>3. Santa Barbara Ranger District</strong></h2>\n\n<p><a href=\"https://www.fs.usda.gov/detail/lpnf/recreation/?cid=stelprdb5307964\">Closures and Current Conditions</a></p>\n\n<h3><em><strong>Road Closure:</strong></em></h3>\n\n<p>5N20 Arroyo Burro Road</p>\n\n<h3><em><strong>OHV Closures:</strong></em></h3>\n\n<h4>Buckhorn-Camuesa OHV Routes</h4>\n\n<ul><li>27W28 Camuesa Peak OHV Trail</li>\n\t<li>9N11.4 / 27W27 Buckhorn OHV Road</li>\n\t<li>Upper Oso OHV Staging Area</li>\n\t<li>9N11B / 27W23 Happy Hollow OHV Road</li>\n</ul><p><strong>Divide Peak OHV Routes</strong></p>\n\n<ul><li>5N12.1 / 26W22 Divide Peak OHV Road</li>\n\t<li>Divide Peak OHV Staging Area</li>\n\t<li>26W21A Divide Peak Bowl OHV Track</li>\n\t<li>26W21 Divide Peak Bowl OHV Trail</li>\n\t<li>5N12.2 / 27W26 Romero Camuesa OHV Road</li>\n</ul><h3><em><strong>Hiking Trail Closures:</strong></em></h3>\n\n<ul><li>25W09 Franklin Trail</li>\n\t<li>27W19 Matias Potrero</li>\n\t<li>26W14 Romero Trail (Frontside)</li>\n\t<li>27W25 Matias Connector Trail</li>\n\t<li>26W25 Old Romero Road</li>\n\t<li>28W05 Aliso Loop</li>\n\t<li>26W15 San Ysidro Trail (Singletrack)</li>\n\t<li>27W09 Santa Cruz Trail (19 Oaks to Santa Cruz Guard Station)</li>\n\t<li>27W13 Arroyo Burro Trail</li>\n\t<li>27W14 Tunnel Trail (Backside)</li>\n\t<li>27W17 Jesusita Trail (Switchbacks to Inspiration Point)</li>\n</ul><h3><strong><em>Campground and Day Use Area (DUA) Closures:</em></strong></h3>\n\n<ul><li>Los Prietos</li>\n\t<li>Upper Oso</li>\n\t<li>Mono</li>\n\t<li>Rock Camp</li>\n\t<li>Middle Santa Ynez</li>\n\t<li>P-Bar Flat</li>\n\t<li>Lower Oso DUA</li>\n\t<li>Red Rock DUA</li>\n\t<li>Sandstone DUA</li>\n\t<li>Live Oak DUA</li>\n\t<li>Falls DUA</li>\n</ul><h2><strong>4. Ojai Ranger District</strong></h2>\n\n<p><a href=\"https://www.fs.usda.gov/detail/lpnf/recreation/?cid=stelprdb5309152\"><strong>Closures and Current Conditions</strong></a></p>\n\n<h3><em><strong>Road Closures:</strong></em></h3>\n\n<ul><li>State Highway 33</li>\n\t<li>6N06A / Pine Mountain Campground Road</li>\n\t<li>4N04A /La Broche Canyon Road</li>\n\t<li>6N16.2 / Kahus Flat Road</li>\n\t<li>5N13.1 / Murietta Road</li>\n\t<li>6N16B / Dough Flat Rd. (Closed at Tar Creek Gate)</li>\n\t<li>5N13.2 / Murietta Road</li>\n\t<li>6N31 / Sespe Road</li>\n\t<li>5N24 / Wheeler Gorge Campground Road</li>\n\t<li>6N31B /Piedra Blanca Road</li>\n\t<li>5N35 / Wheeler Residence Road</li>\n\t<li>6N31C / Middle Lion Road</li>\n\t<li>5N36 / Wheeler Station Road</li>\n\t<li>6N31F / Rose Lake Campground Road</li>\n\t<li>5N42A / Rose Falls Campground Road</li>\n\t<li>4N03 / Santa Paula Canyon Road</li>\n</ul><h3><em><strong>Campground and Day Use Area Closures</strong></em>:</h3>\n\n<ul><li>Wheeler Gorge </li>\n\t<li>Holiday Group Campground</li>\n\t<li>Rose Valley</li>\n\t<li>Middle Lion</li>\n\t<li>Pine Mountain</li>\n\t<li>Reyes Peak</li>\n\t<li>Rose Valley Lake Upper and Lower Day Use Areas</li>\n</ul><h2><strong>5. Mt. Pinos Ranger District</strong></h2>\n\n<p><a href=\"https://www.fs.usda.gov/detail/lpnf/recreation/?cid=stelprdb5307967\">Closures and Current Conditions</a></p>\n\n<h3><em><strong>Road including OHV Trails Closures:</strong></em></h3>\n\n<ul><li>State Highway 33</li>\n\t<li>Rancho Nuevo 7N04A</li>\n\t<li>Rancho Nuevo Trail (24W03) section between Rancho Nuevo and Deal Junction campgrounds in the Dick Smith Wilderness</li>\n\t<li>Tinta Road 7N04</li>\n\t<li>Tinta Trail (24W02) </li>\n\t<li>West Dry Canyon Road 8N19</li>\n</ul><p>** East Dry Canyon including access road, OHV routes and dispersed Dome Springs Camping Area within canyon are located within LPNF Forest Closure for canyon due to Unexploded Ordinances.</p>\n\n<h3><em>Campground Closure:</em></h3>\n\n<ul><li>Chuchupate</li>\n\t<li>McGill</li>\n\t<li>McGill Group Campground</li>\n\t<li>Rancho Nuevo</li>\n</ul><h2> </h2>\n\n<h2><strong>ACCOMPLISHMENTS TIMELINE</strong></h2>\n\n<h2><em><strong>January 9, 2023 to June 28, 2023</strong></em></h2>\n\n<h3><em><strong>Heavy Equipment Group</strong></em></h3>\n\n<ul><li>\n\t<p>January 9th: Strong Winter Storm hits the Los Padres National Forest</p>\n\t</li>\n\t<li>\n\t<p>January 12th: scouted Colson Canyon Road (11N04)</p>\n\t</li>\n\t<li>\n\t<p>January 13th: began work at Red Hill Road (28S02) to help landowner get access for SLRD (Resources: LPF DZR3) </p>\n\t</li>\n\t<li>\n\t<p>January 20th: finished Red Hill Road (28S02)</p>\n\t</li>\n\t<li>\n\t<p>January 23rd: scouted Pine Canyon Road (11N04)</p>\n\t</li>\n\t<li>\n\t<p>January 24th: temporarily fixed beginning of Pine Canyon Road (11N04) to help landowner get access  SLRD (Resources: LPF DZR3)</p>\n\t</li>\n\t<li>\n\t<p>January 25th: scouted further in Pine Canyon Road (11N04) </p>\n\t</li>\n\t<li>\n\t<p>January 31st: opened Sierra Madre Road (32S13) to Plowshare Peak for cooperating agencies / SLRD (Resources: LPF DZR3)</p>\n\t</li>\n\t<li>\n\t<p>February 1-4th: finished scouting Pine Canyon Rd (11N04)</p>\n\t</li>\n\t<li>\n\t<p>February 7th: began work on Figueroa Mountain. Rd (7N07) / SLRD (Resources: Plumas, Lassen, San Bernardino, LPF DZR3)   </p>\n\t</li>\n\t<li>\n\t<p>February 20th: finished work on Figueroa Mountain Rd (7N07)</p>\n\t</li>\n\t<li>\n\t<p>February 23rd: scouted Monterey projects (Brazil Ranch, Los Burros, Pfeiffer Beach entrance)</p>\n\t</li>\n\t<li>\n\t<p>February 27th: assessed new damage to entrance of Pine Canyon Rd. (11N04) that was previously fixed</p>\n\t</li>\n\t<li>\n\t<p>March 2nd: scouted Santa Barbara Canyon Rd. (9N11) and Northside (Cuyama side) of State Highway 33 for road conditions (snow, slides, etc)</p>\n\t</li>\n\t<li>\n\t<p>March 4th: began work on private road off of Rose Valley Road (6N31) to get landowners out / ORD (Resources: LPF DZR3)</p>\n\t</li>\n\t<li>\n\t<p>March 5th: finished work on private road off Rose Valley Road (6N31) for landowners</p>\n\t</li>\n\t<li>\n\t<p>March 8th: began work (2nd time) to Pine Canyon Rd (11N04) / SLRD (Resources: LPF DZR3, Plumas, and Lassen)</p>\n\t</li>\n\t<li>\n\t<p>March 10th: finished work at Pine Canyon Rd. (11N04)</p>\n\t</li>\n\t<li>\n\t<p>March 12th: began work at Santa Barbara Canyon Road (9N11) / MPRD (shoulder repair) for landowner whose road was washing away (Resources: LPF DZR3, Plumas, and Lassen)</p>\n\t</li>\n\t<li>\n\t<p>March 14th: finished work on Santa Barbara Canyon Road (9N11)</p>\n\t</li>\n\t<li>\n\t<p>March 16th: scouted Matilija Rd. (5N13) and Rose Valley Rd. (6N31)</p>\n\t</li>\n\t<li>\n\t<p>March 17th: began work on Rose Valley Road (6N31)/ ORD (Resources: LPF DZR3, Plumas, Lassen)</p>\n\t</li>\n\t<li>\n\t<p>March 25th: finished work on Rose Valley Road (6N31)</p>\n\t</li>\n\t<li>\n\t<p>April 3rd: began work at end of Matilija Rd (5N13) / ORD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>April 7th: finished Matilija Road (5N13).</p>\n\t</li>\n\t<li>\n\t<p>April 8th:  began work on Piru Canyon Road (4N13) near Lake Piru / ORD (Resources LPF DZR3, LPF DZR4,)</p>\n\t</li>\n\t<li>\n\t<p>May 1st: finished work on Piru Canyon Road (4N13).</p>\n\t</li>\n\t<li>\n\t<p>May 3rd: began work on Lower Santa Ynez River Road (5N18) / SBRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>May 10th: finished work on Lower Santa Ynez River Road (5N18)</p>\n\t</li>\n\t<li>\n\t<p>May 11th: began work on Romero Camuesa Road aka Pendalo Road (5N15), Juncal Road (5N13), and Divide Peak OHV (5N12) / SBRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>May 31st: finished work on Romero Camuesa Road aka Pendola Road (5N15), Juncal Road (5N13) and Divide Peak OHV (5N12)</p>\n\t</li>\n\t<li>\n\t<p>June 6th: began work on Alamo Mountain Road (8N01) to Stewart Mountain Road (6N10)/ MPRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>June 7th: installed culvert and fixed portion of Frazier Mountain Road (8N04) / MPRD (Resources: LPF DZR3, MPRD Personnel) </p>\n\t</li>\n\t<li>\n\t<p>June 12th: finished work on Alamo Mountain Road (8N01) to Stewart Mountain Road (6N10)</p>\n\t</li>\n\t<li>\n\t<p>June 13th: began work on Santa Barbara Canyon Road (9N11) from forest gate off Santa Barbara Canyon Rd to Salisbury Potrero (9N11) and out Dry Canyon to Tinta trailhead (8N19) / MPRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>June 14th: began work on Grade Valley Road (7N03)/ MPRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>June 16th: finished work on Santa Barbara Canyon Road (9N11) to Salisbury Potrero (9N11) and out to Dry Canyon (8N19)</p>\n\t</li>\n\t<li>\n\t<p>June 17th: began work on Pine Mountain Road (6N06) to Reyes Peak (clearing slides) / ORD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>June 18th: finished work on Pine Mountain Road (6N06) </p>\n\t</li>\n\t<li>\n\t<p>June 19th: fixed Cuyama river crossing to Tinta trailhead (7N04) off State Highway 33 / MPRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>June 20th: began work on Quatal Canyon Road (9N09) / MPRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>June 22nd: began work on Apache Canyon Road (8N06) / MPRD (Resources: LPF DZR3, LPF DZR4)</p>\n\t</li>\n\t<li>\n\t<p>June 27th: finished work on Quatal Canyon Road (9N09).</p>\n\t</li>\n\t<li>\n\t<p>June 28th: finished work on Apache Canyon Road (8N06)</p>\n\t</li>\n</ul><p> </p>\n\n<p><em>Abbreviations: (MRD - Monterey Ranger District, SLRD - Santa Lucia Ranger District, SBRD - Santa Barbara Ranger District, ORD - Ojai Ranger District, MPRD - Mount Pinos Ranger District. LPF - Los Padres National Forest, DZR - Dozer)</em></p>\n\n<p> </p>\n\n<p><strong>Sundowners Crew 8 (20-person wildland fire handcrew) accomplishments (May and June 2023):</strong></p>\n\n<p><strong>Trails and Roads</strong></p>\n\n<ul><li>Pine Mountain Road.- 3 miles</li>\n\t<li>Rose Valley Road.- 2.5 miles</li>\n\t<li>Middle Lions Road.- 1 mile</li>\n\t<li>Santa Paula Canyon Trail - 3 miles</li>\n\t<li>Horn Canyon Trail- 2.5 miles</li>\n\t<li>Wheeler Gorge Nature Trail- 0.5 miles</li>\n\t<li>Red Reef Trail- 2.75 miles </li>\n</ul><p><strong>Campgrounds - removed debris, cut downed trees and logs, and general clean up</strong></p>\n\n<ul><li>Rose Valley CG</li>\n\t<li>Middle Lions CG</li>\n\t<li>Reyes Peak CG</li>\n\t<li>Pine Mtn. CG</li>\n\t<li>Wheeler Gorge CG</li>\n</ul>",
-    "size": "",
-    "lat_min": "32",
-    "lat_sec": "29",
-    "urlPath": "/calpf-2023-los-padres-national-forest-flood-response",
-    "long_min": "48",
-    "long_sec": "42",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CALPF 2023 Los Padres National Forest Flood Response",
     "changed": "3 months ago"
   },
   {
@@ -480,7 +459,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 hours 30 minutes ago"
+    "changed": "5 hours 14 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1404,7 +1383,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1425,7 +1404,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "3 days 19 hours ago"
+    "changed": "3 days 21 hours ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1446,7 +1425,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "WA0617 2023 Airplane Lake OWF",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "East",
@@ -1551,7 +1530,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "4 days 21 hours ago"
+    "changed": "4 days 22 hours ago"
   },
   {
     "title": "South Fork Complex",
@@ -1614,7 +1593,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -1635,7 +1614,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "6 days 5 hours ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1740,7 +1719,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "1 week ago"
+    "changed": "1 week 1 day ago"
   },
   {
     "title": "Redwood Fire",
@@ -1761,7 +1740,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "3 days 4 hours ago"
+    "changed": "3 days 6 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1908,7 +1887,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 hours 30 minutes ago"
+    "changed": "5 hours 14 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1950,7 +1929,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "6 days 5 hours ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -1971,7 +1950,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 41 minutes ago"
+    "changed": "5 hours 25 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2118,7 +2097,7 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "3 weeks 1 day ago"
+    "changed": "3 weeks 2 days ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -2160,7 +2139,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "11 minutes 42 seconds ago"
+    "changed": "4 seconds ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2181,7 +2160,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "1 hour 58 minutes ago"
+    "changed": "3 hours 42 minutes ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2202,7 +2181,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 day 3 hours ago"
+    "changed": "1 day 5 hours ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2244,7 +2223,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "2 days 4 hours ago"
+    "changed": "2 days 6 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2265,7 +2244,7 @@
     "long_sec": "93",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDPAF Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "Morgan Fire",
@@ -2328,7 +2307,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "6 days 3 hours ago"
+    "changed": "6 days 5 hours ago"
   },
   {
     "title": "Ida",
@@ -2370,7 +2349,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "1 day 20 hours ago"
+    "changed": "1 day 22 hours ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2433,7 +2412,7 @@
     "long_sec": "12.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Still Fire",
-    "changed": "1 day 22 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2454,7 +2433,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "5 hours 54 minutes ago"
+    "changed": "7 hours 38 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2475,7 +2454,7 @@
     "long_sec": "52.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF Yellow Dog",
-    "changed": "2 days 3 hours ago"
+    "changed": "2 days 5 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2496,7 +2475,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days ago"
+    "changed": "2 days 2 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2517,7 +2496,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "6 days 22 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2538,7 +2517,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "17 hours 45 minutes ago"
+    "changed": "19 hours 29 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2559,7 +2538,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "4 days 3 hours ago"
+    "changed": "4 days 5 hours ago"
   },
   {
     "title": "Burlington Pileburn",
@@ -2580,7 +2559,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Burlington Pileburn",
-    "changed": "5 days 7 hours ago"
+    "changed": "5 days 8 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2601,7 +2580,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "6 days 5 hours ago"
+    "changed": "6 days 7 hours ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2622,7 +2601,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "3 seconds ago"
+    "changed": "1 hour 44 minutes ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2643,7 +2622,7 @@
     "long_sec": "25.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
-    "changed": "43 minutes 50 seconds ago"
+    "changed": "2 hours 28 minutes ago"
   },
   {
     "title": "Sycamore Fire",
@@ -2664,7 +2643,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "5 hours 4 minutes ago"
+    "changed": "6 hours 48 minutes ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2685,7 +2664,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "17 hours 42 minutes ago"
+    "changed": "19 hours 26 minutes ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2706,7 +2685,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "2 hours 42 minutes ago"
+    "changed": "4 hours 27 minutes ago"
   },
   {
     "title": "2023-STF-Peak",
@@ -2727,6 +2706,6 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "18 minutes 35 seconds ago"
+    "changed": "2 hours 2 minutes ago"
   }
 ]
