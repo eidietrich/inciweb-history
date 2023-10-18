@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "20 hours ago"
+    "changed": "20 hours 7 minutes ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "3 hours 29 minutes ago"
+    "changed": "3 hours 37 minutes ago"
   },
   {
     "title": "2023 - San Bernardino National Forest Wildfire Crisis Response ",
@@ -186,7 +186,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response",
-    "changed": "3 days 20 hours ago"
+    "changed": "3 days 21 hours ago"
   },
   {
     "title": "INYO NATIONAL FOREST--FLOOD RESPONSE",
@@ -480,7 +480,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 hours 4 minutes ago"
+    "changed": "3 hours 12 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -963,7 +963,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAQNT Margarita Fire",
-    "changed": "2 months ago"
+    "changed": "2 months 1 week ago"
   },
   {
     "title": "Lost Horse Creek Fire",
@@ -1908,7 +1908,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 hours 4 minutes ago"
+    "changed": "3 hours 12 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1971,7 +1971,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 15 minutes ago"
+    "changed": "3 hours 22 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "1 hour 32 minutes ago"
+    "changed": "1 hour 40 minutes ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "5 hours 28 minutes ago"
+    "changed": "5 hours 36 minutes ago"
   },
   {
     "title": "Yellow Dog ",
@@ -2517,7 +2517,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "6 days 21 hours ago"
+    "changed": "6 days 22 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2538,7 +2538,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "17 hours 19 minutes ago"
+    "changed": "17 hours 27 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2601,7 +2601,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "6 days 4 hours ago"
+    "changed": "6 days 5 hours ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2622,7 +2622,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 seconds ago"
+    "changed": "7 minutes 42 seconds ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2643,7 +2643,7 @@
     "long_sec": "25.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
-    "changed": "17 minutes 47 seconds ago"
+    "changed": "25 minutes 27 seconds ago"
   },
   {
     "title": "Sycamore Fire",
@@ -2664,7 +2664,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "4 hours 38 minutes ago"
+    "changed": "4 hours 45 minutes ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2685,7 +2685,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "17 hours 16 minutes ago"
+    "changed": "17 hours 24 minutes ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2706,6 +2706,27 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "2 hours 16 minutes ago"
+    "changed": "2 hours 24 minutes ago"
+  },
+  {
+    "title": "2023-STF-Peak",
+    "lat_deg": "38",
+    "long_deg": "119",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-10-18T16:23:07-04:00\">2023-10-18</time>\n",
+    "id": "316619",
+    "field_incident_overview": "<p><span>There is still active fire in sheltered and jackpot fuels, fire current size is 132.1 acres. It has a small slop over 5n31 with many natural barriers, this gives us the opportunity to build more containment boxes going forward and continue to allow the fire to mimic natural progression.</span></p><p><span>The Peak Fire is being managed with a confine and contain strategy in a 13-year old burn scar.</span></p>",
+    "size": "150",
+    "lat_min": "13",
+    "lat_sec": "40.8",
+    "urlPath": "/castf-2023stfpeak",
+    "long_min": "56",
+    "long_sec": "18.6",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CASTF 2023STFPeak",
+    "changed": "12 seconds ago"
   }
 ]
