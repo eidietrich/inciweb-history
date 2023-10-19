@@ -417,7 +417,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "7 hours 6 minutes ago"
+    "changed": "7 hours 16 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "3 hours 3 minutes ago"
+    "changed": "3 hours 13 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1845,7 +1845,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "7 hours 6 minutes ago"
+    "changed": "7 hours 16 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1908,7 +1908,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 13 minutes ago"
+    "changed": "3 hours 23 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "7 hours 51 minutes ago"
+    "changed": "8 hours 1 minute ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2412,7 +2412,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 hour 30 minutes ago"
+    "changed": "1 hour 40 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2433,7 +2433,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "7 hours 34 minutes ago"
+    "changed": "7 hours 44 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2517,7 +2517,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "1 second ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2580,7 +2580,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "7 hours 46 minutes ago"
+    "changed": "7 hours 56 minutes ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2643,6 +2643,6 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "45 minutes 11 seconds ago"
+    "changed": "55 minutes 11 seconds ago"
   }
 ]
