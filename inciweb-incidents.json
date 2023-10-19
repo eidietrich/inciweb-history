@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "1 day 22 hours ago"
+    "changed": "1 day 23 hours ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 day 5 hours ago"
+    "changed": "1 day 6 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 days 8 hours ago"
+    "changed": "2 days 9 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -165,7 +165,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response",
-    "changed": "4 days 23 hours ago"
+    "changed": "5 days ago"
   },
   {
     "title": "INYO NATIONAL FOREST--FLOOD RESPONSE",
@@ -375,7 +375,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "Cutoff Ridge Fire",
@@ -417,7 +417,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "6 hours 21 minutes ago"
+    "changed": "7 hours 6 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -1110,7 +1110,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "1 week 1 day ago"
+    "changed": "1 week 2 days ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1341,7 +1341,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "4 days 23 hours ago"
+    "changed": "5 days ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1362,7 +1362,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "4 days 21 hours ago"
+    "changed": "4 days 22 hours ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1488,7 +1488,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "5 days 22 hours ago"
+    "changed": "5 days 23 hours ago"
   },
   {
     "title": "South Fork Complex",
@@ -1635,7 +1635,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -1656,7 +1656,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "2 hours 18 minutes ago"
+    "changed": "3 hours 3 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1719,7 +1719,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Petes Lake Fire",
-    "changed": "1 week 1 day ago"
+    "changed": "1 week 2 days ago"
   },
   {
     "title": "Marmont Road Fire",
@@ -1782,7 +1782,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "Dinner Fire",
@@ -1803,7 +1803,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "Grizzly Fire",
@@ -1845,7 +1845,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "6 hours 21 minutes ago"
+    "changed": "7 hours 6 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1908,7 +1908,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 hours 28 minutes ago"
+    "changed": "3 hours 13 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "7 hours 6 minutes ago"
+    "changed": "7 hours 51 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2118,7 +2118,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "1 day 3 hours ago"
+    "changed": "1 day 4 hours ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2139,7 +2139,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "2 days 5 hours ago"
+    "changed": "2 days 6 hours ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2181,7 +2181,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "3 days 6 hours ago"
+    "changed": "3 days 7 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2307,7 +2307,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2370,7 +2370,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "1 day 7 hours ago"
+    "changed": "1 day 8 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2391,7 +2391,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 days 2 hours ago"
+    "changed": "3 days 3 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2412,7 +2412,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "45 minutes 1 second ago"
+    "changed": "1 hour 30 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2433,7 +2433,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "6 hours 49 minutes ago"
+    "changed": "7 hours 34 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2454,7 +2454,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "5 days 5 hours ago"
+    "changed": "5 days 6 hours ago"
   },
   {
     "title": "Burlington Pileburn",
@@ -2508,8 +2508,8 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-10-13T13:39:04-04:00\">2023-10-13</time>\n",
     "id": "316580",
-    "field_incident_overview": "<p><strong>Tuesday 17th, Afternoon Update</strong>: The Rabbit Fire continues to burn actively along Generals Highway from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road). Firefighters are engaged in hand-firing and hazard tree-felling operations along this portion of Generals Highway, where the fire continues to back towards the road.</p><p>Today, firefighters will continue tactical patrol of the primary control lines around the fire’s west, north, and east sides. Along Generals Highway from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road), firefighters are completing a hand firing and hazard tree felling operation to secure the fire’s edge as it continues back towards the road. Firefighters continue to assess control lines along the perimeter for hazard tree abatement for public and firefighter safety.</p><p>Unmanned aircraft systems (UAS) or drones assist firefighters with scouting the fire in difficult/unsafe areas and for aerial ignition operations. An Air Resource Advisor is assigned to the fire to monitor potential smoke impacts for surrounding communities and work with the San Joaquin Valley Air Pollution Control District.</p><p>Fire Managers highly encourage the public to be cautious on Generals Highway in the areas of Quail Flat, Kings Canyon Overlook, and Big Meadows Road while first responders continue to work in those areas.</p><p><span>Today, firefighters will continue tactical patrol of the primary control lines around the fire’s west, north, and east sides. Along Generals Highway from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road), firefighters are completing a hand firing and hazard tree felling operation to secure the fire’s edge as it continues back towards the road. Firefighters continue to assess control lines along the perimeter for hazard tree abatement for public and firefighter safety. </span></p><p><span>Unmanned aircraft systems (UAS) or drones assist firefighters with scouting the fire in difficult/unsafe areas and for aerial ignition operations. An Air Resource Advisor is assigned to the fire to monitor potential smoke impacts for surrounding communities and work with the San Joaquin Valley Air Pollution Control District<strong>. </strong></span></p><p><span>Fire Managers highly encourage the public to be cautious on Generals Highway in the areas of Quail Flat, Kings Canyon Overlook, and Big Meadows Road while first responders continue to work in those areas.</span></p><p> </p><p> </p><p><strong>Sunday 15th, Afternoon update:</strong> Firing operations will continue along Buck Rock Road/13S04 from Buck Rock Lookout South to Big Meadows Road/14S11. Crews will also continue burning Big Meadows/14S11 Road West towards Generals Highway. We will remove hazard trees along the roads.<br />Crews will assist with firing and finalizing prep on Big Meadows Road/14S11 and Buck Rock Lookout. The drone will assist with firing to add depth to areas that are difficult/unsafe by ground. An Air Resource Advisor has been continuing to monitor the smoke impacts.</p><p> </p>",
-    "size": "2549",
+    "field_incident_overview": "<p><strong>Thursday 19th, Afternoon Update</strong>: Active burning continues in the fire's interior as firefighters work from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road) at the Generals Highway. Crews continue to clean and fortify fire lines and hazard tree-felling operations with an emphasis on accomplishing goals safely and effectively.<br />The fire is creeping toward General’s Highway, where the line will stabilize and complete containment to the south. Firefighters will diligently stay on top of critical fire control points and focus on effective patrol tactics in the west, north, and east perimeters. Line maintenance continues along Generals Highway from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road).<br />Unmanned aircraft systems (UAS) or drones are scouting the fire perimeter, assisting firefighters by allowing them to avoid difficult/unsafe terrain. An Air Resource Advisor and the San Joaquin Valley Air Pollution Control District are monitoring air quality for smoke impacts on local communities.<br />Quail Flat, Kings Canyon Overlook, and Big Meadows Road off the General’s Highway still warrant extreme caution as first responders continue working these areas to improve public safety.</p><p> </p><p><strong>Tuesday 17th, Afternoon Update</strong>: The Rabbit Fire continues to burn actively along Generals Highway from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road). Firefighters are engaged in hand-firing and hazard tree-felling operations along this portion of Generals Highway, where the fire continues to back towards the road.</p><p>Today, firefighters will continue tactical patrol of the primary control lines around the fire’s west, north, and east sides. Along Generals Highway from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road), firefighters are completing a hand firing and hazard tree felling operation to secure the fire’s edge as it continues back towards the road. Firefighters continue to assess control lines along the perimeter for hazard tree abatement for public and firefighter safety.</p><p>Unmanned aircraft systems (UAS) or drones assist firefighters with scouting the fire in difficult/unsafe areas and for aerial ignition operations. An Air Resource Advisor is assigned to the fire to monitor potential smoke impacts for surrounding communities and work with the San Joaquin Valley Air Pollution Control District.</p><p>Fire Managers highly encourage the public to be cautious on Generals Highway in the areas of Quail Flat, Kings Canyon Overlook, and Big Meadows Road while first responders continue to work in those areas.</p><p><span>Today, firefighters will continue tactical patrol of the primary control lines around the fire’s west, north, and east sides. Along Generals Highway from Kings Canyon Overlook southeast to Forest Road 14S11 (Big Meadows Road), firefighters are completing a hand firing and hazard tree felling operation to secure the fire’s edge as it continues back towards the road. Firefighters continue to assess control lines along the perimeter for hazard tree abatement for public and firefighter safety. </span></p><p><span>Unmanned aircraft systems (UAS) or drones assist firefighters with scouting the fire in difficult/unsafe areas and for aerial ignition operations. An Air Resource Advisor is assigned to the fire to monitor potential smoke impacts for surrounding communities and work with the San Joaquin Valley Air Pollution Control District<strong>. </strong></span></p><p><span>Fire Managers highly encourage the public to be cautious on Generals Highway in the areas of Quail Flat, Kings Canyon Overlook, and Big Meadows Road while first responders continue to work in those areas.</span></p><p> </p><p><strong>Sunday 15th, Afternoon update:</strong> Firing operations will continue along Buck Rock Road/13S04 from Buck Rock Lookout South to Big Meadows Road/14S11. Crews will also continue burning Big Meadows/14S11 Road West towards Generals Highway. We will remove hazard trees along the roads.<br />Crews will assist with firing and finalizing prep on Big Meadows Road/14S11 and Buck Rock Lookout. The drone will assist with firing to add depth to areas that are difficult/unsafe by ground. An Air Resource Advisor has been continuing to monitor the smoke impacts.</p><p> </p>",
+    "size": "2660",
     "lat_min": "43",
     "lat_sec": "5",
     "urlPath": "/casqf-rabbit-fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "1 day 1 hour ago"
+    "changed": "1 second ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2538,7 +2538,7 @@
     "long_sec": "25.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Sycamore Fire",
@@ -2580,7 +2580,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "7 hours 1 minute ago"
+    "changed": "7 hours 46 minutes ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2601,7 +2601,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "1 day 4 hours ago"
+    "changed": "1 day 5 hours ago"
   },
   {
     "title": "2023-STF-Peak",
@@ -2622,7 +2622,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Monongahela NF Fall Prescribed Fire Operations",
@@ -2643,6 +2643,6 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "6 seconds ago"
+    "changed": "45 minutes 11 seconds ago"
   }
 ]
