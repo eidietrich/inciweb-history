@@ -417,7 +417,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "2 seconds ago"
+    "changed": "4 minutes 18 seconds ago"
   },
   {
     "title": "Colt Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "19 hours 4 minutes ago"
+    "changed": "19 hours 8 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1845,7 +1845,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "2 seconds ago"
+    "changed": "4 minutes 18 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1908,7 +1908,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "19 hours 14 minutes ago"
+    "changed": "19 hours 19 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "23 hours 53 minutes ago"
+    "changed": "23 hours 57 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2131,7 +2131,7 @@
     "created": "<time datetime=\"2023-09-17T15:13:18-04:00\">2023-09-17</time>\n",
     "id": "316056",
     "field_incident_overview": "<p><span>The Quarry fire was one of many fires ignited by lightning strikes across the forest on September 9, 2023.  District fire managers immediately worked to ensure these naturally ignited fires stayed within pre-determined boundaries. Fire personnel with the Stanislaus National Forest are currently managing the Quarry Fire to achieve multiple resource objectives.</span></p>",
-    "size": "6729",
+    "size": "8080",
     "lat_min": "3",
     "lat_sec": "39.4194",
     "urlPath": "/castf-2023stfquarry-fire",
@@ -2139,7 +2139,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "2 days 22 hours ago"
+    "changed": "1 second ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2412,7 +2412,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "17 hours 31 minutes ago"
+    "changed": "17 hours 35 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2433,7 +2433,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "23 hours 35 minutes ago"
+    "changed": "23 hours 40 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2517,7 +2517,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "14 hours 8 minutes ago"
+    "changed": "14 hours 13 minutes ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2580,7 +2580,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "23 hours 47 minutes ago"
+    "changed": "23 hours 52 minutes ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2643,6 +2643,6 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "16 hours 46 minutes ago"
+    "changed": "16 hours 50 minutes ago"
   }
 ]
