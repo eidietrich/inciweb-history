@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "5 days 16 hours ago"
+    "changed": "5 days 17 hours ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "17 hours 13 minutes ago"
+    "changed": "18 hours 2 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 days 21 hours ago"
+    "changed": "2 days 22 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -354,7 +354,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "23 hours 6 minutes ago"
+    "changed": "23 hours 55 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -648,7 +648,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMGNF Turkey Fire",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "Anderson Complex",
@@ -1194,7 +1194,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP August Lightning Fires",
-    "changed": "1 hour 1 minute ago"
+    "changed": "1 hour 50 minutes ago"
   },
   {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
@@ -1347,7 +1347,7 @@
     "title": "2023 Happy Camp Complex Klamath NF",
     "lat_deg": "41",
     "long_deg": "123",
-    "field_percent_of_perimeter": "87",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -1362,7 +1362,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "1 week 2 days ago"
+    "changed": "1 minute 52 seconds ago"
   },
   {
     "title": "South Fork Complex",
@@ -1572,7 +1572,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "20 hours 35 minutes ago"
+    "changed": "21 hours 24 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1719,7 +1719,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "22 hours 52 minutes ago"
+    "changed": "23 hours 41 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1782,7 +1782,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 hour 35 minutes ago"
+    "changed": "2 hours 24 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1971,7 +1971,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "17 hours 45 minutes ago"
+    "changed": "18 hours 34 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2013,7 +2013,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 hour 58 minutes ago"
+    "changed": "2 hours 47 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2076,7 +2076,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "2 days 18 hours ago"
+    "changed": "2 days 19 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2160,7 +2160,7 @@
     "long_sec": "25",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Buford Wildfire Mountainair Ranger District",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Ida",
@@ -2202,7 +2202,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "6 days 16 hours ago"
+    "changed": "6 days 17 hours ago"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -2265,7 +2265,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "1 second ago"
+    "changed": "49 minutes 9 seconds ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2286,7 +2286,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "6 days 20 hours ago"
+    "changed": "6 days 21 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2307,7 +2307,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 days 18 hours ago"
+    "changed": "2 days 19 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2328,7 +2328,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "4 minutes 52 seconds ago"
+    "changed": "54 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2412,7 +2412,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "24 minutes 23 seconds ago"
+    "changed": "1 hour 13 minutes ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2433,7 +2433,7 @@
     "long_sec": "25.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
-    "changed": "4 days 20 hours ago"
+    "changed": "4 days 21 hours ago"
   },
   {
     "title": "Sycamore Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "56 minutes 32 seconds ago"
+    "changed": "1 hour 45 minutes ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2475,7 +2475,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2496,7 +2496,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "4 days 22 hours ago"
+    "changed": "4 days 23 hours ago"
   },
   {
     "title": "2023-STF-Peak",
@@ -2517,7 +2517,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "4 days 20 hours ago"
+    "changed": "4 days 21 hours ago"
   },
   {
     "title": "Monongahela NF Fall Prescribed Fire Operations",
@@ -2538,6 +2538,48 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "3 days 18 hours ago"
+    "changed": "3 days 19 hours ago"
+  },
+  {
+    "title": "Trail Springs Fire",
+    "lat_deg": "37",
+    "long_deg": "107",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-10-23T13:27:01-04:00\">2023-10-23</time>\n",
+    "id": "316649",
+    "field_incident_overview": "<p><span>The Trail Springs Fire is located on the San Juan National Forest, west of Pagosa Springs. The wildfire is burning in thickly-forested, sloped terrain above West Devil Creek, about 3 miles northwest of Chris Mountain. Unseasonably warm temperatures, and low humidity have contributed to aggressive fire behavior, especially in mid-to-late afternoon. As of Monday morning, the fire remains west of Forest Road 630, and it 2 miles south of the Piedra Valley Ranch. The weather forecast indicates stronger winds today, increasing the potential for higher fire activity. Smoke from the fire has been pushing east, over the Pagosa Springs area and beyond.</span></p><p>The San Juan NF Type 3 team is now managing this and the Mill Creek 2 fires. More firefighting resources are arriving daily. Fire managers are working to implement firefighting tactics that protect values at risk and develop fire control lines in locations with the best probability of success.</p><p>CLOSURE NOTICE: Forest Service Road 630 (The East Monument Road) has been closed due to increased fire activity and to provide access for firefighting apparatus. The closure is being set at the intersection of FS 630 and FS 629 (Turkey Springs Road).</p>",
+    "size": "500",
+    "lat_min": "18",
+    "lat_sec": "1.7526",
+    "urlPath": "/cosjf-trail-springs-fire",
+    "long_min": "14",
+    "long_sec": "46.9068",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COSJF Trail Springs Fire",
+    "changed": "1 second ago"
+  },
+  {
+    "title": "Mill Creek 2 Fire",
+    "lat_deg": "37",
+    "long_deg": "106",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-10-23T13:36:04-04:00\">2023-10-23</time>\n",
+    "id": "316650",
+    "field_incident_overview": "<p>The Mill Creek 2 Fire is located 10 miles northeast of Pagosa Springs on the San Juan National Forest in high, remote terrain, leading to the Wilderness. The fire experienced significant growth on Saturday and is now 110 acres. The fire was burning aggressively through a heavy load of mixed conifer and dead and down logs, but has run into rocky terrain to the north, which has slowed its spread.</p><p><span>The San Juan NF Type 3 team is now managing the Mill Creek 2 and Trail Canyon fires. More firefighting resources are arriving daily. </span>Because of the extremely difficult access and safety risks, firefighters are not being sent in to engage the fire. No homes, ranches or private holdings are at risk.</p>",
+    "size": "110",
+    "lat_min": "18",
+    "lat_sec": "31.5612",
+    "urlPath": "/cosjf-mill-creek-2-fire",
+    "long_min": "50",
+    "long_sec": "43.7388",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COSJF Mill Creek 2 Fire",
+    "changed": "1 minute 51 seconds ago"
   }
 ]
