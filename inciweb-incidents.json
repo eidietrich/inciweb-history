@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "5 days 14 hours ago"
+    "changed": "5 days 15 hours ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "15 hours 38 minutes ago"
+    "changed": "16 hours 17 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 days 19 hours ago"
+    "changed": "2 days 20 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -396,7 +396,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "21 hours 30 minutes ago"
+    "changed": "22 hours 9 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -984,7 +984,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Sidney Fire",
@@ -1284,13 +1284,13 @@
     "title": "August Lightning Fires",
     "lat_deg": "36",
     "long_deg": "118",
-    "field_percent_of_perimeter": "",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-08-16T12:13:44-04:00\">2023-08-16</time>\n",
     "id": "314611",
-    "field_incident_overview": "<p>August and September thunderstorms throughout the Sierra Nevada ignited several lightning fires within Sequoia and Kings Canyon National Parks. </p><p> </p><p><strong>Redwood Fire</strong></p><p><em>This fire is currently being updated on a separate Inciweb page. </em></p><p> </p><p><strong>Blue Fire</strong></p><p>Discovery Date: 9/09</p><p>Location: 36 degrees 58.060, -118 degrees 44.281, Blue Canyon near the Middle Fork of the Kings River. </p><p>Size: 0.1 acres</p><p>Notes/Current strategy: No values at risk. Monitor by air. </p><p> </p><p><strong>Sand Fire</strong></p><p>Discovery Date: 8/19</p><p>Location: 36.36127, -118.64941 east of Sand Meadow on the Hockett Plateau, 8700' elevation</p><p>Fire Size: 0.1 acres</p><p>Notes/Current Strategy: Smoke emanating from strike tree and smoldering ground fire. Low spread potential. The fire does not currently pose a threat to park trails or infrastructure. Monitor by air. Fire is in or near the SQF Complex footprint. </p><p> </p><p><strong>Barton Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.699667, -118.593750, northwest of Baron Peak in Roaring River drainagte, 9200' elevation</p><p>Fire Size: 0.1 acres</p><p>Notes/Current Strategy: Smoke emanating from strike tree and base. Low spread potential. The fire does not currently pose a threat to park trails or infrastructure. Monitor by air. </p><p> </p><p><strong>Highbridge Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.473050, -118.632467, west of Highbridge Creek, above Mineral King Road, 9800' elevation</p><p>Fire size: 0.1 acres</p><p>Notes/Current Strategy: No smoke showing as of 8/19 recon flight. Monitor by air. </p><p> </p><p><strong>Hockett Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.365667, -118.667200, northwest of Hockett Lakes, 8,600' elevation</p><p>Fire Size: 3 acres</p><p>Notes/Current Strategy: Single tree and ground fire at base. Burning actively in heavy dead and down trees. Slow spread to the southeast. The fire does not currently pose a threat to park trails or infrastructure. Within the 2020 SQF Complex scar. Monitor by air.</p><p> </p><p><strong>Kern Fire</strong></p><p>Discovery Date:  08/14 </p><p>Location: 36 32.05, -118 23.43, East side of Kern Canyon at approximately 9,000' </p><p>Fire Size:  Single Tree </p><p>Current Strategy:  Declared out 9/17/23</p><p> </p><p><strong>Burnt Fire</strong></p><p>Discovery Date:  08/14 </p><p>Location: 36 57.412, -118 44.190, Kings Canyon, near Burnt Peak, east of Blue Canyon </p><p>Fire Size: ¼ acre </p><p>Current strategy: Little to no smoke showing. Continue to monitor by air. </p>",
+    "field_incident_overview": "<p>All of these fires, with the exception of the Redwood Fire, are now considered 100% contained. This page is no longer being updated and will be unpublished at the end of the week. </p><p> </p><p>August and September thunderstorms throughout the Sierra Nevada ignited several lightning fires within Sequoia and Kings Canyon National Parks. </p><p> </p><p><strong>Blue Fire</strong></p><p>Discovery Date: 9/09</p><p>Location: 36 degrees 58.060, -118 degrees 44.281, Blue Canyon near the Middle Fork of the Kings River. </p><p>Size: 0.1 acres</p><p>Notes/Current strategy: No values at risk. Monitor by air. </p><p> </p><p><strong>Sand Fire</strong></p><p>Discovery Date: 8/19</p><p>Location: 36.36127, -118.64941 east of Sand Meadow on the Hockett Plateau, 8700' elevation</p><p>Fire Size: 0.1 acres</p><p>Notes/Current Strategy: Smoke emanating from strike tree and smoldering ground fire. Low spread potential. The fire does not currently pose a threat to park trails or infrastructure. Monitor by air. Fire is in or near the SQF Complex footprint. </p><p> </p><p><strong>Barton Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.699667, -118.593750, northwest of Baron Peak in Roaring River drainagte, 9200' elevation</p><p>Fire Size: 0.1 acres</p><p>Notes/Current Strategy: Smoke emanating from strike tree and base. Low spread potential. The fire does not currently pose a threat to park trails or infrastructure. Monitor by air. </p><p> </p><p><strong>Highbridge Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.473050, -118.632467, west of Highbridge Creek, above Mineral King Road, 9800' elevation</p><p>Fire size: 0.1 acres</p><p>Notes/Current Strategy: No smoke showing as of 8/19 recon flight. Monitor by air. </p><p> </p><p><strong>Hockett Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.365667, -118.667200, northwest of Hockett Lakes, 8,600' elevation</p><p>Fire Size: 3 acres</p><p>Notes/Current Strategy: Single tree and ground fire at base. Burning actively in heavy dead and down trees. Slow spread to the southeast. The fire does not currently pose a threat to park trails or infrastructure. Within the 2020 SQF Complex scar. Monitor by air.</p><p> </p><p><strong>Kern Fire</strong></p><p>Discovery Date:  08/14 </p><p>Location: 36 32.05, -118 23.43, East side of Kern Canyon at approximately 9,000' </p><p>Fire Size:  Single Tree </p><p>Current Strategy:  Declared out 9/17/23</p><p> </p><p><strong>Burnt Fire</strong></p><p>Discovery Date:  08/14 </p><p>Location: 36 57.412, -118 44.190, Kings Canyon, near Burnt Peak, east of Blue Canyon </p><p>Fire Size: ¼ acre </p><p>Current strategy: Little to no smoke showing. Continue to monitor by air. </p>",
     "size": "4",
     "lat_min": "32",
     "lat_sec": "",
@@ -1299,7 +1299,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP August Lightning Fires",
-    "changed": "3 weeks 1 day ago"
+    "changed": "5 minutes 8 seconds ago"
   },
   {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
@@ -1551,7 +1551,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1572,7 +1572,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -1677,7 +1677,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "18 hours 59 minutes ago"
+    "changed": "19 hours 38 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1740,7 +1740,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "Brice Creek Fire",
@@ -1824,7 +1824,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "21 hours 17 minutes ago"
+    "changed": "21 hours 56 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -1887,7 +1887,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 second ago"
+    "changed": "38 minutes 59 seconds ago"
   },
   {
     "title": "Marmot Fire",
@@ -1971,7 +1971,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -2076,7 +2076,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "16 hours 9 minutes ago"
+    "changed": "16 hours 48 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2097,7 +2097,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "4 days 20 hours ago"
+    "changed": "4 days 21 hours ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "23 minutes 20 seconds ago"
+    "changed": "1 hour 2 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2139,7 +2139,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2160,7 +2160,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "6 days 23 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2181,7 +2181,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "2 days 16 hours ago"
+    "changed": "2 days 17 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2412,7 +2412,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 days 16 hours ago"
+    "changed": "2 days 17 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2433,7 +2433,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2496,7 +2496,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "19 hours 9 minutes ago"
+    "changed": "19 hours 48 minutes ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2544,13 +2544,13 @@
     "title": "Sycamore Fire",
     "lat_deg": "36",
     "long_deg": "118",
-    "field_percent_of_perimeter": "90",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-10-16T22:32:57-04:00\">2023-10-16</time>\n",
     "id": "316603",
-    "field_incident_overview": "<p>Update 10/18: The fire is currently staffed by 1 hand crew, 2 engines, and 1 helicopter. No further growth is anticipated. The fire will remain staffed through the upcoming predicted hot weather. Firefighters are extinguishing isolated pockets of smoke and fire activity near the edges of the fire footprint. </p><p> </p><p>The Sycamore Fire was discovered in Sequoia National Park, near the Ash Mountain Helibase and the Ash Mountain Entrance Station, on the afternoon of October 16. The fire spread uphill through grass and brushy fuels. Tulare County Fire and CALFIRE aided NPS resources in initial attack. Forward progress on the fire was stopped at approximately 25 acres. The fire currently poses no threats to NPS infrastructure or housing or to the adjacent community of Three Rivers. 1 crew and 2 engines will staff the fire overnight. <span dir=\"ltr\">Night resources will reinforce containment lines, secure any threats to control lines, and begin mop up.</span></p>",
+    "field_incident_overview": "<p>Update 10/23: The Sycamore Fire is 100% contained. Staffing has been reduced to patrol status. This will be the last update unless there are changes to report. </p><p> </p><p>The Sycamore Fire was discovered in Sequoia National Park, near the Ash Mountain Helibase and the Ash Mountain Entrance Station, on the afternoon of October 16. The fire spread uphill through grass and brushy fuels. Tulare County Fire and CALFIRE aided NPS resources in initial attack. Forward progress on the fire was stopped at approximately 25 acres. The fire currently poses no threats to NPS infrastructure or housing or to the adjacent community of Three Rivers. 1 crew and 2 engines will staff the fire overnight. <span dir=\"ltr\">Night resources will reinforce containment lines, secure any threats to control lines, and begin mop up.</span></p>",
     "size": "24",
     "lat_min": "29",
     "lat_sec": "27",
@@ -2559,7 +2559,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "1 day 17 hours ago"
+    "changed": "5 seconds ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2580,7 +2580,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2622,7 +2622,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "Monongahela NF Fall Prescribed Fire Operations",
@@ -2643,6 +2643,6 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "3 days 16 hours ago"
+    "changed": "3 days 17 hours ago"
   }
 ]
