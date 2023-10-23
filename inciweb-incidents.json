@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "16 hours 49 minutes ago"
+    "changed": "17 hours 9 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 days 20 hours ago"
+    "changed": "2 days 21 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -294,48 +294,6 @@
     "changed": "3 months ago"
   },
   {
-    "title": "Midnight Fire",
-    "lat_deg": "45",
-    "long_deg": "115",
-    "field_percent_of_perimeter": "92",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-13T12:23:19-04:00\">2023-07-13</time>\n",
-    "id": "313457",
-    "field_incident_overview": "<p><span><span><span><span>The Midnight Fire on the Salmon River Ranger District is approximately 179 acres, 92% contained and located about 10 miles southeast of Clearwater, Idaho.</span></span></span></span></p>\n\n<p><span><span><span><span>There are no road or area closures associated with this fire, but the public is urged to avoid these areas for the safety of all.</span></span></span></span></p>\n\n<p><strong> </strong></p>",
-    "size": "179",
-    "lat_min": "56",
-    "lat_sec": "00",
-    "urlPath": "/idncf-midnight-fire",
-    "long_min": "45",
-    "long_sec": "00",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "IDNCF Midnight Fire",
-    "changed": "1 month 2 weeks ago"
-  },
-  {
-    "title": "Little Bear Fire",
-    "lat_deg": "46",
-    "long_deg": "114",
-    "field_percent_of_perimeter": "0",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-13T16:25:39-04:00\">2023-07-13</time>\n",
-    "id": "313460",
-    "field_incident_overview": "<p><span><span><span><span>After a recent IR flight, updated acreage is approximately 1,221 acres. The Little Bear Fire was detected on July 3rd in steep and rugged terrain, with high density of snags from the Freezeout Fire in 2012. The fire has 30% completion of objectives.</span></span></span></span></p>",
-    "size": "1221",
-    "lat_min": "26",
-    "lat_sec": "46.8",
-    "urlPath": "/idncf-little-bear-fire",
-    "long_min": "53",
-    "long_sec": "33.9",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "IDNCF Little Bear Fire",
-    "changed": "1 month 1 week ago"
-  },
-  {
     "title": "HTF 2023 Initial Attack ",
     "lat_deg": "39",
     "long_deg": "119",
@@ -396,7 +354,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "22 hours 42 minutes ago"
+    "changed": "23 hours 2 minutes ago"
   },
   {
     "title": "Colt Fire",
@@ -438,7 +396,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "COWTRACK LIGHTNING FIRE",
@@ -1155,27 +1113,6 @@
     "changed": "1 month 4 weeks ago"
   },
   {
-    "title": "West Fork Fire",
-    "lat_deg": "46",
-    "long_deg": "114",
-    "field_percent_of_perimeter": "0",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-10T15:39:25-04:00\">2023-08-10</time>\n",
-    "id": "314374",
-    "field_incident_overview": "<p>The West Fork Fire was started by lightning on July 17, 2023 around 7:00 PM, and is about two and a half miles south from Howard Camp. The fire is approximately 1,262 acres, burning in dead and down fuels. There is 25% completion of objectives. </p>",
-    "size": "1262",
-    "lat_min": "30",
-    "lat_sec": "15.3606",
-    "urlPath": "/idncf-west-fork-fire",
-    "long_min": "58",
-    "long_sec": "32.2788",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "IDNCF West Fork Fire",
-    "changed": "1 month 2 weeks ago"
-  },
-  {
     "title": "Mount Hayes Fire",
     "lat_deg": "63",
     "long_deg": "145",
@@ -1216,27 +1153,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "IDNCF Wahoo Peak Fire",
     "changed": "1 month 3 weeks ago"
-  },
-  {
-    "title": "Snowden Fire",
-    "lat_deg": "46",
-    "long_deg": "115",
-    "field_percent_of_perimeter": "0",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-11T14:11:40-04:00\">2023-08-11</time>\n",
-    "id": "314420",
-    "field_incident_overview": "<p><span><span><span><span><span><span>Snowden Fire was started by lightning on June 7th, 2023, and is a little less than half a mile northeast of Washington Creek Campground. It is approximately 945 acres, burning in mostly ponderosa pine and mixed conifer along Beaver Creek Road (NFSR #247). </span></span></span></span></span></span></p>",
-    "size": "945",
-    "lat_min": "42",
-    "lat_sec": "37.6812",
-    "urlPath": "/idncf-snowden-fire",
-    "long_min": "33",
-    "long_sec": "10.5006",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "IDNCF Snowden Fire",
-    "changed": "1 month 1 week ago"
   },
   {
     "title": "Ben Harrison Fire",
@@ -1299,7 +1215,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP August Lightning Fires",
-    "changed": "37 minutes 22 seconds ago"
+    "changed": "57 minutes 37 seconds ago"
   },
   {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
@@ -1677,7 +1593,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "20 hours 11 minutes ago"
+    "changed": "20 hours 31 minutes ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1824,7 +1740,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "22 hours 28 minutes ago"
+    "changed": "22 hours 48 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1887,7 +1803,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 hour 11 minutes ago"
+    "changed": "1 hour 31 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2076,7 +1992,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "17 hours 20 minutes ago"
+    "changed": "17 hours 41 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -2097,7 +2013,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "4 days 21 hours ago"
+    "changed": "4 days 22 hours ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -2118,7 +2034,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 hour 34 minutes ago"
+    "changed": "1 hour 54 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2433,7 +2349,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "3 days ago"
+    "changed": "54 seconds ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2454,7 +2370,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "1 week 1 day ago"
+    "changed": "1 week 2 days ago"
   },
   {
     "title": "Burlington Pileburn",
@@ -2517,7 +2433,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "10 seconds ago"
+    "changed": "20 minutes 25 seconds ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2559,7 +2475,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "32 minutes 19 seconds ago"
+    "changed": "52 minutes 34 seconds ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2643,6 +2559,6 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "3 days 17 hours ago"
+    "changed": "3 days 18 hours ago"
   }
 ]
