@@ -102,7 +102,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "6 days 14 hours ago"
+    "changed": "6 days 15 hours ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "15 hours 11 minutes ago"
+    "changed": "15 hours 48 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -270,27 +270,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Boulder Fire",
-    "changed": "3 months ago"
-  },
-  {
-    "title": "Campbell Fire",
-    "lat_deg": "33",
-    "long_deg": "109",
-    "field_percent_of_perimeter": "80",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-11T17:19:27-04:00\">2023-07-11</time>\n",
-    "id": "313436",
-    "field_incident_overview": "<p>Fire personnel from the Apache-Sitgreaves National Forests responded to the Campbell Fire located southwest of Alpine, Arizona, on the Campbell Flat, near Campbell Blue Creek, west of Hwy 191. The fire is currently burning in the Wallow Fire burn scar, and in the Campbell Prescribed Fire planning area.</p>\n\n<p>The lightning caused fire was first observed on July 10 and local Forest Service fire crews, along with a crew from Stray Horse, the Bear Divide Hotshots, Round Valley Helitack, and Air Attack, responded. A fire dozer has been ordered, along with a Type-1 Helicopter. A strategy of full suppression is being employed, using existing containment features, primarily roads.</p>\n\n<p>After July 19, 2023, the White Mountain Zone Type 3 Team will not update this page unless conditions change.</p>",
-    "size": "1416",
-    "lat_min": "46",
-    "lat_sec": "27.9",
-    "urlPath": "/azasf-campbell-fire",
-    "long_min": "12",
-    "long_sec": "58.3",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZASF Campbell Fire",
     "changed": "3 months ago"
   },
   {
@@ -921,7 +900,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "12 hours 40 minutes ago"
+    "changed": "13 hours 16 minutes ago"
   },
   {
     "title": "Sidney Fire",
@@ -1155,27 +1134,6 @@
     "changed": "1 month 2 weeks ago"
   },
   {
-    "title": "August Lightning Fires",
-    "lat_deg": "36",
-    "long_deg": "118",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-16T12:13:44-04:00\">2023-08-16</time>\n",
-    "id": "314611",
-    "field_incident_overview": "<p>All of these fires, with the exception of the Redwood Fire, are now considered 100% contained. This page is no longer being updated and will be unpublished at the end of the week. </p><p> </p><p>August and September thunderstorms throughout the Sierra Nevada ignited several lightning fires within Sequoia and Kings Canyon National Parks. </p><p> </p><p><strong>Blue Fire</strong></p><p>Discovery Date: 9/09</p><p>Location: 36 degrees 58.060, -118 degrees 44.281, Blue Canyon near the Middle Fork of the Kings River. </p><p>Size: 0.1 acres</p><p>Notes/Current strategy: No values at risk. Monitor by air. </p><p> </p><p><strong>Sand Fire</strong></p><p>Discovery Date: 8/19</p><p>Location: 36.36127, -118.64941 east of Sand Meadow on the Hockett Plateau, 8700' elevation</p><p>Fire Size: 0.1 acres</p><p>Notes/Current Strategy: Smoke emanating from strike tree and smoldering ground fire. Low spread potential. The fire does not currently pose a threat to park trails or infrastructure. Monitor by air. Fire is in or near the SQF Complex footprint. </p><p> </p><p><strong>Barton Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.699667, -118.593750, northwest of Baron Peak in Roaring River drainagte, 9200' elevation</p><p>Fire Size: 0.1 acres</p><p>Notes/Current Strategy: Smoke emanating from strike tree and base. Low spread potential. The fire does not currently pose a threat to park trails or infrastructure. Monitor by air. </p><p> </p><p><strong>Highbridge Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.473050, -118.632467, west of Highbridge Creek, above Mineral King Road, 9800' elevation</p><p>Fire size: 0.1 acres</p><p>Notes/Current Strategy: No smoke showing as of 8/19 recon flight. Monitor by air. </p><p> </p><p><strong>Hockett Fire</strong></p><p>Discovery Date: 08/17</p><p>Location: 36.365667, -118.667200, northwest of Hockett Lakes, 8,600' elevation</p><p>Fire Size: 3 acres</p><p>Notes/Current Strategy: Single tree and ground fire at base. Burning actively in heavy dead and down trees. Slow spread to the southeast. The fire does not currently pose a threat to park trails or infrastructure. Within the 2020 SQF Complex scar. Monitor by air.</p><p> </p><p><strong>Kern Fire</strong></p><p>Discovery Date:  08/14 </p><p>Location: 36 32.05, -118 23.43, East side of Kern Canyon at approximately 9,000' </p><p>Fire Size:  Single Tree </p><p>Current Strategy:  Declared out 9/17/23</p><p> </p><p><strong>Burnt Fire</strong></p><p>Discovery Date:  08/14 </p><p>Location: 36 57.412, -118 44.190, Kings Canyon, near Burnt Peak, east of Blue Canyon </p><p>Fire Size: ¼ acre </p><p>Current strategy: Little to no smoke showing. Continue to monitor by air. </p>",
-    "size": "4",
-    "lat_min": "32",
-    "lat_sec": "",
-    "urlPath": "/caknp-august-lightning-fires",
-    "long_min": "23",
-    "long_sec": "",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAKNP August Lightning Fires",
-    "changed": "23 hours 1 minute ago"
-  },
-  {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
     "lat_deg": "41",
     "long_deg": "123",
@@ -1341,7 +1299,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "21 hours 12 minutes ago"
+    "changed": "21 hours 49 minutes ago"
   },
   {
     "title": "South Fork Complex",
@@ -1446,7 +1404,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "Tyee Ridge Complex",
@@ -1551,7 +1509,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "1 day 18 hours ago"
+    "changed": "1 day 19 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1698,7 +1656,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 day 20 hours ago"
+    "changed": "1 day 21 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1761,7 +1719,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "56 minutes 1 second ago"
+    "changed": "1 hour 32 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1950,7 +1908,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "15 hours 37 minutes ago"
+    "changed": "16 hours 14 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1992,7 +1950,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "3 seconds ago"
+    "changed": "36 minutes 31 seconds ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2055,7 +2013,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "16 hours 32 minutes ago"
+    "changed": "17 hours 8 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2118,7 +2076,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "Buford Wildfire Mountainair Ranger District",
@@ -2244,7 +2202,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "22 hours ago"
+    "changed": "22 hours 36 minutes ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2286,7 +2244,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "17 hours 36 minutes ago"
+    "changed": "18 hours 13 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2307,7 +2265,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "22 hours 5 minutes ago"
+    "changed": "22 hours 41 minutes ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2370,7 +2328,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2391,7 +2349,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "22 hours 24 minutes ago"
+    "changed": "23 hours 1 minute ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2412,7 +2370,7 @@
     "long_sec": "25.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
-    "changed": "5 days 18 hours ago"
+    "changed": "5 days 19 hours ago"
   },
   {
     "title": "Sycamore Fire",
@@ -2433,7 +2391,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "20 hours 23 minutes ago"
+    "changed": "21 hours ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2454,7 +2412,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "3 days 22 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2475,7 +2433,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "5 days 20 hours ago"
+    "changed": "5 days 21 hours ago"
   },
   {
     "title": "2023-STF-Peak",
@@ -2496,7 +2454,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "5 days 18 hours ago"
+    "changed": "5 days 19 hours ago"
   },
   {
     "title": "Monongahela NF Fall Prescribed Fire Operations",
@@ -2538,7 +2496,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "11 hours 57 minutes ago"
+    "changed": "12 hours 33 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2559,6 +2517,6 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "12 hours 3 minutes ago"
+    "changed": "12 hours 39 minutes ago"
   }
 ]
