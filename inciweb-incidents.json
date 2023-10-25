@@ -333,7 +333,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "2 days 9 hours ago"
+    "changed": "2 days 10 hours ago"
   },
   {
     "title": "Colt Fire",
@@ -1719,7 +1719,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "13 hours 49 minutes ago"
+    "changed": "13 hours 59 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1908,7 +1908,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "9 hours 8 minutes ago"
+    "changed": "9 hours 17 minutes ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1950,7 +1950,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "12 hours 53 minutes ago"
+    "changed": "13 hours 3 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -2202,7 +2202,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "1 day 10 hours ago"
+    "changed": "1 day 11 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2244,7 +2244,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "9 hours 23 minutes ago"
+    "changed": "9 hours 33 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2265,7 +2265,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "1 day 10 hours ago"
+    "changed": "1 day 11 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2349,7 +2349,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "11 hours 19 minutes ago"
+    "changed": "11 hours 29 minutes ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2412,7 +2412,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "10 hours 22 minutes ago"
+    "changed": "10 hours 31 minutes ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2487,7 +2487,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-10-23T13:27:01-04:00\">2023-10-23</time>\n",
     "id": "316649",
-    "field_incident_overview": "<p><span>The Trail Springs Fire is located on the San Juan National Forest, west of Pagosa Springs. The lightning-caused wildfire is burning in thickly-forested, sloped terrain above West Devil Creek, about 3 miles northwest of Chris Mountain. </span></p><p>The San Juan NF Type 3 team is now managing this and the Mill Creek 2 fires. More firefighting resources are arriving daily. Fire managers are working to implement firefighting tactics that protect values at risk and develop fire control lines in locations with the best probability of success.</p><p>CLOSURE NOTICE: Forest Service Road 630 (The East Monument Road) has been closed due to increased fire activity and to provide access for firefighting apparatus. The closure is being set at the intersection of FS 630 and FS 629 (Turkey Springs Road).</p>",
+    "field_incident_overview": "<p><span>The Trail Springs Fire is located on the San Juan National Forest, west of Pagosa Springs. The lightning-caused wildfire is burning in thickly-forested, sloped terrain above West Devil Creek, about 3 miles northwest of Chris Mountain. </span></p><p>The San Juan National Forest Type 3 team is now managing this and the Mill Creek 2 fires. More firefighting resources are arriving. Fire managers are working to implement tactics that protect values while developing fire control lines with the best probability of success.</p><p>To protect the public and fire personnel, an area closure is in effect. See a map and full details under the closures tab of this website.</p>",
     "size": "726",
     "lat_min": "18",
     "lat_sec": "1.7526",
@@ -2496,7 +2496,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "1 hour 49 minutes ago"
+    "changed": "12 seconds ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "12 seconds ago"
+    "changed": "2 minutes 8 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2538,6 +2538,6 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "3 hours 45 minutes ago"
+    "changed": "3 hours 55 minutes ago"
   }
 ]
