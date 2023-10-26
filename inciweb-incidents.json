@@ -81,7 +81,7 @@
     "long_sec": "12.5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Blue Ridge Prescribed Burn",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "2 hours 57 minutes ago"
+    "changed": "4 hours 10 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "1 day 3 hours ago"
+    "changed": "1 day 5 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -333,7 +333,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "4 days 3 hours ago"
+    "changed": "4 days 4 hours ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -732,7 +732,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Ridge Fire",
-    "changed": "1 month 1 week ago"
+    "changed": "1 month 2 weeks ago"
   },
   {
     "title": "Gravel Pit Fire",
@@ -795,7 +795,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "AKFAS Lost Horse Creek Fire",
-    "changed": "1 month 3 weeks ago"
+    "changed": "1 month 4 weeks ago"
   },
   {
     "title": "Stadium Creek Fire",
@@ -879,7 +879,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "2 days 18 hours ago"
+    "changed": "2 days 19 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1116,7 +1116,7 @@
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
     "lat_deg": "41",
     "long_deg": "123",
-    "field_percent_of_perimeter": "75",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "This is a Complex Fire.",
     "field_active": "1",
@@ -1131,7 +1131,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "1 week 4 days ago"
+    "changed": "11 seconds ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1173,7 +1173,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "WA0617 2023 Airplane Lake OWF",
-    "changed": "4 weeks ago"
+    "changed": "4 weeks 1 day ago"
   },
   {
     "title": "East",
@@ -1278,7 +1278,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "3 days 3 hours ago"
+    "changed": "3 days 4 hours ago"
   },
   {
     "title": "South Fork Complex",
@@ -1341,7 +1341,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -1488,7 +1488,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "4 days ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1635,7 +1635,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 day 1 hour ago"
+    "changed": "1 day 2 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "7 hours 37 minutes ago"
+    "changed": "8 hours 49 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "2 days 2 hours ago"
+    "changed": "2 days 3 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1929,7 +1929,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "4 hours 32 minutes ago"
+    "changed": "5 hours 45 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1992,7 +1992,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "3 days 4 hours ago"
+    "changed": "3 days 5 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2202,7 +2202,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2223,7 +2223,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 hour 28 minutes ago"
+    "changed": "2 hours 40 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2244,7 +2244,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "3 days 4 hours ago"
+    "changed": "3 days 5 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2328,7 +2328,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 days 4 hours ago"
+    "changed": "2 days 5 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2370,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "3 days 2 hours ago"
+    "changed": "3 days 3 hours ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2391,7 +2391,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "2 days 3 hours ago"
+    "changed": "2 days 4 hours ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2454,7 +2454,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "6 days 22 hours ago"
+    "changed": "6 days 23 hours ago"
   },
   {
     "title": "Trail Springs Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "5 hours 10 minutes ago"
+    "changed": "6 hours 23 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2496,7 +2496,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "16 hours 58 minutes ago"
+    "changed": "18 hours 10 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2517,7 +2517,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Saint Charles Fire",
@@ -2538,6 +2538,6 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "2 seconds ago"
+    "changed": "1 hour 12 minutes ago"
   }
 ]
