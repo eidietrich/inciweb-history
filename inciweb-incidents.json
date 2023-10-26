@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "3 seconds ago"
+    "changed": "1 hour 29 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "1 day ago"
+    "changed": "1 day 2 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -333,7 +333,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "4 days ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -879,7 +879,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "2 days 15 hours ago"
+    "changed": "2 days 17 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1278,7 +1278,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "South Fork Complex",
@@ -1299,7 +1299,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "McKinney Fire",
@@ -1488,7 +1488,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "Anvil Fire",
@@ -1635,7 +1635,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "22 hours 19 minutes ago"
+    "changed": "23 hours 48 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "4 hours 39 minutes ago"
+    "changed": "6 hours 9 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1908,7 +1908,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "1 week ago"
+    "changed": "1 week 1 day ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -1929,7 +1929,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 hour 35 minutes ago"
+    "changed": "3 hours 4 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1992,7 +1992,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "2 days 19 hours ago"
+    "changed": "2 days 21 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "3 days 1 hour ago"
+    "changed": "3 days 2 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2202,7 +2202,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "23 hours 23 minutes ago"
+    "changed": "1 day ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2214,7 +2214,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-10-06T16:08:58-04:00\">2023-10-06</time>\n",
     "id": "316515",
-    "field_incident_overview": "<p>The Coconino National Forest is implementing prescribed fire projects across all three of its districts.</p><p>Information regarding tentative and finalized prescribed fire projects will be posted below to reflect the current status of each prescribed fire project.</p><p>For more information regarding prescribed fire -- including the process and importance of it -- <a href=\"https://www.fs.usda.gov/detail/coconino/home/?cid=stelprdb5344667\">please visit the Coconino National Forest's website</a>.</p><h2>Flagstaff Ranger District</h2><h3>Horseshoe Project / Wild Bill Units:</h3><ul><li><span><strong>When:</strong> Scheduled for Wednesday, Oct. 25 and Thursday, Oct. 26. Previous portions of this project were completed Monday, Oct. 16 through Friday, Oct. 20.</span></li><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk1lBcT8KZj4q5Yus86BvqI-4U6JczDhL88gg_oyBUXf5ohA99AKGx5mEcN_vzUnxNR0GOVdY_6-VXOlHOUq4vhFJeYmHtUbXx1GzKUpgv-6F53gLlgBJ2yw%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825340277%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Fx9ErBYgDDVNuDB8qhDEehN5peb3loGuweeOSECzis4%3D&amp;reserved=0\"><span>8.5 miles north of Bellemont</span></a><span> (</span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-10/horseshoe%20wild%20bill.pdf?VersionId=zToi54o2.opSFKnwyF6e0rmUnqNE_1Jp\"><span>map</span></a><span>)</span></li><li><span><strong>Why:</strong> To reduce fuel loading in the project area. By returning fire to a fire-adapted ecosystem in regular intervals, the FRD will build a healthier and more resilient landscape. </span></li><li><span><strong>Size:</strong> 6,080 acres </span></li><li><span><strong>Method/ type of burn</strong>: Broadcast and maintenance </span></li><li><span><strong>Duration:</strong> Two days</span></li><li><span><strong>Smoke impacts:</strong> Daytime smoke impacts will be felt along Highway 180 around the Arizona Nordic Village and Kendrick Park. Nighttime impacts will be felt in the Bellemont area and along Interstate 40. </span></li></ul><h3><span><strong>Completed: Newman Project (Pine Grove unit):</strong></span></h3><ul><li><span><strong>When:</strong> Thursday, Oct. 19</span></li><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk6WboLuKs6AJmDl2HeBz7Fe2wipD_QOKnFfA1jB7nuO-WT6f4ONP2apO0nV1zM-U7kFaoK93UQmmJJRmdb978YMqzd130HtCA9wuliygHOdXf0mm0Xkecpg%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825496553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=YOC%2FeIMDirktV5%2BETu5p1UyQsPn4ZAdt1nu3Pl4hwio%3D&amp;reserved=0\"><span>Between Upper Lake Mary and Mormon Lake</span></a><span>, south of Pine Grove campground (</span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-10/pinegrove%20project.pdf?VersionId=3YnOe8Bccb_jkA0HREDt4O69Loe8Hsy5\"><span>map</span></a><span>)</span></li><li><span><strong>Why:</strong> Fire is expected to consume surface fuels less than 3 inches in diameter and will raise tree canopy heights and reduce tree density to reduce the likelihood of crown fire occurring in the project area. This treatment will moderate the effects of any potential future fire in the area. </span></li><li><span><strong>Size:</strong> 1,100 acres </span></li><li><span><strong>Method/ type of burn</strong>: Broadcast </span></li><li><span><strong>Duration:</strong> One day </span></li><li><span><strong>Smoke impacts:</strong> Smoke will remain highly visible along Lake Mary Road (Forest Highway 3) and from the Lake Mary area. </span></li></ul><p> </p><h2>Red Rock Ranger District</h2><h3>Completed: Upper Beaver Creek</h3><ul><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk1lBcT8KZj4qa3xqznHsZ4ZGt-mTW50Yqy3O4Qg2ocou0zK4lmu5gEnaTlIgOj8hRRrR_3AExQDawWz_4Gv7rgE71Fv84H4aodwPP1x6PCv31bpKGfmYnqw%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825340277%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ELS%2BE9GBr87SrfmB%2FkE9W56QLpSqbktn35lLZTWjsls%3D&amp;reserved=0\"><span>Located near Stoneman Lake</span></a><span> (</span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-10/upper_beaver_creek.jpg?VersionId=xZpGWMzEYmnNe7MFPzkdgrXyXqsUgpzi\"><span>map</span></a><span>)</span></li><li><span><strong>Why:</strong> This project reduced hazardous fuels around the Stoneman Lake community, which will protect the Apache Maid Cabin. </span></li><li><span><strong>Size:</strong> Roughly 1,000 acres</span></li></ul><p> </p><h2><span>Mogollon Rim Ranger District</span></h2><h3><span><strong>Upper Beaver Creek Project:</strong></span></h3><ul><li><span><strong>When: </strong>Previous portions of this project completed Oct. 19-20, additional work to be scheduled.</span></li><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk6WboLuKs6AJE3lzslrIJ34thWJkS7_TX2YukaDW3cS10ghls3Hwf_BI_miiwb3sn2Br84kCVetmqC4GjGNVcLUwsjp4i02IzB8kTkJxnyOZNu4aC5qMtSA%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825496553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=x8jiupdIVADUB560XO1K7s%2FMbcsj2nZ9J87yushveD0%3D&amp;reserved=0\"><span>The Mule Park area</span></a><span> near the Happy Jack Ranger Station </span></li><li><span><strong>Why: </strong>This project is working to return fire to a fire-adapted ecosystem and reduce hazardous fuels in the area. </span></li><li><span><strong>Size: </strong>500 acres </span></li><li><span><strong>Method/type of burn: </strong>Broadcast maintenance </span></li><li><span><strong>Duration:</strong> Two days </span></li><li><span><strong>Smoke impacts:</strong> North and east wind direction will keep smoke from impacting Lake Mary Road. Smoke will likely settle in Diversion and Mule parks, as well as in the Stoneman Lake area. Smoke impact will be noticeable at the Forest Road 213 (Stoneman Lake Road) and Lake Mary Road junction. </span></li></ul><h3> </h3>",
+    "field_incident_overview": "<p>The Coconino National Forest is implementing prescribed fire projects across all three of its districts.</p><p>Information regarding tentative and finalized prescribed fire projects will be posted below to reflect the current status of each prescribed fire project.</p><p>For more information regarding prescribed fire -- including the process and importance of it -- <a href=\"https://www.fs.usda.gov/detail/coconino/home/?cid=stelprdb5344667\">please visit the Coconino National Forest's website</a>.</p><h2>Flagstaff Ranger District</h2><h3>Horseshoe Project / Wild Bill Units:</h3><ul><li><span><strong>When:</strong> Scheduled for Wednesday, Oct. 25 and Friday, Oct. 27. Previous portions of this project were completed Monday, Oct. 16 through Friday, Oct. 20.</span></li><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk1lBcT8KZj4q5Yus86BvqI-4U6JczDhL88gg_oyBUXf5ohA99AKGx5mEcN_vzUnxNR0GOVdY_6-VXOlHOUq4vhFJeYmHtUbXx1GzKUpgv-6F53gLlgBJ2yw%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825340277%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Fx9ErBYgDDVNuDB8qhDEehN5peb3loGuweeOSECzis4%3D&amp;reserved=0\"><span>8.5 miles north of Bellemont</span></a><span> (</span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-10/horseshoe%20wild%20bill.pdf?VersionId=zToi54o2.opSFKnwyF6e0rmUnqNE_1Jp\"><span>map</span></a><span>)</span></li><li><span><strong>Why:</strong> To reduce fuel loading in the project area. By returning fire to a fire-adapted ecosystem in regular intervals, the FRD will build a healthier and more resilient landscape. </span></li><li><span><strong>Size:</strong> 6,080 acres </span></li><li><span><strong>Method/ type of burn</strong>: Broadcast and maintenance </span></li><li><span><strong>Duration:</strong> Two days</span></li><li><span><strong>Smoke impacts:</strong> Daytime smoke impacts will be felt along Highway 180 around the Arizona Nordic Village and Kendrick Park. Nighttime impacts will be felt in the Bellemont area and along Interstate 40. </span></li></ul><h3><span><strong>Completed: Newman Project (Pine Grove unit):</strong></span></h3><ul><li><span><strong>When:</strong> Thursday, Oct. 19</span></li><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk6WboLuKs6AJmDl2HeBz7Fe2wipD_QOKnFfA1jB7nuO-WT6f4ONP2apO0nV1zM-U7kFaoK93UQmmJJRmdb978YMqzd130HtCA9wuliygHOdXf0mm0Xkecpg%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825496553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=YOC%2FeIMDirktV5%2BETu5p1UyQsPn4ZAdt1nu3Pl4hwio%3D&amp;reserved=0\"><span>Between Upper Lake Mary and Mormon Lake</span></a><span>, south of Pine Grove campground (</span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-10/pinegrove%20project.pdf?VersionId=3YnOe8Bccb_jkA0HREDt4O69Loe8Hsy5\"><span>map</span></a><span>)</span></li><li><span><strong>Why:</strong> Fire is expected to consume surface fuels less than 3 inches in diameter and will raise tree canopy heights and reduce tree density to reduce the likelihood of crown fire occurring in the project area. This treatment will moderate the effects of any potential future fire in the area. </span></li><li><span><strong>Size:</strong> 1,100 acres </span></li><li><span><strong>Method/ type of burn</strong>: Broadcast </span></li><li><span><strong>Duration:</strong> One day </span></li><li><span><strong>Smoke impacts:</strong> Smoke will remain highly visible along Lake Mary Road (Forest Highway 3) and from the Lake Mary area. </span></li></ul><p> </p><h2>Red Rock Ranger District</h2><h3>Completed: Upper Beaver Creek</h3><ul><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk1lBcT8KZj4qa3xqznHsZ4ZGt-mTW50Yqy3O4Qg2ocou0zK4lmu5gEnaTlIgOj8hRRrR_3AExQDawWz_4Gv7rgE71Fv84H4aodwPP1x6PCv31bpKGfmYnqw%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825340277%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ELS%2BE9GBr87SrfmB%2FkE9W56QLpSqbktn35lLZTWjsls%3D&amp;reserved=0\"><span>Located near Stoneman Lake</span></a><span> (</span><a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-10/upper_beaver_creek.jpg?VersionId=xZpGWMzEYmnNe7MFPzkdgrXyXqsUgpzi\"><span>map</span></a><span>)</span></li><li><span><strong>Why:</strong> This project reduced hazardous fuels around the Stoneman Lake community, which will protect the Apache Maid Cabin. </span></li><li><span><strong>Size:</strong> Roughly 1,000 acres</span></li></ul><p> </p><h2><span>Mogollon Rim Ranger District</span></h2><h3><span><strong>Upper Beaver Creek Project:</strong></span></h3><ul><li><span><strong>When: </strong>Previous portions of this project completed Oct. 19-20, additional work to be scheduled.</span></li><li><span><strong>Where:</strong> </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001B4vCbjGfsTR5Bv5CZlcoxkGvjipsVSdS3CEdOaBFkbvIzycEwsvXk6WboLuKs6AJE3lzslrIJ34thWJkS7_TX2YukaDW3cS10ghls3Hwf_BI_miiwb3sn2Br84kCVetmqC4GjGNVcLUwsjp4i02IzB8kTkJxnyOZNu4aC5qMtSA%3D%26c%3De-GA-O96oesAyG8f7Moe0vHxtKSJH3kkXw3O0vICTG_k04rkejTzhg%3D%3D%26ch%3DCkb8fCkexaaopv62xrO6MBfopAsApDwK1IHSw6s2eadQ5f3gXu2DzQ%3D%3D&amp;data=05%7C01%7CRandi.Shaffer%40usda.gov%7C5a251dce49af46c00eec08dbd02675b8%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638332635825496553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=x8jiupdIVADUB560XO1K7s%2FMbcsj2nZ9J87yushveD0%3D&amp;reserved=0\"><span>The Mule Park area</span></a><span> near the Happy Jack Ranger Station </span></li><li><span><strong>Why: </strong>This project is working to return fire to a fire-adapted ecosystem and reduce hazardous fuels in the area. </span></li><li><span><strong>Size: </strong>500 acres </span></li><li><span><strong>Method/type of burn: </strong>Broadcast maintenance </span></li><li><span><strong>Duration:</strong> Two days </span></li><li><span><strong>Smoke impacts:</strong> North and east wind direction will keep smoke from impacting Lake Mary Road. Smoke will likely settle in Diversion and Mule parks, as well as in the Stoneman Lake area. Smoke impact will be noticeable at the Forest Road 213 (Stoneman Lake Road) and Lake Mary Road junction. </span></li></ul><h3> </h3>",
     "size": "",
     "lat_min": "11",
     "lat_sec": "09.4",
@@ -2223,7 +2223,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2244,7 +2244,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "3 days 1 hour ago"
+    "changed": "3 days 2 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2328,7 +2328,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 days 1 hour ago"
+    "changed": "2 days 3 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2370,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2391,7 +2391,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "2 days ago"
+    "changed": "2 days 2 hours ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2412,7 +2412,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "1 week ago"
+    "changed": "1 week 1 day ago"
   },
   {
     "title": "2023-STF-Peak",
@@ -2454,7 +2454,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "6 days 19 hours ago"
+    "changed": "6 days 20 hours ago"
   },
   {
     "title": "Trail Springs Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 hours 13 minutes ago"
+    "changed": "3 hours 42 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2496,7 +2496,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "14 hours ago"
+    "changed": "15 hours 30 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2517,7 +2517,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "23 hours 22 minutes ago"
+    "changed": "1 day ago"
   },
   {
     "title": "Saint Charles Fire",
@@ -2529,8 +2529,8 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-10-25T11:01:04-04:00\">2023-10-25</time>\n",
     "id": "316662",
-    "field_incident_overview": "",
-    "size": "317",
+    "field_incident_overview": "<p><span>The Saint Charles Fire in the Pike-San National Forest &amp; Cimmaron and Comanche National Grasslands (PSICC) was reported on October 14th, 2023, at 6:19 p.m. The lightning caused fire is located approximately 1.5 miles NE of San Isabel, in Pueblo County, Colorado.</span></p><p><span>Unseasonably warm and dry weather fueled the fire’s growth on October 23rd, prompting the local communities of San Isabel, Aspen Acres, Terra J, and Simonson Meadows to move to pre-evacuation status. The fire crossed into Custer County, on October 25th, 2023. </span></p><p><span>Please watch for increased fire vehicle traffic in the area of State Highway 165 and on State Highway 78, also known as 12 Mile Road.</span></p><p><span>Rocky Mountain Complex Incident Management Team 1 (RM CIMT1) assumed management responsibility for the Saint Charles Fire at 9:30 p.m. on October 25, 2023. The fire is burning in steep and rugged terrain, in mixed conifer fuels.</span></p><p> </p>",
+    "size": "330",
     "lat_min": "59",
     "lat_sec": "39",
     "urlPath": "/copsf-saint-charles-fire",
@@ -2538,6 +2538,6 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "3 hours 56 minutes ago"
+    "changed": "3 minutes 38 seconds ago"
   }
 ]
