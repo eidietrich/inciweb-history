@@ -39,7 +39,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "4 weeks ago"
+    "changed": "4 weeks 1 day ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "6 hours 59 minutes ago"
+    "changed": "7 hours 53 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "1 day 7 hours ago"
+    "changed": "1 day 8 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -252,27 +252,6 @@
     "changed": "2 months 1 week ago"
   },
   {
-    "title": "Boulder Fire",
-    "lat_deg": "45",
-    "long_deg": "121",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-11T00:34:03-04:00\">2023-07-11</time>\n",
-    "id": "313428",
-    "field_incident_overview": "<p><span><span><strong><span>(Dufur, OR)</span></strong><span> The Boulder Fire started on July 8 near Boulder Lake Trailhead 26 miles southwest of Dufur in the Mt. Hood National Forest Barlow Ranger District. An estimated 233 acres have burned, and the fire is 100% contained. Objectives will be met by the end of the weekend and, on Sunday at 6 p.m., the Type 2 Northwest Incident Management Team 10 (NW Team 10) will transfer command of the incident to a local incident management team from the Barlow Ranger District. </span></span></span></p>\n\n<p><span><span><strong><span>As of 6 p.m. on July 23, please direct all calls to the Barlow Ranger District Office at (541)467-2291.</span></strong></span></span></p>\n\n<p><span><span><span>For updated information about road, campground and trail closures, see the Forest webpage at </span><a href=\"http://www.fs.usda.gov/alerts/mthood/alerts-notices\"><span>www.fs.usda.gov/alerts/mthood/alerts-notices</span></a></span></span></p>\n\n<p><span><span><span>For updated information about evacuation, see the Wasco County Sheriff’s Office Facebook page at </span><a href=\"http://www.facebook.com/WascoCountySheriff\"><span>www.facebook.com/WascoCountySheriff</span></a></span></span></p>",
-    "size": "233",
-    "lat_min": "15",
-    "lat_sec": "13",
-    "urlPath": "/ormhf-boulder-fire",
-    "long_min": "33",
-    "long_sec": "45",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORMHF Boulder Fire",
-    "changed": "3 months ago"
-  },
-  {
     "title": "HTF 2023 Initial Attack ",
     "lat_deg": "39",
     "long_deg": "119",
@@ -333,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "4 days 7 hours ago"
+    "changed": "4 days 8 hours ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -879,7 +858,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1131,7 +1110,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "2 hours 49 minutes ago"
+    "changed": "3 hours 43 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1152,7 +1131,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1278,7 +1257,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "3 days 7 hours ago"
+    "changed": "3 days 8 hours ago"
   },
   {
     "title": "South Fork Complex",
@@ -1488,7 +1467,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "4 days 4 hours ago"
+    "changed": "4 days 5 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1635,7 +1614,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 day 5 hours ago"
+    "changed": "1 day 6 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1698,7 +1677,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "11 hours 39 minutes ago"
+    "changed": "12 hours 32 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1887,7 +1866,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "2 days 6 hours ago"
+    "changed": "2 days 7 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1929,7 +1908,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "8 hours 34 minutes ago"
+    "changed": "9 hours 28 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1992,7 +1971,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "3 days 2 hours ago"
+    "changed": "3 days 3 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2139,7 +2118,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "21 minutes 45 seconds ago"
+    "changed": "1 hour 15 minutes ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2202,7 +2181,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2223,7 +2202,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "5 hours 29 minutes ago"
+    "changed": "6 hours 23 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2244,7 +2223,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "3 days 8 hours ago"
+    "changed": "3 days 9 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2328,7 +2307,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 days 8 hours ago"
+    "changed": "2 days 9 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2370,7 +2349,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "3 days 6 hours ago"
+    "changed": "3 days 7 hours ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2391,7 +2370,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "2 days 7 hours ago"
+    "changed": "2 days 8 hours ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2475,7 +2454,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "9 hours 12 minutes ago"
+    "changed": "10 hours 6 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2496,20 +2475,20 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "21 hours ago"
+    "changed": "21 hours 53 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
     "lat_deg": "29",
     "long_deg": "94",
-    "field_percent_of_perimeter": "60",
+    "field_percent_of_perimeter": "95",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-10-24T19:52:57-04:00\">2023-10-24</time>\n",
     "id": "316659",
     "field_incident_overview": "<p><span>On October 24th, Texas A&amp;M Forest Service received a request for assistance for multiple fires off State Highway (SH) 73 and State Highway 87, approximately 7 miles west of Port Arthur, Texas. The fires are actively burning in a marsh grassland.</span></p><p><span>The H&amp;H Complex is currently comprised of two fires. The North fire was estimated at 10,000 acres South fire was estimated at 1,200 acres during the first operational period. The acreage of each fire is subject to change as better mapping occurs.</span></p><p><span>In coordination with local fire departments, crews from Texas A&amp;M Forest Service, Texas Parks and Wildlife Department, Texas Division of Emergency Management, Jefferson County EMC, and U.S. Fish and Wildlife Service (USFWS) as well as several aviation resources responded to the incident.</span></p><p><span>Dozers constructed containment line where possible during initial attack and a marsh-master from USFWS assisted where the ground is too wet for dozers or other heavy equipment to operate. Two large air tankers dropped water, working to slow forward progression on both fires.</span></p><p><span>There are no road closures currently. Any information on road accessibility in the area can be found on </span><a href=\"http://www.drivetexas.org/\"><span><strong>www.drivetexas.org</strong></span></a><span>.</span></p>",
-    "size": "11200",
+    "size": "10559",
     "lat_min": "47",
     "lat_sec": "10.9",
     "urlPath": "/txtxs-hh-complex",
@@ -2517,7 +2496,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "1 day 6 hours ago"
+    "changed": "6 seconds ago"
   },
   {
     "title": "Saint Charles Fire",
@@ -2538,6 +2517,6 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "7 seconds ago"
+    "changed": "53 minutes 49 seconds ago"
   }
 ]
