@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "21 hours 30 minutes ago"
+    "changed": "21 hours 47 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -1110,7 +1110,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "17 hours 20 minutes ago"
+    "changed": "17 hours 37 minutes ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1257,7 +1257,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 22 hours ago"
   },
   {
     "title": "South Fork Complex",
@@ -1341,7 +1341,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 day 19 hours ago"
+    "changed": "1 day 20 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1656,7 +1656,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -1677,7 +1677,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 hour 23 minutes ago"
+    "changed": "1 hour 40 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1761,7 +1761,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "2 weeks 3 days ago"
+    "changed": "2 weeks 4 days ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -1866,7 +1866,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "2 days 20 hours ago"
+    "changed": "2 days 21 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1908,7 +1908,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "23 hours 5 minutes ago"
+    "changed": "23 hours 22 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1929,7 +1929,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "2 weeks 3 days ago"
+    "changed": "2 weeks 4 days ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "14 hours 52 minutes ago"
+    "changed": "15 hours 9 minutes ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2181,7 +2181,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 20 hours ago"
+    "changed": "1 day 21 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2202,7 +2202,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "20 hours ago"
+    "changed": "20 hours 17 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2446,7 +2446,7 @@
     "created": "<time datetime=\"2023-10-23T13:27:01-04:00\">2023-10-23</time>\n",
     "id": "316649",
     "field_incident_overview": "<p><span>The Trail Springs Fire is located on the San Juan National Forest, west of Pagosa Springs. The lightning-caused wildfire is burning in thickly-forested, terrain above West Devil Creek, about 3 miles northwest of Chris Mountain.</span></p><p>The San Juan National Forest Type 3 team is now managing this and the Mill Creek 2 fires. More firefighting resources are arriving. Fire managers are working to implement tactics that protect values while developing fire control lines with the best probability of success.</p><p>To protect the public and fire personnel, an area closure is in effect. See a map and full details under the closures tab of this website.</p>",
-    "size": "1100",
+    "size": "1112",
     "lat_min": "18",
     "lat_sec": "1.7526",
     "urlPath": "/cosjf-trail-springs-fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "5 seconds ago"
+    "changed": "7 minutes 26 seconds ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2467,7 +2467,7 @@
     "created": "<time datetime=\"2023-10-23T13:36:04-04:00\">2023-10-23</time>\n",
     "id": "316650",
     "field_incident_overview": "<p>The Mill Creek 2 Fire is located 12 miles northeast of Pagosa Springs on the San Juan National Forest in high, remote terrain, near the border of the South San Juan Wilderness Area.  The fire initially burned aggressively through a heavy load of mixed conifer and dead and down logs, but has run into rocky terrain and run out of ready fuel. Minimal fire activity has been observed in recent days.</p><p><span>The San Juan National Forest Type 3 Incident Management Team is now managing the Mill Creek 2 and Trail Springs fires. </span>Because of the extremely difficult access and safety risks, firefighters are not being sent in to directly engage the Mill Creek 2 Fire. No homes, ranches or private holdings are at risk.</p><p>Hunters and other forest visitors are advised to avoid the area out of safety considerations. No closures are in place because of this fire. </p>",
-    "size": "119",
+    "size": "121",
     "lat_min": "18",
     "lat_sec": "31.5612",
     "urlPath": "/cosjf-mill-creek-2-fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "35 seconds ago"
+    "changed": "5 minutes 26 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2496,7 +2496,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "2 hours 9 minutes ago"
+    "changed": "2 hours 26 minutes ago"
   },
   {
     "title": "Saint Charles Fire",
@@ -2509,7 +2509,7 @@
     "created": "<time datetime=\"2023-10-25T11:01:04-04:00\">2023-10-25</time>\n",
     "id": "316662",
     "field_incident_overview": "<p><span>The Saint Charles Fire in the Pike-San National Forest &amp; Cimarron and Comanche National Grasslands (PSICC) was reported on October 14th, 2023, at 6:19 p.m. The lightning caused fire is located approximately 1.5 miles NE of San Isabel, in Pueblo County, Colorado.</span></p><p><span>Unseasonably warm and dry weather fueled the fire’s growth on October 23rd, prompting the local communities of San Isabel, Aspen Acres, Tara J, and Simonson Meadows to move to pre-evacuation status. The fire crossed into Custer County, on October 25th, 2023. </span></p><p><span>Please watch for increased fire vehicle traffic in the area of State Highway 165 and on State Highway 78, also known as 12 Mile Road.</span></p><p><span>Rocky Mountain Complex Incident Management Team 1 (RM CIMT1) assumed management responsibility for the Saint Charles Fire at 9:30 p.m. on October 25, 2023. The fire is burning in steep and rugged terrain, in mixed conifer fuels.</span></p><p><span>Additional Information can be found on </span><a href=\"https://www.facebook.com/SaintCharlesFire\"><span>2023 Saint Charles Fire Facebook page</span></a><span>.</span></p><p><span>Operational Briefing videos can be watched on the </span><a href=\"https://www.youtube.com/@SaintCharlesFireInformation\"><span>2023 Saint Charles Fire Information YouTube page</span></a><span>.</span></p>",
-    "size": "330",
+    "size": "428",
     "lat_min": "59",
     "lat_sec": "39",
     "urlPath": "/copsf-saint-charles-fire",
@@ -2517,6 +2517,6 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "12 hours 42 minutes ago"
+    "changed": "13 seconds ago"
   }
 ]
