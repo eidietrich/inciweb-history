@@ -123,7 +123,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 day 10 hours ago"
+    "changed": "1 day 17 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +144,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 days 11 hours ago"
+    "changed": "2 days 18 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -187,27 +187,6 @@
     "measurement_type": "",
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
     "changed": "2 weeks 4 days ago"
-  },
-  {
-    "title": "INYO NATIONAL FOREST 2023 PRESCRIBED FIRE PROJECTS",
-    "lat_deg": "37",
-    "long_deg": "118",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-06-13T14:48:53-04:00\">2023-06-13</time>\n",
-    "id": "313067",
-    "field_incident_overview": "<p><strong><span><span><span>Incident Overview</span></span></span></strong></p>\n\n<p><span><span><span><span><span><span>Inyo National Forest (INF) fire crews have been planning for, preparing and conducting fuel treatment projects that are expected to occur through 2023. These fuel treatment operations include prescribed burning of vegetation thinning (slash) piles, with low-intensity understory burning.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>Prescribed fire an important tool for the Forest Service mission to reduce unnatural vegetation fuel loading and restore natural fire regimes, which helps communities live more safely with fire.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span><span><span><span><span><span><span>Fire managers follow a risk-management approach when conducting these projects and mitigate impacts to local communities, residences, and other infrastructure. They will conduct prescribed fire activities during the safest possible “burn windows” in the coming months. Numerous factors including wind, humidity, air quality, fuel moisture and availability of fire crew personnel must be met before crews are authorized to move forward with burning.</span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span><span><span><span><span><span><span>Residents and visitors are asked to avoid areas where prescribed fires are being conducted. Some smoke may be visible. People should not be alarmed as the fires are carefully monitored. Local fire and government authorities are notified prior to burn days and kept informed throughout prescribed fire operations.</span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>Updates on these 2023 planned INF fuel treatment projects, Casa Diablo Burn, Antelope Burn, and Lakes Basin-Reds Meadow Burn will also be shared on this InciWeb page, the Inyo National Forest Alerts webpage at </span></span><span><span><a href=\"https://www.fs.usda.gov/alerts/inyo/alerts-notices\">Inyo National Forest - Alerts &amp; Notices (usda.gov)</a></span></span><span><span>, and its Facebook social media page at <a href=\"https://www.facebook.com/inyonf\">https://www.facebook.com/inyonf</a>.</span></span></span></span></span></span></p>\n\n<p><strong>Link to News Release: Prescribed burning to start June 6 on Inyo National Forest:</strong></p>\n\n<p><a href=\"https://www.fs.usda.gov/detail/inyo/news-events/?cid=FSEPRD1111493\">Inyo National Forest - News &amp; Events (usda.gov)</a></p>",
-    "size": "",
-    "lat_min": "31",
-    "lat_sec": "41",
-    "urlPath": "/cainf-inyo-national-forest-2023-prescribed-fire-projects",
-    "long_min": "33",
-    "long_sec": "59",
-    "measurement_type": "",
-    "field_title_and_unit": "CAINF INYO NATIONAL FOREST 2023 PRESCRIBED FIRE PROJECTS",
-    "changed": "3 months ago"
   },
   {
     "title": "Spring Creek Fire",
@@ -312,7 +291,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "5 days 10 hours ago"
+    "changed": "5 days 17 hours ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -858,7 +837,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 8 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1110,7 +1089,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "1 day 5 hours ago"
+    "changed": "1 day 12 hours ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1257,7 +1236,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "4 days 10 hours ago"
+    "changed": "4 days 17 hours ago"
   },
   {
     "title": "South Fork Complex",
@@ -1467,7 +1446,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "5 days 7 hours ago"
+    "changed": "5 days 14 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1614,7 +1593,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "2 days 8 hours ago"
+    "changed": "2 days 15 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1677,7 +1656,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "13 hours 59 minutes ago"
+    "changed": "20 hours 59 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1803,7 +1782,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "WASES South Slope Roza Slope",
-    "changed": "1 month 1 week ago"
+    "changed": "1 month 2 weeks ago"
   },
   {
     "title": "Wolf Creek Fire",
@@ -1866,7 +1845,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "3 days 9 hours ago"
+    "changed": "3 days 16 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1908,7 +1887,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "11 hours 59 minutes ago"
+    "changed": "18 hours 59 minutes ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1971,7 +1950,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "5 hours 54 minutes ago"
+    "changed": "12 hours 54 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2013,7 +1992,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "Hope Fire ",
@@ -2118,7 +2097,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "1 day 3 hours ago"
+    "changed": "1 day 10 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2160,7 +2139,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "4 days 11 hours ago"
+    "changed": "4 days 18 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2181,7 +2160,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 9 hours ago"
+    "changed": "2 days 16 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2202,7 +2181,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "4 hours 40 minutes ago"
+    "changed": "11 hours 40 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2223,7 +2202,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "4 days 11 hours ago"
+    "changed": "4 days 18 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2307,7 +2286,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "3 days 11 hours ago"
+    "changed": "3 days 18 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2349,7 +2328,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Sycamore Fire",
-    "changed": "4 days 9 hours ago"
+    "changed": "4 days 16 hours ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2370,7 +2349,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "3 days 10 hours ago"
+    "changed": "3 days 17 hours ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2454,7 +2433,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "12 seconds ago"
+    "changed": "7 hours ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2475,7 +2454,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "26 minutes 57 seconds ago"
+    "changed": "7 hours 26 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2496,7 +2475,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "14 hours 45 minutes ago"
+    "changed": "21 hours 45 minutes ago"
   },
   {
     "title": "Saint Charles Fire",
@@ -2517,7 +2496,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "2 hours 38 minutes ago"
+    "changed": "9 hours 38 minutes ago"
   },
   {
     "title": "Lafitte",
@@ -2538,6 +2517,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "4 hours 14 minutes ago"
+    "changed": "11 hours 13 minutes ago"
   }
 ]
