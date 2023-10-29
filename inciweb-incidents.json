@@ -816,7 +816,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "5 days 15 hours ago"
+    "changed": "5 days 16 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1068,7 +1068,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "2 days 19 hours ago"
+    "changed": "2 days 20 hours ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1215,7 +1215,7 @@
     "long_sec": "46",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "6 days ago"
+    "changed": "6 days 1 hour ago"
   },
   {
     "title": "South Fork Complex",
@@ -1425,7 +1425,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "6 days 21 hours ago"
+    "changed": "6 days 22 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1551,7 +1551,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "3 weeks 1 day ago"
+    "changed": "3 weeks 2 days ago"
   },
   {
     "title": "Anvil Fire",
@@ -1572,7 +1572,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 days 22 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1824,7 +1824,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "4 days 23 hours ago"
+    "changed": "5 days ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1929,7 +1929,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "40 minutes 25 seconds ago"
+    "changed": "9 seconds ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2076,7 +2076,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "2 days 17 hours ago"
+    "changed": "2 days 18 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2139,7 +2139,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 days 23 hours ago"
+    "changed": "4 days ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2160,7 +2160,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 day 18 hours ago"
+    "changed": "1 day 19 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2265,7 +2265,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "5 days 1 hour ago"
+    "changed": "5 days 2 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2307,7 +2307,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2391,7 +2391,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 hours 26 minutes ago"
+    "changed": "3 hours 6 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "9 minutes 5 seconds ago"
+    "changed": "48 minutes 42 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2433,7 +2433,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "2 days 4 hours ago"
+    "changed": "2 days 5 hours ago"
   },
   {
     "title": "Saint Charles Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "5 seconds ago"
+    "changed": "39 minutes 42 seconds ago"
   },
   {
     "title": "Lafitte",
@@ -2475,6 +2475,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "2 hours 45 minutes ago"
+    "changed": "3 hours 24 minutes ago"
   }
 ]
