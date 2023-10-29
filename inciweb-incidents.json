@@ -1845,7 +1845,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -1929,7 +1929,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "9 seconds ago"
+    "changed": "5 seconds ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "6 days 1 hour ago"
+    "changed": "6 days 2 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2181,7 +2181,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "6 days 1 hour ago"
+    "changed": "6 days 2 hours ago"
   },
   {
     "title": "French Meadows - Rice Creek Underburn",
@@ -2391,7 +2391,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "3 hours 6 minutes ago"
+    "changed": "3 hours 16 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "48 minutes 42 seconds ago"
+    "changed": "59 minutes 16 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2454,7 +2454,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "39 minutes 42 seconds ago"
+    "changed": "50 minutes 16 seconds ago"
   },
   {
     "title": "Lafitte",
@@ -2475,6 +2475,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "3 hours 24 minutes ago"
+    "changed": "3 hours 35 minutes ago"
   }
 ]
