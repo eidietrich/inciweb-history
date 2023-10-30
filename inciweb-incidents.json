@@ -165,7 +165,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "3 hours ago"
+    "changed": "3 hours 1 minute ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -1656,7 +1656,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "5 hours 30 minutes ago"
+    "changed": "5 hours 31 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1942,7 +1942,7 @@
     "created": "<time datetime=\"2023-09-18T14:45:32-04:00\">2023-09-18</time>\n",
     "id": "316095",
     "field_incident_overview": "<p>The Taos Ski Valley specials use permit burn piles will address fuels reduction within the resort boundary. The piles are mostly the result of clean-up after the December 2021 snow squall, which brought hurricane force winds to the area that fell thousands of trees. Some piles were also created from regular hazard tree mitigation and new trail development. <span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The piles are located in the lower frontside, lower frontside steeps, Minnesota’s and parts of the backside.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Ignitions will be conducted by fire-qualified Taos Ski Valley, Inc., staff, and may include other local fire departments, working under Forest Service leadership. The project will take at least two days, possibly more.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Piles currently visible along Highway 150 and the Wheeler Peak Trail are slated for burning this winter. They were created from 300 acres of thinning as part of the </span><a href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1142104.pdf\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Highway 150 Corridor Wildland Urban Interface Project</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">.</span><span> </span></p><p lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Both projects are in the Enchanted Circle Landscape and support efforts of the </span><a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Wildfire Crisis Strategy</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">.</span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span></p>",
-    "size": "",
+    "size": "45",
     "lat_min": "35",
     "lat_sec": "36.2",
     "urlPath": "/nmcaf-taos-ski-valley-special-use-permit-burn-piles",
@@ -1950,7 +1950,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "1 second ago"
+    "changed": "6 seconds ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 hours 16 minutes ago"
+    "changed": "2 hours 17 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "2 hours 17 minutes ago"
+    "changed": "2 hours 19 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2475,7 +2475,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "4 hours 30 minutes ago"
+    "changed": "4 hours 31 minutes ago"
   },
   {
     "title": "Lafitte",
@@ -2496,6 +2496,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "6 hours 5 minutes ago"
+    "changed": "6 hours 6 minutes ago"
   }
 ]
