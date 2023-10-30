@@ -1,5 +1,26 @@
 [
   {
+    "title": "Arapaho &amp; Roosevelt National Forests Pile Burning",
+    "lat_deg": "40",
+    "long_deg": "105",
+    "field_percent_of_perimeter": "0",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2015-11-05T09:08:58-05:00\">2015-11-05</time>\n",
+    "id": "291567",
+    "field_incident_overview": "<p><span><strong>Pile Burning for 2023-2024</strong></span></p><p><span>Fuels reduction programs involve mechanical or hand thinning projects, removing trees to reduce forest density and improve forest health. While larger logs are removed for use, unmarketable limbs, saplings, and brush are piled up for burning. Hand piles result from crews using chainsaws to thin the forest and then piling the material; machine piles result from using logging equipment and primarily consist of tree limbs left behind after marketable material is removed.</span></p><p><span>Piles are only ignited when fuels managers are confident that the project can be undertaken safely and successfully. Snow cover, fuel moisture, precipitation, wind, temperature, and available firefighter staffing are all considered before beginning a pile burn.</span></p><p><span>Smoke, flames, and glowing embers are often visible, and are a normal part of pile burning operations. Mild fire behavior between piles is expected and is also beneficial for future wildfire risk reduction. This can include forest litter between piles and lower limbs of trees. Moisture, namely snow, helps contain the piles and firefighters monitor the area during and after the burn. Monitoring continues until the piles are considered out. Public and firefighter safety is always the number-one priority in burning operations. </span></p><p><span>To view all prescribed fire projects across the Arapaho and Roosevelt National Forests, check out our </span><a href=\"https://usfs.maps.arcgis.com/apps/webappviewer/index.html?id=abefa61010ee43418aa942f949d2cf5a\"><span>new interactive map</span></a><span>. Zoom into the location you are interested in, click on a prescribed burn unit and learn more about its status. </span></p><p><span>Prescribed fire smoke may affect your health; for more information see </span><a href=\"http://www.colorado.gov/pacific/cdphe/wood-smoke-and-health/\"><span>http://www.colorado.gov/pacific/cdphe/wood-smoke-and-health/.</span></a></p><p><span>To receive updates, </span><a href=\"https://visitor.r20.constantcontact.com/manage/optin?v=001IYrlh1STq1nQ4D8XRO5B4Tvbd__skb5DEaSNzAHXRTWsJ95wGZldZ7zrkXvzVXksf3R6x_FiGGtTmBpzdxMnTnede0kaBf28EWf6JhMvjtJ1G2BxcsTGuuXwUui3wHLgc8u79l49Wyo2SYfQARrvjWhWttAZTbd2\"><span>join our email list</span></a><span>. Have questions? Email ARPFireInfo@usda.gov. ​​</span><br /><span><strong> </strong></span><br /><span><strong>Areas on the Sulphur Ranger District (Grand County) with hand and machine piles ready for burning: </strong></span></p><ul><li><span><strong>Fair: </strong>15,000 hand piles, 10 machine piles<strong> General Location: </strong>East of Tabernash<strong> </strong>along Water Board Rd (FSR 128)<strong> </strong></span></li><li><span><strong>Snow Mountain: </strong>20 machine piles<strong> General Location: </strong>West of Snow Mountain Ranch</span></li><li><span><strong>Little HO</strong>:  20 machine piles <strong>General Location:</strong> 6mi east of Granby</span></li><li><span><strong>Upper Fraser</strong>: 1,000 hand piles <strong>General Location:</strong> Northwest of Winter Park near Elk Creek Rd</span></li><li><span><strong>Big Blue Ridge Machine</strong>: 50 machine piles <strong>General Location:</strong> South of CR55 along the top of Blue Ridge</span></li><li><span><strong>Blue Ridge Unit 15</strong>: 50 hand piles <strong>General Location:</strong> West of CR 50 at the Horseshoe Trailhead</span></li><li><span><strong>Kawland Unit 90</strong>: 20 machine piles, 400 hand piles <strong>General Location:</strong> Between Vasquez and East Elk Creeks on FSR 159, West of Winter Park Resort</span></li><li><span><strong>Bottle Pass: </strong>100 hand piles <strong>General Location:</strong> Bottle Pass between Ptarmigan and Bottle Peak</span></li></ul><p><span><strong>Areas on the Clear Creek Ranger District (Clear Creek County) with hand piles ready for burning: </strong></span></p><p><span><strong>TBD</strong></span></p><p><span><strong>Areas on the Boulder Ranger District (Gilpin and Boulder Counties) with hand and machine piles ready for burning: </strong></span></p><p><span><strong>TBD</strong></span></p><p><span><strong>Areas on the Canyon Lakes Ranger District (Larimer County) with hand and machine piles ready for burning:  </strong></span></p><p><span><strong>TBD</strong></span></p><p> </p>",
+    "size": "",
+    "lat_min": "33",
+    "lat_sec": "32",
+    "urlPath": "/coarf-arapaho-roosevelt-national-forests-pile-burning",
+    "long_min": "5",
+    "long_sec": "10",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
+    "changed": "3 seconds ago"
+  },
+  {
     "title": "Animas City Mountain Prescribed Burn",
     "lat_deg": "37",
     "long_deg": "107",
@@ -123,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 2 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -144,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "5 days 2 hours ago"
+    "changed": "5 days 3 hours ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -165,7 +186,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "3 hours 1 minute ago"
+    "changed": "4 hours 5 minutes ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -207,7 +228,7 @@
     "long_sec": "59",
     "measurement_type": "",
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "Spring Creek Fire",
@@ -837,7 +858,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "6 days 17 hours ago"
+    "changed": "6 days 18 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -1089,7 +1110,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 22 hours ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1446,7 +1467,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "1 week ago"
+    "changed": "1 week 1 day ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1593,7 +1614,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1656,7 +1677,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "5 hours 31 minutes ago"
+    "changed": "6 hours 36 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1845,7 +1866,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "6 days 1 hour ago"
+    "changed": "6 days 2 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1887,7 +1908,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "3 days 3 hours ago"
+    "changed": "3 days 4 hours ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1950,7 +1971,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "6 seconds ago"
+    "changed": "1 hour 4 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2097,7 +2118,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "3 days 19 hours ago"
+    "changed": "3 days 20 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2160,7 +2181,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "5 days 1 hour ago"
+    "changed": "5 days 2 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2181,7 +2202,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 days 20 hours ago"
+    "changed": "2 days 21 hours ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2286,7 +2307,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "6 days 3 hours ago"
+    "changed": "6 days 4 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2307,7 +2328,7 @@
     "long_sec": "25.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "Biggie Underburn - Phase 1",
@@ -2328,7 +2349,7 @@
     "long_sec": "15.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "6 days 2 hours ago"
+    "changed": "6 days 3 hours ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -2370,7 +2391,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "Monongahela NF Fall Prescribed Fire Operations",
@@ -2412,7 +2433,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 hours 17 minutes ago"
+    "changed": "3 hours 22 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2433,7 +2454,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "2 hours 19 minutes ago"
+    "changed": "3 hours 23 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2454,7 +2475,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "3 days 6 hours ago"
+    "changed": "3 days 7 hours ago"
   },
   {
     "title": "Saint Charles Fire",
@@ -2475,7 +2496,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "4 hours 31 minutes ago"
+    "changed": "5 hours 36 minutes ago"
   },
   {
     "title": "Lafitte",
@@ -2496,6 +2517,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "6 hours 6 minutes ago"
+    "changed": "7 hours 10 minutes ago"
   }
 ]
