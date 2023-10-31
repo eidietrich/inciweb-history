@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "18 hours 31 minutes ago"
+    "changed": "19 hours 24 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -84,6 +84,27 @@
     "changed": "1 month 2 weeks ago"
   },
   {
+    "title": "Trail Ridge Fire",
+    "lat_deg": "45",
+    "long_deg": "113",
+    "field_percent_of_perimeter": "80",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2022-08-30T08:32:47-04:00\">2022-08-30</time>\n",
+    "id": "310603",
+    "field_incident_overview": "<p> <br /></p>   <br /><p>INCIDENT COMMANDER: Cache Gibbons </p> <p>October 25, 2022</p> <p>Trail Ridge Fire</p> <h2>Fire Summary</h2> <p>Approx. 5 miles SE Sula, MT</p> <p>Approx. 11 miles NW of Big Hole National Battlefield</p> <p>Size: 18,138 acres Completion: 80%</p> <p>Personnel: 37</p> <p> </p> <p> </p> <p> </p> <p> </p> <br /> CURRENT STATUS <p>The Trail Ridge Fire is burning on the Wisdom District of the Beaverhead-Deerlodge National Forest and the Darby-Sula District of the Bitterroot National Forest.  A Type 4 team assumed command of the fire October 19, 2022.  The incoming Incident Commander is Cache Gibbons with Incident Commander (t) Cody Hoover.  Both are from Bitterroot National Forest, Darby Ranger District. </p> <p> </p> <p>Currently the fire is 18,138 acres.  On Saturday, October 22, the fire received a wetting rain with snow starting around 3,800 feet.  This moisture has considerately dampened fire activity.  With more moisture expected over the fire in the coming days the fire will likely continue to smolder and put up very little smoke.  Today fire officials will reassess conditions and begin repair work where needed.</p>   <p>The main objective for this fire continues to be firefighter and public safety.  Other primary objectives include keeping the fire    from impacting private lands and values along Highway 93 and East Fork of the Bitterroot corridors utilizing point protection and indirect lines where needed. Suppression repair work will continue if needed.</p> <p> </p>   <h2>FIRE WEATHER AND BEHAVIOR<br />Today will be mostly sunny with a chance of a rain snow mix this afternoon. Highs will be in the 40’s with winds south southeast 5-10 mph.  Gusts could be as high as 21 mph.  Tonight will have a low of around 21, with winds gusts as high as 21 mph.  Chance of precipitation will be 90%. Moisture will continue throughout this week. </h2>   <h2>TRAIL RIDGE CLOSURES AND SPECIAL MESSAGES</h2> <p>Trail Ridge Closure has been rescinded effective October 24, 2023</p> <p> </p> <p> </p> <p>This will be the last update for the Trail Ridge Fire.  If you want information, please call the Darby RD or the Wisdom RD.</p> <p> </p>   Information:  Darby RD                                                                                                  Bitterroot National Forest 406.821.3913 Wisdom RD                                                                                             Beaverhead-Deerlodge National Forest 406.689.3242",
+    "size": "18138",
+    "lat_min": "46",
+    "lat_sec": "48",
+    "urlPath": "/mtbdf-trail-ridge-fire",
+    "long_min": "52",
+    "long_sec": "1",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "MTBDF Trail Ridge Fire",
+    "changed": "11 minutes 27 seconds ago"
+  },
+  {
     "title": "Blue Ridge Prescribed Burn",
     "lat_deg": "40",
     "long_deg": "-106",
@@ -144,7 +165,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "4 days 21 hours ago"
+    "changed": "4 days 22 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -165,7 +186,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "5 days 22 hours ago"
+    "changed": "5 days 23 hours ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -186,7 +207,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "22 hours 37 minutes ago"
+    "changed": "23 hours 30 minutes ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -900,7 +921,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "Salmon Fire",
@@ -1110,7 +1131,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "4 days 17 hours ago"
+    "changed": "4 days 18 hours ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1341,7 +1362,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1530,7 +1551,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "Brice Creek Fire",
@@ -1614,7 +1635,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "5 days 19 hours ago"
+    "changed": "5 days 20 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1656,7 +1677,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -1677,7 +1698,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 hour 31 minutes ago"
+    "changed": "2 hours 23 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1761,7 +1782,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -1866,7 +1887,7 @@
     "long_sec": "15",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Montoya and Blas Units Canjilon Wildland Urban Interface Project",
-    "changed": "6 days 20 hours ago"
+    "changed": "6 days 21 hours ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1908,7 +1929,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "3 days 23 hours ago"
+    "changed": "4 days ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1929,7 +1950,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1950,7 +1971,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -1971,7 +1992,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "13 hours 14 minutes ago"
+    "changed": "14 hours 7 minutes ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2118,7 +2139,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "4 days 14 hours ago"
+    "changed": "4 days 15 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2181,7 +2202,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "17 hours 50 minutes ago"
+    "changed": "18 hours 43 minutes ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2307,7 +2328,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "6 days 22 hours ago"
+    "changed": "6 days 23 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2425,7 +2446,7 @@
     "created": "<time datetime=\"2023-10-23T13:27:01-04:00\">2023-10-23</time>\n",
     "id": "316649",
     "field_incident_overview": "<p><span>The Trail Springs Fire is located on the San Juan National Forest, west of Pagosa Springs. The lightning-caused wildfire is in thickly-forested terrain above West Devil Creek, about three miles northwest of Chris Mountain.</span></p><p>The San Juan National Forest Type 3 team is now managing this and the Mill Creek 2 fires. Fire managers have used tactics that protect values while developing fire control lines with the best probability of success. An area closure is in effect and the East Monument Road is closed at its intersection with Turkey Springs Road. See a map and full details under the closures tab of this website.</p>",
-    "size": "1250",
+    "size": "1251",
     "lat_min": "18",
     "lat_sec": "1.7526",
     "urlPath": "/cosjf-trail-springs-fire",
@@ -2433,7 +2454,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "13 hours 11 minutes ago"
+    "changed": "53 seconds ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2446,7 +2467,7 @@
     "created": "<time datetime=\"2023-10-23T13:36:04-04:00\">2023-10-23</time>\n",
     "id": "316650",
     "field_incident_overview": "<p>The Mill Creek 2 Fire is located approximately 12 miles northeast of Pagosa Springs on the San Juan National Forest in high, remote terrain, near the border of the South San Juan Wilderness Area. The fire initially burned aggressively through a heavy load of mixed conifer and dead and down logs but has run into rocky terrain with less available ready fuel. Minimal fire activity has been observed in recent days and the area received snow on Saturday.</p><p><span>B</span>ecause of the extremely difficult access and safety risks, firefighters have not been sent in to directly engage this fire. No homes, ranches or private holdings are at risk.</p><p>No closures are in place because of this fire.</p>",
-    "size": "121",
+    "size": "122",
     "lat_min": "18",
     "lat_sec": "31.5612",
     "urlPath": "/cosjf-mill-creek-2-fire",
@@ -2454,7 +2475,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "13 hours 7 minutes ago"
+    "changed": "3 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2496,7 +2517,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "6 seconds ago"
+    "changed": "52 minutes 49 seconds ago"
   },
   {
     "title": "Lafitte",
@@ -2517,6 +2538,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "36 minutes 40 seconds ago"
+    "changed": "1 hour 29 minutes ago"
   }
 ]
