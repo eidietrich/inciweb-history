@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 20 minutes ago"
+    "changed": "1 hour 38 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -144,7 +144,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "2 hours 46 minutes ago"
+    "changed": "3 hours 4 minutes ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -501,7 +501,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "2 days ago"
+    "changed": "2 days 1 hour ago"
   },
   {
     "title": "Cottonwood Ridge Fire ",
@@ -858,7 +858,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Sidney Fire",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "Bear Creek Fire",
@@ -1383,7 +1383,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "2023 Ridge Fire UNF",
@@ -1404,7 +1404,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "2023 Horse Creek Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "Dinner Fire",
@@ -1551,7 +1551,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "Grizzly Fire",
@@ -1656,7 +1656,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "8 hours 36 minutes ago"
+    "changed": "8 hours 55 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1929,7 +1929,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "16 hours 55 minutes ago"
+    "changed": "17 hours 13 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "22 minutes 48 seconds ago"
+    "changed": "22 seconds ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2202,7 +2202,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "5 hours 33 minutes ago"
+    "changed": "5 hours 51 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2412,7 +2412,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela NF Fall Prescribed Fire Operations",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Trail Springs Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "7 hours 28 minutes ago"
+    "changed": "7 hours 46 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "7 hours 28 minutes ago"
+    "changed": "7 hours 46 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2496,7 +2496,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "7 hours 37 minutes ago"
+    "changed": "7 hours 55 minutes ago"
   },
   {
     "title": "Lafitte",
@@ -2517,6 +2517,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "13 seconds ago"
+    "changed": "18 minutes 30 seconds ago"
   }
 ]
