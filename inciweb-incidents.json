@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "7 hours 37 minutes ago"
+    "changed": "7 hours 41 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -501,7 +501,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "1 day 7 hours ago"
+    "changed": "1 day 8 hours ago"
   },
   {
     "title": "Cottonwood Ridge Fire ",
@@ -1656,7 +1656,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "15 hours 28 minutes ago"
+    "changed": "15 hours 32 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1920,7 +1920,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-09-18T14:20:44-04:00\">2023-09-18</time>\n",
     "id": "316091",
-    "field_incident_overview": "<p>This project adjacent to Vallecitos, NM, will maintain forest health within an area that was first treated with prescribed fire in 2014. Fire-dependent forests in the Southwestern Region must undergo fire disturbance on a regular basis to maintain resiliency. If a future wildfire reaches an area with recent fire history, fire behavior is likely to be modified to a less intense, more <span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">manageable surface fire, making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Alamosa Unit 1 Prescribed Fire will also serve to maintain sustainable rangelands. The unit is part of the larger Jarita Mesa and Alamosa Grazing Allotments Project, which allows livestock grazing in a manner that balances it with Carson National Forest’s goals for rangeland vegetation, soil, watershed and wildlife habitat.</span></p>",
+    "field_incident_overview": "<p>This 4,500-acre project adjacent to Vallecitos, NM, will maintain forest health within an area that was first treated with prescribed fire in 2014. Fire-dependent forests in the Southwestern Region must undergo fire disturbance on a regular basis to maintain resiliency. If a future wildfire reaches an area with recent fire history, fire behavior is likely to be modified to a less intense, more <span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">manageable surface fire, making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Alamosa Unit 1 Prescribed Fire will also serve to maintain sustainable rangelands. The unit is part of the larger Jarita Mesa and Alamosa Grazing Allotments Project, which allows livestock grazing in a manner that balances it with Carson National Forest’s goals for rangeland vegetation, soil, watershed and wildlife habitat.</span></p>",
     "size": "",
     "lat_min": "26",
     "lat_sec": "44.1",
@@ -1929,7 +1929,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "10 seconds ago"
+    "changed": "16 seconds ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "5 hours 10 minutes ago"
+    "changed": "5 hours 14 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "5 hours 11 minutes ago"
+    "changed": "5 hours 16 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2496,7 +2496,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "15 hours 23 minutes ago"
+    "changed": "15 hours 27 minutes ago"
   },
   {
     "title": "Lafitte",
@@ -2517,6 +2517,6 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "6 hours 32 minutes ago"
+    "changed": "6 hours 36 minutes ago"
   }
 ]
