@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 38 minutes ago"
+    "changed": "2 hours 7 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -102,7 +102,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "3 days 6 hours ago"
+    "changed": "3 days 7 hours ago"
   },
   {
     "title": "Blue Ridge Prescribed Burn",
@@ -144,7 +144,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "3 hours 4 minutes ago"
+    "changed": "3 hours 33 minutes ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -207,7 +207,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "4 days 5 hours ago"
+    "changed": "4 days 6 hours ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -942,7 +942,7 @@
     "long_sec": "45.1",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Lookout Fire",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "Mt. Stirling Fire",
@@ -1656,7 +1656,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "8 hours 55 minutes ago"
+    "changed": "9 hours 24 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1929,7 +1929,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "17 hours 13 minutes ago"
+    "changed": "17 hours 42 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1971,7 +1971,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "3 days 20 hours ago"
+    "changed": "3 days 21 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2139,7 +2139,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "Sagehen Hills Underburn",
@@ -2181,7 +2181,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "22 seconds ago"
+    "changed": "26 minutes 10 seconds ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2202,7 +2202,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "5 hours 51 minutes ago"
+    "changed": "6 hours 20 minutes ago"
   },
   {
     "title": "Yuba-Unit D",
@@ -2433,7 +2433,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "7 hours 46 minutes ago"
+    "changed": "8 hours 15 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "7 hours 46 minutes ago"
+    "changed": "8 hours 15 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2496,7 +2496,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "7 hours 55 minutes ago"
+    "changed": "8 hours 24 minutes ago"
   },
   {
     "title": "Lafitte",
@@ -2517,6 +2517,27 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "18 minutes 30 seconds ago"
+    "changed": "47 minutes 30 seconds ago"
+  },
+  {
+    "title": "La Junta Fire",
+    "lat_deg": "36",
+    "long_deg": "105",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-03T19:01:58-04:00\">2023-11-03</time>\n",
+    "id": "316723",
+    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire crews responded to a report of a fire off Highway 518 and near Tres Ritos, N.M. at approximately 11:48 a.m. today. Upon arrival, local departments reported the fire moving uphill rapidly in mixed conifer stands on the Carson National Forest.</span><span> </span></p><p lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire behavior and spread moderated greatly by late afternoon. The fire’s size is estimated to be 5 to 8 acres with 0 percent containment. Crews have cut line around a portion of the fire and will continue work late into the evening, returning Saturday morning.</span><span> </span></p><p lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Tonight’s weather is forecasted to drop to 29-33 degrees with overnight humidity of 34-38 percent, according to a National Weather Service Spot forecast for the fire’s location. On Saturday, temperatures are forecasted to rise to 58-62 degrees with a low humidity of 15-20 percent. West winds are predicted be 5 to 8 mph both tonight and tomorrow.</span><span> </span></p><p lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">There are no evacuations or closures associated with the La Junta Fire. Its cause is under investigation.</span></p>",
+    "size": "5",
+    "lat_min": "07",
+    "lat_sec": "26",
+    "urlPath": "/nmcaf-la-junta-fire",
+    "long_min": "30",
+    "long_sec": "38",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NMCAF La Junta Fire",
+    "changed": "1 second ago"
   }
 ]
