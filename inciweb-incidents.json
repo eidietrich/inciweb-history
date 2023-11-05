@@ -1635,7 +1635,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "50 minutes 22 seconds ago"
+    "changed": "1 hour 7 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2286,7 +2286,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2412,7 +2412,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "16 hours 25 minutes ago"
+    "changed": "16 hours 43 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "15 seconds ago"
+    "changed": "17 minutes 32 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2496,7 +2496,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "18 hours 54 minutes ago"
+    "changed": "19 hours 11 minutes ago"
   },
   {
     "title": "La Junta Fire",
@@ -2517,6 +2517,27 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "29 minutes 51 seconds ago"
+    "changed": "47 minutes 8 seconds ago"
+  },
+  {
+    "title": "Maid Fire",
+    "lat_deg": "34",
+    "long_deg": "-111",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-05T12:16:10-05:00\">2023-11-05</time>\n",
+    "id": "316727",
+    "field_incident_overview": "<p>The Maid Fire began during the early morning hours of Saturday, Nov. 4, 2023 on the east side of Apache Maid mountain and was reported by a member of the public. The wildfire is human caused but the specific cause of the fire is under investigation. Multiple resources have responded to the wildfire, including partner agencies such as Taylor and Jerome fire departments. The wildfire has grown to more than 200 acres as of 9 a.m. Sunday, Nov. 5 and firefighters are working at using burnout operations and surrounding forest roads as control features. Smoke from the wildfire is very visible from motorists along Interstate 17 near the Stoneman Lake exit since the wildfire is located atop Apache Maid mountain currently and only approximately 5 miles from the interstate. No structures are threatened and no evacuations are ordered or anticipated at this time.</p>",
+    "size": "200",
+    "lat_min": "43",
+    "lat_sec": "23.001",
+    "urlPath": "/azcof-maid-fire",
+    "long_min": "32",
+    "long_sec": "37.9998",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "AZCOF Maid Fire",
+    "changed": "13 seconds ago"
   }
 ]
