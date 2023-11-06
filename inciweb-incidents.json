@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "59 minutes 57 seconds ago"
+    "changed": "1 hour 4 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -186,7 +186,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "6 days 23 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -1614,7 +1614,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 31 minutes ago"
+    "changed": "3 hours 35 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2139,7 +2139,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 17 hours ago"
+    "changed": "2 days 18 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2391,7 +2391,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "34 minutes 31 seconds ago"
+    "changed": "38 minutes 52 seconds ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "22 minutes 22 seconds ago"
+    "changed": "26 minutes 43 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2454,7 +2454,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "3 days 1 hour ago"
+    "changed": "3 days 2 hours ago"
   },
   {
     "title": "Lafitte",
@@ -2475,7 +2475,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "19 hours 56 minutes ago"
+    "changed": "20 hours ago"
   },
   {
     "title": "La Junta Fire",
@@ -2496,7 +2496,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "1 hour 37 minutes ago"
+    "changed": "1 hour 41 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2508,7 +2508,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-11-05T12:16:10-05:00\">2023-11-05</time>\n",
     "id": "316727",
-    "field_incident_overview": "<p>The Maid Fire began during the early morning hours of Saturday, Nov. 4, 2023 on the east side of Apache Maid mountain and was reported by a member of the public. The wildfire is human caused but the specific cause of the fire is under investigation. The wildfire has grown to 543 acres as of 7 a.m. Monday, Nov. 6 and firefighters are working at using burnout operations and surrounding forest roads as control features. Smoke from the wildfire is very visible from motorists along Interstate 17 near the Stoneman Lake exit since the wildfire is located atop Apache Maid mountain currently and only approximately 5 miles from the interstate. No structures are threatened and no evacuations are ordered or anticipated at this time.</p>",
+    "field_incident_overview": "<p>The Maid Fire began during the early morning hours of Saturday, Nov. 4, 2023 on the east side of Apache Maid mountain and was reported by a member of the public. The wildfire is human caused but the specific cause of the fire is under investigation. The wildfire has grown to 543 acres as of 7 a.m. Monday, Nov. 6 and firefighters are working on using burnout operations and surrounding forest roads as control features.</p><p>Smoke from the wildfire is very visible from motorists along Interstate 17 near the Stoneman Lake exit since the wildfire is located atop Apache Maid mountain currently and only approximately 5 miles from the interstate. No structures are threatened and no evacuations are ordered or anticipated at this time.</p>",
     "size": "543",
     "lat_min": "43",
     "lat_sec": "23.001",
@@ -2517,6 +2517,6 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "9 seconds ago"
+    "changed": "2 seconds ago"
   }
 ]
