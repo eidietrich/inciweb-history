@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 22 minutes ago"
+    "changed": "1 hour 35 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -1614,7 +1614,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "6 hours 55 minutes ago"
+    "changed": "7 hours 9 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -2076,7 +2076,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "5 days 21 hours ago"
+    "changed": "5 days 22 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2098,27 +2098,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
     "changed": "5 days 22 hours ago"
-  },
-  {
-    "title": "Sagehen Hills Underburn",
-    "lat_deg": "39",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-04T14:11:07-04:00\">2023-10-04</time>\n",
-    "id": "316482",
-    "field_incident_overview": "<p><strong>Sagehen Hills Underburn</strong><br /><strong>Truckee Ranger District</strong><br /><strong>Legal Location: Township 18 N Range 16 E</strong><br /><strong>Section(s): 5 and 6</strong><br /><strong>Acres: 1000</strong><br /><strong>Ignition Dates: 10/5-10/20, 2023</strong><br /><strong>Location Description: Sagehen Summit, Hwy 89 and FS RD 878-2</strong></p><ul><li><span>Tahoe National Forest plans to prescribed burn up to 1000-acres at Sagehen Summit off Highway 89 and Forest Service Road 878-2 in Truckee, Calif.</span></li><li><span>The purpose of the project is to reduce fuels/wildfire risk and improve forest health and habitat</span></li><li><span>Smoke will be visible from Truckee, Donner and Independence Lake along with Stampede and Boca Reservoir areas. Any smoke impacts will be carefully monitored.</span></li></ul><p><span>Project partners include U.S. Forest Service Pacific Southwest Research Station, Sierra Nevada Conservancy and University of California, Berkeley.</span></p>",
-    "size": "1000",
-    "lat_min": "26.900",
-    "lat_sec": "",
-    "urlPath": "/catnf-sagehen-hills-underburn",
-    "long_min": "13.555",
-    "long_sec": "",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF Sagehen Hills Underburn",
-    "changed": "2 weeks ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2161,69 +2140,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
     "changed": "3 days 3 hours ago"
-  },
-  {
-    "title": "Yuba-Unit D",
-    "lat_deg": "39",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-06T17:48:53-04:00\">2023-10-06</time>\n",
-    "id": "316517",
-    "field_incident_overview": "<p><strong>Yuba Unit D Underburn</strong><br /><strong>Yuba River Ranger District</strong><br /><strong>Legal Location: Township 21 N Range 13 E</strong><br /><strong>Section(s): 2</strong><br /><strong>Acres: 300</strong><br /><strong>Ignition Dates: As early as 10/8, conditions permitting</strong><br /><strong>Location Description: Near Yuba Pass, near Forest Service 09 road, 1 mile from Hwy 49</strong></p><p>Tahoe National Forest plans to begin a prescribed underburn near Yuba Pass, 1-mile from Highway 49 and near Forest Service 09 Road in Sierra County, Calif. The unit planned is 300 acres and will start with a test light as early Oct. 8.</p><p>Fire and fuels personnel will monitor conditions from the test light before igniting a larger area to verify how effectively fuels are consumed and how smoke will travel. Smoke will be visible from Sierra Valley and Lakes Basin areas, and possibly Bassetts and Sierraville.</p><p>The primary objective is to reduce surface and ladder fuels to a level that would allow safe fire suppression and reintroduce fire into a fire dependent ecosystem, while enhancing watershed health and improving wildlife habitat. </p><p>This prescribed burn project is part of the 14,545-acre <a href=\"https://nff.maps.arcgis.com/apps/MapJournal/index.html?appid=5efcaae52465483d9d6848c1aff1ed50\"><strong>Yuba Project</strong></a>, a collaborative between Tahoe National Forest, National Forest Foundation, Yuba Water Agency and Blue Forest. The project is located within the North Yuba landscape, where the Forest Service and <a href=\"https://www.yubaforest.org/\"><strong>North Yuba Forest Partnership </strong></a>are prioritizing forest and watershed resilience work.</p>",
-    "size": "300",
-    "lat_min": "38.01",
-    "lat_sec": "",
-    "urlPath": "/catnf-yubaunit-d",
-    "long_min": "30.33",
-    "long_sec": "",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF YubaUnit D",
-    "changed": "2 weeks ago"
-  },
-  {
-    "title": "French Meadows - Rice Creek Underburn",
-    "lat_deg": "39",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-10T16:47:28-04:00\">2023-10-10</time>\n",
-    "id": "316549",
-    "field_incident_overview": "<p><span><strong>Name of project</strong>: French Meadows Rx-South Block: Rice Creek Unit </span><br /><span><strong>Type of burn:</strong> Underburn</span><br /><span><strong>Project potential acreage:</strong> 262.5</span><br /><span><strong>Duration of ignition</strong>: 2 days</span><br /> </p><p><span>Tahoe National Forest will begin a prescribed underburn near French Meadows Reservoir with ignitions starting as early as Oct. 11, 2023. Smoke will be visible from the French Meadows area and possibly North Lake Tahoe and surrounding areas. Smoke impacts will be carefully monitored and efforts will be taken to reduce impacts to communities.</span></p><p><span>The planned burn is part of the French Meadows Forest Restoration Project, a 28,000-acre forest health project aiming to improve forest resilience and reduce the risk of high-severity wildfire in the headwaters of the American River. The project has been developed by a diverse group of partners including Tahoe National Forest, Placer County Water Agency, The Nature Conservancy, Sierra Nevada Conservancy, Placer County, American River Conservancy and Sierra Nevada Research Institute.  </span></p>",
-    "size": "262",
-    "lat_min": "10.07",
-    "lat_sec": "4",
-    "urlPath": "/catnf-french-meadows-rice-creek-underburn",
-    "long_min": "22.16",
-    "long_sec": "9",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF French Meadows Rice Creek Underburn",
-    "changed": "3 weeks 2 days ago"
-  },
-  {
-    "title": "Burlington Pileburn",
-    "lat_deg": "39",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-11T15:39:12-04:00\">2023-10-11</time>\n",
-    "id": "316557",
-    "field_incident_overview": "<p><span><strong>Name of Project</strong>: Burlington Pileburn</span><br /><span><strong>Type of Burn: </strong>Pileburn</span><br /><span><strong>Project Potential Acreage:</strong> 90</span><br /><span><strong>Duration of Ignition</strong>: 2 days</span><br /><span><strong>Location Description</strong>: On Burlington Ridge one mile south of White Cloud.</span></p><p><span>Smoke may be visible for travelers on Highway 20 and residents and visitors in the area.</span></p>",
-    "size": "90",
-    "lat_min": "18.19",
-    "lat_sec": "9",
-    "urlPath": "/catnf-burlington-pileburn",
-    "long_min": "52.07",
-    "long_sec": "6",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF Burlington Pileburn",
-    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2289,27 +2205,6 @@
     "changed": "2 weeks 5 days ago"
   },
   {
-    "title": "Biggie Underburn - Phase 1",
-    "lat_deg": "39",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-17T11:10:38-04:00\">2023-10-17</time>\n",
-    "id": "316606",
-    "field_incident_overview": "<p><span><strong>Name of project</strong>: Biggie Phase 1 Rx </span><br /><span><strong>Legal location</strong>: T 14N R 12E sec. 14</span><br /><span><strong>Type of burn:</strong> Underburn</span><br /><span><strong>Project potential acreage:</strong> 544 </span><br /><span><strong>Duration of active ignition</strong>: 7 days</span></p><p><span>The Biggie Rx Project Area consists of 2620 acres of prescribed fire treatment to promote forest resilience to wildfire, insect and disease outbreaks, and climate change. Phase 1 of the project (544 acres) will begin October of 2023. The project is located approx. 14 miles east of Foresthill, Calif. along Mosquito Ridge Road (FS Rd. 96) in the area of the Placer Big Trees Grove.</span></p><p><span>Smoke will be visible from the French Meadows area and possibly North Lake Tahoe and surrounding areas.  Smoke impacts will be carefully monitored and efforts will be taken to reduce impacts to communities.</span></p>",
-    "size": "544",
-    "lat_min": "03",
-    "lat_sec": "59.1",
-    "urlPath": "/catnf-biggie-underburn-phase-1",
-    "long_min": "34",
-    "long_sec": "15.1",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF Biggie Underburn Phase 1",
-    "changed": "1 week 6 days ago"
-  },
-  {
     "title": "2023-STF-Waterhouse Fire ",
     "lat_deg": "38",
     "long_deg": "119",
@@ -2349,7 +2244,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Monongahela NF Fall Prescribed Fire Operations",
@@ -2391,7 +2286,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "3 hours 58 minutes ago"
+    "changed": "4 hours 12 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2412,7 +2307,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "3 hours 46 minutes ago"
+    "changed": "3 hours 59 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2475,7 +2370,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "23 hours 20 minutes ago"
+    "changed": "23 hours 33 minutes ago"
   },
   {
     "title": "La Junta Fire",
@@ -2496,7 +2391,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "5 hours 1 minute ago"
+    "changed": "5 hours 14 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2517,7 +2412,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "3 hours 20 minutes ago"
+    "changed": "3 hours 33 minutes ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2529,7 +2424,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-11-06T15:58:37-05:00\">2023-11-06</time>\n",
     "id": "316737",
-    "field_incident_overview": "<p>The Yuba River Ranger District will be conducting a variety of planned prescribed pileburns as conditions allow. Project dates, acreage numbers and updates will be posted in the \"Announcements\" tab of this incident page.</p><p> </p><p><strong>Why Are We Burning?</strong><br />The goal of this prescribed burn is to decrease the existing fire hazard and to prevent and reduce the impact of future fires in the area. Other benefits include enhancing wildlife habitat and reintroducing fire into a fire-adapted ecosystem.</p><p><br /><strong>Why Now?</strong><br />Current conditions allow for prescribed burning. Each prescribed fire operation follows a prescribed fire burn plan, which considers temperature, humidity, wind, moisture of the vegetation, and conditions for the dispersal of smoke. This information is used to decide when and where to burn. The Tahoe National Forest strives to give as much advance notice as possible before burning, but some operations may be conducted on short notice.</p><p><strong>Smoke</strong><br />Smoke from prescribed fire operations is normal and may continue for several days after an ignition depending on the project size and environmental conditions. Smoke may settle into the valleys in the evening and lift in the morning. The Tahoe National Forest coordinates with state and local county air pollution control districts and monitors weather conditions closely prior to prescribed fire ignition. Crews also conduct test burns before igniting a larger area, to verify how effectively fuels are consumed and how smoke will travel.</p>",
+    "field_incident_overview": "<p>The Yuba River Ranger District will be conducting a variety of planned prescribed pileburns as conditions allow. Project dates, locations, acreage numbers and updates will be posted in the \"Announcements\" tab of this incident page.</p><p> </p><p><strong>Why Are We Burning?</strong><br />The goal of this prescribed burn is to decrease the existing fire hazard and to prevent and reduce the impact of future fires in the area. Other benefits include enhancing wildlife habitat and reintroducing fire into a fire-adapted ecosystem.</p><p><br /><strong>Why Now?</strong><br />Current conditions allow for prescribed burning. Each prescribed fire operation follows a prescribed fire burn plan, which considers temperature, humidity, wind, moisture of the vegetation, and conditions for the dispersal of smoke. This information is used to decide when and where to burn. The Tahoe National Forest strives to give as much advance notice as possible before burning, but some operations may be conducted on short notice.</p><p><strong>Smoke</strong><br />Smoke from prescribed fire operations is normal and may continue for several days after an ignition depending on the project size and environmental conditions. Smoke may settle into the valleys in the evening and lift in the morning. The Tahoe National Forest coordinates with state and local county air pollution control districts and monitors weather conditions closely prior to prescribed fire ignition. Crews also conduct test burns before igniting a larger area, to verify how effectively fuels are consumed and how smoke will travel.</p>",
     "size": "",
     "lat_min": "16",
     "lat_sec": "09",
@@ -2538,6 +2433,69 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Yuba River Ranger District Pileburn Projects",
+    "changed": "4 minutes ago"
+  },
+  {
+    "title": "2023 Collett Ridge Fire",
+    "lat_deg": "35",
+    "long_deg": "83",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-06T16:14:25-05:00\">2023-11-06</time>\n",
+    "id": "316738",
+    "field_incident_overview": "<p><strong>Current Situation: </strong><span>Yesterday firefighters completed firing operations along Collett Creek and Bolden Creek reducing the amount of unburned vegetation between the fire and the communities to the north. Crews are now staffing the fire 24-hours a day with firefighters and engines staying on the fire through the night to monitor fire activity and provide structure protection as needed. Drought conditions continued and fire activity increased throughout the fire area resulting in additional growth on all sides of the fire. The fire is mainly burning in remote, backcountry areas.</span></p><p><span>Today firefighters will finish structure prep around three homes that were previously inaccessible. Firing operations will continue on Rattlesnake Knob, south of Lord’s Way. A dozer will be utilized to establish a containment line to the south and southeast of the fire from Shinbone Road up to Long Branch and will tie into the Rim Trail near Round Bald.</span></p><p><strong>Weather and Fire Behavior: </strong><span>Drought conditions continue, mostly sunny, temperatures in the high 60’s, low humidity, and low winds. Winds are expected out of the north moving south. These dry conditions are expected to increase fire activity across the fire area.</span></p><p><strong>Smoke and Air Quality: </strong><span>The inversion layer, which causes the smoke to settle into the valley, is expected to lift by mid-day, improving visibility and air quality in the river valley. The North Carolina Division of Air Quality issued a code Red Air Quality Action Day, it is in effect through tomorrow at midnight for Cherokee and Henderson Counties, for fine particulates, due to smoke from ongoing wildfires. Additional surrounding counties are Code Orange. Air quality information available at </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001vq7380NUqP-Du64lhtlEot-Rx2ra_IgtzNs7q6WbUbcKc_Hymy05kcddlaXn-tbqJLDsgP8RzTnZ68Y2Fpo8ejJcyERMKn8StQl-AqTQc-ebD8pPKqUjN71eu4WmHsWs_DZI8n6Mhv6L32OnSAqVRg%3D%3D%26c%3DhHBvKEBpX44Bz1kq-Gx3NoFyjZ_WrqWGQ4rLKyDiEDef0wji7q9FlA%3D%3D%26ch%3D7zFk-wi27dwulkHFef9QDX4Ku4V8JcK98fMm3L68XHhr-snx4FRrAw%3D%3D&amp;data=05%7C01%7Ckimberly.devall%40usda.gov%7Ca0715bdc022b47700b7008dbde1303c0%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638347945482659592%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=7ujQCsdb2V3iofy9XEe%2FurAJlNlXP34HmUNYIe%2B8s%2BE%3D&amp;reserved=0\">fire.airnow.gov/</a></p><p><strong>Closures:</strong><span> The Rim Trail is temporarily closed for approximately 7 miles from Big Stump to Shinbone. There are no road or area closures at this time however, the public should avoid the area so fire crews and resources can work safely.</span></p><p><strong>Evacuations: </strong><span>No Evacuations at this time. </span><strong> </strong></p><p><span>﻿For updates about the Collett Ridge Fire, please follow the National Forests in North Carolina at </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001vq7380NUqP-Du64lhtlEot-Rx2ra_IgtzNs7q6WbUbcKc_Hymy05kWSJss4tHlWUQKxlwYdNILFbl-lKHmw_BT3DtjVgv0F-OwQP3aCxLsGbhAZopFzc4K1j6TiKyC-Q_FcSmtrJV3hLcdwblrThIZwHPb5tGUaxmk43OMu0fFj6XsEEC1MrVUkTW1ds7lcUqeJj4iUhp9mHsWlKp87JIyUBR4m5D1PoRKurl6Ekc8Hoc5wYoLx-NORAyQfMQWGPRI8fbTRg_Zl4NAHCqt91YYngnzNm5ceLodv77JvBvux9C0-mZhpwhdbtEh3Y0blc_AesDesWFfEBhG1sibJuuTxoiYV1J9YUQTZyKqR2XbXAK60NyKR7uAfKGcRe8FxrTHOplVurUV-mxdpoCKM7LGCOJIZ92FsKhCVzOc3KLXp6kSi4AMUdDhpV-crpZGTBPCWKNQvoK9BCefBKVubPPw%3D%3D%26c%3DhHBvKEBpX44Bz1kq-Gx3NoFyjZ_WrqWGQ4rLKyDiEDef0wji7q9FlA%3D%3D%26ch%3D7zFk-wi27dwulkHFef9QDX4Ku4V8JcK98fMm3L68XHhr-snx4FRrAw%3D%3D&amp;data=05%7C01%7Ckimberly.devall%40usda.gov%7Ca0715bdc022b47700b7008dbde1303c0%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638347945482659592%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=eKMfsbXPfAZRzulho9DKUXBAysLyEP9t5Ap0hwsUixk%3D&amp;reserved=0\">U.S. Forest Service - National Forests in North Carolina</a><span> for additional updates.</span></p>",
+    "size": "110",
+    "lat_min": "9",
+    "lat_sec": "37",
+    "urlPath": "/ncncf-2023-collett-ridge-fire",
+    "long_min": "46",
+    "long_sec": "40",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
+    "changed": "6 minutes 43 seconds ago"
+  },
+  {
+    "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
+    "lat_deg": "39",
+    "long_deg": "120",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-06T16:15:23-05:00\">2023-11-06</time>\n",
+    "id": "316739",
+    "field_incident_overview": "<p>The American River Ranger District will be conducting a variety of planned prescribed pileburns as conditions allow. Project dates, locations, acreage numbers and updates will be posted in the \"Announcements\" tab of this incident page.</p><p> </p><p><strong>Why Are We Burning?</strong><br />The goal of this prescribed burn is to decrease the existing fire hazard and to prevent and reduce the impact of future fires in the area. Other benefits include enhancing wildlife habitat and reintroducing fire into a fire-adapted ecosystem.</p><p><br /><strong>Why Now?</strong><br />Current conditions allow for prescribed burning. Each prescribed fire operation follows a prescribed fire burn plan, which considers temperature, humidity, wind, moisture of the vegetation, and conditions for the dispersal of smoke. This information is used to decide when and where to burn. The Tahoe National Forest strives to give as much advance notice as possible before burning, but some operations may be conducted on short notice.</p><p><strong>Smoke</strong><br />Smoke from prescribed fire operations is normal and may continue for several days after an ignition depending on the project size and environmental conditions. Smoke may settle into the valleys in the evening and lift in the morning. The Tahoe National Forest coordinates with state and local county air pollution control districts and monitors weather conditions closely prior to prescribed fire ignition. Crews also conduct test burns before igniting a larger area, to verify how effectively fuels are consumed and how smoke will travel.</p>",
+    "size": "",
+    "lat_min": "00",
+    "lat_sec": "37",
+    "urlPath": "/catnf-tahoe-national-forest-american-river-ranger-district-pileburn-projects",
+    "long_min": "50",
+    "long_sec": "43",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
+    "changed": "8 minutes 28 seconds ago"
+  },
+  {
+    "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
+    "lat_deg": "39",
+    "long_deg": "120",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-06T16:23:45-05:00\">2023-11-06</time>\n",
+    "id": "316740",
+    "field_incident_overview": "<p>The Sierraville &amp; Truckee Ranger Districts (eastside of the forest) will be conducting a variety of planned prescribed pileburns as conditions allow. Project dates, locations, acreage numbers and updates will be posted in the \"Announcements\" tab of this incident page.</p><p> </p><p><strong>Why Are We Burning?</strong><br />The goal of this prescribed burn is to decrease the existing fire hazard and to prevent and reduce the impact of future fires in the area. Other benefits include enhancing wildlife habitat and reintroducing fire into a fire-adapted ecosystem.</p><p><br /><strong>Why Now?</strong><br />Current conditions allow for prescribed burning. Each prescribed fire operation follows a prescribed fire burn plan, which considers temperature, humidity, wind, moisture of the vegetation, and conditions for the dispersal of smoke. This information is used to decide when and where to burn. The Tahoe National Forest strives to give as much advance notice as possible before burning, but some operations may be conducted on short notice.</p><p><strong>Smoke</strong><br />Smoke from prescribed fire operations is normal and may continue for several days after an ignition depending on the project size and environmental conditions. Smoke may settle into the valleys in the evening and lift in the morning. The Tahoe National Forest coordinates with state and local county air pollution control districts and monitors weather conditions closely prior to prescribed fire ignition. Crews also conduct test burns before igniting a larger area, to verify how effectively fuels are consumed and how smoke will travel.</p><p><br /> </p>",
+    "size": "",
+    "lat_min": "26",
+    "lat_sec": "46",
+    "urlPath": "/catnf-tahoe-national-forest-sierraville-truckee-ranger-district-pileburn-projects",
+    "long_min": "12",
+    "long_sec": "54",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
     "changed": "5 seconds ago"
   }
 ]
