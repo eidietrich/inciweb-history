@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 hours 59 minutes ago"
+    "changed": "3 hours 48 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -102,7 +102,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "6 days 5 hours ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "36 minutes 50 seconds ago"
+    "changed": "1 hour 25 minutes ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -459,7 +459,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "Cottonwood Ridge Fire ",
@@ -816,7 +816,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Sidney Fire",
-    "changed": "4 weeks 2 days ago"
+    "changed": "1 month ago"
   },
   {
     "title": "Bear Creek Fire",
@@ -1047,7 +1047,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1174,27 +1174,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "CARWP Lost Fire",
     "changed": "1 month 3 weeks ago"
-  },
-  {
-    "title": "2023 Happy Camp Complex Klamath NF",
-    "lat_deg": "41",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-17T20:47:19-04:00\">2023-08-17</time>\n",
-    "id": "314686",
-    "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-news/caknf-2023-happy-camp-complex-klamath-nf\">News</a> | <a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/caknf-2023-happy-camp-complex-klamath-nf\">Photos</a> | <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/caknf-2023-happy-camp-complex-klamath-nf\">Maps</a> | <a href=\"https://inciweb.wildfire.gov/incident-closures/caknf-2023-happy-camp-complex-klamath-nf\">Closures</a> |</p><p><em>Barring an increase in activity, this page will no longer be updated. </em></p><p>A series of thunderstorms moved across the Klamath National Forest the night of Monday, August 14, 2023, bringing abundant lightning and igniting roughly 20 fires over the western side of the forest. Only scattered precipitation was received with these storms.</p><p>The most active of the resulting fires was the Head Fire, burning at the confluence of the Klamath and Scott rivers. The fire was fanned by strong winds from thunderstorms that developed in the area and burned actively throughout Tuesday afternoon, growing to 3,500 acres by nightfall. </p><p>Several of the fires were being managed together as the Happy Camp Complex. The Northern Rockies Complex Incident Management Team 2, under the command of Incident Commander Scott Schuster was assigned to the complex and took over management as of 6:00 am on Thursday, August 08, 2023. </p><p>On September 20, 2023 at 0700 the Happy Camp Complex transitioned command to California Interagency Team 11 which began managing the Elliot and UFish Fires. The management of all other fires that were formerly part of the Happy Camp Complex (Scott, Malone, Head, Lake, Block).</p><p><span>Significant moisture over the fire area during the last week in September and reduced the ability for live and dead fuels to carry fire. The fire has not moved out of its perimeter in the last few weeks. Minimal fire behavior is expected.</span></p><p><span>Command of the Happy Camp Complex transitioned back to the Klamath National Forest on October 1, 2023 at 1800 hrs to be managed by a local ICS organization.</span></p><p>Air Quality: For information regarding smoke impacts and what you can do to protect yourself, visit the Siskiyou County Air Pollution Control District Fire and Smoke Information website at: <a href=\"https://bit.ly/Siskiyouairquality\">https://bit.ly/Siskiyouairquality</a> or <a href=\"https://airnow.gov/\">https://AirNow.gov</a>. </p><p>Fire Restrictions: F<span>ire restrictions on the Klamath National Forest were lifted effective September 28, 2023 across the forest.</span> <a href=\"https://bit.ly/KlamathNFAlertsNotices\">https://bit.ly/KlamathNFAlertsNotices</a>  </p><p>Temporary Flight Restriction (TFR): <span><strong> </strong>The flight restriction expired October 1, 2023 at 6pm.<strong> </strong></span> </p><p>PACIFIC CREST TRAIL: All Pacific Crest Trail closures within the Klamath National Forest have been lifted!</p><p>All evacuation orders and warnings associated with the Happy Camp Complex have been lifted. <a href=\"https://protect.genasys.com/search\">https://protect.genasys.com/search</a></p><p>View current road conditions for state roads from CalTrans at <a href=\"https://roads.dot.ca.gov/\">https://roads.dot.ca.gov/</a>  <span>County road closures are listed on the Siskiyou County Public Works website: </span><a href=\"https://www.co.siskiyou.ca.us/publicworks/page/closures-and-delays\"><span>https://www.co.siskiyou.ca.us/publicworks/page/closures-and-delays</span></a><span>. </span> </p><p><span>The #KlamathNF has reduced the area under emergency closure order.</span> For current closure orders and maps, go to <a href=\"https://www.fs.usda.gov/alerts/klamath/alerts-notices\">https://www.fs.usda.gov/alerts/klamath/alerts-notices</a></p><p> </p>",
-    "size": "21725",
-    "lat_min": "46",
-    "lat_sec": "5",
-    "urlPath": "/caknf-2023-happy-camp-complex-klamath-nf",
-    "long_min": "2",
-    "long_sec": "46",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAKNF 2023 Happy Camp Complex Klamath NF",
-    "changed": "2 weeks ago"
   },
   {
     "title": "South Fork Complex",
@@ -1383,7 +1362,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "Redwood Fire",
@@ -1404,7 +1383,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "2 days 5 hours ago"
+    "changed": "2 days 6 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1551,7 +1530,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "40 minutes 35 seconds ago"
+    "changed": "1 hour 29 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1614,7 +1593,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "8 hours 32 minutes ago"
+    "changed": "9 hours 21 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1887,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "3 days 16 hours ago"
+    "changed": "3 days 17 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1929,7 +1908,7 @@
     "long_sec": "14.0",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "6 days 19 hours ago"
+    "changed": "6 days 20 hours ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -2076,7 +2055,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "5 days 23 hours ago"
+    "changed": "6 days ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2097,7 +2076,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "5 days 23 hours ago"
+    "changed": "6 days ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2118,7 +2097,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 22 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2139,7 +2118,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "3 days 4 hours ago"
+    "changed": "3 days 5 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2286,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "5 hours 35 minutes ago"
+    "changed": "6 hours 24 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2307,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "5 hours 23 minutes ago"
+    "changed": "6 hours 12 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2349,7 +2328,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "3 days 6 hours ago"
+    "changed": "3 days 7 hours ago"
   },
   {
     "title": "Lafitte",
@@ -2370,7 +2349,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "1 day ago"
+    "changed": "1 day 1 hour ago"
   },
   {
     "title": "La Junta Fire",
@@ -2391,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "6 hours 38 minutes ago"
+    "changed": "7 hours 27 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2412,7 +2391,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "4 hours 57 minutes ago"
+    "changed": "5 hours 45 minutes ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2433,7 +2412,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Yuba River Ranger District Pileburn Projects",
-    "changed": "6 minutes 24 seconds ago"
+    "changed": "55 minutes 15 seconds ago"
   },
   {
     "title": "2023 Collett Ridge Fire",
@@ -2454,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "8 seconds ago"
+    "changed": "48 minutes 59 seconds ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2475,7 +2454,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "17 seconds ago"
+    "changed": "49 minutes 8 seconds ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
@@ -2496,6 +2475,6 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "1 hour 23 minutes ago"
+    "changed": "2 hours 12 minutes ago"
   }
 ]
