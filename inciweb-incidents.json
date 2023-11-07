@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "19 hours 12 minutes ago"
+    "changed": "21 hours 25 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -102,7 +102,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "6 days 21 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -123,7 +123,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "3 days 18 hours ago"
+    "changed": "3 days 20 hours ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "16 hours 49 minutes ago"
+    "changed": "19 hours 2 minutes ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -459,7 +459,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "5 days 16 hours ago"
+    "changed": "5 days 18 hours ago"
   },
   {
     "title": "Cottonwood Ridge Fire ",
@@ -1257,7 +1257,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -1383,7 +1383,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "2 days 21 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "16 hours 53 minutes ago"
+    "changed": "19 hours 6 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1572,7 +1572,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -1593,7 +1593,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "15 hours 5 minutes ago"
+    "changed": "17 hours 18 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "4 weeks ago"
+    "changed": "4 weeks 1 day ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -1824,7 +1824,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1845,7 +1845,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "4 weeks ago"
+    "changed": "4 weeks 1 day ago"
   },
   {
     "title": "Alamosa Unit 1 Prescribed Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "14 hours 47 minutes ago"
+    "changed": "16 hours 59 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "14 hours 46 minutes ago"
+    "changed": "16 hours 59 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2055,7 +2055,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "6 days 15 hours ago"
+    "changed": "6 days 17 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2076,7 +2076,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "6 days 16 hours ago"
+    "changed": "6 days 18 hours ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2097,7 +2097,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 days 15 hours ago"
+    "changed": "3 days 17 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2118,7 +2118,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 23 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2139,7 +2139,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Rabbit Fire",
@@ -2265,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "14 hours 16 minutes ago"
+    "changed": "2 minutes 49 seconds ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "13 hours 58 minutes ago"
+    "changed": "2 minutes 49 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2328,7 +2328,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "3 days 23 hours ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Lafitte",
@@ -2349,7 +2349,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "1 day 17 hours ago"
+    "changed": "1 day 19 hours ago"
   },
   {
     "title": "La Junta Fire",
@@ -2370,20 +2370,20 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "14 hours 59 minutes ago"
+    "changed": "17 hours 12 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
     "lat_deg": "34",
     "long_deg": "111",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "15",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-05T12:16:10-05:00\">2023-11-05</time>\n",
     "id": "316727",
-    "field_incident_overview": "<p>The Maid Fire began during the early morning hours of Saturday, Nov. 4, 2023 on the east side of Apache Maid mountain and was reported by a member of the public. The wildfire is human caused but the specific cause of the fire is under investigation. The wildfire has grown to 543 acres as of 7 a.m. Monday, Nov. 6 and firefighters are working on using burnout operations and surrounding forest roads as control features.</p><p>Smoke from the wildfire is very visible from motorists along Interstate 17 near the Stoneman Lake exit since the wildfire is located atop Apache Maid mountain currently and only approximately 5 miles from the interstate. No structures are threatened and no evacuations are ordered or anticipated at this time.</p>",
-    "size": "543",
+    "field_incident_overview": "<p>The Maid Fire began during the early morning hours of Saturday, Nov. 4, 2023 on the east side of Apache Maid mountain and was reported by a member of the public. The wildfire is human caused but the specific cause of the fire is under investigation. The wildfire has grown to 942 acres as of 7 a.m. Tuesday, Nov. 7 and firefighters have completed burnout operations around the fire to help control the spread.</p><p>Firefighters are working in steep and rocky terrain, with some areas of difficult access. Depending on activity, smoke from the wildfire can be very visible to motorists along Interstate 17 near the Stoneman Lake exit since the wildfire is located atop Apache Maid mountain and only approximately 5 miles from the interstate. No structures are threatened and no evacuations are ordered or anticipated at this time.</p>",
+    "size": "942",
     "lat_min": "43",
     "lat_sec": "23.001",
     "urlPath": "/azcof-2023-maid-fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "21 hours 10 minutes ago"
+    "changed": "6 seconds ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2412,7 +2412,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Yuba River Ranger District Pileburn Projects",
-    "changed": "16 hours 19 minutes ago"
+    "changed": "18 hours 32 minutes ago"
   },
   {
     "title": "2023 Collett Ridge Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "16 hours 13 minutes ago"
+    "changed": "18 hours 25 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2454,7 +2454,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "16 hours 13 minutes ago"
+    "changed": "18 hours 26 minutes ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
@@ -2475,6 +2475,6 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "17 hours 36 minutes ago"
+    "changed": "19 hours 49 minutes ago"
   }
 ]
