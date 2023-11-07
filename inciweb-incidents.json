@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "21 hours 25 minutes ago"
+    "changed": "21 hours 39 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "19 hours 2 minutes ago"
+    "changed": "19 hours 17 minutes ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -459,7 +459,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "5 days 18 hours ago"
+    "changed": "5 days 19 hours ago"
   },
   {
     "title": "Cottonwood Ridge Fire ",
@@ -1530,7 +1530,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "19 hours 6 minutes ago"
+    "changed": "19 hours 20 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1593,7 +1593,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "17 hours 18 minutes ago"
+    "changed": "17 hours 32 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "16 hours 59 minutes ago"
+    "changed": "17 hours 14 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "16 hours 59 minutes ago"
+    "changed": "17 hours 13 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2055,7 +2055,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "6 days 17 hours ago"
+    "changed": "6 days 18 hours ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2160,7 +2160,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2265,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 minutes 49 seconds ago"
+    "changed": "8 minutes 4 seconds ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "2 minutes 49 seconds ago"
+    "changed": "8 minutes 3 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2370,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "17 hours 12 minutes ago"
+    "changed": "17 hours 26 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "6 seconds ago"
+    "changed": "13 minutes 58 seconds ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2412,7 +2412,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Yuba River Ranger District Pileburn Projects",
-    "changed": "18 hours 32 minutes ago"
+    "changed": "18 hours 46 minutes ago"
   },
   {
     "title": "2023 Collett Ridge Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "18 hours 25 minutes ago"
+    "changed": "18 hours 40 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2454,7 +2454,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "18 hours 26 minutes ago"
+    "changed": "18 hours 40 minutes ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
@@ -2475,6 +2475,27 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "19 hours 49 minutes ago"
+    "changed": "20 hours 4 minutes ago"
+  },
+  {
+    "title": "Sugar Bay Wildfire",
+    "lat_deg": "41",
+    "long_deg": "78",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-07T12:16:51-05:00\">2023-11-07</time>\n",
+    "id": "316747",
+    "field_incident_overview": "",
+    "size": "62",
+    "lat_min": "53",
+    "lat_sec": "56.8062",
+    "urlPath": "/paalf-sugar-bay-wildfire",
+    "long_min": "56",
+    "long_sec": "1.3266",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "PAALF Sugar Bay Wildfire",
+    "changed": "9 minutes 1 second ago"
   }
 ]
