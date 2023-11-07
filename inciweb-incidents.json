@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "21 hours 39 minutes ago"
+    "changed": "21 hours 49 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "19 hours 17 minutes ago"
+    "changed": "19 hours 27 minutes ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "19 hours 20 minutes ago"
+    "changed": "19 hours 30 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1593,7 +1593,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "17 hours 32 minutes ago"
+    "changed": "17 hours 42 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "17 hours 14 minutes ago"
+    "changed": "17 hours 24 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "17 hours 13 minutes ago"
+    "changed": "17 hours 23 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2257,7 +2257,7 @@
     "created": "<time datetime=\"2023-10-23T13:27:01-04:00\">2023-10-23</time>\n",
     "id": "316649",
     "field_incident_overview": "<p><span>The Trail Springs Fire is located on the San Juan National Forest, west of Pagosa Springs. The lightning-caused wildfire is in steep, thickly-forested terrain above West Devil Creek, about three miles northwest of Chris Mountain.</span></p><p>The San Juan National Forest Type 3 team is now managing this and the Mill Creek 2 fires. Fire managers have used tactics that protect values while developing fire control lines with the best probability of success. An area closure is in effect and the East Monument Road is closed at its intersection with Turkey Springs Road. See a map and full details under the closures tab of this website.</p>",
-    "size": "1269",
+    "size": "1303",
     "lat_min": "18",
     "lat_sec": "1.7526",
     "urlPath": "/cosjf-trail-springs-fire",
@@ -2265,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "8 minutes 4 seconds ago"
+    "changed": "32 seconds ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2278,7 +2278,7 @@
     "created": "<time datetime=\"2023-10-23T13:36:04-04:00\">2023-10-23</time>\n",
     "id": "316650",
     "field_incident_overview": "<p>The Mill Creek 2 Fire is located approximately 12 miles northeast of Pagosa Springs on the San Juan National Forest in high, remote terrain, near the border of the South San Juan Wilderness Area. The fire initially burned aggressively through a heavy load of mixed conifer and dead and down logs but has run into rocky terrain with less available ready fuel. Minimal fire activity has been observed in over a week.</p><p><span>B</span>ecause of the extremely difficult access and safety risks, firefighters have not been sent in to directly engage this fire. No homes, ranches or private holdings are at risk.</p><p>No closures are in place because of this fire.</p>",
-    "size": "126",
+    "size": "146",
     "lat_min": "18",
     "lat_sec": "31.5612",
     "urlPath": "/cosjf-mill-creek-2-fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "8 minutes 3 seconds ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2370,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "17 hours 26 minutes ago"
+    "changed": "17 hours 37 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "13 minutes 58 seconds ago"
+    "changed": "24 minutes 11 seconds ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2412,7 +2412,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Yuba River Ranger District Pileburn Projects",
-    "changed": "18 hours 46 minutes ago"
+    "changed": "18 hours 56 minutes ago"
   },
   {
     "title": "2023 Collett Ridge Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "18 hours 40 minutes ago"
+    "changed": "18 hours 50 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2454,7 +2454,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "18 hours 40 minutes ago"
+    "changed": "18 hours 50 minutes ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
@@ -2475,7 +2475,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "20 hours 4 minutes ago"
+    "changed": "20 hours 14 minutes ago"
   },
   {
     "title": "Sugar Bay Wildfire",
@@ -2496,6 +2496,6 @@
     "long_sec": "1.3266",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Sugar Bay Wildfire",
-    "changed": "9 minutes 1 second ago"
+    "changed": "9 minutes 24 seconds ago"
   }
 ]
