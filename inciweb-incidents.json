@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "6 hours 10 minutes ago"
+    "changed": "6 hours 25 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -1593,7 +1593,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "19 hours 25 minutes ago"
+    "changed": "19 hours 40 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "3 hours 2 minutes ago"
+    "changed": "3 hours 18 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "2 hours 40 minutes ago"
+    "changed": "2 hours 55 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2097,7 +2097,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "23 hours 51 minutes ago"
+    "changed": "1 day ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2223,7 +2223,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "Monongahela NF Fall Prescribed Fire Operations",
@@ -2265,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "5 hours 36 minutes ago"
+    "changed": "5 hours 52 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "5 hours 36 minutes ago"
+    "changed": "5 hours 52 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2370,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "1 hour 24 minutes ago"
+    "changed": "1 hour 40 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "4 hours 2 minutes ago"
+    "changed": "4 hours 18 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2454,7 +2454,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "22 hours 32 minutes ago"
+    "changed": "22 hours 47 minutes ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
@@ -2475,7 +2475,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Sugar Bay Wildfire",
@@ -2496,7 +2496,7 @@
     "long_sec": "1.3266",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Sugar Bay Wildfire",
-    "changed": "56 minutes 45 seconds ago"
+    "changed": "1 hour 12 minutes ago"
   },
   {
     "title": "Mililani Mauka ",
@@ -2517,7 +2517,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "3 hours 14 minutes ago"
+    "changed": "9 seconds ago"
   },
   {
     "title": "Heavener Ridge Fire",
@@ -2538,7 +2538,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Ridge Fire",
-    "changed": "23 hours 26 minutes ago"
+    "changed": "23 hours 42 minutes ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAS 2023 Quaker Run Fire",
-    "changed": "5 seconds ago"
+    "changed": "15 minutes 41 seconds ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2580,6 +2580,6 @@
     "long_sec": "695",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "4 hours 56 minutes ago"
+    "changed": "5 hours 12 minutes ago"
   }
 ]
