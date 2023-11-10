@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "4 days ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -837,7 +837,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "2 hours 49 minutes ago"
+    "changed": "3 hours 5 minutes ago"
   },
   {
     "title": "Salmon Fire",
@@ -1362,7 +1362,7 @@
     "long_sec": "35",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF 2023 Horse Creek Fire",
-    "changed": "4 weeks 2 days ago"
+    "changed": "1 month ago"
   },
   {
     "title": "Redwood Fire",
@@ -1383,7 +1383,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "6 days 5 hours ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "4 days ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "7 hours 12 minutes ago"
+    "changed": "7 hours 29 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2055,7 +2055,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "1 week 2 days ago"
+    "changed": "1 week 3 days ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -2265,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 hours 45 minutes ago"
+    "changed": "3 hours 2 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "2 hours 44 minutes ago"
+    "changed": "3 hours 1 minute ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2433,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "5 hours 2 minutes ago"
+    "changed": "5 hours 19 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2496,7 +2496,7 @@
     "long_sec": "1.3266",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Sugar Bay Wildfire",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Mililani Mauka ",
@@ -2517,7 +2517,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "21 hours 29 minutes ago"
+    "changed": "21 hours 45 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2538,7 +2538,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "9 hours 33 minutes ago"
+    "changed": "9 hours 50 minutes ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2559,12 +2559,12 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAS 2023 Quaker Run Fire",
-    "changed": "1 hour 23 minutes ago"
+    "changed": "1 hour 40 minutes ago"
   },
   {
     "title": "Steep Valley Fire",
     "lat_deg": "37",
-    "long_deg": "-81",
+    "long_deg": "81",
     "field_percent_of_perimeter": "29",
     "type": "Wildfire",
     "field_incident_description": "",
@@ -2574,13 +2574,13 @@
     "field_incident_overview": "<p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. It continues to burn in the War Ridge and Backus Mountain areas. The fire has consumed 1904 acres and has been actively burning in extremely steep, rugged terrain through a mixed hardwood forest. Containment is estimated to be 29% as of Friday evening. The fire is burning in a emote area of the park and remains within the park boundaries as itexhibits flanking and backing behavior. Smoke may be visible when the fire is actively burning, and it may linger in the gorge for several days as it moves across the landscape.</p><p>The War Ridge Campground is currently closed as well as the access road beyond the campground. As of Thursday, 37 firefighters are actively engaged on the fire. Crews built fire line from War Ridge Campground South to towards the New River. Today, crews will focus on maintaining and improving fire lines.</p><p>Resources from multiple agencies from across the country have arrived to assist park personnel. Firefighters and personnel from Indiana Dunes National Park, Wayne National Forest, The State of PennsylvaniaDepartment of Conservation and Natural Resources, White Mountain National Forest, Cuyahoga ValleyNational Park, Great Swamp National Wildlife Refuge, Arizona Department of Forestry and FireManagement, and Michigan Department of Natural Resources are currently assigned to the fire.</p>",
     "size": "1904",
     "lat_min": "50",
-    "lat_sec": "285",
+    "lat_sec": "17.304",
     "urlPath": "/wvnrp-steep-valley-fire",
     "long_min": "1",
-    "long_sec": "695",
+    "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "11 seconds ago"
+    "changed": "10 seconds ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2601,6 +2601,6 @@
     "long_sec": "58",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP March 2023 Broyles Gap Fire",
-    "changed": "23 hours 30 minutes ago"
+    "changed": "23 hours 47 minutes ago"
   }
 ]
