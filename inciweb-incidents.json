@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "14 hours 11 minutes ago"
+    "changed": "14 hours 32 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "10 hours 25 minutes ago"
+    "changed": "10 hours 46 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "18 hours 37 minutes ago"
+    "changed": "18 hours 58 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2097,7 +2097,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 15 hours ago"
+    "changed": "1 day 16 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2265,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "11 hours 10 minutes ago"
+    "changed": "11 hours 32 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "11 hours 7 minutes ago"
+    "changed": "11 hours 29 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2370,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "17 hours 21 minutes ago"
+    "changed": "17 hours 42 minutes ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "15 hours 7 minutes ago"
+    "changed": "15 hours 29 minutes ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2433,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "10 hours 58 minutes ago"
+    "changed": "11 hours 20 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2475,7 +2475,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "3 days 15 hours ago"
+    "changed": "3 days 16 hours ago"
   },
   {
     "title": "Sugar Bay Wildfire",
@@ -2496,7 +2496,7 @@
     "long_sec": "1.3266",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Sugar Bay Wildfire",
-    "changed": "16 hours 53 minutes ago"
+    "changed": "17 hours 15 minutes ago"
   },
   {
     "title": "Mililani Mauka ",
@@ -2517,19 +2517,19 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "11 hours 34 minutes ago"
+    "changed": "11 hours 55 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
     "lat_deg": "38",
     "long_deg": "79",
-    "field_percent_of_perimeter": "10",
+    "field_percent_of_perimeter": "15",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-08T11:42:31-05:00\">2023-11-08</time>\n",
     "id": "316758",
-    "field_incident_overview": "<h2>Heavener Mountain Fire Update for Thursday, November 9, 2023</h2><h3> </h3><p><strong>Current Status:</strong><span><strong>  </strong></span>The Heavener Mountain Fire located on Heavener Mountain is approximately 3 miles east of Brandywine, West Virginia in Pendleton County. </p><p><span><strong>Estimated Acreage:  </strong>900 acres</span></p><p><span><strong>County;  </strong>Pendleton County</span></p><p><span><strong>Containment:  </strong>10% contained<strong> </strong></span></p><p><span><strong>Date and Cause Reported:</strong>.  The fire was first reported Tuesday, November 7, 2023.  The cause of this fire is under investigation </span></p><p><span><strong>Resources on the Fire:  </strong>Approximately 70 firefighters and support staff including two 20 person crews, 2 dozers, 1 Type -6 engine, a UAS Drone Module, and a large helicopter with bucket. </span></p><p><span><strong>Cooperators:</strong> Pendleton County Emergency Management and South Fork Volunteer Fire Company. </span></p><p><span><strong>Restrictions and Closures:  </strong>The West Side Shooting Range is temporarily closed to provide for public health and safety. Forest Service Road 151 is closed between the West Side Shooting Range and Stony Run.  Use caution and obey all road signs for your safety.  Motorists should be alert for firefighter vehicles and smoke.<strong> </strong></span></p><p><span><strong>Weather Events:  </strong>The fire received minimal precipitation today.<strong> </strong></span></p><p><span><strong>General Fire Information: </strong></span></p><ul><li><span>Safety of the public and firefighters is always the number one priority when dealing with wildfires.</span></li><li><span>Homeowners can learn how to make their homes less susceptible to wildfires by visiting:  www.firewise.org </span></li></ul><p><span>For more information, please contact the North River Ranger District at </span>540-432-0187.</p><p><span>Or visit the George Washington &amp; Jefferson National Forests website </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_WoA1M2q65H2TV4p_3hr3IsTxdlIM1mv6TV3XatvK1iidr1bAe-g6kWEx4KS19Aim0DYH5mPkrhM9PsVJXnys-lnsYMtC3InO-w%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=R4GTqjihqLp7X7Ja%2FyIAuFvhhxbBu2auB0d4W52tcbY%3D&amp;reserved=0\"><span>www.fs.fed.us/r8/gwj</span></a><span>, or follow us on Twitter: </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_WtGDyB_4wpdTKBkxRci4_Lc93R4nlpIWglIfheS_1OMP4i2I-CpOj6qi2zuzb3gemFyQFXj5BQSkJmQJfMNsILawxHyTraehqQ%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=IOGClfvpIS4UVoHSUFWeL38jNbRzhWtYMaObzNkChgM%3D&amp;reserved=0\"><span>https://twitter.com/GWJNF</span></a><span> and Facebook: </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_Wkhz9U_LYtkJh3A_Q3-qv8ON47WPg33UGnXnUEaOeJD_uDwdyIdkOrQAduuhmlsJpk9QKVckv8yj3kj72MZcj6Ms-xcrFFAjWg%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=9Pbejhlol5GRFI%2BsB4jH6tFz98s0gHsKsMASiYtZ148%3D&amp;reserved=0\"><span>https://www.facebook.com/GWJNF</span></a><span> </span></p>",
+    "field_incident_overview": "<h2>Heavener Mountain Fire Update for Thursday, November 9, 2023</h2><h3> </h3><p><strong>Current Status:</strong><span><strong>  </strong></span>The Heavener Mountain Fire located on Heavener Mountain is approximately 3 miles east of Brandywine, West Virginia in Pendleton County. </p><p><span><strong>Estimated Acreage:  </strong>900 acres</span></p><p><span><strong>County;  </strong>Pendleton County</span></p><p><span><strong>Containment:  </strong>15% contained<strong> </strong></span></p><p><span><strong>Date and Cause Reported:</strong>.  The fire was first reported Tuesday, November 7, 2023.  The cause of this fire is under investigation </span></p><p><span><strong>Resources on the Fire:  </strong>Approximately 70 firefighters and support staff including two 20 person crews, 2 dozers, 1 Type -6 engine, a UAS Drone Module, and a large helicopter with bucket. </span></p><p><span><strong>Cooperators:</strong> Pendleton County Emergency Management and South Fork Volunteer Fire Company. </span></p><p><span><strong>Restrictions and Closures:  </strong>The West Side Shooting Range is temporarily closed to provide for public health and safety. Forest Service Road 151 is closed between the West Side Shooting Range and Stony Run.  Use caution and obey all road signs for your safety.  Motorists should be alert for firefighter vehicles and smoke.<strong> </strong></span></p><p><span><strong>Weather Events:  </strong>The fire received minimal precipitation today.<strong> </strong></span></p><p><span><strong>General Fire Information: </strong></span></p><ul><li><span>Safety of the public and firefighters is always the number one priority when dealing with wildfires.</span></li><li><span>Homeowners can learn how to make their homes less susceptible to wildfires by visiting:  www.firewise.org </span></li></ul><p><span>For more information, please contact the North River Ranger District at </span>540-432-0187.</p><p><span>Or visit the George Washington &amp; Jefferson National Forests website </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_WoA1M2q65H2TV4p_3hr3IsTxdlIM1mv6TV3XatvK1iidr1bAe-g6kWEx4KS19Aim0DYH5mPkrhM9PsVJXnys-lnsYMtC3InO-w%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=R4GTqjihqLp7X7Ja%2FyIAuFvhhxbBu2auB0d4W52tcbY%3D&amp;reserved=0\"><span>www.fs.fed.us/r8/gwj</span></a><span>, or follow us on Twitter: </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_WtGDyB_4wpdTKBkxRci4_Lc93R4nlpIWglIfheS_1OMP4i2I-CpOj6qi2zuzb3gemFyQFXj5BQSkJmQJfMNsILawxHyTraehqQ%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=IOGClfvpIS4UVoHSUFWeL38jNbRzhWtYMaObzNkChgM%3D&amp;reserved=0\"><span>https://twitter.com/GWJNF</span></a><span> and Facebook: </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_Wkhz9U_LYtkJh3A_Q3-qv8ON47WPg33UGnXnUEaOeJD_uDwdyIdkOrQAduuhmlsJpk9QKVckv8yj3kj72MZcj6Ms-xcrFFAjWg%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=9Pbejhlol5GRFI%2BsB4jH6tFz98s0gHsKsMASiYtZ148%3D&amp;reserved=0\"><span>https://www.facebook.com/GWJNF</span></a><span> </span></p>",
     "size": "900",
     "lat_min": "36",
     "lat_sec": "67",
@@ -2538,7 +2538,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "4 seconds ago"
+    "changed": "3 seconds ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAS 2023 Quaker Run Fire",
-    "changed": "7 minutes 20 seconds ago"
+    "changed": "28 minutes 55 seconds ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2580,7 +2580,7 @@
     "long_sec": "695",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "3 hours ago"
+    "changed": "3 hours 21 minutes ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2601,6 +2601,6 @@
     "long_sec": "58",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP March 2023 Broyles Gap Fire",
-    "changed": "13 hours 35 minutes ago"
+    "changed": "13 hours 57 minutes ago"
   }
 ]
