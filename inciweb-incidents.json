@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 17 hours ago"
+    "changed": "1 day 18 hours ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -102,7 +102,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "San Juan National Forest Prescribed Fire Program",
@@ -837,7 +837,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "3 hours 13 minutes ago"
+    "changed": "3 hours 35 minutes ago"
   },
   {
     "title": "Salmon Fire",
@@ -1173,7 +1173,7 @@
     "long_sec": "2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CARWP Lost Fire",
-    "changed": "1 month 4 weeks ago"
+    "changed": "2 months ago"
   },
   {
     "title": "South Fork Complex",
@@ -1593,7 +1593,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 days 14 hours ago"
+    "changed": "2 days 15 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1824,7 +1824,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Cow Creek Prescribed Burn",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "12 hours 40 minutes ago"
+    "changed": "13 hours 1 minute ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "12 hours 35 minutes ago"
+    "changed": "12 hours 57 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2118,7 +2118,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2265,7 +2265,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "20 hours 23 minutes ago"
+    "changed": "20 hours 44 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2286,7 +2286,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "20 hours 22 minutes ago"
+    "changed": "20 hours 43 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2349,7 +2349,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "5 days 18 hours ago"
+    "changed": "5 days 19 hours ago"
   },
   {
     "title": "La Junta Fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "1 day 20 hours ago"
+    "changed": "1 day 21 hours ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "1 day 18 hours ago"
+    "changed": "1 day 19 hours ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2433,7 +2433,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "3 seconds ago"
+    "changed": "21 minutes 46 seconds ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2517,20 +2517,20 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "14 hours 24 minutes ago"
+    "changed": "14 hours 46 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
     "lat_deg": "38",
     "long_deg": "79",
-    "field_percent_of_perimeter": "15",
+    "field_percent_of_perimeter": "50",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-08T11:42:31-05:00\">2023-11-08</time>\n",
     "id": "316758",
-    "field_incident_overview": "<h2>Heavener Mountain Fire Update for Thursday, November 9, 2023</h2><h3> </h3><p><strong>Current Status:</strong><span><strong>  </strong></span>The Heavener Mountain Fire located on Heavener Mountain is approximately 3 miles east of Brandywine, West Virginia in Pendleton County. </p><p><span><strong>Estimated Acreage:  </strong>900 acres</span></p><p><span><strong>County;  </strong>Pendleton County</span></p><p><span><strong>Containment:  </strong>15% contained<strong> </strong></span></p><p><span><strong>Date and Cause Reported:</strong>.  The fire was first reported Tuesday, November 7, 2023.  The cause of this fire is under investigation </span></p><p><span><strong>Resources on the Fire:  </strong>Approximately 70 firefighters and support staff including two 20 person crews, 2 dozers, 1 Type -6 engine, a UAS Drone Module, and a large helicopter with bucket. </span></p><p><span><strong>Cooperators:</strong> Pendleton County Emergency Management and South Fork Volunteer Fire Company. </span></p><p><span><strong>Restrictions and Closures:  </strong>The West Side Shooting Range is temporarily closed to provide for public health and safety. Forest Service Road 151 is closed between the West Side Shooting Range and Stony Run.  Use caution and obey all road signs for your safety.  Motorists should be alert for firefighter vehicles and smoke.<strong> </strong></span></p><p><span><strong>Weather Events:  </strong>The fire received minimal precipitation today.<strong> </strong></span></p><p><span><strong>General Fire Information: </strong></span></p><ul><li><span>Safety of the public and firefighters is always the number one priority when dealing with wildfires.</span></li><li><span>Homeowners can learn how to make their homes less susceptible to wildfires by visiting:  www.firewise.org </span></li></ul><p><span>For more information, please contact the North River Ranger District at </span>540-432-0187.</p><p><span>Or visit the George Washington &amp; Jefferson National Forests website </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_WoA1M2q65H2TV4p_3hr3IsTxdlIM1mv6TV3XatvK1iidr1bAe-g6kWEx4KS19Aim0DYH5mPkrhM9PsVJXnys-lnsYMtC3InO-w%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=R4GTqjihqLp7X7Ja%2FyIAuFvhhxbBu2auB0d4W52tcbY%3D&amp;reserved=0\"><span>www.fs.fed.us/r8/gwj</span></a><span>, or follow us on Twitter: </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_WtGDyB_4wpdTKBkxRci4_Lc93R4nlpIWglIfheS_1OMP4i2I-CpOj6qi2zuzb3gemFyQFXj5BQSkJmQJfMNsILawxHyTraehqQ%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=IOGClfvpIS4UVoHSUFWeL38jNbRzhWtYMaObzNkChgM%3D&amp;reserved=0\"><span>https://twitter.com/GWJNF</span></a><span> and Facebook: </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001N85dWrOZo9R7GJottqZJ_h2n4ubhdbTuUKKLUe9Yn0Y7Vci3uhe_Wkhz9U_LYtkJh3A_Q3-qv8ON47WPg33UGnXnUEaOeJD_uDwdyIdkOrQAduuhmlsJpk9QKVckv8yj3kj72MZcj6Ms-xcrFFAjWg%3D%3D%26c%3DIxOaF76dB2qFfBU7hOpla0nTtGjesMXFM03tytWxU2fr12bBUF2ShQ%3D%3D%26ch%3DjMW9f785ENgd1mabJWMZNxpUEc7wkcuKCKGSEa-wr9tRWORQlsa2_w%3D%3D&amp;data=04%7C01%7C%7Ca9846baf557f473867cd08d9fb02e34d%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C637816812180348646%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&amp;sdata=9Pbejhlol5GRFI%2BsB4jH6tFz98s0gHsKsMASiYtZ148%3D&amp;reserved=0\"><span>https://www.facebook.com/GWJNF</span></a><span> </span></p>",
-    "size": "900",
+    "field_incident_overview": "<h2>Heavener Mountain Fire Update for Saturday, November 11, 2023</h2><h3> </h3><p><strong>Current Status:</strong><span><strong>  </strong></span>The Heavener Mountain Fire located on Heavener Mountain is approximately 2 miles east of Brandywine, West Virginia in Pendleton County. </p><p><span><strong>Estimated Acreage:  </strong>1078 acres</span></p><p><span><strong>County;  </strong>Pendleton County</span></p><p><span><strong>Containment:  </strong>50% contained<strong> </strong></span></p><p><span><strong>Date and Cause Reported: </strong>The fire was reported on Tuesday, November 7, 2023.   The cause of this fire is undetermined.  </span></p><p><span><strong>Resources on the Fire:  </strong>Approximately 70 firefighters and support staff, </span>two<span> </span>20-person crews, 1 dozer, 2 Type-6 engines, and a Blackhawk helicopter with a 800 gallon <span>bucket.</span></p><p><strong>Cooperators:</strong><span><strong> </strong></span>Pendleton<span> </span>County<span> </span>Emergency<span> </span>Management<span> </span>and<span> </span>South<span> </span>Fork<span> </span>Volunteer<span> </span>Fire <span>Company. Fire personnel have traveled from Colorado, California, Oregon, South Carolina and North Carolina. </span></p><p><span><strong>Restrictions and Closures:  </strong>The West Side Shooting Range is temporarily closed to provide for public health and safety. Forest Service Road 151 is closed south of Stony Run.  Use caution and obey all road signs for your safety. Motorists should be alert for firefighter vehicles and smoke.<strong> </strong></span></p><p><span><strong>Fire Weather:  </strong>SW 3 mph: Temperatures:<strong>  </strong>High 52, Low 33, Min. RH 49%;</span></p><p><span><strong>General Fire Information: </strong></span></p><ul><li><span>Safety of the public and firefighters is always the number one priority when dealing with wildfires.</span></li><li><span>Homeowners can learn how to make their homes less susceptible to wildfires by visiting:  www.firewise.org </span></li></ul><p><span>For fire updates:  </span><a href=\"https://inciweb.nwcg.gov/incident-information/vavaf-heavener-mountain-fire\"><span>inciweb.nwcg.gov/incident-information/vavaf-heavener-mountain-fire</span></a></p><p><span>Visit forest information visit the George Washington &amp; Jefferson National Forests website </span><a href=\"http://www.fs.usda.gov/gwj\"><span>www.fs.usda.gov/gwj</span></a><span> or follow us on Facebook: </span><a href=\"http://www.facebook.com/GWJNF\"><span>www.facebook.com/GWJNF</span></a><span> </span></p>",
+    "size": "1078",
     "lat_min": "36",
     "lat_sec": "67",
     "urlPath": "/vavaf-heavener-mountain-fire",
@@ -2538,7 +2538,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "1 day 3 hours ago"
+    "changed": "3 minutes 2 seconds ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2559,7 +2559,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAS 2023 Quaker Run Fire",
-    "changed": "2 hours 4 minutes ago"
+    "changed": "3 seconds ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2571,7 +2571,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-11-09T11:18:00-05:00\">2023-11-09</time>\n",
     "id": "316770",
-    "field_incident_overview": "<p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. It continues to burn in the War Ridge and Backus Mountain areas. The fire has consumed 1904 acres and has been actively burning in extremely steep, rugged terrain through a mixed hardwood forest. Containment is estimated to be 29% as of Friday evening. The fire is burning in a emote area of the park and remains within the park boundaries as itexhibits flanking and backing behavior. Smoke may be visible when the fire is actively burning, and it may linger in the gorge for several days as it moves across the landscape.</p><p>The War Ridge Campground is currently closed as well as the access road beyond the campground. As of Thursday, 37 firefighters are actively engaged on the fire. Crews built fire line from War Ridge Campground South to towards the New River. Today, crews will focus on maintaining and improving fire lines.</p><p>Resources from multiple agencies from across the country have arrived to assist park personnel. Firefighters and personnel from Indiana Dunes National Park, Wayne National Forest, The State of PennsylvaniaDepartment of Conservation and Natural Resources, White Mountain National Forest, Cuyahoga ValleyNational Park, Great Swamp National Wildlife Refuge, Arizona Department of Forestry and FireManagement, and Michigan Department of Natural Resources are currently assigned to the fire.</p>",
+    "field_incident_overview": "<p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. Resources from multiple agencies from across the country have arrived to assist park personnel. Firefighters and personnel from Indiana Dunes National Park, Wayne National Forest, The State of Pennsylvania Department of Conservation and Natural Resources, White Mountain National Forest, Cuyahoga ValleyNational Park, Great Swamp National Wildlife Refuge, Arizona Department of Forestry and FireManagement, and Michigan Department of Natural Resources are currently assigned to the fire.</p><p>The Steep Valley Fire increased to 1904 acres overnight Thursday into Friday. The rain on Friday morning andearly afternoon dampened fire activity. However, it continues to burn in the War Ridge and Backus Mountain areas, a remote part of the park within park boundaries. Containment is now up to 29% as of Friday evening. Smoke may be visible when the fire is actively burning, and it may linger in the gorge for several days as it moves across the landscape. The cause of the fire is under investigation.</p><p>As of Friday, 40 firefighters were actively engaged on the fire focused on maintaining and holding existing fire lines due to rain over the fire area. Today, crews will focus on holding maintaining, and improving fire lines as a warming and drying trend is expected for the area starting this weekend. As fuels dry out, fire activity may steadily reanimate, as well.</p><p>The War Ridge Campground is currently the only area in the park that is closed at this time. The access road beyond the campground is closed as well. The remainder of the park is open for normal hours of operation. Should fire activity and conditions change, park management will reassess for any needs to adjust park operations.</p><p>Photo: PADCNR/Steve Keiper</p>",
     "size": "1904",
     "lat_min": "50",
     "lat_sec": "17.304",
@@ -2580,7 +2580,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "17 hours 20 minutes ago"
+    "changed": "11 minutes 48 seconds ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
