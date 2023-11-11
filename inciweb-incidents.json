@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -439,48 +439,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
     "changed": "1 week 3 days ago"
-  },
-  {
-    "title": "Cottonwood Ridge Fire ",
-    "lat_deg": "34",
-    "long_deg": "110",
-    "field_percent_of_perimeter": "95",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-27T12:36:46-04:00\">2023-07-27</time>\n",
-    "id": "313714",
-    "field_incident_overview": "<p>The Cottonwood Ridge Fire is a lightning-caused fire that started on July 23, 2023. The fire is approximately 4 miles south/southwest of Show Low on the Fort Apache Indian Reservation. </p>\n\n<p>For an interactive fire map visit: <a href=\"https://maps.nwcg.gov/sa/#/%3F/%3F/34.2097/-110.1339/12\">https://maps.nwcg.gov</a></p>",
-    "size": "345",
-    "lat_min": "11",
-    "lat_sec": "0",
-    "urlPath": "/azfta-cottonwood-ridge-fire",
-    "long_min": "9",
-    "long_sec": "22",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZFTA Cottonwood Ridge Fire ",
-    "changed": "3 months ago"
-  },
-  {
-    "title": "Spoon Fire",
-    "lat_deg": "33",
-    "long_deg": "110",
-    "field_percent_of_perimeter": "80",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-27T13:01:39-04:00\">2023-07-27</time>\n",
-    "id": "313715",
-    "field_incident_overview": "<p>The Spoon Fire is a lightning-caused wildfire that started July 24, 2023, on the Fort Apache Indian Reservation. It is located approximately 20 miles west of Whiteriver, AZ and 2.5 miles east of Highway 60 between Globe and Show Low. </p>",
-    "size": "4560",
-    "lat_min": "49",
-    "lat_sec": "37",
-    "urlPath": "/azfta-spoon-fire",
-    "long_min": "22",
-    "long_sec": "24",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZFTA Spoon Fire",
-    "changed": "3 months ago"
   },
   {
     "title": "Anderson Complex",
@@ -816,7 +774,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "9 hours 23 minutes ago"
+    "changed": "9 hours 43 minutes ago"
   },
   {
     "title": "Salmon Fire",
@@ -1026,7 +984,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "2 weeks 1 day ago"
+    "changed": "2 weeks 2 days ago"
   },
   {
     "title": "Smith River Complex ",
@@ -1215,7 +1173,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "1 month ago"
+    "changed": "1 month 1 week ago"
   },
   {
     "title": "Tiger Island Fire",
@@ -1509,7 +1467,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1845,7 +1803,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "5 hours 1 minute ago"
+    "changed": "5 hours 21 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1866,7 +1824,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "18 hours 46 minutes ago"
+    "changed": "19 hours 6 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2055,7 +2013,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -2370,7 +2328,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "2 days ago"
+    "changed": "2 days 1 hour ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2412,7 +2370,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "55 minutes 6 seconds ago"
+    "changed": "1 hour 15 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2496,7 +2454,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "2 hours 30 minutes ago"
+    "changed": "2 hours 50 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2517,7 +2475,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "5 hours 51 minutes ago"
+    "changed": "6 hours 11 minutes ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2538,7 +2496,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAS 2023 Quaker Run Fire",
-    "changed": "15 seconds ago"
+    "changed": "20 minutes 11 seconds ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2559,7 +2517,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "6 hours ago"
+    "changed": "4 seconds ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
