@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 13 hours ago"
+    "changed": "2 days 14 hours ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -774,7 +774,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "23 hours 18 minutes ago"
+    "changed": "23 hours 40 minutes ago"
   },
   {
     "title": "Salmon Fire",
@@ -1467,7 +1467,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "5 days 14 hours ago"
+    "changed": "5 days 15 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 days 10 hours ago"
+    "changed": "3 days 11 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1803,7 +1803,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "9 hours 26 minutes ago"
+    "changed": "9 hours 47 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1824,7 +1824,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "9 hours 22 minutes ago"
+    "changed": "9 hours 43 minutes ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2286,7 +2286,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "6 days 14 hours ago"
+    "changed": "6 days 15 hours ago"
   },
   {
     "title": "La Junta Fire",
@@ -2307,7 +2307,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "2 days 16 hours ago"
+    "changed": "2 days 17 hours ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -2328,7 +2328,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "2 days 14 hours ago"
+    "changed": "2 days 15 hours ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2370,7 +2370,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "5 seconds ago"
+    "changed": "21 minutes 19 seconds ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2454,7 +2454,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "16 hours 25 minutes ago"
+    "changed": "16 hours 46 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "19 hours 46 minutes ago"
+    "changed": "20 hours 7 minutes ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2496,20 +2496,20 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAS 2023 Quaker Run Fire",
-    "changed": "10 minutes 23 seconds ago"
+    "changed": "9 minutes 52 seconds ago"
   },
   {
     "title": "Steep Valley Fire",
     "lat_deg": "37",
     "long_deg": "81",
-    "field_percent_of_perimeter": "29",
+    "field_percent_of_perimeter": "50",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-09T11:18:00-05:00\">2023-11-09</time>\n",
     "id": "316770",
-    "field_incident_overview": "<p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. Resources from multiple agencies from across the country have arrived to assist park personnel. Firefighters and personnel from Indiana Dunes National Park, Wayne National Forest, The State of Pennsylvania Department of Conservation and Natural Resources, White Mountain National Forest, Cuyahoga ValleyNational Park, Great Swamp National Wildlife Refuge, Arizona Department of Forestry and FireManagement, and Michigan Department of Natural Resources are currently assigned to the fire.</p><p>The Steep Valley Fire increased to 1904 acres overnight Thursday into Friday. The rain on Friday morning andearly afternoon dampened fire activity. However, it continues to burn in the War Ridge and Backus Mountain areas, a remote part of the park within park boundaries. Containment is now up to 29% as of Friday evening. Smoke may be visible when the fire is actively burning, and it may linger in the gorge for several days as it moves across the landscape. The cause of the fire is under investigation.</p><p>As of Friday, 40 firefighters were actively engaged on the fire focused on maintaining and holding existing fire lines due to rain over the fire area. Today, crews will focus on holding maintaining, and improving fire lines as a warming and drying trend is expected for the area starting this weekend. As fuels dry out, fire activity may steadily reanimate, as well.</p><p>The War Ridge Campground is currently the only area in the park that is closed at this time. The access road beyond the campground is closed as well. The remainder of the park is open for normal hours of operation. Should fire activity and conditions change, park management will reassess for any needs to adjust park operations.</p><p>Photo: PADCNR/Steve Keiper</p>",
-    "size": "1904",
+    "field_incident_overview": "<p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. Resources from multiple agencies from across the country have arrived to assist park personnel. Firefighters and personnel from Indiana Dunes National Park, Hopewell Culture National Historical Park, Wayne National Forest, The State of Pennsylvania Department of Conservation and Natural Resources, White Mountain National Forest, Cuyahoga Valley National Park, Great Swamp National Wildlife Refuge, Arizona Department of Forestry and Fire Management, Michigan Department of Natural Resources and a private hand crew from Oregon have been or are currently assigned to the fire.</p><p>The Steep Valley Fire acreage increased to 1946 acres due to improved mapping and imaging. The fire showed very little activity on Saturday with no growth due to the precipitation received over the fire area on Friday. Containment is up to 50% as of Saturday evening. Smoke may be visible when the fire is actively burning, and it may linger in the gorge for several days as it moves across the landscape. Air quality in the New River Gorge area is expected to remain GOOD over the next 24 hours.</p><p>As of Saturday, 62 firefighters were actively engaged on the fire. Crews will focus on holding, maintaining, and improving fire lines as a warming and drying trend is expected to settle in over the area. As fuels dry out, fire activity may steadily reanimate, as well.</p><p>The War Ridge Campground is currently the only area in the park that is closed at this time. The access road beyond the campground is closed as well. The remainder of the park is open for normal hours of operation. Should fire activity and conditions change, park management will reassess for any needs to adjust park operations.</p><p>Photo: PADCNR/Steve Keiper</p>",
+    "size": "1946",
     "lat_min": "50",
     "lat_sec": "17.304",
     "urlPath": "/wvnrp-steep-valley-fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "13 hours 35 minutes ago"
+    "changed": "57 seconds ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
