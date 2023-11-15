@@ -1488,7 +1488,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 hours 4 minutes ago"
+    "changed": "2 hours 9 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1761,7 +1761,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "5 seconds ago"
+    "changed": "5 minutes 6 seconds ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1782,7 +1782,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "3 minutes 45 seconds ago"
+    "changed": "5 seconds ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -2013,7 +2013,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "7 hours 31 minutes ago"
+    "changed": "7 hours 36 minutes ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2055,7 +2055,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "8 hours 56 minutes ago"
+    "changed": "9 hours 1 minute ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2160,7 +2160,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "8 hours 42 minutes ago"
+    "changed": "8 hours 47 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2181,7 +2181,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "8 hours 49 minutes ago"
+    "changed": "8 hours 54 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2223,7 +2223,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "5 hours 32 minutes ago"
+    "changed": "5 hours 37 minutes ago"
   },
   {
     "title": "Lafitte",
@@ -2328,7 +2328,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "55 minutes 44 seconds ago"
+    "changed": "1 hour ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2391,7 +2391,7 @@
     "long_sec": "1.3266",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Sugar Bay Wildfire",
-    "changed": "5 days 6 hours ago"
+    "changed": "5 days 7 hours ago"
   },
   {
     "title": "Mililani Mauka ",
@@ -2412,7 +2412,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "14 hours 11 minutes ago"
+    "changed": "14 hours 16 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "2 days 8 hours ago"
+    "changed": "2 days 9 hours ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2454,7 +2454,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAS 2023 Quaker Run Fire",
-    "changed": "3 hours 9 minutes ago"
+    "changed": "3 hours 14 minutes ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "5 hours 41 minutes ago"
+    "changed": "5 hours 46 minutes ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2517,7 +2517,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "3 hours 59 minutes ago"
+    "changed": "4 hours 4 minutes ago"
   },
   {
     "title": "Buckaloons Wildfire",
@@ -2538,7 +2538,7 @@
     "long_sec": "59.5044",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Buckaloons Wildfire",
-    "changed": "4 hours 50 minutes ago"
+    "changed": "4 hours 55 minutes ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -2550,7 +2550,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-11-14T22:03:06-05:00\">2023-11-14</time>\n",
     "id": "316822",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Pine Flats Prescribed Fire is planned for Wednesday, November 15 (morning), if conditions allow, at the Crystal Lake Recreation Area above Azusa, CA. </span></p>",
+    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Pine Flats Prescribed Fire is planned for Wednesday, November 15 (morning), if conditions allow, at the Crystal Lake Recreation Area above Azusa, CA. </span></p><p>This planned fire will <span>reduce the risk of unwanted wildfires in nearby communities; help reduce risks for wildland firefighters; protect buildings, campgrounds, and picnic areas; and/or benefit forest health.</span></p>",
     "size": "",
     "lat_min": "",
     "lat_sec": "",
@@ -2559,6 +2559,6 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "6 minutes 43 seconds ago"
+    "changed": "4 minutes 22 seconds ago"
   }
 ]
