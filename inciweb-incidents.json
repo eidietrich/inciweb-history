@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "3 days 11 hours ago"
+    "changed": "3 days 12 hours ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -711,7 +711,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "5 days 22 hours ago"
+    "changed": "5 days 23 hours ago"
   },
   {
     "title": "Salmon Fire",
@@ -1740,7 +1740,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "11 hours 6 minutes ago"
+    "changed": "11 hours 35 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1992,7 +1992,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 day 18 hours ago"
+    "changed": "1 day 19 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -2118,7 +2118,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "18 hours 39 minutes ago"
+    "changed": "19 hours 8 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2139,7 +2139,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "18 hours 39 minutes ago"
+    "changed": "19 hours 8 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2181,7 +2181,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "2 days 14 hours ago"
+    "changed": "2 days 15 hours ago"
   },
   {
     "title": "Lafitte",
@@ -2244,7 +2244,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "3 days 19 hours ago"
+    "changed": "3 days 20 hours ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2286,7 +2286,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "10 hours 53 minutes ago"
+    "changed": "11 hours 23 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2412,19 +2412,19 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "13 hours 6 minutes ago"
+    "changed": "13 hours 36 minutes ago"
   },
   {
     "title": "Steep Valley Fire",
     "lat_deg": "37",
     "long_deg": "81",
-    "field_percent_of_perimeter": "78",
+    "field_percent_of_perimeter": "81",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-09T11:18:00-05:00\">2023-11-09</time>\n",
     "id": "316770",
-    "field_incident_overview": "<p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. Resources from multiple agencies from across the country have arrived to assist park personnel. Firefighters and personnel from Indiana Dunes National Park, Hopewell Culture National Historical Park, Wayne National Forest, White Mountain National Forest, Cuyahoga Valley National Park, Great Swamp National Wildlife Refuge, Arizona Department of Forestry and Fire Management, Michigan Department of Natural Resources and a private crew from Oregon are currently assigned to the fire.</p><p>Smoke may be visible when the fire is actively burning, and it may linger in the gorge for several days as it moves across the landscape. View the current <a href=\"https://map.purpleair.com/1/mAQI/a10/p604800/cC0?key=7LI2K2LN2CGYD7OX#9.33/37.8749/-81.0535\"><strong>real-time air quality report</strong></a> for the New River Gorge area. You can also view the <a href=\"https://outlooks.wildlandfiresmoke.net/outlook/20cc223b\"><strong>Smoke Outlook</strong></a> for the New River gorge area.</p><p>Visitors to New RIver Gorge National Park &amp; Preserve are reminded that launching, landing or operating of any/all drones (UAS) is strictly prohibited within the park boundary. <span>A Temporary Flight Restriction (TFR) is currently in effect for 5,000 feet above ground level and a 5-mile radius around the fire area. Any drone incursions into the Steep Valley Fire TFR area are a violation of FAA regulations. Additionally, all aircraft supporting firefighter operations would temporarily be grounded as drones endanger air crews that are flying. This interruption in firefighting support could put firefighters at extreme risk and could result in grave consequences for those actively engaged in fire suppression. </span>Remember, <em><strong>\"If You Fly, We Can't!\"  </strong></em>For complete information about the ban of drone use at the park, please review the park's <a href=\"https://www.nps.gov/neri/learn/management/superintendents-compendium.htm#Unmanned%20Aircraft\"><strong>Superintendent's Compendium</strong></a>.</p><p>The War Ridge Campground is currently the only area in the park that is closed at this time. The access road beyond the campground is closed as well. For detailed information about the closure area, please visit the <a href=\"https://inciweb.nwcg.gov/incident-closures/wvnrp-steep-valley-fire\"><strong>Closures section</strong></a> of this incident page. View a <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/wvnrp-steep-valley-fire\"><strong>Map</strong></a> of the closure area around the fire. The remainder of the park is open for normal hours of operation. Should fire activity and conditions change, park management will reassess for any needs to adjust park operations.</p><p>Photo: Pockets of active fire behavior on Tuesday evening, November 14th, as seen from the Grandview Point lookout.<br />NPS Photo/Tom Engberg</p>",
+    "field_incident_overview": "<p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. Firefighters and personnel will begin demobilizing or reassigning from the fire through the weekend. The final regular fire update will be released on Friday morning, November 17th. Additional infrequent fire updates will be posted with any fire activity until fire managers are confident the fire is fully contained. Management of the fire will transition to a Type 4 organization at 6:00 AM, Saturday, November 18th.</p><p>Visitors to New RIver Gorge National Park &amp; Preserve are reminded that launching, landing or operating of any/all drones (UAS) is strictly prohibited within the park boundary. <span>A Temporary Flight Restriction (TFR) is currently in effect for 5,000 feet above ground level and a 5-mile radius around the fire area. Any drone incursions into the Steep Valley Fire TFR area are a violation of FAA regulations. Additionally, all aircraft supporting firefighter operations would temporarily be grounded as drones endanger air crews that are flying. This interruption in firefighting support could put firefighters at extreme risk and could result in grave consequences for those actively engaged in fire suppression. </span>Remember, <em><strong>\"If You Fly, We Can't!\"  </strong></em>For complete information about the ban of drone use at the park, please review the park's <a href=\"https://www.nps.gov/neri/learn/management/superintendents-compendium.htm#Unmanned%20Aircraft\"><strong>Superintendent's Compendium</strong></a>.</p><p>The War Ridge Campground is currently the only area in the park that is closed at this time. The access road beyond the campground is closed as well. For detailed information about the closure area, please visit the <a href=\"https://inciweb.nwcg.gov/incident-closures/wvnrp-steep-valley-fire\"><strong>Closures section</strong></a> of this incident page. View a <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/wvnrp-steep-valley-fire\"><strong>Map</strong></a> of the closure area around the fire. The remainder of the park is open for normal hours of operation. Park management will reassess for any needs to adjust park operations or fire closures when appropriate.</p><p>Photo: Pockets of active fire behavior on Tuesday evening, November 14th, as seen from the Grandview Point lookout.<br />NPS Photo/Tom Engberg</p>",
     "size": "2206",
     "lat_min": "50",
     "lat_sec": "17.304",
@@ -2433,7 +2433,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "22 hours 33 minutes ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "1 second ago"
+    "changed": "29 minutes 41 seconds ago"
   },
   {
     "title": "Buckaloons Wildfire",
@@ -2496,7 +2496,7 @@
     "long_sec": "59.5044",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Buckaloons Wildfire",
-    "changed": "2 days 13 hours ago"
+    "changed": "2 days 14 hours ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -2538,6 +2538,6 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "13 hours 43 minutes ago"
+    "changed": "14 hours 13 minutes ago"
   }
 ]
