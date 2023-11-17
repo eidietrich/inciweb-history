@@ -144,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 day 15 hours ago"
+    "changed": "1 day 16 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -927,13 +927,13 @@
     "title": "Smith River Complex ",
     "lat_deg": "41",
     "long_deg": "123",
-    "field_percent_of_perimeter": "95",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
-    "field_incident_description": "Wildland fires",
+    "field_incident_description": "Wildland fires. The fire was declared contained and controlled at 1700 on November 13, 2023. ",
     "field_active": "1",
     "created": "<time datetime=\"2023-08-16T15:01:26-04:00\">2023-08-16</time>\n",
     "id": "314628",
-    "field_incident_overview": "<p><span>On the evening of August 15, 2023, the Six Rivers National Forest experienced approximately 150 lightning strikes, which triggered the outbreak of wildfires. Ther were at least 27 confirmed fires as a result of the lightning strikes Out of 27 confirmed fires, 12 were located on the Gasquet Ranger District in Del Norte County, and they are included in the Smith River Complex.</span><br /><br /><span>Given the threat to life and property, resources were focused on identifying fire locations and triaging suppression efforts on those posing the highest risk. This is a challenging task due to the rugged terrain and limited access.  </span></p><p><span>This situation is exacerbated by the fact that the area has experienced a year of below-average rainfall, which has let the vegetation unusually dry, The dryness adds a difficulty to control the fires.  Despite these difficult conditions, ground and air resources have been engaged in full suppression efforts. </span></p><p><span><strong>Timeline</strong></span><br /><span>August 18, 2023          California Interagency Incident Management Team 15 assumed command of the complex. </span></p><p><span>August 21, 2023          Northwest Incident Management Team 13 assumed command of the Smith River Complex North.</span></p><p>August 29, 2023          Oregon State Fire Marshal Blue Team joined NWIMT 13 in unified command of the Smith River Complex North. The OSFM resources left as they completed their mission, with the last engines leaving September 2, 2023.</p><p>August 31, 2023          Southwest Area Incident Management Team 2 (SWAIMT2) assumed command of the Smith River Complex – South Zone from California Interagency Incident Management Team 15.</p><p>September 6, 2023      Alaska Interagency Incident Management Team (AIIMT) <span>assumed command of the Smith River Complex North from Northwest Incident Management Team 13.</span></p><p><span>September 13, 2023    California Interagency Incident Management Team 4 (CAIIMT4) assumed command of the Smith River Complex South from  Southwest Area Incident Management Team 2</span></p><p><span>September 19, 2023    Northwest Incident Management Team 8 (NWIMT8) assumed command of the Smith River Complex North from AIIMT. </span></p><p>September 27, 2023    California Interagency Incident Management Team 12 (CAIIMT12) assumed command of the Smith River Complex South from California Interagency Incident Management Team 4 (CIIMT4)</p><p>October 10, 2023 Smith River Complex Type 3 assumed command of the Smith River Complex from California Interagency Incident Management Team 12 (CAIIMT12)</p><p><strong>*********</strong></p><p><strong>EVACUATIONS</strong></p><p><strong>Evacuation levels are subject to change as conditions vary on the Smith River Complex.   </strong>For the latest evacuation levels, please check the following sites:</p><p><a href=\"https://www.facebook.com/search/top?q=del%20norte%20office%20of%20emergency%20services\">Del Norte County Emergency Services Facebook</a> page has updates about evacuations on Smith River Complex - South Zone.</p><p>Josephine County Emergency Management has the latest evacuation notices at their <a href=\"https://www.josephinecounty.gov/departments/emergency_management/response_(activities_during_an_emergency)/stay_informed.php\">2023 Fire Season Information</a> page.</p><p>Go to the <a href=\"https://rvem.org/\">www.rvem.org site</a> and select the Fire First Response Map for the latest evacuation map.</p><p> </p><p><strong>CLOSURES</strong></p><p><em><span><strong>Intermittent Closure of US-199</strong></span></em><span>. Starting Thursday, September 14, US-199 in Del Norte County will have a schedule of road closures and lane restrictions. The Del Norte Sheriff’s Office is asking residents to refrain from any unnecessary travel along that route. If you must travel, please do not follow mapping systems that direct you to leave the US-199 corridor; alternate routes are in a fire closure area creating safety risks to you and fire personnel. For additional information on road conditions, please see the Caltrans QuickMap site </span><a href=\"https://quickmap.dot.ca.gov/\"><span>https://quickmap.dot.ca.gov/</span></a><span> and Oregon Department of Transportation’s </span><a href=\"https://www.tripcheck.com/\"><span>https://www.tripcheck.com/</span></a><span>.</span></p><p>Check for closures on the <a href=\"https://www.fs.usda.gov/detail/srnf/notices/?cid=FSEPRD1096395\">Six Rivers National Forest</a>.</p><p>For closures on the Rogue River - Siskiyou National Forest, see their <a href=\"https://www.fs.usda.gov/alerts/rogue-siskiyou/alerts-notices\">Alerts &amp; Notices page</a>.</p><p>For Bureau of Land Management - Medford District, see their <a href=\"https://www.blm.gov/programs/public-safety-and-fire/fire-and-aviation/regional-info/oregon-washington/fire-restrictions\">Closures and Restrictions</a>.</p><p> </p>",
+    "field_incident_overview": "<p><span>On the evening of August 15, 2023, the Six Rivers National Forest experienced approximately 150 lightning strikes, which triggered the outbreak of wildfires. Ther were at least 27 confirmed fires as a result of the lightning strikes Out of 27 confirmed fires, 12 were located on the Gasquet Ranger District in Del Norte County, and they are included in the Smith River Complex.</span><br /><br /><span>Given the threat to life and property, resources were focused on identifying fire locations and triaging suppression efforts on those posing the highest risk. This is a challenging task due to the rugged terrain and limited access.  </span></p><p><span>This situation is exacerbated by the fact that the area has experienced a year of below-average rainfall, which has let the vegetation unusually dry, The dryness adds a difficulty to control the fires.  Despite these difficult conditions, ground and air resources have been engaged in full suppression efforts. </span></p><p><span><strong>Timeline</strong></span><br /><span>August 18, 2023          California Interagency Incident Management Team 15 assumed command of the complex. </span></p><p><span>August 21, 2023          Northwest Incident Management Team 13 assumed command of the Smith River Complex North.</span></p><p>August 29, 2023          Oregon State Fire Marshal Blue Team joined NWIMT 13 in unified command of the Smith River Complex North. The OSFM resources left as they completed their mission, with the last engines leaving September 2, 2023.</p><p>August 31, 2023          Southwest Area Incident Management Team 2 (SWAIMT2) assumed command of the Smith River Complex – South Zone from California Interagency Incident Management Team 15.</p><p>September 6, 2023      Alaska Interagency Incident Management Team (AIIMT) <span>assumed command of the Smith River Complex North from Northwest Incident Management Team 13.</span></p><p><span>September 13, 2023    California Interagency Incident Management Team 4 (CAIIMT4) assumed command of the Smith River Complex South from  Southwest Area Incident Management Team 2</span></p><p><span>September 19, 2023    Northwest Incident Management Team 8 (NWIMT8) assumed command of the Smith River Complex North from AIIMT. </span></p><p>September 27, 2023    California Interagency Incident Management Team 12 (CAIIMT12) assumed command of the Smith River Complex South from California Interagency Incident Management Team 4 (CIIMT4)</p><p>October 10, 2023 Smith River Complex Type 3 assumed command of the Smith River Complex from California Interagency Incident Management Team 12 (CAIIMT12)</p><p><strong>*********</strong></p><p><em><span><strong>US-199</strong></span></em><span>. In Del Norte County, Highway 199, one way traffic control Monday - Friday 8 am - 5 pm from Grassy Flat Bridge to USFS Road due to fire and rock slides. Expect one hour delays. For additional information on road conditions, please see the Caltrans QuickMap site </span><a href=\"https://quickmap.dot.ca.gov/\"><span>https://quickmap.dot.ca.gov/</span></a><span> and Oregon Department of Transportation’s </span><a href=\"https://www.tripcheck.com/\"><span>https://www.tripcheck.com/</span></a><span>.</span></p><p>Check for closures on the <a href=\"https://www.fs.usda.gov/detail/srnf/notices/?cid=FSEPRD1096395\">Six Rivers National Forest</a>.</p><p>For closures on the Rogue River - Siskiyou National Forest, see their <a href=\"https://www.fs.usda.gov/alerts/rogue-siskiyou/alerts-notices\">Alerts &amp; Notices page</a>.</p><p>For Bureau of Land Management - Medford District, see their <a href=\"https://www.blm.gov/programs/public-safety-and-fire/fire-and-aviation/regional-info/oregon-washington/fire-restrictions\">Closures and Restrictions</a>.</p><p> </p>",
     "size": "95107",
     "lat_min": "51",
     "lat_sec": "31",
@@ -942,7 +942,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 month ago"
+    "changed": "1 minute 49 seconds ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1257,7 +1257,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1467,7 +1467,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 day 11 hours ago"
+    "changed": "1 day 12 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1740,7 +1740,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "11 hours 35 minutes ago"
+    "changed": "12 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "19 hours 8 minutes ago"
+    "changed": "19 hours 33 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2139,7 +2139,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "19 hours 8 minutes ago"
+    "changed": "19 hours 33 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2286,7 +2286,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "11 hours 23 minutes ago"
+    "changed": "11 hours 48 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2370,7 +2370,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "4 days 18 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "13 hours 36 minutes ago"
+    "changed": "3 seconds ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 seconds ago"
+    "changed": "24 minutes 37 seconds ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "29 minutes 41 seconds ago"
+    "changed": "54 minutes 16 seconds ago"
   },
   {
     "title": "Buckaloons Wildfire",
@@ -2517,7 +2517,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "2 days 9 hours ago"
+    "changed": "2 days 10 hours ago"
   },
   {
     "title": "947 Fire",
@@ -2538,6 +2538,6 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "14 hours 13 minutes ago"
+    "changed": "14 hours 37 minutes ago"
   }
 ]
