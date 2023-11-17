@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "3 days 16 hours ago"
+    "changed": "3 days 17 hours ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -711,7 +711,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "6 days 3 hours ago"
+    "changed": "6 days 4 hours ago"
   },
   {
     "title": "Salmon Fire",
@@ -942,7 +942,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "3 hours 28 minutes ago"
+    "changed": "3 hours 40 minutes ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1467,7 +1467,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 9 minutes ago"
+    "changed": "3 hours 21 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1740,7 +1740,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "16 hours 8 minutes ago"
+    "changed": "16 hours 19 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "23 hours 41 minutes ago"
+    "changed": "23 hours 53 minutes ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2139,7 +2139,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "23 hours 41 minutes ago"
+    "changed": "23 hours 53 minutes ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2286,7 +2286,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "1 hour 50 minutes ago"
+    "changed": "2 hours 2 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2397,13 +2397,13 @@
     "title": "2023 Quaker Run Fire",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "83",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-08T15:22:06-05:00\">2023-11-08</time>\n",
     "id": "316762",
-    "field_incident_overview": "<p><span>The Quaker Run Fire in Shenandoah National Park and Madison County, Virginia, is 83% contained as of November 15, 2023. Visitors to the Park should be aware of the potential for smoke in the area and look for the latest information on </span><a href=\"https://www.nps.gov/shen/planyourvisit/quaker-run-fire-information.htm\"><span>park closures</span></a><span>. Burn bans are in effect in the Park and Madison County. Firefighters are monitoring and patrolling the uncontained section of the fire’s perimeter and also repairing trails, roads and other areas as needed. The cause of the fire has not been determined. <strong>At 8 p.m. on November 16, 2023, the Southern Area Gold Incident Management Team will transfer command to a Type 3 team. After that time, the phone number for fire information will be 540-999-3500 ext. 3183 and the email will be claire_comer@NPS.gov.</strong> For information about fire management activities on private lands, follow </span><a href=\"http://www.facebook.com/ForestryVA\"><span>www.facebook.com/ForestryVA</span></a><span>. For information about fire management activities on Shenandoah National Park, follow </span><a href=\"http://www.facebook.com/shenanadoahNPS\"><span>www.facebook.com/shenanadoahNPS</span></a><span>. </span></p>",
+    "field_incident_overview": "<p><span>The Quaker Run Fire in Shenandoah National Park and Madison County, Virginia, is 100% contained as of November 17, 2023. Visitors to the Park should be aware of the potential for smoke in the area and look for the latest information on </span><a href=\"https://www.nps.gov/shen/planyourvisit/quaker-run-fire-information.htm\"><span>park closures</span></a><span>. Burn bans are in effect in the Park and Madison County. Firefighters are monitoring the fire’s perimeter and also repairing trails, roads and other areas as needed. The cause of the fire has not been determined. </span></p><p><span><strong>At 8 p.m. on November 16, 2023, the Southern Area Gold Incident Management Team transferred command to a Type 3 team. The phone number for fire information is now 540-999-3500 ext. 3183 and the email is claire_comer@NPS.gov.</strong> For information about fire management activities on private lands, follow </span><a href=\"http://www.facebook.com/ForestryVA\"><span>www.facebook.com/ForestryVA</span></a><span>. For information about fire management activities on Shenandoah National Park, follow </span><a href=\"http://www.facebook.com/shenanadoahNPS\"><span>www.facebook.com/shenanadoahNPS</span></a><span>. </span></p>",
     "size": "3937",
     "lat_min": "28",
     "lat_sec": "36",
@@ -2412,7 +2412,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "3 hours 52 minutes ago"
+    "changed": "4 seconds ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 hours 45 minutes ago"
+    "changed": "2 hours 57 minutes ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "1 second ago"
+    "changed": "11 minutes 33 seconds ago"
   },
   {
     "title": "Buckaloons Wildfire",
@@ -2538,7 +2538,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "18 hours 45 minutes ago"
+    "changed": "18 hours 57 minutes ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2559,6 +2559,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "1 hour 45 minutes ago"
+    "changed": "1 hour 57 minutes ago"
   }
 ]
