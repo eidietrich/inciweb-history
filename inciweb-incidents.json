@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 week 2 days ago"
+    "changed": "1 week 3 days ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -144,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 2 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -858,7 +858,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "Smith River Complex ",
@@ -879,7 +879,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "2 days 8 hours ago"
+    "changed": "2 days 9 hours ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1404,7 +1404,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 days 8 hours ago"
+    "changed": "2 days 9 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1669,7 +1669,7 @@
     "created": "<time datetime=\"2023-09-18T14:20:44-04:00\">2023-09-18</time>\n",
     "id": "316091",
     "field_incident_overview": "<p>This 4,500-acre project adjacent to Vallecitos, NM, will maintain forest health within an area that was first treated with prescribed fire in 2014. Fire-dependent forests in the Southwestern Region must undergo fire disturbance on a regular basis to maintain resiliency. If a future wildfire reaches an area with recent fire history, fire behavior is likely to be modified to a less intense, more <span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">manageable surface fire, making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Smoke</strong></span></p><p><span>Smoke is expected to mainly move to the east and may impact areas as far as the Taos and Moreno valleys when ignitions are in progress. Sometimes winds will push smoke in a different direction. Check the </span><a href=\"https://fire.airnow.gov/#\">Fire and Smoke Map</a><span> to check local air quality and for protective actions.</span></p><p><span><strong>Sustainable Rangelands</strong></span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Alamosa Unit 1 Prescribed Fire will also serve to maintain sustainable rangelands. The unit is part of the larger Jarita Mesa and Alamosa Grazing Allotments Project, which allows livestock grazing in a manner that balances it with Carson National Forest’s goals for rangeland vegetation, soil, watershed and wildlife habitat.</span></p>",
-    "size": "3250",
+    "size": "4500",
     "lat_min": "26",
     "lat_sec": "44.1",
     "urlPath": "/nmcaf-alamosa-unit-1-prescribed-fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "2 days 21 hours ago"
+    "changed": "4 seconds ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "4 days 19 hours ago"
+    "changed": "4 days 20 hours ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -1866,7 +1866,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "2023 SRF Lightning Complex Post-Fire BAER",
@@ -1887,7 +1887,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -1908,7 +1908,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 2 hours ago"
+    "changed": "2 days 3 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1971,7 +1971,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "5 days 4 hours ago"
+    "changed": "5 days 5 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2055,7 +2055,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "1 day 4 hours ago"
+    "changed": "1 day 5 hours ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2076,7 +2076,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "1 day 4 hours ago"
+    "changed": "1 day 5 hours ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2223,7 +2223,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "10 hours 18 minutes ago"
+    "changed": "10 hours 49 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2307,7 +2307,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "1 day 21 hours ago"
+    "changed": "1 day 22 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2349,7 +2349,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "2 days 3 hours ago"
+    "changed": "2 days 4 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "1 hour 4 minutes ago"
+    "changed": "1 hour 35 minutes ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "6 seconds ago"
+    "changed": "31 minutes 27 seconds ago"
   },
   {
     "title": "Buckaloons Wildfire",
@@ -2454,7 +2454,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "4 days 19 hours ago"
+    "changed": "4 days 20 hours ago"
   },
   {
     "title": "947 Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "21 hours 13 minutes ago"
+    "changed": "21 hours 45 minutes ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2496,6 +2496,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 hours 50 minutes ago"
+    "changed": "7 hours 21 minutes ago"
   }
 ]
