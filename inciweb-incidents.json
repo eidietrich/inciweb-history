@@ -648,7 +648,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "1 week 1 day ago"
+    "changed": "1 week 2 days ago"
   },
   {
     "title": "Salmon Fire",
@@ -1404,7 +1404,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 second ago"
+    "changed": "3 seconds ago"
   },
   {
     "title": "Marmot Fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "13 hours 57 minutes ago"
+    "changed": "14 hours 1 minute ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "15 hours 40 minutes ago"
+    "changed": "15 hours 44 minutes ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "1 hour 31 minutes ago"
+    "changed": "1 hour 34 minutes ago"
   },
   {
     "title": "Buckaloons Wildfire",
@@ -2496,6 +2496,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "10 hours 43 minutes ago"
+    "changed": "10 hours 46 minutes ago"
   }
 ]
