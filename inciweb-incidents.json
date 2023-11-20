@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "6 days 14 hours ago"
+    "changed": "6 days 15 hours ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -1404,7 +1404,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 hour 45 minutes ago"
+    "changed": "2 hours 12 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "15 hours 46 minutes ago"
+    "changed": "16 hours 13 minutes ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "5 days 11 hours ago"
+    "changed": "5 days 12 hours ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -1971,7 +1971,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "5 days 20 hours ago"
+    "changed": "5 days 21 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2118,7 +2118,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "5 days 17 hours ago"
+    "changed": "5 days 18 hours ago"
   },
   {
     "title": "Lafitte",
@@ -2181,7 +2181,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "6 days 22 hours ago"
+    "changed": "6 days 23 hours ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -2223,7 +2223,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2370,7 +2370,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "17 hours 29 minutes ago"
+    "changed": "17 hours 56 minutes ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "1 second ago"
+    "changed": "27 minutes 24 seconds ago"
   },
   {
     "title": "Buckaloons Wildfire",
@@ -2433,7 +2433,7 @@
     "long_sec": "59.5044",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Buckaloons Wildfire",
-    "changed": "5 days 16 hours ago"
+    "changed": "5 days 17 hours ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -2475,7 +2475,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "1 day 13 hours ago"
+    "changed": "1 day 14 hours ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2487,7 +2487,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-11-17T09:59:57-05:00\">2023-11-17</time>\n",
     "id": "316843",
-    "field_incident_overview": "<p><strong>HIGHLIGHTS</strong>: Weather conditions yesterday moderated fire behavior, giving crews the opportunity to work on primary and contingency dozer and handlines.</p><p>Along the Appalachian Trail, hand line was completed from the communications site east to Brown Gap and continues west towards I-40. On the eastern side of the fire, hand line has begun along the Groundhog Creek drainage from the Appalachian Trail to the north and I-40 to the south. A dozer completed contingency line work along Cold Spring Creek Road (Forest Roads 148 and 148A) from I-40 to Brown Gap at the Appalachian Trail.</p><p>Work on containment lines will continue today, taking advantage of the weather before anticipated winds tomorrow and rain Tuesday and Wednesday. An increase of fire activity is expected this afternoon as the sun dries fuels out – active fire will be visible along I-40 and smoke will remain in the area throughout the day.</p>",
+    "field_incident_overview": "<p><strong>HIGHLIGHTS</strong>: Today crews will complete handline along the Groundhog Creek drainage east of the fire and along the Appalachian Trail to the north. Today will bring breezy conditions with a wind advisory tonight, as well as rain on the way. Fire has been flanking and backing at lower elevations, creeping in the heavier fuels along the Interstate 40 corridor, with significantly less fire activity at higher elevations. Crews will react to any wind-driven fire behavior which threatens containment lines, and aircraft will be providing aerial support as long as weather safely allows.</p>",
     "size": "1740",
     "lat_min": "45",
     "lat_sec": "20",
@@ -2496,6 +2496,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "12 hours 31 minutes ago"
+    "changed": "6 seconds ago"
   }
 ]
