@@ -144,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "5 days 3 hours ago"
+    "changed": "5 days 5 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -165,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "6 days 23 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -669,7 +669,7 @@
     "long_sec": "52",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORWIF Salmon Fire",
-    "changed": "2 months 4 weeks ago"
+    "changed": "3 months ago"
   },
   {
     "title": "Little Mesa Fire",
@@ -879,7 +879,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "3 days 10 hours ago"
+    "changed": "3 days 13 hours ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1404,7 +1404,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "10 hours 55 minutes ago"
+    "changed": "13 hours 31 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "1 day ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "5 days 21 hours ago"
+    "changed": "5 days 23 hours ago"
   },
   {
     "title": "Taos Ski Valley Special Use Permit Burn Piles",
@@ -1908,7 +1908,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 days 4 hours ago"
+    "changed": "3 days 6 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1929,7 +1929,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "5 days 6 hours ago"
+    "changed": "5 days 9 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1971,7 +1971,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "6 days 6 hours ago"
+    "changed": "6 days 8 hours ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2055,7 +2055,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 days 6 hours ago"
+    "changed": "2 days 8 hours ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2076,7 +2076,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "2 days 6 hours ago"
+    "changed": "2 days 8 hours ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2118,7 +2118,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "6 days 2 hours ago"
+    "changed": "6 days 5 hours ago"
   },
   {
     "title": "Lafitte",
@@ -2223,7 +2223,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "1 day 11 hours ago"
+    "changed": "1 day 14 hours ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2286,7 +2286,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days 2 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2328,19 +2328,19 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "2 hours 47 minutes ago"
+    "changed": "5 hours 23 minutes ago"
   },
   {
     "title": "Steep Valley Fire",
     "lat_deg": "37",
     "long_deg": "81",
-    "field_percent_of_perimeter": "95",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-09T11:18:00-05:00\">2023-11-09</time>\n",
     "id": "316770",
-    "field_incident_overview": "<h4><strong>UPDATE - NOV. 19, 2023:</strong> </h4><ul><li><h5><strong>Activity - </strong>no new fire growth</h5></li><li><h5><strong>Size -</strong> continues to hold at 2,206 acres</h5></li><li><h5><strong>Containment -</strong> up to 95%</h5></li></ul><p>The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire is under investigation. Occasional fire updates will be posted here until fire managers are confident the fire is fully suppresed and contained. Management of the fire transitioned to a Type 4 organization at 6:00 AM, Saturday, November 18th.</p><p>The War Ridge Campground and the Backus Mountain area are currently the only areas in the park that remain closed at this time. The access road beyond the campground is closed as well. For detailed information about the closure area, please visit the <a href=\"https://inciweb.nwcg.gov/incident-closures/wvnrp-steep-valley-fire\"><strong>Closures section</strong></a> of this incident page. View a <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/wvnrp-steep-valley-fire\"><strong>Map</strong></a> of the closure area around the fire. The remainder of the park is open for normal hours of operation. Park and fire managers will reassess the fire closures when conditions warrant any changes.</p><p>Visitors to New RIver Gorge National Park &amp; Preserve are reminded that launching, landing or operating of any/all drones (UAS) is strictly prohibited within the park boundary. For complete information about the ban of drone use at the park, please review the park's <a href=\"https://www.nps.gov/neri/learn/management/superintendents-compendium.htm#Unmanned%20Aircraft\"><span><strong>Superintendent's Compendium</strong></span></a>.</p><p>Photo: Pockets of active fire behavior on Thursday evening, November 16th, as seen from a reconnaissance flight.<br />NPS Photo/Nate Orsburn</p>",
+    "field_incident_overview": "<h4><strong>FINAL UPDATE - NOV. 20th, 2023:</strong> </h4><ul><li>This is the final update for the Steep Valley Fire. Fire managers have determined that containment lines are secured and have declared the fire area to be 100% contained. Fire activity is minimal and much of the work that firefighters have been tasked with has been completed. The final acreage for the fire stands at 2,206 acres. Remaining resources are in the process of demobilizing and/or being reassigned. Locally assigned resources will monitor any remaining pockets of minimal activity and respond as necessary.<br /> </li></ul><h4>CLOSURE AREA UPDATE:</h4><ul><li>The War Ridge Campground and the Backus Mountain area are now reopened to the public. Visitors entering these areas are strongly encouraged to remain vigilant of their surroundings due to possible fire-weakened trees scattered throughout. <span>People are encouraged however, to avoid the area due to potentially hazardous conditions.</span></li></ul><p><br />The Steep Valley Fire in New River Gorge National Park and Preserve was discovered on Monday, November 6th, 2023, at around 2:00 PM. The cause of the fire remains under investigation.</p><p>Visitors to New RIver Gorge National Park &amp; Preserve are reminded that launching, landing or operating of any/all drones (UAS) is strictly prohibited within the park boundary. For complete information about the ban of drone use at the park, please review the park's <a href=\"https://www.nps.gov/neri/learn/management/superintendents-compendium.htm#Unmanned%20Aircraft\"><span><strong>Superintendent's Compendium</strong></span></a>.</p><p>Photo: Pockets of active fire behavior on Thursday evening, November 16th, as seen from a reconnaissance flight.<br />NPS Photo/Nate Orsburn</p>",
     "size": "2206",
     "lat_min": "50",
     "lat_sec": "17.304",
@@ -2349,7 +2349,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "1 day 2 hours ago"
+    "changed": "5 seconds ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2391,7 +2391,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "2 seconds ago"
+    "changed": "2 hours 35 minutes ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -2412,7 +2412,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "5 days 21 hours ago"
+    "changed": "5 days 23 hours ago"
   },
   {
     "title": "947 Fire",
@@ -2433,7 +2433,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "1 day 22 hours ago"
+    "changed": "2 days 1 hour ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2454,6 +2454,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "20 seconds ago"
+    "changed": "2 hours 36 minutes ago"
   }
 ]
