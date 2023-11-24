@@ -1341,7 +1341,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 days 23 hours ago"
+    "changed": "4 days ago"
   },
   {
     "title": "Marmot Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "4 days 13 hours ago"
+    "changed": "4 days 14 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -2160,7 +2160,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "5 days ago"
+    "changed": "5 days 1 hour ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2265,7 +2265,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "3 days 15 hours ago"
+    "changed": "3 days 16 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2313,13 +2313,13 @@
     "title": "Matts Creek Fire",
     "lat_deg": "37",
     "long_deg": "79",
-    "field_percent_of_perimeter": "84",
+    "field_percent_of_perimeter": "88",
     "type": "Wildfire",
     "field_incident_description": "Wildfire",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-13T11:57:20-05:00\">2023-11-13</time>\n",
     "id": "316811",
-    "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-publication/vavaf-matts-creek-fire/matts-creek-fire-update-nov-23-2023\">Daily Update</a> | <a href=\"https://www.facebook.com/GWJNF/videos/1051692995879555/\">Daily Operational Briefing</a> | <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-11/pio_11x17_port_20231122_1641_MattsCreek_VAVAF230128_1123day_opt.pdf?VersionId=ZK5R2eeJx0uYnrfgLjp7kuvVgCHblHky\">Map</a> | <a href=\"https://inciweb.nwcg.gov/incident-publication/vavaf-matts-creek-fire/matts-creek-fire-final-smoke-outlook-nov-22\">Smoke Outlook</a> | <a href=\"https://inciweb.nwcg.gov/incident-closures/vavaf-matts-creek-fire\">Closures</a> | </p><p> </p><p><span>The Matts Creek Fire, burning 5 miles southeast of Glasgow, Virginia and 4 miles northwest of Big Island, Virginia, started on Nov. 12. The fire is located south of US-501 and the James River within the James River Face Wilderness on the Jefferson National Forest. Within the James River Face Wilderness, motorized equipment and aircraft are normally prohibited, except for emergencies. Early in the fire response, firefighters were authorized to use chainsaws, leaf blowers, portable pumps and aircraft to aid suppression efforts. </span></p><p><span>The fire is on National Forest and Blue Ridge Parkway lands in Bedford and Rockbridge Counties.</span></p><p> </p><p>There are numerous closures and restrictions for the fire area.</p><p><strong>Temporary Flight Restrictions: </strong>The Temporary Flight Restriction around the fire area has been lifted.</p><p><strong>Road Closures:</strong> Petites Gap Road (FSR35) remains closed to all public use above the local spring and the Blue Ridge Parkway. The Blue Ridge Parkway is now open along the fire perimeter (from milepost 66.3, near US Highway 501, to milepost 85.9, at VA Route 43). </p><p><strong>Closures:</strong> The James River Face Wilderness and all associated trails, including a section of Appalachian National Scenic Trail, are closed to all public use due to remaining hazards and fire suppression repair. <span>The following areas are temporarily closed to allow for public and fire fighter safety:</span></p><ul><li><span>Locher Tract</span></li><li><span>Glenwood Horse Trail (FT#3004) from the Blue Ridge Parkway to the Hellgate Trailhead</span></li><li><span>Appalachian Trail (FT #1) from James River Foot Bridge to Petites Gap Road (FR #35)</span></li><li><span>James River Foot Bridge Parking Lot</span></li><li><span>Matts Creek Trail (FT #4/Old A.T.)</span></li><li><span>Piney Ridge Trail (FT #2)      </span></li><li><span>Gunther Ridge Trail (FT #8)</span></li><li><span>Belfast Trail (FT #9) </span></li><li><span>Sulphur Springs Trail (FT# 3001)</span></li></ul><p><span>Use caution and obey all road signs for your safety. Motorists should be alert for firefighter vehicles and smoke.<strong> </strong></span></p><p><span><strong>Fire Restrictions: </strong></span><em><span><strong>Stage 1 Fire Restrictions are in effect. </strong></span></em><span><strong> </strong>For the protection of public health and safety, the following acts are prohibited on all lands administered by George Washington &amp; Jefferson National Forest. </span></p><p><span>      1. Building, maintaining, attending, or using a fire or campfire outside of developed recreation sites. </span></p><p><span>      2. Possessing, discharging, or using any kind of firework or other pyrotechnic device. </span></p><p><span>Campfires in a Forest Service provided metal fire pit, ring or grill at a developed recreation site are allowed.</span></p><p> </p><p><span>For forest information for the George Washington &amp; Jefferson National Forests, visit </span><a href=\"http://www.fs.usda.gov/gwj\"><span>www.fs.usda.gov/gwj</span></a><span> or follow us on Facebook, </span><a href=\"http://www.facebook.com/GWJNF\"><span>www.facebook.com/GWJNF</span></a><span> </span></p><p class=\"text-align-right\"> </p><p class=\"text-align-center\"> </p><p class=\"text-align-center\"> </p>",
+    "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-publication/vavaf-matts-creek-fire/matts-creek-fire-update-nov-23-2023\">Daily Update</a> | <a href=\"https://www.facebook.com/GWJNF/videos/686377499938692/\">Daily Operational Briefing</a> | <a href=\"https://inciweb-prod-media-bucket.s3.us-gov-west-1.amazonaws.com/s3fs-public/2023-11/pio_11x17_port_20231123_1351_MattsCreek_VAVAF230128_1124day_opt.pdf?VersionId=IAHyIvin2cUkNlKrUl_n52h8pzoUeUjH\">Map</a> | <a href=\"https://inciweb.nwcg.gov/incident-publication/vavaf-matts-creek-fire/matts-creek-fire-final-smoke-outlook-nov-22\">Smoke Outlook</a> | <a href=\"https://inciweb.nwcg.gov/incident-closures/vavaf-matts-creek-fire\">Closures</a> | </p><p> </p><p><span>The Matts Creek Fire, burning 5 miles southeast of Glasgow, Virginia and 4 miles northwest of Big Island, Virginia, started on Nov. 12. The fire is located south of US-501 and the James River within the James River Face Wilderness on the Jefferson National Forest. Within the James River Face Wilderness, motorized equipment and aircraft are normally prohibited, except for emergencies. Early in the fire response, firefighters were authorized to use chainsaws, leaf blowers, portable pumps and aircraft to aid suppression efforts. </span></p><p><span>The fire is on National Forest and Blue Ridge Parkway lands in Bedford and Rockbridge Counties.</span></p><p> </p><p>There are numerous closures and restrictions for the fire area.</p><p><strong>Temporary Flight Restrictions: </strong>The Temporary Flight Restriction around the fire area has been lifted.</p><p><strong>Road Closures:</strong> Petites Gap Road (FSR35) remains closed to all public use above the local spring and the Blue Ridge Parkway. The Blue Ridge Parkway is now open along the fire perimeter (from milepost 66.3, near US Highway 501, to milepost 85.9, at VA Route 43). </p><p><strong>Closures:</strong> The James River Face Wilderness and all associated trails, including a section of Appalachian National Scenic Trail, are closed to all public use due to remaining hazards and fire suppression repair. <span>The following areas are temporarily closed to allow for public and fire fighter safety:</span></p><ul><li><span>Locher Tract</span></li><li><span>Glenwood Horse Trail (FT#3004) from the Blue Ridge Parkway to the Hellgate Trailhead</span></li><li><span>Appalachian Trail (FT #1) from James River Foot Bridge to Petites Gap Road (FR #35)</span></li><li><span>James River Foot Bridge Parking Lot</span></li><li><span>Matts Creek Trail (FT #4/Old A.T.)</span></li><li><span>Piney Ridge Trail (FT #2)      </span></li><li><span>Gunther Ridge Trail (FT #8)</span></li><li><span>Belfast Trail (FT #9) </span></li><li><span>Sulphur Springs Trail (FT# 3001)</span></li></ul><p><span>Use caution and obey all road signs for your safety. Motorists should be alert for firefighter vehicles and smoke.<strong> </strong></span></p><p><span><strong>Fire Restrictions: </strong></span><em><span><strong>Stage 1 Fire Restrictions are in effect. </strong></span></em><span><strong> </strong>For the protection of public health and safety, the following acts are prohibited on all lands administered by George Washington &amp; Jefferson National Forest. </span></p><p><span>      1. Building, maintaining, attending, or using a fire or campfire outside of developed recreation sites. </span></p><p><span>      2. Possessing, discharging, or using any kind of firework or other pyrotechnic device. </span></p><p><span>Campfires in a Forest Service provided metal fire pit, ring or grill at a developed recreation site are allowed.</span></p><p> </p><p><span>For forest information for the George Washington &amp; Jefferson National Forests, visit </span><a href=\"http://www.fs.usda.gov/gwj\"><span>www.fs.usda.gov/gwj</span></a><span> or follow us on Facebook, </span><a href=\"http://www.facebook.com/GWJNF\"><span>www.facebook.com/GWJNF</span></a><span> </span></p><p class=\"text-align-right\"> </p><p class=\"text-align-center\"> </p><p class=\"text-align-center\"> </p>",
     "size": "11020",
     "lat_min": "35",
     "lat_sec": "31.3",
@@ -2328,7 +2328,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "12 seconds ago"
+    "changed": "15 seconds ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -2370,7 +2370,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "5 days 11 hours ago"
+    "changed": "5 days 12 hours ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2391,6 +2391,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 days 13 hours ago"
+    "changed": "2 days 14 hours ago"
   }
 ]
