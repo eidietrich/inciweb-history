@@ -357,27 +357,6 @@
     "changed": "3 weeks 1 day ago"
   },
   {
-    "title": "Anderson Complex",
-    "lat_deg": "64 ",
-    "long_deg": "149",
-    "field_percent_of_perimeter": "87",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-30T13:19:58-04:00\">2023-07-30</time>\n",
-    "id": "313823",
-    "field_incident_overview": "<p>11 new fires started in State of Alaska protection jurisdiction and 10 in BLM Alaska Fire Service after more than 7,000 ground strikes were detected on Wednesday, July 26. </p>\n\n<p>The Anderson Complex, which was established on Saturday, July 29 to manage multiple fires in the Anderson-Clear area. The complex includes the following fires,</p>\n\n<ul><li><strong>Teklanika River Fire (#257)</strong></li>\n\t<li><strong>Kobe Road Fire (#297)</strong></li>\n\t<li><strong>Birch Creek Fire (#285)</strong></li>\n\t<li><strong>Nenana River Fire (#288)</strong></li>\n\t<li><strong>Nenana River 2 Fire (#289)</strong>. </li>\n\t<li><strong>Shores Landing (#273) -</strong> (Originally known as Pilot Fire)</li>\n\t<li><strong><span>Bear Creek (#286)</span></strong></li>\n\t<li><strong><span>Rock Creek (#287)</span></strong></li>\n</ul><p> </p>\n\n<ul></ul><p>Fires in the Complex are primarily burning in dense black spruce stands. Winds fed rapid fire growth on several of the fires within the complex. The largest is the Rock Creek Fire (#287).</p>\n\n<p>Great Basin Team 3, a type 2 incident management team (IMT) led by Brett Waters, took over management of the fire at 0800 on July 31, 2023</p>\n\n<ul></ul>",
-    "size": "58933",
-    "lat_min": "16",
-    "lat_sec": "20",
-    "urlPath": "/akfas-anderson-complex",
-    "long_min": "25",
-    "long_sec": "20",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AKFAS Anderson Complex",
-    "changed": "3 months ago"
-  },
-  {
     "title": "Tin Soldier Fire",
     "lat_deg": "47",
     "long_deg": "113",
@@ -564,7 +543,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "2 days 11 hours ago"
+    "changed": "2 days 14 hours ago"
   },
   {
     "title": "Sidney Fire",
@@ -606,7 +585,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "2 days 11 hours ago"
+    "changed": "2 days 14 hours ago"
   },
   {
     "title": "Salmon Fire",
@@ -837,7 +816,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "6 days 14 hours ago"
+    "changed": "6 days 17 hours ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -1362,7 +1341,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 days 15 hours ago"
+    "changed": "3 days 18 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1635,7 +1614,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "4 days 5 hours ago"
+    "changed": "4 days 8 hours ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1866,7 +1845,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "6 days 8 hours ago"
+    "changed": "6 days 11 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -2013,7 +1992,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "2 days 11 hours ago"
+    "changed": "2 days 14 hours ago"
   },
   {
     "title": "Mill Creek 2 Fire",
@@ -2034,7 +2013,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "2 days 11 hours ago"
+    "changed": "2 days 14 hours ago"
   },
   {
     "title": "H&amp;H Complex",
@@ -2181,7 +2160,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "4 days 16 hours ago"
+    "changed": "4 days 19 hours ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2244,7 +2223,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "6 days 3 hours ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2286,7 +2265,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "3 days 6 hours ago"
+    "changed": "3 days 10 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2307,7 +2286,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "3 days 1 hour ago"
+    "changed": "3 days 4 hours ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2349,7 +2328,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "10 hours 45 minutes ago"
+    "changed": "13 hours 46 minutes ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -2391,7 +2370,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "5 days 3 hours ago"
+    "changed": "5 days 6 hours ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2412,6 +2391,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 days 4 hours ago"
+    "changed": "2 days 7 hours ago"
   }
 ]
