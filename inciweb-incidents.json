@@ -1026,7 +1026,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "1 day 21 hours ago"
+    "changed": "1 day 22 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1236,7 +1236,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "6 seconds ago"
+    "changed": "36 minutes 31 seconds ago"
   },
   {
     "title": "Marmot Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "18 hours 16 minutes ago"
+    "changed": "18 hours 52 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2160,7 +2160,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "6 days 16 hours ago"
+    "changed": "6 days 17 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2223,7 +2223,7 @@
     "long_sec": "15.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Matts Creek Fire",
-    "changed": "23 hours 15 minutes ago"
+    "changed": "23 hours 51 minutes ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -2286,6 +2286,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "5 days 14 hours ago"
+    "changed": "5 days 15 hours ago"
   }
 ]
