@@ -186,7 +186,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "4 weeks ago"
+    "changed": "4 weeks 1 day ago"
   },
   {
     "title": "Sequoia National Forest Emergency Flood Response",
@@ -609,48 +609,6 @@
     "changed": "1 month 2 weeks ago"
   },
   {
-    "title": "Pogo Mine Road Fire",
-    "lat_deg": "64",
-    "long_deg": "145",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-10T15:36:32-04:00\">2023-08-10</time>\n",
-    "id": "314373",
-    "field_incident_overview": "<p>Pogo Mine Road Fire (#191) is a lightning-caused wildfire 15 miles north of Delta Junction off of the Richardson Highway near Quartz Lake.<strong> </strong>The fire started during lightning storms at the end of July. </p>\n\n<p>For two weeks, Alaska Division of Forestry and Fire Protection resources from the Delta station responded to the wildfire and protected private property and infrastructure. On August 10 at 6:00 am, a Type 3 Incident Management Team arrived arrived to help manage the Pogo Mine Road and Mount Hayes Fires. </p>\n\n<p>Firefighters are focused on structure protection, which includes point protection on private property, native allotments, and Pogo Mine infrastructure. Aviation resources including Helicopters and scooper planes have helped keep the fire in check during wind events.</p>\n\n<p>Detailed statewide wildfire information: <a href=\"https://akfireinfo.com/\">AK Fire Info</a></p>\n\n<p>Videos and shorts: <a href=\"https://www.youtube.com/channel/UCypTXBNEhYwY1KUUGRP_jBw\">Alaska_DOF YouTube</a></p>",
-    "size": "48792",
-    "lat_min": "16",
-    "lat_sec": "48",
-    "urlPath": "/akdas-pogo-mine-road-fire",
-    "long_min": "56",
-    "long_sec": "20",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AKDAS Pogo Mine Road Fire",
-    "changed": "3 months ago"
-  },
-  {
-    "title": "Mount Hayes Fire",
-    "lat_deg": "63",
-    "long_deg": "145",
-    "field_percent_of_perimeter": "1",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-10T15:41:50-04:00\">2023-08-10</time>\n",
-    "id": "314376",
-    "field_incident_overview": "<p>Mount Hayes Fire (#299) is a lightning-caused wildfire 7 miles south of Deltana off of the Alaska Highway near the Gerstle River.<strong> </strong>The fire started during lightning storms at the end of July. </p>\n\n<p>For two weeks, Alaska Division of Forestry and Fire Protection resources from the Delta station responded to the wildfire and protected private property and infrastructure. On August 10 at 6:00 am, a Type 3 Incident Management Team arrived arrived to help manage the Pogo Mine Road and Mount Hayes Fires.</p>\n\n<p>The fire is being managed for multiple objectives including habitat restoration, point protection and preventing the fire from spreading to the Alaska Highway. Three public-use cabins owned by Alaska Fish and Game are being protected.</p>\n\n<p> </p>\n\n<p>Detailed statewide wildfire information: <a href=\"https://akfireinfo.com/\">AK Fire Info</a></p>\n\n<p>Videos and shorts: <a href=\"https://www.youtube.com/channel/UCypTXBNEhYwY1KUUGRP_jBw\">Alaska_DOF YouTube</a> </p>\n\n<p> </p>",
-    "size": "6720",
-    "lat_min": "44",
-    "lat_sec": "19",
-    "urlPath": "/akdas-mount-hayes-fire",
-    "long_min": "7",
-    "long_sec": "12",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AKDAS Mount Hayes Fire",
-    "changed": "3 months ago"
-  },
-  {
     "title": "2023 - York Fire Burned Area Emergency Response (BAER)",
     "lat_deg": "35",
     "long_deg": "115",
@@ -861,27 +819,6 @@
     "changed": "2 months 4 weeks ago"
   },
   {
-    "title": "Valentine Fire",
-    "lat_deg": "34",
-    "long_deg": "110",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": " <br />\r\n <br />\r\n",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-24T20:05:13-04:00\">2023-08-24</time>\n",
-    "id": "315008",
-    "field_incident_overview": "<p><span><span><span><span>The Valentine fire is a lightning caused wildfire that continues to be managed under a confine/contain strategy with the goal of reintroducing fire into a fire dependent ecosystem that has been excluded for more than 50 years. The intended result of managing naturally caused fires are to reduce hazardous fuels, encourage the growth of native forage, improve range conditions, increase species diversity, protect and improve wildlife habitat, improve watershed conditions and restore ecological balance while decreasing unnaturally high accumulations of fuel thus decreasing the potential for future fires to burn with unnaturally high severity in support of the Forest Service Wildfire Crisis Strategy </span></span><a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\"><span>https://www.fs.usda.gov/managing-land/wildfire-crisis</span></a><span><span><span>.  </span></span></span><span><span><span><span><span>A local Type 3 Incident Management Organization has assumed command of the fire</span></span></span></span></span><span><span><span><span><span><span>. </span></span></span></span></span></span></span></span></p>\n\n<p><span><span> </span></span></p>",
-    "size": "9644",
-    "lat_min": "14",
-    "lat_sec": "34",
-    "urlPath": "/aztnf-valentine-fire",
-    "long_min": "51",
-    "long_sec": "23",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZTNF Valentine Fire",
-    "changed": "1 month 3 weeks ago"
-  },
-  {
     "title": "Tiger Island Fire",
     "lat_deg": "30.",
     "long_deg": "93",
@@ -1026,7 +963,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1236,7 +1173,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 21 minutes ago"
+    "changed": "4 hours 23 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1761,7 +1698,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "6 seconds ago"
+    "changed": "1 hour 2 minutes ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1803,7 +1740,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "Capilla Prescribed Fire Mountainair RD Cibola NFNGs",
@@ -2118,7 +2055,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "22 hours 49 minutes ago"
+    "changed": "23 hours 51 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2139,7 +2076,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "2 weeks 1 day ago"
+    "changed": "2 weeks 2 days ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2160,7 +2097,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "21 hours 17 minutes ago"
+    "changed": "22 hours 19 minutes ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2265,6 +2202,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 days 17 hours ago"
+    "changed": "6 days 18 hours ago"
   }
 ]
