@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "11 minutes 1 second ago"
+    "changed": "48 minutes 19 seconds ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -1152,7 +1152,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "13 hours 48 minutes ago"
+    "changed": "14 hours 26 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1677,7 +1677,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "22 hours 28 minutes ago"
+    "changed": "23 hours 6 minutes ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1929,7 +1929,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "2 weeks 1 day ago"
+    "changed": "2 weeks 2 days ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -1956,13 +1956,13 @@
     "title": "2023 Collett Ridge Fire",
     "lat_deg": "35",
     "long_deg": "83",
-    "field_percent_of_perimeter": "80",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-06T16:14:25-05:00\">2023-11-06</time>\n",
     "id": "316738",
-    "field_incident_overview": "<p><strong>Highlights</strong>: <span>This will be the <strong>final update </strong>on the Collett Ridge Fire from the Southern Area Incident Management Team Blue Team. The National Forests of North Carolina will assume command of the incident on Saturday, November 18. Crews will continue to monitor and patrol, perform mop-up operations, such as extinguishing any lingering hotspots, and remain available to respond to any new fires. Smoke will continue to be visible as forest floor fuels and snags continue to smolder.</span></p>",
+    "field_incident_overview": "<p><strong>Highlights November 22, 2023: </strong><span>The Collett Ridge Fire received 1.25 inches of rain resulting in minimal fire activity, no additional growth, and wetting of light fuels such as leaf litter, which was the primary fuel source for the fire. There may continue to be smoke within the interior of the fire perimeter, due to heavier fuels such as logs or stumps that may continue to smolder. No additional fire growth is expected. This will be the final update. </span></p>",
     "size": "5505",
     "lat_min": "9",
     "lat_sec": "37",
@@ -1971,7 +1971,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "2 minutes 40 seconds ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -2034,7 +2034,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "3 hours 13 minutes ago"
+    "changed": "3 hours 50 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2076,7 +2076,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "1 day 19 hours ago"
+    "changed": "1 day 20 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2181,6 +2181,6 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "4 seconds ago"
+    "changed": "10 seconds ago"
   }
 ]
