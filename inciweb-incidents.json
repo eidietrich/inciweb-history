@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "5 seconds ago"
+    "changed": "4 hours 54 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -123,7 +123,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -144,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "Mountainair RD Capilla Prescribed Fire - Pile Burn ",
@@ -165,7 +165,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "11 minutes 1 second ago"
+    "changed": "5 hours 5 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 weeks 1 day ago"
+    "changed": "3 weeks 2 days ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -375,7 +375,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "Tin Soldier Fire",
@@ -396,7 +396,7 @@
     "long_sec": "02",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Tin Soldier Fire",
-    "changed": "2 months 3 weeks ago"
+    "changed": "2 months 4 weeks ago"
   },
   {
     "title": "Big Knife",
@@ -480,7 +480,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "AKFAS Lost Horse Creek Fire",
-    "changed": "2 months 4 weeks ago"
+    "changed": "3 months ago"
   },
   {
     "title": "Black Feather Fire",
@@ -963,7 +963,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 5 hours ago"
   },
   {
     "title": "Petes Lake Fire",
@@ -1110,7 +1110,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 weeks 1 day ago"
+    "changed": "3 weeks 2 days ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1173,7 +1173,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "15 hours 38 minutes ago"
+    "changed": "20 hours 32 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1470,27 +1470,6 @@
     "changed": "2 weeks ago"
   },
   {
-    "title": "Taos Ski Valley Special Use Permit Burn Piles",
-    "lat_deg": "36",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-18T14:45:32-04:00\">2023-09-18</time>\n",
-    "id": "316095",
-    "field_incident_overview": "<p>The Taos Ski Valley specials use permit burn piles will address fuels reduction within the resort boundary. The piles are mostly the result of clean-up after the December 2021 snow squall, which brought hurricane force winds to the area that fell thousands of trees. Some piles were also created from regular hazard tree mitigation and new trail development. <span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The piles are located in the lower frontside, lower frontside steeps, Minnesota’s and parts of the backside.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Ignitions will be conducted by fire-qualified Taos Ski Valley, Inc., staff, and may include other local fire departments, working under Forest Service leadership. The project will take at least two days, possibly more.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Piles currently visible along Highway 150 and the Wheeler Peak Trail are slated for burning this winter. They were created from 300 acres of thinning as part of the </span><a href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1142104.pdf\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Highway 150 Corridor Wildland Urban Interface Project</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">.</span><span> </span></p><p lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Both projects are in the Enchanted Circle Landscape and support efforts of the </span><a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Wildfire Crisis Strategy</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">.</span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span></p>",
-    "size": "90",
-    "lat_min": "35",
-    "lat_sec": "36.2",
-    "urlPath": "/nmcaf-taos-ski-valley-special-use-permit-burn-piles",
-    "long_min": "27",
-    "long_sec": "14.0",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Taos Ski Valley Special Use Permit Burn Piles",
-    "changed": "4 weeks 1 day ago"
-  },
-  {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
     "lat_deg": "44.",
     "long_deg": "-116",
@@ -1656,7 +1635,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 week 4 days ago"
+    "changed": "1 week 5 days ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1677,7 +1656,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 day ago"
+    "changed": "1 day 5 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1719,7 +1698,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -1845,7 +1824,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Lafitte",
@@ -1866,7 +1845,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "La Junta Fire",
@@ -1887,7 +1866,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -1950,7 +1929,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "1 hour 9 minutes ago"
+    "changed": "6 hours 4 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1971,7 +1950,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
@@ -1992,7 +1971,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "3 weeks 1 day ago"
+    "changed": "3 weeks 2 days ago"
   },
   {
     "title": "Mililani Mauka ",
@@ -2013,7 +1992,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "5 hours 3 minutes ago"
+    "changed": "9 hours 57 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2034,7 +2013,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "2 weeks 2 days ago"
+    "changed": "2 weeks 3 days ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -2055,7 +2034,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "1 day 21 hours ago"
+    "changed": "2 days 2 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2160,6 +2139,27 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "1 hour 8 minutes ago"
+    "changed": "6 hours 2 minutes ago"
+  },
+  {
+    "title": "Highway 150 Corridor Wildland Urban Interface Project",
+    "lat_deg": "36",
+    "long_deg": "105",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-29T17:35:13-05:00\">2023-11-29</time>\n",
+    "id": "316885",
+    "field_incident_overview": "<p>The eight-mile ride up Highway 150 from Valdez, NM, takes visitors through a narrow, forested canyon of Carson National Forest to the world famous Taos Ski Valley. Beside the road, the cascading Rio Hondo runs its course toward the Rio Grande, providing miles of fishing and feeding domestic and agricultural water along the way.</p><p>A close inspection of the trees shows that this critically important canyon is at risk of insect and disease infestation. Left untreated, the area could experience large-scale tree mortality, resulting in high fuel accumulations increasing the fire hazard.</p><p>Work to reduce fuels within and outside the forest has been underway since 2019. In collaboration with Taos County and partners, fuels reduction work has occurred on land within and adjacent to the national forest. The project is a priority of the <a href=\"https://www.taoscountywildfire.org/tvwc\">Taos Valley Watershed Coalition</a>.</p><p>This winter, crews are planning on pile burning along the highway between Valdez, NM, and Taos Ski Valley, as well as up the Wheeler Peak Trail to the Bull of the Woods Meadow.</p><p>This project is one of many within the Enchanted Circle Landscape, one of the highest-risk areas to wildfire in the country and a priority of the national <a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\">Wildfire Crisis Strategy</a>.</p>",
+    "size": "",
+    "lat_min": "34",
+    "lat_sec": "27",
+    "urlPath": "/nmcaf-highway-150-corridor-wildland-urban-interface-project",
+    "long_min": "30",
+    "long_sec": "41",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
+    "changed": "2 minutes 31 seconds ago"
   }
 ]
