@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "4 hours 54 minutes ago"
+    "changed": "5 hours 14 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -165,7 +165,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "5 hours 5 minutes ago"
+    "changed": "5 hours 25 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -945,27 +945,6 @@
     "changed": "1 month 2 weeks ago"
   },
   {
-    "title": "Redwood Fire",
-    "lat_deg": "36",
-    "long_deg": "118",
-    "field_percent_of_perimeter": "70",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-29T21:04:08-04:00\">2023-08-29</time>\n",
-    "id": "315230",
-    "field_incident_overview": "<p><strong>This incident is no longer being updated. </strong></p><p><span>Update 11/25/23: The parks are utilizing an indirect confine-and-contain suppression strategy for the Redwood Fire.  Fire activity remains in isolated pockets on the Redwood Fire and may still be intermittently visible from Moro Rock or other locations in the Giant Forest. The fire is currently measured at 2,248 acres. The Redwood Fire is expected to reach 100% containment via winter weather. </span></p><p> </p>",
-    "size": "2248",
-    "lat_min": "32",
-    "lat_sec": "",
-    "urlPath": "/caknp-redwood-fire",
-    "long_min": "38",
-    "long_sec": "",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAKNP Redwood Fire",
-    "changed": "4 days 5 hours ago"
-  },
-  {
     "title": "Petes Lake Fire",
     "lat_deg": "43",
     "long_deg": "121",
@@ -1173,7 +1152,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "20 hours 32 minutes ago"
+    "changed": "20 hours 53 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1614,7 +1593,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "4 weeks ago"
+    "changed": "4 weeks 1 day ago"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -1929,7 +1908,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "6 hours 4 minutes ago"
+    "changed": "6 hours 24 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1992,7 +1971,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "9 hours 57 minutes ago"
+    "changed": "10 hours 17 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2139,7 +2118,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 hours 2 minutes ago"
+    "changed": "6 hours 22 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -2160,6 +2139,6 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "2 minutes 31 seconds ago"
+    "changed": "6 minutes 29 seconds ago"
   }
 ]
