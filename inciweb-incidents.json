@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "7 hours 20 minutes ago"
+    "changed": "8 hours 8 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "35 seconds ago"
+    "changed": "3 seconds ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -165,7 +165,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "7 hours 31 minutes ago"
+    "changed": "8 hours 19 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -1131,7 +1131,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "22 hours 58 minutes ago"
+    "changed": "23 hours 46 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 day 7 hours ago"
+    "changed": "1 day 8 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1887,7 +1887,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "8 hours 30 minutes ago"
+    "changed": "9 hours 18 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1950,7 +1950,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "12 hours 23 minutes ago"
+    "changed": "13 hours 11 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1992,7 +1992,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "2 days 4 hours ago"
+    "changed": "2 days 5 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2076,7 +2076,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "8 hours 28 minutes ago"
+    "changed": "9 hours 16 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -2118,6 +2118,27 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "1 hour 32 minutes ago"
+    "changed": "25 minutes 23 seconds ago"
+  },
+  {
+    "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
+    "lat_deg": "36",
+    "long_deg": "105",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-11-29T20:06:12-05:00\">2023-11-29</time>\n",
+    "id": "316887",
+    "field_incident_overview": "<p>The Carson National Forest is implementing the Kiowa-San Cristobal Wildland Urban Interface Project to reduce hazardous fuels on Forest Service land by thinning and safely reintroducing fire around San Cristobal, NM, which is surrounded by forest.</p><p>With the arrival of snow, around 800 acres of prescribed fire are identified for pile and jackpot burning in 2023 and 2024.</p><p>The project is also opening areas for personal fuelwood and forest products collection. Improvements to riparian corridors and range allotments are included in project work to increase forest health and resilience. The project was approved in 2017 and work began shortly after.</p><p>The project is one of the priorities of the <a href=\"https://www.taoscountywildfire.org/tvwc\">Taos Valley Watershed Coalition</a>, as well as USDA Forest Service's <a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\">Wildfire Crisis Strategy</a>, which is focusing on high-risk areas like the Enchanted Circle Landscape.</p>",
+    "size": "",
+    "lat_min": "35",
+    "lat_sec": "06",
+    "urlPath": "/nmcaf-kiowasan-cristobal-wildland-urban-interface-project",
+    "long_min": "38",
+    "long_sec": "27",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
+    "changed": "21 minutes 15 seconds ago"
   }
 ]
