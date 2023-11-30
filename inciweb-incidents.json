@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "5 hours 48 minutes ago"
+    "changed": "7 hours 20 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 months ago"
+    "changed": "35 seconds ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -165,7 +165,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "5 hours 59 minutes ago"
+    "changed": "7 hours 31 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -186,7 +186,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 weeks 1 day ago"
+    "changed": "2 weeks 2 days ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -334,27 +334,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
     "changed": "2 months ago"
-  },
-  {
-    "title": "Elkhorn Fire",
-    "lat_deg": "45",
-    "long_deg": "115",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-25T19:00:23-04:00\">2023-07-25</time>\n",
-    "id": "313655",
-    "field_incident_overview": "<p><strong><span><span><span><span><span><span>Fire Update – Elkhorn Fire, August 25, 2023</span></span></span></span></span></span></strong></p>\n\n<p><span><span><span><span><span><span><strong>McCall, Idaho</strong> – The Elkhorn Fire is 26,048 acres and 88% complete. Minimal smoldering fire activity has been observed. Scattered showers and thunderstorms are expected today. Warmer drier weather is expected early next week. While recent precipitation has helped to substantially limit fire activity and growth, some heat may remain in the heavy dead and down vegetation on the forest floor until the area receives significant, repeated rain or snow. Fire activity within the remote wilderness may increase during periods of hotter, drier weather but is not expected to threaten values at risk.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>Structure defense equipment on values in the Salmon River canyon above Arctic Lodge has been removed by helicopter and boat. Firefighters and heavy equipment will continue suppression repair on mechanical line, handlines, and roads.</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span>Boaters passing through and camping in the area of the Elkhorn Fire should be aware that fire activity has significantly altered the landscape on both sides of the river in the area. Please use caution when floating through the fire area, and be especially on the lookout for falling rocks, logs, and other debris. Heavy rains on burned areas may create new river hazards and rapids. Camping, recreating (e.g., picnics, bathroom breaks, beach walking) and stopping through the area of Elkhorn Fire activity is allowed with some exceptions. Once past Hancock Camp (River Mile 26.1) there is no stopping until boaters pass Magpie Creek Camp (River Mile 29.6). After passing Magpie Creek Camp, boaters will be allowed to camp and recreate on a First Come, First Served basis everywhere except Upper Allison, Allison, Lower Allison, and Whitewater Camp. After passing Whitewater Ranch (River Mile 39) there are no restrictions connected to the Elkhorn Fire</span></span><strong><span><span>. For additional information on rafting, contact the river desk at 208-756-5587 or 208-481-2625.</span></span></strong></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span>Effective August 25, 2023 at 0001 hours, the U.S. Forest Service Nez Perce-Clearwater and Payette National Forests Elkhorn Fire area, roads and trails closure order #</span></span><span><a href=\"https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices/?aid=82169\"><span>01-17-05-23-003,</span></a></span> <span><a href=\"https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices/?aid=82169.\"><span>https://www.fs.usda.gov/alerts/nezperceclearwater/alerts-notices/?aid=82169</span></a></span><span><span>,</span></span><span><span> which spanned both sides of the Salmon River but excludes the Salmon River Wild and Scenic Corridor below the high-water line has been rescinded. </span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span>The Temporary Flight Restriction (TFR) in place for a two-mile buffer around the fire perimeter will be rescinded at 9:00 p.m. tonight. All aircraft (including drones) not assigned to the fire are required to remain out of the TFR area between 9:00 a.m. and 9:00 p.m.</span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span>The National Incident Management Organization Team 4 will be transitioning command of the fire to a local Type 4 organization on Saturday, August 26. <strong>This will be the final update unless significant events occur.</strong></span></span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span><span>Beginning August 26, please contact the Payette National Forest Fire Information Hotline at 208-634-0820 for fire information. </span></span></span><span><span>Fire information updates will available on </span></span><span><span>InciWeb at</span></span> <a href=\"https://inciweb.nwcg.gov/incident-information/idpaf-elkhorn-fire\"><span>https://inciweb.nwcg.gov/incident-information/idpaf-elkhorn-fire</span></a><span><span> and the Payette National Forest Facebook at </span></span><a href=\"https://www.facebook.com/payettenationalforest\"><span>https://www.facebook.com/payettenationalforest</span></a><span><span><span>.</span></span></span></span></span></span></span></p>",
-    "size": "26048",
-    "lat_min": "30",
-    "lat_sec": "15",
-    "urlPath": "/idpaf-elkhorn-fire",
-    "long_min": "18",
-    "long_sec": "55",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "IDPAF Elkhorn Fire",
-    "changed": "3 months ago"
   },
   {
     "title": "Lowline Fire",
@@ -1152,7 +1131,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "21 hours 26 minutes ago"
+    "changed": "22 hours 58 minutes ago"
   },
   {
     "title": "Marmot Fire",
@@ -1635,7 +1614,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1908,7 +1887,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "6 hours 58 minutes ago"
+    "changed": "8 hours 30 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1971,7 +1950,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "10 hours 51 minutes ago"
+    "changed": "12 hours 23 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2013,7 +1992,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "2 days 3 hours ago"
+    "changed": "2 days 4 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2118,7 +2097,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 hours 56 minutes ago"
+    "changed": "8 hours 28 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -2139,6 +2118,6 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "10 seconds ago"
+    "changed": "1 hour 32 minutes ago"
   }
 ]
