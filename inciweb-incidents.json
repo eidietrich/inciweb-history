@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "8 hours 8 minutes ago"
+    "changed": "18 hours 40 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 seconds ago"
+    "changed": "10 hours 31 minutes ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -165,7 +165,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "8 hours 19 minutes ago"
+    "changed": "18 hours 51 minutes ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -1131,7 +1131,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "23 hours 46 minutes ago"
+    "changed": "1 day 10 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1152,7 +1152,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAYNP Marmot Fire",
-    "changed": "1 month 4 weeks ago"
+    "changed": "2 months ago"
   },
   {
     "title": "Jan Fire",
@@ -1173,7 +1173,7 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAYNP Jan Fire",
-    "changed": "1 month 4 weeks ago"
+    "changed": "2 months ago"
   },
   {
     "title": "Chiquito Fire",
@@ -1194,7 +1194,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAYNP Chiquito Fire",
-    "changed": "1 month 4 weeks ago"
+    "changed": "2 months ago"
   },
   {
     "title": "Spring Creek",
@@ -1236,7 +1236,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "WANCP 2023 Sourdough Fire Burned Area Emergency Response BAER",
-    "changed": "2 months ago"
+    "changed": "2 months 1 week ago"
   },
   {
     "title": "South Slope / Roza Slope",
@@ -1425,7 +1425,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -1467,7 +1467,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "1 month 4 weeks ago"
+    "changed": "2 months ago"
   },
   {
     "title": "Hope Fire ",
@@ -1614,7 +1614,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 day 8 hours ago"
+    "changed": "1 day 18 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1887,7 +1887,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "9 hours 18 minutes ago"
+    "changed": "19 hours 49 minutes ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1935,7 +1935,7 @@
     "title": "Mililani Mauka ",
     "lat_deg": "21",
     "long_deg": "157",
-    "field_percent_of_perimeter": "90",
+    "field_percent_of_perimeter": "95",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -1950,7 +1950,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "13 hours 11 minutes ago"
+    "changed": "5 seconds ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1992,7 +1992,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "2 days 5 hours ago"
+    "changed": "2 days 16 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2013,7 +2013,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "1 week 1 day ago"
+    "changed": "1 week 2 days ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -2055,7 +2055,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "947 Fire",
@@ -2097,7 +2097,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "9 hours 16 minutes ago"
+    "changed": "19 hours 48 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -2118,7 +2118,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "25 minutes 23 seconds ago"
+    "changed": "10 hours 57 minutes ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -2139,6 +2139,6 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "21 minutes 15 seconds ago"
+    "changed": "10 hours 52 minutes ago"
   }
 ]
