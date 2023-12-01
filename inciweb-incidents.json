@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 23 hours ago"
+    "changed": "38 seconds ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 15 hours ago"
+    "changed": "1 day 16 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -1068,7 +1068,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "19 hours 33 minutes ago"
+    "changed": "20 hours 9 minutes ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1131,7 +1131,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 days 15 hours ago"
+    "changed": "2 days 16 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1656,7 +1656,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 weeks 2 days ago"
+    "changed": "2 weeks 3 days ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -1971,7 +1971,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -1992,7 +1992,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "3 days 21 hours ago"
+    "changed": "3 days 22 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "9 seconds ago"
+    "changed": "35 minutes 41 seconds ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -2139,6 +2139,6 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "3 minutes 20 seconds ago"
+    "changed": "38 minutes 52 seconds ago"
   }
 ]
