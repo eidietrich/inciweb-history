@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "38 seconds ago"
+    "changed": "7 minutes 18 seconds ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -1053,7 +1053,7 @@
     "title": "Anvil Fire",
     "lat_deg": "42",
     "long_deg": "124",
-    "field_percent_of_perimeter": "80",
+    "field_percent_of_perimeter": "95",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -1068,7 +1068,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "20 hours 9 minutes ago"
+    "changed": "2 seconds ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1614,7 +1614,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "3 days ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1950,7 +1950,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "1 day 5 hours ago"
+    "changed": "1 day 6 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -2118,7 +2118,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "35 minutes 41 seconds ago"
+    "changed": "42 minutes 21 seconds ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -2139,6 +2139,6 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "38 minutes 52 seconds ago"
+    "changed": "45 minutes 32 seconds ago"
   }
 ]
