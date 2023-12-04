@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "51 minutes 55 seconds ago"
+    "changed": "1 minute 32 seconds ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 hours 52 minutes ago"
+    "changed": "4 hours 3 minutes ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -607,27 +607,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "WA0617 2023 Airplane Lake OWF",
     "changed": "2 months ago"
-  },
-  {
-    "title": "East",
-    "lat_deg": "44",
-    "long_deg": "115",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-16T20:57:59-04:00\">2023-08-16</time>\n",
-    "id": "314638",
-    "field_incident_overview": "<p><span><span><strong>Forest Service fighting East Fire near Cascade</strong></span></span></p>\n\n<p><span><span>The East Fire is located on the Boise National Forest about ten miles east of Cascade near the junctions of Forest Roads 409 and 405. The fire was first spotted burning in heavy timber late afternoon on August 16 and quickly grew to about 100 acres the first evening.  The fire burned actively overnight and by the next day it was estimated to be about 1,690 acres and grew throughout the day. </span></span></p>\n\n<p><span><span>Firefighting resources responded quickly to suppress by utilizing seven single engine air tankers and four large air tankers who dropped retardant continuously until daylight ended. Scooper planes, retardant planes, and helicopters will continue to be utilized to assist firefighters on the ground.  Crews consisting of about 20 people arrived as soon as they could and continue to arrive from around the country to aid the fight. </span></span></p>\n\n<p><span><span>By August 18 the fire was mapped at 2750 acres as crews continued to arrive and construct fireline with an anchor point at East Mountain repeater site. Aircraft and scooper planes flew throughout the day, but the fire spread to the north and east into the Middle Fork drainage.  As of Aug 19, an infrared flight mapped the fire at 4158 acres even as the higher humidities and a little moisture hit the fire in the evening.  </span></span></p>\n\n<p>The Great Basin Incident Management Type 2 Team took command of the fire on August 20 and had a good transition day with local fire managers to continue plans of suppressing the fire and keeping firefighters safe. </p>\n\n<p><span><span>An area closure took effect Aug 18, 2023 at 6:00pm: Order number 0402-04-102 and maps are available in the \"maps\" tab. </span></span></p>\n\n<p>From Saturday afternoon Aug 17, 2023 to Tuesday Aug, 22 the fire area received 2.23\" of rain.  Due to that rain firefighters stayed off of the wet muddy roads as much as possible in order to reduce damage that the vehicles could have caused. </p>\n\n<p>As some warming and drying occurred after the storm, crews re-engaged in suppression activities and mainly focusing on the western and northern edges of the fire perimeter. As of August 30th, the fire is 59% contained and crews have made good progress on containing the northern and western edges of the fire perimeter.  The uncontained portion of the fire is the eastern edge that is located in the Middle Fork Payette River Drainage.  That area is steep, rugged terrain, with limited access.  That area of the fire will continue to be monitored by personnel such as lookout and aircraft. </p>\n\n<p>Transfer of command back to the local district will occur on Wednesday 8/30 at 1800, and the closure area has been reduced.  See closure tab and order #0402-04-103. </p>",
-    "size": "3313",
-    "lat_min": "28",
-    "lat_sec": "4",
-    "urlPath": "/idbof-east",
-    "long_min": "50",
-    "long_sec": "37",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "IDBOF East",
-    "changed": "2 seconds ago"
   },
   {
     "title": "Blue Lake Fire",
@@ -1467,7 +1446,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 weeks 2 days ago"
+    "changed": "2 weeks 3 days ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1845,7 +1824,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "6 days 23 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "Steep Valley Fire",
