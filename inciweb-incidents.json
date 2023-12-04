@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 18 hours ago"
+    "changed": "2 days 15 hours ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 days 15 hours ago"
+    "changed": "4 days 13 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -123,7 +123,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Magic Feather Prescribed Burn",
@@ -144,7 +144,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "2 weeks 3 days ago"
+    "changed": "2 weeks 4 days ago"
   },
   {
     "title": "Mountainair RD Capilla Prescribed Fire - Pile Burn ",
@@ -165,7 +165,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "4 days ago"
+    "changed": "4 days 21 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -186,7 +186,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 weeks 5 days ago"
+    "changed": "2 weeks 6 days ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -312,7 +312,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "Bowles Creek Fire",
@@ -417,28 +417,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Ridge Fire",
-    "changed": "2 months 2 weeks ago"
-  },
-  {
-    "title": "Lost Horse Creek Fire",
-    "lat_deg": "65",
-    "long_deg": "147",
-    "field_percent_of_perimeter": "23",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-04T23:47:37-04:00\">2023-08-04</time>\n",
-    "id": "314060",
-    "field_incident_overview": "<p>The Lost Horse Creek Fire, located 22 miles north of Fairbanks, started on July 28, 2023 from a lightning strike and was primarily burning in black spruce forest. The fire was managed with initial attack until it expanded considerably on August 2 that led to evacuation orders. The Alaska Type 2 Incident Management Team assumed command on August 4 at 8am. On August 22 at 8am, Type 3 Organization Incident Commander Mike Haisten assumed command.</p>\n\n<p><span><span><span><span><span>If notable fire activity occurs, updates will be provided on <a href=\"https://akfireinfo.com/\">AK Fire Info</a>, <a href=\"https://www.facebook.com/AK.Forestry\">Alaska DNR-DOF Facebook Page</a>, and InciWeb. Starting Monday, August 21 at 8pm, the public and media should call the Alaska statewide fire information line at 907-356-5511 with any questions.</span></span></span></span></span></p>\n\n<p> </p>\n\n<p> </p>",
-    "size": "9317",
-    "lat_min": "09",
-    "lat_sec": "44",
-    "urlPath": "/akfas-lost-horse-creek-fire",
-    "long_min": "44",
-    "long_sec": "47",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AKFAS Lost Horse Creek Fire",
-    "changed": "3 months ago"
+    "changed": "2 months 3 weeks ago"
   },
   {
     "title": "Quartz Ridge Fire",
@@ -480,7 +459,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Sidney Fire",
-    "changed": "1 month 3 weeks ago"
+    "changed": "1 month 4 weeks ago"
   },
   {
     "title": "Bear Creek Fire",
@@ -606,7 +585,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "2 weeks 2 days ago"
+    "changed": "2 weeks 3 days ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -669,7 +648,7 @@
     "long_sec": "34.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOWF Blue Lake Fire",
-    "changed": "2 months ago"
+    "changed": "2 months 1 week ago"
   },
   {
     "title": "Deep Fire",
@@ -984,7 +963,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "1 month 3 weeks ago"
+    "changed": "1 month 4 weeks ago"
   },
   {
     "title": "Anvil Fire",
@@ -1005,7 +984,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 day 23 hours ago"
+    "changed": "2 days 20 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1026,7 +1005,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "1 month 3 weeks ago"
+    "changed": "1 month 4 weeks ago"
   },
   {
     "title": "Elizabeth Fire",
@@ -1048,27 +1027,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
     "changed": "1 month 3 weeks ago"
-  },
-  {
-    "title": "Lolo National Forest Prescribed Fire Operations ",
-    "lat_deg": "46",
-    "long_deg": "113",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "Prescribed fires help reduce hazardous fuels, restore wildlife habitat, and create better protection around communities from future wildfires.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-10T09:58:41-04:00\">2023-09-10</time>\n",
-    "id": "315767",
-    "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-announcement/mtlnf-lolo-national-forest-fall-prescribed-fires\">Announcements</a>    <a href=\"https://inciweb.nwcg.gov/incident-closures/mtlnf-lolo-national-forest-fall-prescribed-fires\">Closures</a>   <a href=\"https://inciweb.nwcg.gov/incident-news/mtlnf-lolo-national-forest-fall-prescribed-fires\">News</a>     <a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/mtlnf-lolo-national-forest-fall-prescribed-fires\">Photographs</a>    <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/mtlnf-lolo-national-forest-fall-prescribed-fires\">Maps</a></p><p><span>The Lolo National Forest along with their interagency partners and neighbors, are planning fall prescribed fires across the forest.  These burns help reduce hazardous fuels, restore wildlife habitat, and create better protection around communities from future wildfires. Prescribed fire operations could begin as soon as this week and may continue throughout the fall on multiple Ranger Districts when fuel and weather conditions become favorable. </span></p><p><span>Prescribed fires are carefully planned and implemented in accordance with a written burn plan. Prior to implementation, local fire managers coordinate with local cooperators, counties, and partners. When prescription criteria are met, firefighters implement, monitor, and patrol each burn to ensure it meets forest health and public safety goals.</span></p><p><span>All prescribed fires will be implemented in compliance with Montana air quality standards and coordinated with the Montana Department of Environmental Quality and the appropriate county health departments to reduce the impacts of smoke to neighbors, cooperators, and surrounding communities. Smoke may settle in valley bottoms and drainages overnight, but it is expected to dissipate within a few days.</span></p><p><span>Some of these prescribed fires are supported through partnerships with Montana DNRC, Nature Conservancy, Missoula and Frenchtown Rural Fire Departments, Bureau of Land Management, Rocky Mountain Elk Foundation, Mule Deer Foundation, National Wild Turkey Federation, and Upland Game Bird Enhancement Group.</span></p><p>More information on prescribed fires can be found <a href=\"https://www.fs.usda.gov/detail/lolo/fire/?cid=fseprd1139761\">here</a>. </p><p><span><strong>See the </strong></span><a href=\"https://inciweb.nwcg.gov/incident-announcement/mtlnf-lolo-national-forest-fall-prescribed-fires\"><span><strong>'Announcements'</strong></span></a><span><strong> and </strong></span><a href=\"https://inciweb.nwcg.gov/incident-news/mtlnf-lolo-national-forest-fall-prescribed-fires\"><span><strong>'News'</strong></span></a><span><strong> Tabs for the latest information on planned prescribed fires.</strong></span><br /><br /> </p>",
-    "size": "",
-    "lat_min": "49",
-    "lat_sec": "76",
-    "urlPath": "/mtlnf-lolo-national-forest-prescribed-fire-operations",
-    "long_min": "55",
-    "long_sec": "73",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "4 days 15 hours ago"
   },
   {
     "title": "Marmot Fire",
@@ -1341,7 +1299,7 @@
     "long_sec": "30.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "1 week 6 days ago"
+    "changed": "2 weeks ago"
   },
   {
     "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
@@ -1362,7 +1320,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -1530,7 +1488,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 weeks 1 day ago"
+    "changed": "2 weeks 2 days ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1551,7 +1509,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "5 days ago"
+    "changed": "5 days 21 hours ago"
   },
   {
     "title": "2023 - Sourgrass RX Burn",
@@ -1593,7 +1551,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -1719,7 +1677,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "Lafitte",
@@ -1740,7 +1698,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "La Junta Fire",
@@ -1761,7 +1719,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF La Junta Fire",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -1824,7 +1782,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 22 hours ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1845,7 +1803,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "3 weeks 3 days ago"
+    "changed": "3 weeks 4 days ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville &amp; Truckee Ranger District Pileburn Projects",
@@ -1866,7 +1824,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
-    "changed": "3 weeks 5 days ago"
+    "changed": "3 weeks 6 days ago"
   },
   {
     "title": "Mililani Mauka ",
@@ -1887,7 +1845,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "3 days 5 hours ago"
+    "changed": "4 days 2 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1908,7 +1866,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -1929,7 +1887,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "5 days 21 hours ago"
+    "changed": "6 days 18 hours ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -1950,7 +1908,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "1 week 5 days ago"
+    "changed": "1 week 6 days ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -1971,7 +1929,7 @@
     "long_sec": "58",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP March 2023 Broyles Gap Fire",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -1992,7 +1950,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "2 weeks 4 days ago"
+    "changed": "2 weeks 5 days ago"
   },
   {
     "title": "947 Fire",
@@ -2013,7 +1971,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -2034,7 +1992,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 22 hours ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -2055,7 +2013,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "2 days ago"
+    "changed": "2 days 21 hours ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -2076,6 +2034,6 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "1 day 20 hours ago"
+    "changed": "2 days 17 hours ago"
   }
 ]
