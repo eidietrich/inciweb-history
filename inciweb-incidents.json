@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 hours 12 minutes ago"
+    "changed": "3 hours 2 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "30 minutes 44 seconds ago"
+    "changed": "15 minutes 47 seconds ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -144,7 +144,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "6 days ago"
+    "changed": "6 days 1 hour ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -921,7 +921,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 days 23 hours ago"
+    "changed": "4 days ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1467,7 +1467,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "2023-STF-Waterhouse Fire ",
@@ -1677,7 +1677,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "6 days 1 hour ago"
+    "changed": "6 days 2 hours ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1740,7 +1740,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "5 days 5 hours ago"
+    "changed": "5 days 6 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1761,7 +1761,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "3 weeks 1 day ago"
+    "changed": "3 weeks 2 days ago"
   },
   {
     "title": "2023 Quaker Run Fire",
@@ -1872,14 +1872,14 @@
     "title": "2023 Black Bear Fire",
     "lat_deg": "35",
     "long_deg": "83",
-    "field_percent_of_perimeter": "80",
+    "field_percent_of_perimeter": "90",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2023-11-17T09:59:57-05:00\">2023-11-17</time>\n",
     "id": "316843",
-    "field_incident_overview": "<p><strong>Highlights November 22, 2023: </strong><span>Recent rainfall across the fire has moderated fire activity resulting in minimal activity and no additional growth at this time. Firefighters will monitor fire behavior and patrol the fire area for potential hot spots. Heavy fuels such as logs or stumps may continue to produce smoke.</span></p><p>This will be the final update on the Black Bear Fire unless significant activity occurs. </p><p><span><strong>Closures November 24, 2023:</strong> Due to reduced fire activity and increased containment of the Black Bear Fire on the Appalachian Ranger District, Pisgah National Forest in Haywood County, the U.S. Forest Service is reducing the closure area, effective immediately. Brown Gap Road will remain closed for firefighter safety as crews continue to work in the area. The rest of the closure area is now open.</span></p>",
-    "size": "1888",
+    "field_incident_overview": "<p><strong>Highlights December 4, 2023: </strong><span>There was increased fire activity on the Black Bear Fire beginning on December 1, 2023. Fire crews were monitoring containment and working in the area when they noticed that the fire had moved across Snowbird Creek, through 1000-hour fuels. The estimated size of the fire grew by 120 acres. Crews recovered containment lines and secured the area around Snowbird Creek and Painter Branch in the days that followed. They will continue to monitor and secure firelines throughout the week.</span></p><p><span><strong>Closures December 4, 2023:</strong> The section of the Appalachian Trail from I-40 to Brown Gap Rd. remains closed. Brown Gap Road will also remain closed for firefighter safety as crews continue to work in the area. </span></p>",
+    "size": "2008",
     "lat_min": "45",
     "lat_sec": "20",
     "urlPath": "/ncncf-2023-black-bear-fire",
@@ -1887,7 +1887,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 days 1 hour ago"
+    "changed": "10 seconds ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1908,7 +1908,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "4 days ago"
+    "changed": "4 days 1 hour ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1929,7 +1929,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "3 days 20 hours ago"
+    "changed": "3 days 21 hours ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1950,6 +1950,6 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "1 hour 2 minutes ago"
+    "changed": "1 hour 52 minutes ago"
   }
 ]
