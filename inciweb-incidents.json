@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 6 hours ago"
+    "changed": "1 day 7 hours ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 3 hours ago"
+    "changed": "1 day 4 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -1341,7 +1341,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "23 hours 14 minutes ago"
+    "changed": "23 hours 44 minutes ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1803,7 +1803,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 hours 46 minutes ago"
+    "changed": "7 hours 16 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1824,7 +1824,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "21 hours 32 minutes ago"
+    "changed": "22 hours 2 minutes ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1845,7 +1845,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "53 minutes 24 seconds ago"
+    "changed": "1 hour 23 minutes ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1866,7 +1866,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "56 minutes 35 seconds ago"
+    "changed": "1 hour 27 minutes ago"
   },
   {
     "title": "Ojo Sarco Piles, Green Fuelwood Areas Project",
@@ -1878,7 +1878,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-12-05T12:33:57-05:00\">2023-12-05</time>\n",
     "id": "316899",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Piles created from 137 acres of thinning to the south of Ojo Sarco, NM (</span><a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/nmcaf-ojo-sarco-piles-rio-trampas-project\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">map</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">), are ready for prescribed fire treatment. Fire managers are monitoring forecasts and ground conditions before ignitions. Once burned, crews will patrol and monitor the piles until they are called out.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The piles were created as are part of the Green Fuelwood Areas Project, which aims to restore forest health and resiliency next to communities while providing fuelwood and other wood product opportunities to residents.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The ponderosa forests around Ojo Sarco are fire-dependent and must undergo fire disturbance on a regular basis to maintain resiliency. After prescribed fires are completed, if a future wildfire reaches an area, the fire behavior will likely be modified to a less intense, more manageable surface fire making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">(Photo: Ojo Sarco piles in March 2023)</span></p>",
+    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Piles created from 137 acres of thinning to the south of Ojo Sarco, NM (</span><a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/nmcaf-ojo-sarco-piles-rio-trampas-project\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">map</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">), are ready for prescribed fire treatment. Fire managers are monitoring forecasts and ground conditions before ignitions. Once burned, crews will patrol and monitor the piles until they are called out.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The piles were created as are part of the Green Fuelwood Areas Project, which aims to restore forest health and resiliency next to communities while providing fuelwood and other wood product opportunities to residents.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The ponderosa forests around Ojo Sarco are fire-dependent and must undergo fire disturbance on a regular basis to maintain resiliency. After prescribed fires are completed, if a future wildfire reaches an area, the fire behavior will likely be modified to a less intense, more manageable surface fire making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">(Photo: Ojo Sarco piles in March 2023)</span></p><p><em><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">For the Record: An earlier version of this overview mistakenly called the project the Rio Trampas Project. It is the Green Fuelwood Areas Project.</span></em></p>",
     "size": "",
     "lat_min": "06",
     "lat_sec": "05",
@@ -1887,6 +1887,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "31 seconds ago"
+    "changed": "10 seconds ago"
   }
 ]
