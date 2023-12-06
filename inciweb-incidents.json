@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 2 hours ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -1176,48 +1176,6 @@
     "changed": "1 month 4 weeks ago"
   },
   {
-    "title": "Alamosa Unit 1 Prescribed Fire",
-    "lat_deg": "36",
-    "long_deg": "106",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-18T14:20:44-04:00\">2023-09-18</time>\n",
-    "id": "316091",
-    "field_incident_overview": "<p>This 4,500-acre project adjacent to Vallecitos, NM, will maintain forest health within an area that was first treated with prescribed fire in 2014. Fire-dependent forests in the Southwestern Region must undergo fire disturbance on a regular basis to maintain resiliency. If a future wildfire reaches an area with recent fire history, fire behavior is likely to be modified to a less intense, more <span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">manageable surface fire, making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Smoke</strong></span></p><p><span>Smoke is expected to mainly move to the east and may impact areas as far as the Taos and Moreno valleys when ignitions are in progress. Sometimes winds will push smoke in a different direction. Check the </span><a href=\"https://fire.airnow.gov/#\">Fire and Smoke Map</a><span> to check local air quality and for protective actions.</span></p><p><span><strong>Sustainable Rangelands</strong></span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Alamosa Unit 1 Prescribed Fire will also serve to maintain sustainable rangelands. The unit is part of the larger Jarita Mesa and Alamosa Grazing Allotments Project, which allows livestock grazing in a manner that balances it with Carson National Forest’s goals for rangeland vegetation, soil, watershed and wildlife habitat.</span></p>",
-    "size": "4500",
-    "lat_min": "26",
-    "lat_sec": "44.1",
-    "urlPath": "/nmcaf-alamosa-unit-1-prescribed-fire",
-    "long_min": "08",
-    "long_sec": "30.3",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Alamosa Unit 1 Prescribed Fire",
-    "changed": "2 weeks 2 days ago"
-  },
-  {
-    "title": "McCrystal Rock Unit, Valle Vidal Northeast Prescribed Fire",
-    "lat_deg": "36",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-18T14:44:06-04:00\">2023-09-18</time>\n",
-    "id": "316094",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The 6,333-acre McCrystal Rock Unit is part of the larger 21,000-acre Valle Vidal Northeast Prescribed Fire Project. The goal is to improve wildlife habitat by, in part, promoting grassland and meadow regeneration and reducing the potential for high-severity wildfires in forested areas.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire crews have used prescribed fire to treat most of the project area in recent years, including a 1,694-acre unit in 2016 and a 2,000-acre unit in 2009. The 2002 Ponil Complex Fire burn area is also within the unit and the 2017 Whitman Fire is adjacent.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Fire-adapted forests in the Southwest must undergo fire disturbance on a regular basis to maintain resiliency. Reintroducing and maintaining regular fire intervals in the Valle Vidal, the so-called “Yellowstone of the Southwest,” is a key component of the USDA Forest Service’s </span><a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Wildfire Crisis Strategy</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">. The emphasis of the strategy is to increase fuels and forest health treatments to protect natural resources in designated landscapes, including the 1.5-million-acre </span><a href=\"https://experience.arcgis.com/experience/0fe032e92fad464fbcdc7faf12cd7928/page/Enchanted-Circle/?data_id=dataSource_28-180de4cd8a9-layer-6%3A2480\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Enchanted Circle Landscape</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"> in Northern New Mexico.</span></p>",
-    "size": "4075",
-    "lat_min": "47",
-    "lat_sec": "36.6",
-    "urlPath": "/nmcaf-mccrystal-rock-unit-valle-vidal-northeast-prescribed-fire",
-    "long_min": "07",
-    "long_sec": "16.4",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "3 weeks ago"
-  },
-  {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
     "lat_deg": "44.",
     "long_deg": "-116",
@@ -1383,7 +1341,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "22 hours 13 minutes ago"
+    "changed": "22 hours 24 minutes ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1845,7 +1803,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "5 hours 45 minutes ago"
+    "changed": "5 hours 56 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1866,7 +1824,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "20 hours 31 minutes ago"
+    "changed": "20 hours 41 minutes ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1879,7 +1837,7 @@
     "created": "<time datetime=\"2023-11-29T20:06:12-05:00\">2023-11-29</time>\n",
     "id": "316887",
     "field_incident_overview": "<p>The Carson National Forest is implementing the Kiowa-San Cristobal Wildland Urban Interface Project to reduce hazardous fuels on Forest Service land by thinning and safely reintroducing fire around San Cristobal, NM, which is surrounded by forest.</p><p>With the arrival of snow, around 800 acres of prescribed fire are identified for pile and jackpot burning in 2023 and 2024.</p><p>The project is also opening areas for personal fuelwood and forest products collection. Improvements to riparian corridors and range allotments are included in project work to increase forest health and resilience. The project was approved in 2017 and work began shortly after.</p><p>The project is one of the priorities of the <a href=\"https://www.taoscountywildfire.org/tvwc\">Taos Valley Watershed Coalition</a>, as well as USDA Forest Service's <a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\">Wildfire Crisis Strategy</a>, which is focusing on high-risk areas like the Enchanted Circle Landscape.</p>",
-    "size": "",
+    "size": "29",
     "lat_min": "35",
     "lat_sec": "06",
     "urlPath": "/nmcaf-kiowasan-cristobal-wildland-urban-interface-project",
@@ -1887,7 +1845,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "5 days ago"
+    "changed": "3 minutes 1 second ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1900,7 +1858,7 @@
     "created": "<time datetime=\"2023-12-04T16:48:52-05:00\">2023-12-04</time>\n",
     "id": "316896",
     "field_incident_overview": "<p><span>Fire crews plan to treat piles created from over 500 acres of thinning about five miles southeast of Hopewell Lake in winter 2023-2024.</span></p><p>The piles are part of the Rio Tusas-Lower San Antonio Landscape Restoration Project, which seeks to <span>conserve and restore the area's landscape to increase forest ecosystem sustainability and resiliency to natural disturbances, such as drought and climatic variability, insects, disease, fire and wind.</span></p><p><span>The project is part of a larger effort called the</span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"> </span><a href=\"https://www.fs.usda.gov/features/common-ground-rio-chama\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Rio Chama Collaborative Forest Landscape Restoration Project</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">, which spans 3.8 million acres in Northern New Mexico and Southern Colorado. Project work by the Forest Service and partners is addressing forest and watershed health, which is tied to water used in downstream communities.</span></p><p><span>(Photo: A pile in the Willow Unit in February 2023)</span></p><p> </p>",
-    "size": "441",
+    "size": "550",
     "lat_min": "39",
     "lat_sec": "47",
     "urlPath": "/nmcaf-willow-piles-rio-tusaslower-san-antonio-landscape-restoration-project",
@@ -1908,7 +1866,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "6 seconds ago"
+    "changed": "6 minutes 12 seconds ago"
   },
   {
     "title": "Ojo Sarco Piles, Rio Trampas Project",
@@ -1929,6 +1887,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Rio Trampas Project",
-    "changed": "21 hours 9 minutes ago"
+    "changed": "21 hours 19 minutes ago"
   }
 ]
