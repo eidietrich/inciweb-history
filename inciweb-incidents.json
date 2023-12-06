@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "7 hours 31 minutes ago"
+    "changed": "8 hours 35 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "4 hours 44 minutes ago"
+    "changed": "5 hours 48 minutes ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -144,28 +144,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "6 days 5 hours ago"
-  },
-  {
-    "title": "Ojo Sarco Piles Prescribed Fire",
-    "lat_deg": "36",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-02-14T16:31:36-05:00\">2023-02-14</time>\n",
-    "id": "312626",
-    "field_incident_overview": "<p>Ignitions of piles outside Ojo Sarco, NM, could begin as early as Mar. 7. The piles, which were created from 137 acres of thinning, are south of the community and along New Mexico Highway 76 (<a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/nmcaf-ojo-sarco-piles-prescribed-fire\">map</a>). </p>\n\n<p>This is a continuation of years of work to provide fuelwood opportunities and increase forest health and resiliency around Ojo Sarco, which is positioned atop sloped terrain aligned with predominate southwest winds. A fire start southwest of the community is a concern to fire managers because the typical southwesterly flow of winds could spread a fire to the northeast, where the community is situated. But with reduced fuel around the community because of this project, a safer space is created for firefighters to engage a wildfire and for crews to safely continue prescribed fire as a fuels reduction tool in the wildland-urban interface. </p>\n\n<p>“I’m eager to see these piles addressed before the spring so they do not add to any fire danger over the upcoming fire season” said Camino Real District Ranger Michael Lujan. “Getting to this point has been a long journey, but we couldn’t do it without the support of the public and partner organizations.”</p>\n\n<p>The 417-acre Ojo Sarco project has had several phases, including a public green fuelwood block in 2016, a thinning contract in 2017 and hand piling by Rocky Mountain Youths Corps followed by prescribed fire in 2018. The remaining 137 acres were thinned and piled this past summer by local contractors from Mora and Taos, who were subcontracted by the nonprofit – and Carson National Forest partner – New Mexico Forest Industry Association. The area has been opened several times throughout the life of the project to offer dead and down fuelwood to the public. </p>\n\n<p>On the ground, local fire departments are assisting. Red River Fire Department, along with Forest Service crews, constructed control line along the unit boundary. The Ojo Sarco Volunteer Fire Department is planning to assist Forest Service crews with ignitions of the piles along Highway 76 this winter.</p>\n\n<p>(Photo: Ojo Sarco piles as seen from Highway 76 on the morning of March 2, 2023)</p>",
-    "size": "137",
-    "lat_min": "05",
-    "lat_sec": "58",
-    "urlPath": "/nmcaf-ojo-sarco-piles-prescribed-fire",
-    "long_min": "46",
-    "long_sec": "48",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Ojo Sarco Piles Prescribed Fire",
-    "changed": "1 hour 6 minutes ago"
+    "changed": "6 days 6 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -186,7 +165,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "2023/2024 - Cleveland National Forest Fuel Treatments ",
@@ -942,7 +921,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "4 days 5 hours ago"
+    "changed": "4 days 6 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1425,7 +1404,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "19 seconds ago"
+    "changed": "1 hour 4 minutes ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1698,7 +1677,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "6 days 6 hours ago"
+    "changed": "6 days 7 hours ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1761,7 +1740,7 @@
     "long_sec": "20",
     "measurement_type": "Acres",
     "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "5 days 11 hours ago"
+    "changed": "5 days 12 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1845,7 +1824,7 @@
     "long_sec": "58",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP March 2023 Broyles Gap Fire",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -1908,7 +1887,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "4 hours 28 minutes ago"
+    "changed": "5 hours 32 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1929,7 +1908,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "4 days 5 hours ago"
+    "changed": "4 days 6 hours ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1950,7 +1929,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "4 days 1 hour ago"
+    "changed": "4 days 3 hours ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1963,7 +1942,7 @@
     "created": "<time datetime=\"2023-12-04T16:48:52-05:00\">2023-12-04</time>\n",
     "id": "316896",
     "field_incident_overview": "<p><span>Fire crews plan to treat piles created from over 500 acres of thinning about five miles southeast of Hopewell Lake in winter 2023-2024.</span></p><p>The piles are part of the Rio Tusas-Lower San Antonio Landscape Restoration Project, which seeks to <span>conserve and restore the area's landscape to increase forest ecosystem sustainability and resiliency to natural disturbances, such as drought and climatic variability, insects, disease, fire and wind.</span></p><p><span>The project is part of a larger effort called the</span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"> </span><a href=\"https://www.fs.usda.gov/features/common-ground-rio-chama\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Rio Chama Collaborative Forest Landscape Restoration Project</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">, which spans 3.8 million acres in Northern New Mexico and Southern Colorado. Project work by the Forest Service and partners is addressing forest and watershed health, which is tied to water used in downstream communities.</span></p><p><span>(Photo: A pile in the Willow Unit in February 2023)</span></p><p> </p>",
-    "size": "",
+    "size": "441",
     "lat_min": "39",
     "lat_sec": "47",
     "urlPath": "/nmcaf-willow-piles-rio-tusaslower-san-antonio-landscape-restoration-project",
@@ -1971,6 +1950,27 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "4 hours 4 minutes ago"
+    "changed": "6 minutes 11 seconds ago"
+  },
+  {
+    "title": "Ojo Sarco Piles, Rio Trampas Project",
+    "lat_deg": "36",
+    "long_deg": "105",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-12-05T12:33:57-05:00\">2023-12-05</time>\n",
+    "id": "316899",
+    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Piles created from 137 acres of thinning to the south of Ojo Sarco, NM (</span><a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/nmcaf-ojo-sarco-piles-rio-trampas-project\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">map</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">), are ready for prescribed fire treatment. Fire managers are monitoring forecasts and ground conditions before ignitions. Once burned, crews will patrol and monitor the piles until they are called out.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The piles were created as are part of the Rio Trampas Project, which aims to restore forest health and resiliency next to communities while providing fuelwood and other wood product opportunities to residents.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The ponderosa forests around Ojo Sarco are fire-dependent and must undergo fire disturbance on a regular basis to maintain resiliency. After prescribed fires are completed, if a future wildfire reaches an area, the fire behavior will likely be modified to a less intense, more manageable surface fire making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">(Photo: Ojo Sarco piles in March 2023)</span></p>",
+    "size": "",
+    "lat_min": "06",
+    "lat_sec": "05",
+    "urlPath": "/nmcaf-ojo-sarco-piles-rio-trampas-project",
+    "long_min": "46",
+    "long_sec": "45",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NMCAF Ojo Sarco Piles Rio Trampas Project",
+    "changed": "6 seconds ago"
   }
 ]
