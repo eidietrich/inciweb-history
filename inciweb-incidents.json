@@ -1341,7 +1341,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "23 hours 13 minutes ago"
+    "changed": "23 hours 14 minutes ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1803,7 +1803,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 hours 45 minutes ago"
+    "changed": "6 hours 46 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1824,7 +1824,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "21 hours 30 minutes ago"
+    "changed": "21 hours 32 minutes ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1845,7 +1845,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "51 minutes 59 seconds ago"
+    "changed": "53 minutes 24 seconds ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1866,7 +1866,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "55 minutes 10 seconds ago"
+    "changed": "56 minutes 35 seconds ago"
   },
   {
     "title": "Ojo Sarco Piles, Green Fuelwood Areas Project",
@@ -1887,6 +1887,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "10 seconds ago"
+    "changed": "31 seconds ago"
   }
 ]
