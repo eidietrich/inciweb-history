@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "9 hours 13 minutes ago"
+    "changed": "11 hours 54 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "6 hours 26 minutes ago"
+    "changed": "9 hours 7 minutes ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -144,7 +144,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "6 days 7 hours ago"
+    "changed": "6 days 10 hours ago"
   },
   {
     "title": "2023 - Eldorado National Forest Projects",
@@ -921,7 +921,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "4 days 6 hours ago"
+    "changed": "4 days 9 hours ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1236,7 +1236,7 @@
     "long_sec": "16.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF McCrystal Rock Unit Valle Vidal Northeast Prescribed Fire",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -1404,7 +1404,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 hour 42 minutes ago"
+    "changed": "4 hours 23 minutes ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1677,7 +1677,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "6 days 8 hours ago"
+    "changed": "6 days 11 hours ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1720,27 +1720,6 @@
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville Truckee Ranger District Pileburn Projects",
     "changed": "4 weeks 1 day ago"
-  },
-  {
-    "title": "Mililani Mauka ",
-    "lat_deg": "21",
-    "long_deg": "157",
-    "field_percent_of_perimeter": "95",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-07T17:26:45-05:00\">2023-11-07</time>\n",
-    "id": "316751",
-    "field_incident_overview": "<p><span>The Mililani Mauka Fire on O‘ahu, started on October 30, 2023. The fire cause is undetermined and is currently under investigation by the Honolulu Fire Department and the U.S. Fish and Wildlife Service Office of Law Enforcement.  </span></p><p><span>U.S. Fish and Wildlife Service fire personnel and refuge managers continue to work closely with our interagency partners to reduce the spread of this wildfire and protect local communities and other important infrastructure. Over 1,000 acres has burned within the O</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">ʻ</span><span>ahu Forest National Wildlife Refuge, impacting and displacing rare and endangered species.  </span></p><p><span>Oʻahu Forest National Wildlife Refuge is a sanctuary for many species that are native and endemic to the Hawaiian Islands. The refuge provides a home to threatened and endangered species that are both biological and cultural resources. These species are supported by forested areas of the refuge, which provide important ecological functions that directly contribute to the vibrancy of the forests, and health of watersheds on O</span><em><span>‘</span></em><span>ahu. </span></p><p><span>The O</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">ʻ</span><span>ahu National Wildlife Refuge is located on the upper slopes of the northern Ko‘olau Mountains and hosts some of the last remaining</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\"> intact</span><span> native forests on O‘ahu. </span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">The Refuge was established to </span><span>protect and recover endangered, threatened, and other rare wildlife, and to protect native biodiversity</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">.</span></p><p><span>At least nine native ecological communities can be found within this N</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">ational </span><span>W</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">ildlife </span><span>R</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">efuge</span><span>, including lowland mesic forests, rainforest communities, high elevation cloud forest, and freshwater streams. Many of the native plants and animals that once thrived in the forests of O</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">ʻahu</span><span> are either extinct or on the brink of extinction. The refuge plays a critical role in supporting these at risk species, given the expanse and diverse range of ecosystems within the refuge.</span></p><p><span>O‘ahu Forest NWR spans 4,525 acres and supports at least 22 federally listed species, including the endangered k</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">āhuli</span><span> (tree snails); endangered plant</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">s</span><span>; and native birds such as the ‘apapane</span><span lang=\"haw\" xml:lang=\"haw\" xml:lang=\"haw\">. These forest ecosystems and endangered species could all be in danger due to the Mililani Mauka Wildfire.</span></p><p><span>This forest is designated as a </span><a href=\"https://www.boardofwatersupply.com/bws/media/files/publication-watershed-prioritization-poster.pdf\"><span>Priority 1 watershed</span></a><span> that feeds into the Pearl Harbor Aquifer which is where the majority of O‘ahu gets its freshwater from. Our island’s water security relies on native forest to replenish these aquifers. </span></p><p><span>Hawai‘i’s ecosystems are not fire-adapted and are not resilient to fires. Native plants and wildlife do not easily recover from fires, so it’s important to prevent fires from affecting native ecosystems. </span></p><p><span>Invasive species are one of the most significant threats to our endangered and threatened species. Invasive plant species are more resilient to fire and can more quickly invade and become established in recently burned areas—displacing native and endemic plant species.</span></p><p><span>A Burned Area Response (BAR) team is evaluating impacts and will develop a restoration plan to the fire damaged lands within the O‛ahu Forest National Wildlife Refuge.</span></p>",
-    "size": "1696",
-    "lat_min": "29",
-    "lat_sec": "17",
-    "urlPath": "/hiofr-mililani-mauka",
-    "long_min": "57",
-    "long_sec": "20",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "HIOFR Mililani Mauka",
-    "changed": "5 days 12 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1803,7 +1782,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "March 2023 Broyles Gap Fire",
@@ -1845,7 +1824,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "2 weeks 6 days ago"
+    "changed": "3 weeks ago"
   },
   {
     "title": "947 Fire",
@@ -1866,7 +1845,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "2 weeks 2 days ago"
+    "changed": "2 weeks 3 days ago"
   },
   {
     "title": "2023 Black Bear Fire",
@@ -1887,7 +1866,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 hours 10 minutes ago"
+    "changed": "8 hours 51 minutes ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1908,7 +1887,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "11 seconds ago"
+    "changed": "2 hours 41 minutes ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1929,7 +1908,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "4 days 3 hours ago"
+    "changed": "4 days 6 hours ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1950,7 +1929,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "44 minutes 25 seconds ago"
+    "changed": "3 hours 25 minutes ago"
   },
   {
     "title": "Ojo Sarco Piles, Rio Trampas Project",
@@ -1971,6 +1950,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Rio Trampas Project",
-    "changed": "38 minutes 20 seconds ago"
+    "changed": "3 hours 19 minutes ago"
   }
 ]
