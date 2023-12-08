@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 14 minutes ago"
+    "changed": "6 seconds ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 days 23 hours ago"
+    "changed": "3 days ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -900,7 +900,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "6 days 23 hours ago"
+    "changed": "1 week ago"
   },
   {
     "title": "Lions Camp Road Fire",
@@ -1131,7 +1131,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "1 month 2 weeks ago"
+    "changed": "1 month 3 weeks ago"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -1341,7 +1341,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 18 hours ago"
+    "changed": "2 days 20 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1425,7 +1425,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "1 month 2 weeks ago"
+    "changed": "1 month 3 weeks ago"
   },
   {
     "title": "2023-STF-Peak",
@@ -1656,7 +1656,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville and Truckee Ranger District Pileburn Projects",
-    "changed": "16 seconds ago"
+    "changed": "1 hour 21 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1782,7 +1782,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 days 2 hours ago"
+    "changed": "2 days 3 hours ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1803,7 +1803,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "2 days 17 hours ago"
+    "changed": "2 days 18 hours ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1824,7 +1824,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "1 day 20 hours ago"
+    "changed": "1 day 21 hours ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1845,7 +1845,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "1 day 20 hours ago"
+    "changed": "1 day 21 hours ago"
   },
   {
     "title": "Ojo Sarco Piles, Green Fuelwood Areas Project",
@@ -1866,6 +1866,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "16 hours 55 minutes ago"
+    "changed": "18 hours 17 minutes ago"
   }
 ]
