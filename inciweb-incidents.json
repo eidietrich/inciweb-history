@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "6 seconds ago"
+    "changed": "55 seconds ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 days ago"
+    "changed": "3 days 4 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -333,7 +333,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "1 month ago"
+    "changed": "1 month 1 week ago"
   },
   {
     "title": "East Fork Fire",
@@ -1341,7 +1341,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 20 hours ago"
+    "changed": "2 days 23 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1446,7 +1446,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "1 month 2 weeks ago"
+    "changed": "1 month 3 weeks ago"
   },
   {
     "title": "Trail Springs Fire",
@@ -1530,7 +1530,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "3 weeks 2 days ago"
+    "changed": "3 weeks 3 days ago"
   },
   {
     "title": "Lafitte",
@@ -1635,7 +1635,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "4 weeks 1 day ago"
+    "changed": "1 month ago"
   },
   {
     "title": "Tahoe National Forest - Sierraville and Truckee Ranger District Pileburn Projects",
@@ -1656,7 +1656,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville and Truckee Ranger District Pileburn Projects",
-    "changed": "1 hour 21 minutes ago"
+    "changed": "4 hours 47 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1698,7 +1698,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "1 week 3 days ago"
+    "changed": "1 week 4 days ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -1782,7 +1782,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 days 3 hours ago"
+    "changed": "2 days 7 hours ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1803,7 +1803,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "2 days 18 hours ago"
+    "changed": "2 days 21 hours ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1824,7 +1824,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "1 day 21 hours ago"
+    "changed": "2 days 1 hour ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1845,7 +1845,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "1 day 21 hours ago"
+    "changed": "2 days 1 hour ago"
   },
   {
     "title": "Ojo Sarco Piles, Green Fuelwood Areas Project",
@@ -1866,6 +1866,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "18 hours 17 minutes ago"
+    "changed": "21 hours 42 minutes ago"
   }
 ]
