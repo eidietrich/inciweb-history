@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "13 hours 13 minutes ago"
+    "changed": "18 hours 3 minutes ago"
   },
   {
     "title": "Animas City Mountain Prescribed Burn",
@@ -60,7 +60,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 days 17 hours ago"
+    "changed": "3 days 22 hours ago"
   },
   {
     "title": "Six Rivers Lightning Complex",
@@ -438,7 +438,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "2 weeks 3 days ago"
+    "changed": "2 weeks 4 days ago"
   },
   {
     "title": "Little Mesa Fire",
@@ -483,27 +483,6 @@
     "changed": "1 month 4 weeks ago"
   },
   {
-    "title": "2023 - York Fire Burned Area Emergency Response (BAER)",
-    "lat_deg": "35",
-    "long_deg": "115",
-    "field_percent_of_perimeter": "",
-    "type": "Burned Area Emergency Response",
-    "field_incident_description": "Burned Area Emergency Response (BAER)",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-16T10:45:34-04:00\">2023-08-16</time>\n",
-    "id": "314606",
-    "field_incident_overview": "<p>The York Fire began on July 28th in the New York Mountain Range of the Mojave National Preserve located in eastern San Bernardino County, CA.  As of 8/16/2023 the acreage is 93,078 acres with 9,127 acres located in Clark County, Nevada.</p>\n\n<p>A Burned Area Emergency Response (BAER) team is in the process of assessing the impacts of the York Fire on natural resources, cultural resources, and infrastructure. This team is composed of scientists and resource specialists including hydrologists, vegetation ecologists, and GIS technicians. These specialists are working closely with BLM and NPS land managers to create a plan to address the fire's impacts over the coming weeks and months. The BAER team is expected to complete their planning work by Monday 8/21/23.</p>\n\n<p>For continued updates on the York Fire incident response, please visit the incident webpage: <a href=\"https://inciweb.wildfire.gov/incident-information/camnp-2023-york-fire\">Camnp 2023 York Fire Information | InciWeb (wildfire.gov)</a></p>",
-    "size": "93078",
-    "lat_min": "12",
-    "lat_sec": " 30.8",
-    "urlPath": "/camnp-2023-york-fire-burned-area-emergency-response-baer",
-    "long_min": "15",
-    "long_sec": "2.6",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAMNP 2023 York Fire Burned Area Emergency Response BAER",
-    "changed": "3 months ago"
-  },
-  {
     "title": "2023 SRF Lightning Complex and Redwood Lightning Complex",
     "lat_deg": "41",
     "long_deg": "123",
@@ -543,7 +522,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "3 weeks ago"
+    "changed": "3 weeks 1 day ago"
   },
   {
     "title": "2023 Airplane Lake OWF",
@@ -627,7 +606,7 @@
     "long_sec": "2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CARWP Lost Fire",
-    "changed": "2 months 3 weeks ago"
+    "changed": "2 months 4 weeks ago"
   },
   {
     "title": "South Fork Complex",
@@ -669,7 +648,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "1 month 3 weeks ago"
+    "changed": "1 month 4 weeks ago"
   },
   {
     "title": "Camp Creek Fire",
@@ -711,7 +690,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "OR75S Tyee Ridge Complex",
-    "changed": "2 months 2 weeks ago"
+    "changed": "2 months 3 weeks ago"
   },
   {
     "title": "2023 Chilcoot Fire UNF",
@@ -942,7 +921,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "1 month 3 weeks ago"
+    "changed": "1 month 4 weeks ago"
   },
   {
     "title": "Marmot Fire",
@@ -1026,7 +1005,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "1 month 4 weeks ago"
+    "changed": "2 months ago"
   },
   {
     "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
@@ -1173,7 +1152,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "1 month 4 weeks ago"
+    "changed": "2 months ago"
   },
   {
     "title": "Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
@@ -1341,7 +1320,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 days 12 hours ago"
+    "changed": "3 days 17 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1383,7 +1362,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "1 month 3 weeks ago"
+    "changed": "1 month 4 weeks ago"
   },
   {
     "title": "Rabbit Fire",
@@ -1572,7 +1551,7 @@
     "long_sec": "37.9998",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "3 weeks 4 days ago"
+    "changed": "3 weeks 5 days ago"
   },
   {
     "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
@@ -1614,7 +1593,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "1 week 2 days ago"
+    "changed": "1 week 3 days ago"
   },
   {
     "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
@@ -1656,7 +1635,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville and Truckee Ranger District Pileburn Projects",
-    "changed": "17 hours 59 minutes ago"
+    "changed": "22 hours 50 minutes ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1782,7 +1761,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 days 20 hours ago"
+    "changed": "3 days 1 hour ago"
   },
   {
     "title": "Highway 150 Corridor Wildland Urban Interface Project",
@@ -1803,7 +1782,7 @@
     "long_sec": "41",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "3 days 11 hours ago"
+    "changed": "3 days 15 hours ago"
   },
   {
     "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
@@ -1824,7 +1803,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "2 days 14 hours ago"
+    "changed": "2 days 19 hours ago"
   },
   {
     "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
@@ -1845,7 +1824,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "2 days 14 hours ago"
+    "changed": "2 days 19 hours ago"
   },
   {
     "title": "Ojo Sarco Piles, Green Fuelwood Areas Project",
@@ -1866,6 +1845,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "1 day 10 hours ago"
+    "changed": "15 seconds ago"
   }
 ]
