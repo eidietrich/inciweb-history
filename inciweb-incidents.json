@@ -18,28 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 seconds ago"
-  },
-  {
-    "title": "Animas City Mountain Prescribed Burn",
-    "lat_deg": "37",
-    "long_deg": "107",
-    "field_percent_of_perimeter": "0",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2021-07-18T13:48:57-04:00\">2021-07-18</time>\n",
-    "id": "291575",
-    "field_incident_overview": "<p>On May 8, 2023, conditions were good for ignitions to start on the Animas City Mountain. The project took the whole week to make sure the prescribed fire was an success. Ignitions were completed on Friday, May 12th, for a total of 495 acres treated. Firefighters patrolled and secured the edges for weeks after until moisture came into the area. Check out this YouTube video about the project <a href=\"https://youtu.be/x78BLZyVvKA?si=g_B8r3rP_llqVZsv\">https://youtu.be/x78BLZyVvKA?si=g_B8r3rP_llqVZsv</a>. </p>\n\n<p>In order to reduce the risk of high-intensity wildfire, improve forest health and wildlife habitat, the Bureau of Land Management Tres Rios Field Office has planned a prescribed fire treatment for up to 652 acres on Animas City Mountain in Durango, Colorado. Dependent on weather and the availability of firefighters to conduct the operation, the prescribed burns could take place in spring and fall months. An Environmental Assessment which covers this, as well as other treatment areas in La Plata County, has been completed and is available here: <a href=\"https://eplanning.blm.gov/eplanning-ui/project/1505044/510\">Final Environmental Assessment</a>.</p>\n\n<p>Prescribed fires require a comprehensive plan consisting of 21 elements. The plan outlines the methodical process from inception to completion. The Animas City Mountain project is expected to take 2-3 days for ignitions, with additional time to patrol the area and extinguish hot spots. The mountain has been divided into seven units or compartments. Crews are expected to begin burning on the top of the mountain by slowly lighting an edge that has already been thinned with chainsaws. Once a secure edge or “black line” has been established, firefighters ignite the interior of each unit, one unit at a time. The fire then burns back toward the secured, black edge. This methodical approach allows firefighters opportunities to halt ignitions if burning conditions become undesirable. Examples of undesirable conditions are fire behavior that is too active/not active enough, and poor smoke dispersion. Firefighters will also have water on hand to cool things down if fire activity grows beyond a desirable level.</p>\n\n<p>Prescribed fires are watched carefully by firefighters around the burn, lookouts at more distant locations, aerially (helicopters, planes, drones), and with calibrated smoke monitors. These monitors will be placed at locations around the burn to track smoke impacts in real time. The BLM and Colorado Department of Public Health and Environment Air Quality (CPDHE) have been working since 2018 to develop a permit that accomplishes the burn while minimizing smoke impacts to the surrounding area. Prescribed fire smoke may affect your health. For more information, visit <a href=\"https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health\">https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health</a>. Prescribed fires are a tool to minimize smoke impacts to communities by careful selection of when fires burn and when they stop. Firefighters utilize compartments to halt the fire from spreading overnight, whereas wildfire continue to burn overnight when smoke is likely to settle into low lying areas where communities are located. Residual smoke from the interior areas of the compartments is anticipated, but the goal is to start early in the day and stop early in the evening to give material as much time as possible to be consumed before night-time cooling occurs and smoke sinks into the valley.</p>\n\n<p>Ideal timing (windows) for the project occurs during the Spring and Fall when conditions are more favorable for low-intensity fire. Fuel (vegetation) and weather conditions must fall within a predetermined “prescription” that is known to yield desirable results while still being controllable by the fire personnel conducting the burn. Dissipation of smoke is also part of the prescription. Prescription development has been done by local fire experts who utilize fire behavior computer modeling software combined with decades of experience conducting prescribed burn in southwest Colorado.</p>\n\n<p>This project is a coordinated effort between the federal/county/local government, NGOs, emergency managers, fire departments, public health officials, state smoke regulators and nearby residents. The burn is planned to take place over the course of 2-3 days. Brief closure of Animas City Mountain during the ignitions will occur for public and firefighter safety. The containment lines used for the project will consist of BLM designated trails. The units will be ignited using a combination of ground and aerial resources and will be patrolled/mopped up until out.</p>\n\n<p>The project is part of the BLM’s ongoing commitment to protecting human health and safety while maintaining or enhancing forest and woodland health and functionality. The Animas City Mountain area was previously masticated in 2010 which altered the vertical structure of the forest stand to reduce the risk of catastrophic fire. Mastication is a treatment method where the understory is mowed and mulched with a large machine. The mulched material slowly decomposes, while the understory regrows. Mastication and prescribed fire are effective in preventing fires from leaving the ground and becoming “crown” fires where the entire trees or stand of trees burn. Treatments thin and remove some of the large dense understory or “ladder fuels”.</p>\n\n<p>Vegetation, however, grows back and requires maintenance. Prescribed fire is the best treatment option for this forest type, if possible, after the initial mechanical treatment. While consuming some of the standing vegetation; prescribed fire also eliminates material left on the ground from both mastication and the natural shedding of leaves, needles, etc. Fire is the only natural process used as a treatment method and produces the most effective results for hazardous fuel reduction while enhancing woodland health. Ponderosa pine woodlands are a drought resistant species that have evolved with a natural cycle of frequent, low-intensity fire.</p>\n\n<p>Prescribed fire mimics this natural process and improves forage for wildlife, as well as increasing plant diversity by creating breaks in the understory where grasses and flowers can thrive.</p>\n\n<p>Every year the west is impacted by large catastrophic wildfires. Prescribed fires and other treatment methods lessen the impacts of future fires and increase the likelihood firefighters can work safely and be effective at stopping fires in and near treated areas.</p>\n\n<p> </p>",
-    "size": "",
-    "lat_min": "19",
-    "lat_sec": "24",
-    "urlPath": "/cosjd-animas-city-mountain-prescribed-burn",
-    "long_min": "52",
-    "long_sec": "19",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COSJD Animas City Mountain Prescribed Burn",
-    "changed": "3 months ago"
+    "changed": "3 hours 31 minutes ago"
   },
   {
     "title": "Southwest District BLM Prescribed Fire ",
@@ -375,7 +354,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTFNF Ridge Fire",
-    "changed": "2 months 4 weeks ago"
+    "changed": "3 months ago"
   },
   {
     "title": "Quartz Ridge Fire",
@@ -1089,7 +1068,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "COCCD South Slope Roza Slope",
-    "changed": "2 months 3 weeks ago"
+    "changed": "2 months 4 weeks ago"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1173,7 +1152,7 @@
     "long_sec": "93",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDPAF Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
-    "changed": "2 months 1 week ago"
+    "changed": "2 months 2 weeks ago"
   },
   {
     "title": "Morgan Fire",
@@ -1320,7 +1299,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "6 days 20 hours ago"
+    "changed": "6 days 23 hours ago"
   },
   {
     "title": "Coconino National Forest prescribed fire (Fall 2023)",
@@ -1509,7 +1488,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "3 weeks 6 days ago"
+    "changed": "4 weeks ago"
   },
   {
     "title": "Lafitte",
@@ -1530,7 +1509,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "1 month ago"
+    "changed": "1 month 1 week ago"
   },
   {
     "title": "2023 Maid Fire",
@@ -1635,7 +1614,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest Sierraville and Truckee Ranger District Pileburn Projects",
-    "changed": "1 day ago"
+    "changed": "1 day 3 hours ago"
   },
   {
     "title": "Heavener Mountain Fire",
@@ -1677,7 +1656,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "2 weeks ago"
+    "changed": "2 weeks 1 day ago"
   },
   {
     "title": "Steep Valley Fire",
@@ -1698,7 +1677,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "1 day 18 hours ago"
+    "changed": "1 day 22 hours ago"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -1761,70 +1740,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "6 days 3 hours ago"
-  },
-  {
-    "title": "Highway 150 Corridor Wildland Urban Interface Project",
-    "lat_deg": "36",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-29T17:35:13-05:00\">2023-11-29</time>\n",
-    "id": "316885",
-    "field_incident_overview": "<p>The eight-mile ride up Highway 150 from Valdez, NM, takes visitors through a narrow, forested canyon of Carson National Forest to the world famous Taos Ski Valley. Beside the road, the cascading Rio Hondo runs its course toward the Rio Grande, providing miles of fishing and feeding domestic and agricultural water along the way.</p><p>A close inspection of the trees shows that this critically important canyon is at risk of insect and disease infestation. Left untreated, the area could experience large-scale tree mortality, resulting in high fuel accumulations increasing the fire hazard.</p><p>Work to reduce fuels within and outside the forest has been underway since 2019. In collaboration with Taos County and partners, fuels reduction work has occurred on land within and adjacent to the national forest. The project is a priority of the <a href=\"https://www.taoscountywildfire.org/tvwc\">Taos Valley Watershed Coalition</a>.</p><p>This winter, crews are planning on pile burning along the highway between Valdez, NM, and Taos Ski Valley, as well as up the Wheeler Peak Trail to the Bull of the Woods Meadow.</p><p>This project is one of many within the Enchanted Circle Landscape, one of the highest-risk areas to wildfire in the country and a priority of the national <a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\">Wildfire Crisis Strategy</a>.</p>",
-    "size": "",
-    "lat_min": "34",
-    "lat_sec": "27",
-    "urlPath": "/nmcaf-highway-150-corridor-wildland-urban-interface-project",
-    "long_min": "30",
-    "long_sec": "41",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Highway 150 Corridor Wildland Urban Interface Project",
-    "changed": "6 days 18 hours ago"
-  },
-  {
-    "title": "Kiowa-San Cristobal Wildland Urban Interface Project",
-    "lat_deg": "36",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-29T20:06:12-05:00\">2023-11-29</time>\n",
-    "id": "316887",
-    "field_incident_overview": "<p>The Carson National Forest is implementing the Kiowa-San Cristobal Wildland Urban Interface Project to reduce hazardous fuels on Forest Service land by thinning and safely reintroducing fire around San Cristobal, NM, which is surrounded by forest.</p><p>With the arrival of snow, around 800 acres of prescribed fire are identified for pile and jackpot burning in 2023 and 2024.</p><p>The project is also opening areas for personal fuelwood and forest products collection. Improvements to riparian corridors and range allotments are included in project work to increase forest health and resilience. The project was approved in 2017 and work began shortly after.</p><p>The project is one of the priorities of the <a href=\"https://www.taoscountywildfire.org/tvwc\">Taos Valley Watershed Coalition</a>, as well as USDA Forest Service's <a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\">Wildfire Crisis Strategy</a>, which is focusing on high-risk areas like the Enchanted Circle Landscape.</p>",
-    "size": "29",
-    "lat_min": "35",
-    "lat_sec": "06",
-    "urlPath": "/nmcaf-kiowasan-cristobal-wildland-urban-interface-project",
-    "long_min": "38",
-    "long_sec": "27",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF KiowaSan Cristobal Wildland Urban Interface Project",
-    "changed": "5 days 21 hours ago"
-  },
-  {
-    "title": "Willow Piles, Rio Tusas-Lower San Antonio Landscape Restoration Project ",
-    "lat_deg": "36",
-    "long_deg": "106",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-12-04T16:48:52-05:00\">2023-12-04</time>\n",
-    "id": "316896",
-    "field_incident_overview": "<p><span>Fire crews plan to treat piles created from over 500 acres of thinning about five miles southeast of Hopewell Lake in winter 2023-2024.</span></p><p>The piles are part of the Rio Tusas-Lower San Antonio Landscape Restoration Project, which seeks to <span>conserve and restore the area's landscape to increase forest ecosystem sustainability and resiliency to natural disturbances, such as drought and climatic variability, insects, disease, fire and wind.</span></p><p><span>The project is part of a larger effort called the</span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"> </span><a href=\"https://www.fs.usda.gov/features/common-ground-rio-chama\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Rio Chama Collaborative Forest Landscape Restoration Project</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">, which spans 3.8 million acres in Northern New Mexico and Southern Colorado. Project work by the Forest Service and partners is addressing forest and watershed health, which is tied to water used in downstream communities.</span></p><p><span>(Photo: A pile in the Willow Unit in February 2023)</span></p><p> </p>",
-    "size": "550",
-    "lat_min": "39",
-    "lat_sec": "47",
-    "urlPath": "/nmcaf-willow-piles-rio-tusaslower-san-antonio-landscape-restoration-project",
-    "long_min": "09",
-    "long_sec": "44",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Willow Piles Rio TusasLower San Antonio Landscape Restoration Project",
-    "changed": "5 days 21 hours ago"
+    "changed": "6 days 7 hours ago"
   },
   {
     "title": "Ojo Sarco Piles, Green Fuelwood Areas Project",
@@ -1845,6 +1761,6 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "3 days ago"
+    "changed": "3 days 4 hours ago"
   }
 ]
