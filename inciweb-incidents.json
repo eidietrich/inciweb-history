@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "21 hours 53 minutes ago",
+    "changed": "22 hours 7 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire Pile Burn",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -1382,7 +1382,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "2 weeks ago",
+    "changed": "2 weeks 1 day ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -1690,7 +1690,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest - Sierraville and Truckee Ranger District Pileburn Projects",
-    "changed": "29 seconds ago",
+    "changed": "1 minute 1 second ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1756,7 +1756,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 17 hours ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1844,7 +1844,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "3 days 22 hours ago",
+    "changed": "3 days 23 hours ago",
     "field_unit_code": "NMCAF"
   }
 ]
