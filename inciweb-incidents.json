@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "23 hours 49 minutes ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "COARF"
   },
   {
@@ -876,7 +876,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "ORUPF"
   },
   {
@@ -1606,7 +1606,7 @@
     "field_unit_code": "AZCOF"
   },
   {
-    "title": "Tahoe National Forest - Yuba River Ranger District Pileburn Projects",
+    "title": "TNF Yuba River Pileburn Projects",
     "lat_deg": "39",
     "long_deg": "121",
     "field_percent_of_perimeter": "",
@@ -1619,12 +1619,12 @@
     "size": "",
     "lat_min": "16",
     "lat_sec": "09",
-    "urlPath": "/catnf-tahoe-national-forest-yuba-river-ranger-district-pileburn-projects",
+    "urlPath": "/catnf-tnf-yuba-river-pileburn-projects",
     "long_min": "01",
     "long_sec": "04",
     "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF Tahoe National Forest Yuba River Ranger District Pileburn Projects",
-    "changed": "1 month ago",
+    "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
+    "changed": "5 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1650,7 +1650,7 @@
     "field_unit_code": "NCNCF"
   },
   {
-    "title": "Tahoe National Forest - American River Ranger District Pileburn Projects",
+    "title": "TNF American River Pileburn Projects",
     "lat_deg": "39",
     "long_deg": "120",
     "field_percent_of_perimeter": "",
@@ -1663,16 +1663,16 @@
     "size": "",
     "lat_min": "00",
     "lat_sec": "37",
-    "urlPath": "/catnf-tahoe-national-forest-american-river-ranger-district-pileburn-projects",
+    "urlPath": "/catnf-tnf-american-river-pileburn-projects",
     "long_min": "50",
     "long_sec": "43",
     "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF Tahoe National Forest American River Ranger District Pileburn Projects",
-    "changed": "1 month ago",
+    "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
+    "changed": "34 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
-    "title": "Tahoe National Forest - Sierraville and Truckee Ranger District Pileburn Projects",
+    "title": "TNF Eastside Pileburn Projects",
     "lat_deg": "39",
     "long_deg": "120",
     "field_percent_of_perimeter": "",
@@ -1685,12 +1685,12 @@
     "size": "",
     "lat_min": "26",
     "lat_sec": "46",
-    "urlPath": "/catnf-tahoe-national-forest-sierraville-and-truckee-ranger-district-pileburn-projects",
+    "urlPath": "/catnf-tnf-eastside-pileburn-projects",
     "long_min": "12",
     "long_sec": "54",
     "measurement_type": "Acres",
-    "field_title_and_unit": "CATNF Tahoe National Forest - Sierraville and Truckee Ranger District Pileburn Projects",
-    "changed": "1 hour 42 minutes ago",
+    "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
+    "changed": "1 minute 55 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1734,7 +1734,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "2 weeks 1 day ago",
+    "changed": "2 weeks 2 days ago",
     "field_unit_code": "VASHP"
   },
   {
@@ -1756,7 +1756,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 days 18 hours ago",
+    "changed": "2 days 20 hours ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1844,7 +1844,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles, Green Fuelwood Areas Project",
-    "changed": "21 seconds ago",
+    "changed": "1 hour 46 minutes ago",
     "field_unit_code": "NMCAF"
   }
 ]
