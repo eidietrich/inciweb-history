@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "22 hours 22 minutes ago",
+    "changed": "23 hours 49 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 week ago",
+    "changed": "1 week 1 day ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -898,7 +898,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -1426,7 +1426,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "4 weeks ago",
+    "changed": "4 weeks 1 day ago",
     "field_unit_code": "CASQF"
   },
   {
@@ -1690,7 +1690,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF Tahoe National Forest - Sierraville and Truckee Ranger District Pileburn Projects",
-    "changed": "16 minutes 6 seconds ago",
+    "changed": "1 hour 42 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1756,7 +1756,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 days 17 hours ago",
+    "changed": "2 days 18 hours ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1836,15 +1836,15 @@
     "created": "<time datetime=\"2023-12-05T12:33:57-05:00\">2023-12-05</time>\n",
     "id": "316899",
     "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Piles created from 137 acres of thinning to the south of Ojo Sarco, NM (</span><a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/nmcaf-ojo-sarco-piles-rio-trampas-project\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">map</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">), are ready for prescribed fire treatment. Fire managers are monitoring forecasts and ground conditions before ignitions. Once burned, crews will patrol and monitor the piles until they are called out.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The piles were created as are part of the Green Fuelwood Areas Project, which aims to restore forest health and resiliency next to communities while providing fuelwood and other wood product opportunities to residents.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The ponderosa forests around Ojo Sarco are fire-dependent and must undergo fire disturbance on a regular basis to maintain resiliency. After prescribed fires are completed, if a future wildfire reaches an area, the fire behavior will likely be modified to a less intense, more manageable surface fire making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">(Photo: Ojo Sarco piles in March 2023)</span></p><p><em><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">For the Record: An earlier version of this overview mistakenly called the project the Rio Trampas Project. It is the Green Fuelwood Areas Project.</span></em></p>",
-    "size": "",
+    "size": "137",
     "lat_min": "06",
     "lat_sec": "05",
     "urlPath": "/nmcaf-ojo-sarco-piles-green-fuelwood-areas-project",
     "long_min": "46",
     "long_sec": "45",
     "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "3 days 23 hours ago",
+    "field_title_and_unit": "NMCAF Ojo Sarco Piles, Green Fuelwood Areas Project",
+    "changed": "21 seconds ago",
     "field_unit_code": "NMCAF"
   }
 ]
