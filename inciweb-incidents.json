@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "6 days 9 hours ago",
+    "changed": "6 days 21 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "27",
     "measurement_type": "Acres",
     "field_title_and_unit": "COWRF Spring Creek Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "COWRF"
   },
   {
@@ -568,7 +568,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "LALAS"
   },
   {
@@ -854,7 +854,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "LALAS"
   },
   {
@@ -966,28 +966,6 @@
     "field_title_and_unit": "WANCP 2023 Sourdough Fire Burned Area Emergency Response BAER",
     "changed": "2 months 3 weeks ago",
     "field_unit_code": "WANCP"
-  },
-  {
-    "title": "South Slope / Roza Slope",
-    "lat_deg": "46",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "0",
-    "type": "Wildfire",
-    "field_incident_description": "Two fires are burning in the Yakima River Canyon. The South Slope Fire and Roza Slope Fire. There are cultural, natural, and utility resources at risk. This is also a habitat for Sage Grouse. This is also a popular recreation area along the Yakima River Canyon.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-13T03:57:23-04:00\">2023-09-13</time>\n",
-    "id": "315884",
-    "field_incident_overview": "<p>On September 12, 2023, just after 12 PM, 2 different fires started between Yakima Washington, and Ellensburg Washington, along State Route 821 in the Yakima River Canyon. The Roza Slope fire started about 1211 PM and the South Slope fire started about 1220 PM. The area is mainly managed by the Bureau of Land Management, with some private ownership.  BLM resources started working on the fires and called in local area resources to assist them including air resources for water and retardant drops where it was possible. The request for a type 3 Incident Management Team was also made due to the large number of firefighting resources that will be arriving overnight and on the morning of September 13. South East Washington Inter-Agency IMT team 2 will take control of the fire at 6 AM on 9/13/23. The fires will be managed as separate fires but under one management team.  There may be some sharing of crews based on the operational needs each day, and the skill sets of different teams.  </p>\n\n<p>This page will contain updates for both fires.</p>",
-    "size": "700",
-    "lat_min": "43",
-    "lat_sec": "41",
-    "urlPath": "/wases-south-slope-roza-slope",
-    "long_min": "26",
-    "long_sec": "54",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "WASES South Slope Roza Slope",
-    "changed": "3 months ago",
-    "field_unit_code": "WASES"
   },
   {
     "title": "Wolf Creek Fire",
@@ -1316,7 +1294,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1536,7 +1514,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "5 days 7 hours ago",
+    "changed": "5 days 20 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1558,7 +1536,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "2 weeks 5 days ago",
+    "changed": "2 weeks 6 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1580,7 +1558,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "5 days 7 hours ago",
+    "changed": "5 days 20 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1602,7 +1580,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "12 hours 37 minutes ago",
+    "changed": "16 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1734,7 +1712,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "1 week 5 days ago",
+    "changed": "1 week 6 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1756,7 +1734,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "4 days 9 hours ago",
+    "changed": "4 days 21 hours ago",
     "field_unit_code": "NMCAF"
   }
 ]
