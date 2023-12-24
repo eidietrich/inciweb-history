@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "3 days 12 hours ago",
+    "changed": "4 days ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 weeks 4 days ago",
+    "changed": "2 weeks 5 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "4 days 12 hours ago",
+    "changed": "5 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "3 days 17 hours ago",
+    "changed": "4 days 5 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -218,28 +218,6 @@
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
     "changed": "2 months 2 weeks ago",
     "field_unit_code": "CAINF"
-  },
-  {
-    "title": "Spring Creek Fire",
-    "lat_deg": "39",
-    "long_deg": "108",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-06-27T15:26:55-04:00\">2023-06-27</time>\n",
-    "id": "313220",
-    "field_incident_overview": "<p>Click on the following words to see related information.</p><p><a href=\"https://inciweb.nwcg.gov/incident-news/cowrf-spring-creek-fire\"><em><strong>News</strong></em></a><em><strong>          </strong></em><a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/cowrf-spring-creek-fire\"><em><strong>Maps</strong></em></a><em><strong>          </strong></em><a href=\"https://inciweb.nwcg.gov/incident-closures/cowrf-spring-creek-fire\"><em><strong>Closures</strong></em></a><em><strong>          </strong></em><a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/cowrf-spring-creek-fire\"><em><strong>Photos</strong></em></a><em><strong>          </strong></em><a href=\"https://inciweb.nwcg.gov/incident-videos-gallery/cowrf-spring-creek-fire\"><em><strong>Videos </strong></em></a><em><strong>         </strong></em><a href=\"https://inciweb.nwcg.gov/incident-announcement/cowrf-spring-creek-fire\"><em><strong>Announcements   </strong></em></a><em><strong> </strong></em></p><p><span>At 2:00 pm on Tuesday, September 5th, the Spring Creek Fire reached 100% containment. The Spring Creek Fire transitioned from a Type 3 to a Type 4 incident on Monday, July 17th. This change to a smaller organization was possible due to the successful suppression efforts; additional containment; and decreased fire behavior and intensity. </span></p><p>The Spring Creek Fire started on Saturday, June 24. Firefighters and aircraft worked to keep the fire to about 200 acres on a mix of private and Bureau of Land Management-administered land. Hot, dry, windy conditions aligned with terrain on June 26, causing the fire to make a significant run growing to more than 2,500 acres. Rocky Mountain Area Complex Incident Management Team Two assumed command of the fire June 28. </p><p><span>The varied fuels and extreme terrain presented substantial challenges to firefighters during containment efforts. Crews used a variety of tactics including direct handline against the black fire’s edge and indirect tactics where terrain would not allow firefighters to safely engage.</span></p><p><span>Firefighters are now mopping up hotspots, providing suppression repair to disturbed firelines and patrolling firelines. Personnel are removing equipment no longer needed on the fireline. Smoke will be intermittently present for some time both from the smoldering fire and from exposed oil shale.</span></p><p>Spring Creek Road and High Mesa Road are open to restricted traffic only. Please avoid these areas if possible and drive with caution with increase in fire personnel on the roadway.</p><p><strong>Closures:</strong> There are no closure orders in place at this time. </p><p><strong>Evacuations:</strong> There are no evacuations at this time. Residents are encouraged to register with Garfield County's emergency notification system at: Garfield County Emergency Communications Authority (<a href=\"http://www.garco911.com/\">garco911.com</a>). All evacuation orders will be conducted through the Sheriff's office. Call recorded message line at 970-981-3401 for current evacuation information</p><p><strong>Temporary Flight Restrictions:</strong> There is a TFR (FDC 03/0215) in place for air space over the Spring Creek Fire to reduce impacts to fire aviation operators. Fire aviation response is halted or delayed if an unauthorized aircraft enters the TFR. Temporary flight restrictions also apply to unmanned aircraft system (UAS) or drones. If you fly, we can’t!</p><p>Additional information can also be found on the <a href=\"https://www.facebook.com/UCRFireManagementUnit/\">Upper Colorado River Interagency Fire Management Unit Facebook page</a> and older information on the <a href=\"https://www.facebook.com/SpringCreekFire2023/\"><em><strong>Spring Creek Fire Facebook page</strong></em></a>  Additional information may be found on the <a href=\"https://www.blm.gov/programs/public-safety-and-fire/fire-and-aviation/regional-information/colorado/upper-colorado-river-district?fbclid=IwAR3QpJE4GTlv5wPpPeWn4u2DlLuYqgC8gfcCDVPuo-3A2e2smfBoGUlQJDg\">Bureau of Land Management website</a> or by calling 970-200-6195.</p>",
-    "size": "3256",
-    "lat_min": "23",
-    "lat_sec": "27",
-    "urlPath": "/cowrf-spring-creek-fire",
-    "long_min": "4",
-    "long_sec": "27",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COWRF Spring Creek Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COWRF"
   },
   {
     "title": "HTF 2023 Initial Attack ",
@@ -480,7 +458,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -524,7 +502,7 @@
     "long_sec": "34.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOWF Blue Lake Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "WAOWF"
   },
   {
@@ -700,7 +678,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "WAGPF"
   },
   {
@@ -788,7 +766,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 weeks 1 day ago",
+    "changed": "3 weeks 2 days ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -1008,7 +986,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1228,7 +1206,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -1382,7 +1360,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -1470,7 +1448,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1492,7 +1470,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "3 weeks 3 days ago",
+    "changed": "3 weeks 4 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1514,7 +1492,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1536,7 +1514,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "4 days 17 hours ago",
+    "changed": "5 days 5 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1580,7 +1558,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "3 weeks 5 days ago",
+    "changed": "3 weeks 6 days ago",
     "field_unit_code": "VASHP"
   },
   {
@@ -1668,7 +1646,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 4 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1690,7 +1668,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "NMCAF"
   }
 ]
