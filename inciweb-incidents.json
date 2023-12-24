@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "2 days 12 hours ago",
+    "changed": "3 days 6 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 4 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "3 days 12 hours ago",
+    "changed": "4 days 6 hours ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "2 days 16 hours ago",
+    "changed": "3 days 11 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "59",
     "measurement_type": "",
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "CAINF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "MTBDF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -592,28 +592,6 @@
     "field_title_and_unit": "ORMHF Camp Creek Fire",
     "changed": "2 months 2 weeks ago",
     "field_unit_code": "ORMHF"
-  },
-  {
-    "title": "Tyee Ridge Complex",
-    "lat_deg": "43",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "90",
-    "type": "Wildfire",
-    "field_incident_description": "Complex: Multiple Fires",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-27T01:24:35-04:00\">2023-08-27</time>\n",
-    "id": "315102",
-    "field_incident_overview": "<p>The Tyee Ridge Complex is 10 Miles West of Sutherlin in NW Douglas County, Oregon; it involves 10 wildfires. The management of this incident is the Oregon Department of Forestry Team 1.</p>",
-    "size": "7945",
-    "lat_min": "22",
-    "lat_sec": "21",
-    "urlPath": "/or75s-tyee-ridge-complex",
-    "long_min": "35",
-    "long_sec": "13",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "OR75S Tyee Ridge Complex",
-    "changed": "3 months ago",
-    "field_unit_code": "OR75S"
   },
   {
     "title": "2023 Chilcoot Fire UNF",
@@ -810,7 +788,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 weeks ago",
+    "changed": "3 weeks 1 day ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -942,7 +920,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "COGMF"
   },
   {
@@ -986,7 +964,7 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -1052,7 +1030,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "COGMF"
   },
   {
@@ -1162,7 +1140,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "CAKNF"
   },
   {
@@ -1228,7 +1206,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 4 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -1250,7 +1228,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "3 weeks 3 days ago",
+    "changed": "3 weeks 4 days ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -1492,7 +1470,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1514,7 +1492,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "3 weeks 2 days ago",
+    "changed": "3 weeks 3 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1536,7 +1514,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1558,7 +1536,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "3 days 17 hours ago",
+    "changed": "4 days 11 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1602,7 +1580,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "VASHP"
   },
   {
@@ -1624,7 +1602,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "1 week 5 days ago",
+    "changed": "1 week 6 days ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1690,7 +1668,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1712,7 +1690,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "NMCAF"
   }
 ]
