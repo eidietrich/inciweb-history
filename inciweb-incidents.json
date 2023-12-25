@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "4 days 9 hours ago",
+    "changed": "5 days ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 weeks 5 days ago",
+    "changed": "2 weeks 6 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "5 days 9 hours ago",
+    "changed": "6 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "4 days 14 hours ago",
+    "changed": "5 days 5 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "MTBDF"
   },
   {
@@ -374,28 +374,6 @@
     "field_unit_code": "COSJF"
   },
   {
-    "title": "Little Mesa Fire",
-    "lat_deg": "38 ",
-    "long_deg": "108",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-08T16:41:20-04:00\">2023-08-08</time>\n",
-    "id": "314273",
-    "field_incident_overview": "<p><span>The Little Mesa Fire on the Bureau of Land Management Southwest District, Uncompahgre Field Office was reported on July 31, 2023, at 10:42 am. It is located approximately 12 miles west, southwest of Delta, CO within the Dominguez Escalante National Conservation Area.</span></p><p><span>This fire is being managed with a confine and contain suppression strategy that provides for firefighter and public safety. Confine and contain strategy mean's that firefighters will work to keep fire to certain areas, primarily using natural barriers that are expected to restrict fire spread under prevailing and forecasted weather conditions. Natural barriers can be large areas of rock, dirt, sand, water sources, existing roads, and trails. Indirect line construction by hand line, mechanical can be used in the event fire activity increases and threatens values at risk. Check out this YouTube video that explains how confine &amp; contain strategy was determined and used </span><a href=\"//youtu.be/QfTz-5SCcmk?si=1dxYurMNz_IfHaat\"><span> https://youtu.be/QfTz-5SCcmk?si=1dxYurMNz_IfHaat</span></a><span> Video can also be found at the bottom of page in related links. </span></p><p>A Type 3 organization assumed command of the fire on August 9, 2023, at 6 a.m.</p><p>A Type 4 Incident Commander assumed management responsibility on Friday, August 18, 2023, at 7 a.m.</p><p><span>The Little Mesa Fire reached 100% containment on Tuesday, September 19, 2023. </span></p><p><span>The smoke will be visible from surrounding areas and Highways 50, 550, 92, 65 and 141 as the interior continues to smolder. Go to </span><a href=\"fire.airnow.gov\"><span>fire.airnow.gov</span></a><span> or </span><a href=\"colorado.gov/airquality\"><span>colorado.gov/airquality</span></a><span> to get updated smoke conditions in North America. </span></p><p><span>Aircraft may be used over the Little Mesa Fire air space. Fire aviation resources are flying at different altitudes and speeds. Pilots should exercise caution when flying near wildfires to keep everyone safe. Unmanned aircraft systems (UAS) or drones must never fly near wildfires, as UAS are difficult to see and drone pilots have no way of communicating with firefighting aircraft. The only UAS or drones able to fly are agency owned and operated and have been assigned to work on the wildfire and have communication with air operations. <strong>Remember if you fly, we can’t!</strong></span></p>",
-    "size": "4009",
-    "lat_min": "39",
-    "lat_sec": "18",
-    "urlPath": "/coupd-little-mesa-fire",
-    "long_min": "19",
-    "long_sec": "59",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COUPD Little Mesa Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COUPD"
-  },
-  {
     "title": "Lookout Fire",
     "lat_deg": "44",
     "long_deg": "122 ",
@@ -480,7 +458,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "WA0617 2023 Airplane Lake OWF",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "WA0617"
   },
   {
@@ -524,7 +502,7 @@
     "long_sec": "6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "CASHF"
   },
   {
@@ -568,7 +546,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "ORMHF"
   },
   {
@@ -766,7 +744,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 weeks 2 days ago",
+    "changed": "3 weeks 3 days ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -942,7 +920,7 @@
     "long_sec": "203",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -964,7 +942,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "WAOLP"
   },
   {
@@ -1074,7 +1052,7 @@
     "long_sec": "12",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -1206,7 +1184,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "3 weeks 5 days ago",
+    "changed": "3 weeks 6 days ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -1272,7 +1250,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1294,7 +1272,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1448,7 +1426,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1470,7 +1448,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1492,7 +1470,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1514,7 +1492,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "5 days 14 hours ago",
+    "changed": "6 days 6 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1558,7 +1536,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "3 weeks 6 days ago",
+    "changed": "4 weeks ago",
     "field_unit_code": "VASHP"
   },
   {
@@ -1646,7 +1624,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 weeks 4 days ago",
+    "changed": "2 weeks 5 days ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1668,7 +1646,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "NMCAF"
   }
 ]
