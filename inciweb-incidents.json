@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "3 minutes 14 seconds ago",
+    "changed": "11 hours 46 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 weeks ago",
+    "changed": "3 weeks 1 day ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "9 seconds ago",
+    "changed": "11 hours 43 minutes ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "1 minute 33 seconds ago",
+    "changed": "11 hours 44 minutes ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "1 month 1 week ago",
+    "changed": "1 month 2 weeks ago",
     "field_unit_code": "CAENF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "1 month 2 weeks ago",
+    "changed": "1 month 3 weeks ago",
     "field_unit_code": "XX1002"
   },
   {
@@ -348,7 +348,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Sidney Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "MTHLF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "WA0617 2023 Airplane Lake OWF",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "WA0617"
   },
   {
@@ -722,7 +722,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "ORUPF"
   },
   {
@@ -744,7 +744,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -810,7 +810,7 @@
     "long_sec": "56",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAYNP Marmot Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "CAYNP"
   },
   {
@@ -832,7 +832,7 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAYNP Jan Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "CAYNP"
   },
   {
@@ -854,7 +854,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAYNP Chiquito Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "CAYNP"
   },
   {
@@ -878,28 +878,6 @@
     "field_title_and_unit": "COGMF Spring Creek",
     "changed": "2 months 2 weeks ago",
     "field_unit_code": "COGMF"
-  },
-  {
-    "title": "2023 Sourdough Fire Burned Area Emergency Response (BAER)",
-    "lat_deg": "48",
-    "long_deg": "121",
-    "field_percent_of_perimeter": "",
-    "type": "Burned Area Emergency Response",
-    "field_incident_description": "A Burned Area Emergency Response (BAER) team has assessed the impacts of the Sourdough Fire on natural resources, cultural resources, and infrastructure. The BAER team has completed its evaluation and has shared its recommendations with North Cascades National Park Service Complex.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-11T15:35:32-04:00\">2023-09-11</time>\n",
-    "id": "315840",
-    "field_incident_overview": "<p>The Sourdough Fire was reported on Saturday, July 29, 2023. The fire is located in Ross Lake National Recreation Area and North Cascades National Park within North Cascades National Park Service Complex. The fire is burning in very steep terrain.</p><p>A Burned Area Emergency Response (BAER) team was assigned on September 7, 2023 to evaluate the impacts of the Sourdough Fire on natural resources, cultural resources, and infrastructure. This team is composed of scientists and resource specialists including hydrologists, vegetation ecologists, GIS technicians, and archaeologists. These specialists work closely with the NPS to create a plan to mitigate the fire's impacts over the coming weeks, months, and years.</p><p>The team has finalized its recommendation plan for the North Cascades National Park Service Complex and has completed the closeout process. The plan will be implemented by Complex management over the coming weeks, months, and years.</p><p>For continued updates on the Sourdough Fire incident response, <a href=\"//inciweb.wildfire.gov/incident-information/warlp-sourdough-fire\">please visit the incident webpage</a>.</p>",
-    "size": "6369",
-    "lat_min": "44",
-    "lat_sec": "18",
-    "urlPath": "/wancp-2023-sourdough-fire-burned-area-emergency-response-baer",
-    "long_min": "9",
-    "long_sec": "8",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "WANCP 2023 Sourdough Fire Burned Area Emergency Response BAER",
-    "changed": "3 months ago",
-    "field_unit_code": "WANCP"
   },
   {
     "title": "Wolf Creek Fire",
@@ -1162,7 +1140,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 weeks ago",
+    "changed": "3 weeks 1 day ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -1426,7 +1404,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1470,7 +1448,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1536,7 +1514,7 @@
     "long_sec": "48",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "4 weeks 1 day ago",
+    "changed": "1 month ago",
     "field_unit_code": "VASHP"
   },
   {
@@ -1558,7 +1536,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1646,7 +1624,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "1 week 5 days ago",
+    "changed": "1 week 6 days ago",
     "field_unit_code": "NMCAF"
   }
 ]
