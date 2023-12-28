@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "11 hours 46 minutes ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 weeks 1 day ago",
+    "changed": "3 weeks 2 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "MTBDF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "11 hours 43 minutes ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "1 month 2 weeks ago",
+    "changed": "1 month 3 weeks ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "11 hours 44 minutes ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "09",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "60",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -744,7 +744,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "3 weeks 5 days ago",
+    "changed": "3 weeks 6 days ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -766,7 +766,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "LALAS"
   },
   {
@@ -1008,7 +1008,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "ORFWF"
   },
   {
@@ -1162,7 +1162,7 @@
     "long_sec": "26.9",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "4 weeks 1 day ago",
+    "changed": "1 month ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -1206,7 +1206,7 @@
     "long_sec": "0",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "1 month 1 week ago",
+    "changed": "1 month 2 weeks ago",
     "field_unit_code": "CASQF"
   },
   {
@@ -1272,7 +1272,7 @@
     "long_sec": "46.9068",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -1294,7 +1294,7 @@
     "long_sec": "43.7388",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -1426,7 +1426,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "4 weeks ago",
+    "changed": "4 weeks 1 day ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1470,7 +1470,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1602,7 +1602,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "3 weeks ago",
+    "changed": "3 weeks 1 day ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1624,7 +1624,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "NMCAF"
   }
 ]
