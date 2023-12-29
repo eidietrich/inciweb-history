@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 20 hours ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 20 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "CASQF"
   },
   {
@@ -568,7 +568,7 @@
     "long_sec": "8",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "ORUPF"
   },
   {
@@ -590,7 +590,7 @@
     "long_sec": "38",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "ORUPF"
   },
   {
@@ -678,7 +678,7 @@
     "long_sec": "8.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "ORUPF"
   },
   {
@@ -700,7 +700,7 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "ORUPF"
   },
   {
@@ -986,7 +986,7 @@
     "long_sec": "93",
     "measurement_type": "Acres",
     "field_title_and_unit": "IDPAF Southwest Idaho Wildfire Crisis Strategy Prescribed Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "IDPAF"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "08",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAKIF Ida",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "LAKIF"
   },
   {
@@ -1096,7 +1096,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -1140,7 +1140,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 weeks 1 day ago",
+    "changed": "3 weeks 2 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -1338,7 +1338,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "1 month 1 week ago",
+    "changed": "1 month 2 weeks ago",
     "field_unit_code": "COPSF"
   },
   {
@@ -1404,7 +1404,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 weeks ago",
+    "changed": "2 weeks 1 day ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1448,7 +1448,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "2 weeks ago",
+    "changed": "2 weeks 1 day ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1536,7 +1536,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 4 days ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1558,7 +1558,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "1 month 1 week ago",
+    "changed": "1 month 2 weeks ago",
     "field_unit_code": "CAANF"
   },
   {
