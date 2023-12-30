@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "2 days 20 hours ago",
+    "changed": "3 days ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "2 days 20 hours ago",
+    "changed": "3 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "2 days 20 hours ago",
+    "changed": "3 days ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 month 4 weeks ago",
+    "changed": "2 months ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -229,7 +229,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2023-07-17T14:51:04-04:00\">2023-07-17</time>\n",
     "id": "313492",
-    "field_incident_overview": "<p><em><strong>HTNF Initial Attack Incidents less than 10 acres in size will be placed here. All others will have their own page. </strong></em></p><p><em><strong>        DATE/TIME          LOCATION                       NAME                  LAT/LONG                                SIZE                  STATUS         </strong></em></p><p>1. 07/08/23 1512     NVHTF-CRD-RENO   <strong>Peavine Peak</strong>    9.593000, -119.988500            8.3 Acres       Controlled</p><p>2. 07/19/23 1346     NVHTF-CRD-SOUTH      <strong>Scotts    </strong>      38.767763, -119.941730           1/10 Acre       Controlled</p><p>3. 07/20/23 0812     NVHTF-ELY, RD             <strong>Manzonie         </strong>38.793200, -115.367000         1/10 Acre      Controlled</p><p>4. 07/20/23 0707     NVHTF-ELY, RD           <strong>Summit Spring    </strong>38.830067, -115.318500       1/10 Acre      Controlled</p><p>5. 07/24/23 1402     NVHTF-ELY, RD           <strong> West Spring      </strong>38.825167, -115.319883         3.5 Acres      Controlled</p><p>6. 08/09/23 1529     NVHTF-LAS VEGAS     <strong>Mt Sterling</strong>          36.468000, -115.816167          43 Acres       Controlled</p><p>7. 08/11/23 1603     NVHTF-CRD-SOUTH      <strong>Hope</strong>                38.756383, -119.909033         1/10 Acre      Controlled</p><p>8. 08/14/23 1014    NVHTF-CRD-NORTH       <strong>Rose</strong>                39.327550, -119.927217         1/10 Acre     Controlled</p><p>9. 08/17/23 1743    NVHTF-CRD-NORTH      <strong>Mitchell</strong>            39.618095, -120.006950         1/10 Acre      Controlled</p><p>10. 08/20/23 0805  NVHTF-CRD-SOUTH      <strong>Davis</strong>                38.655533, -119.906417         1/10 Acre      Controlled</p><p>11. 09/09/23 1925  NVHTF-BPORT RD      <strong>Cedar Hill             </strong>38.184800, -118.817250          1/10 Acre     Controlled</p><p>12. 09/10/23 0711  NVHTF-BPORT RD     <strong>Dry Canyon</strong>           38.651417, -119.378917           1/10 Acre    Controlled</p><p>13. 09/10/23 1130  NVHTF-BPORT RD      <strong>Snowline</strong>              38.135772, -119.285560           1/10 Acre    Controlled</p><p>14. 09/10/23 1655  NVHTF-BPORT RD    <strong>Sweetwater            </strong>38.617167, -119.281333            1/10 Acre    Controlled</p><p>15. 09/10/23 1851  NVHTF-BPORT RD     <strong>Sandwash</strong>             38.642743, -119.412062            1/10 Acre    Controlled</p><p>16. 09/19/23 1130  NVHTF-CRD SOUTH   <strong>East Fork      </strong>        38.610250, -119.660717           1/10 Acre     Contained</p><p> </p>",
+    "field_incident_overview": "<p><em><strong>HTNF Initial Attack Incidents less than 10 acres in size will be placed here. All others will have their own page. </strong></em></p><p><em><strong>        DATE/TIME          LOCATION                       NAME                  LAT/LONG                                SIZE                  STATUS         </strong></em></p><p>1. 07/08/23 1512     NVHTF-CRD-RENO   <strong>Peavine Peak</strong>    9.593000, -119.988500            8.3 Acres       Controlled</p><p>2. 07/19/23 1346     NVHTF-CRD-SOUTH      <strong>Scotts    </strong>      38.767763, -119.941730           1/10 Acre       Controlled</p><p>3. 07/20/23 0812     NVHTF-ELY, RD             <strong>Manzonie         </strong>38.793200, -115.367000         1/10 Acre      Controlled</p><p>4. 07/20/23 0707     NVHTF-ELY, RD           <strong>Summit Spring    </strong>38.830067, -115.318500       1/10 Acre      Controlled</p><p>5. 07/24/23 1402     NVHTF-ELY, RD           <strong> West Spring      </strong>38.825167, -115.319883         3.5 Acres      Controlled</p><p>6. 08/09/23 1529     NVHTF-LAS VEGAS     <strong>Mt Sterling</strong>          36.468000, -115.816167          43 Acres       Controlled</p><p>7. 08/11/23 1603     NVHTF-CRD-SOUTH      <strong>Hope</strong>                38.756383, -119.909033         1/10 Acre      Controlled</p><p>8. 08/14/23 1014    NVHTF-CRD-NORTH       <strong>Rose</strong>                39.327550, -119.927217         1/10 Acre     Controlled</p><p>9. 08/17/23 1743    NVHTF-CRD-NORTH      <strong>Mitchell</strong>            39.618095, -120.006950         1/10 Acre      Controlled</p><p>10. 08/20/23 0805  NVHTF-CRD-SOUTH      <strong>Davis</strong>                38.655533, -119.906417         1/10 Acre      Controlled</p><p>11. 09/09/23 1925  NVHTF-BPORT RD      <strong>Cedar Hill             </strong>38.184800, -118.817250          1/10 Acre     Controlled</p><p>12. 09/10/23 0711  NVHTF-BPORT RD     <strong>Dry Canyon</strong>           38.651417, -119.378917           1/10 Acre    Controlled</p><p>13. 09/10/23 1130  NVHTF-BPORT RD      <strong>Snowline</strong>              38.135772, -119.285560           1/10 Acre    Controlled</p><p>14. 09/10/23 1655  NVHTF-BPORT RD    <strong>Sweetwater            </strong>38.617167, -119.281333            1/10 Acre    Controlled</p><p>15. 09/10/23 1851  NVHTF-BPORT RD     <strong>Sandwash</strong>             38.642743, -119.412062            1/10 Acre    Controlled</p><p>16. 09/19/23 1130  NVHTF-CRD SOUTH   <strong>East Fork      </strong>        38.610250, -119.660717           1/10 Acre     Contained</p><p>17. 11/14/23 1912  NVHTF-CRD NORTH   <strong>Slide                    </strong>39.306513, -119.859867             2 Acres Out</p><p>18. </p><p> </p>",
     "size": "0",
     "lat_min": "31",
     "lat_sec": "25",
@@ -238,7 +238,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "3 months ago",
+    "changed": "46 seconds ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -262,28 +262,6 @@
     "field_title_and_unit": "XX1002 Flat Fire",
     "changed": "1 month 3 weeks ago",
     "field_unit_code": "XX1002"
-  },
-  {
-    "title": "Bowles Creek Fire",
-    "lat_deg": "46",
-    "long_deg": "113",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-21T19:31:43-04:00\">2023-07-21</time>\n",
-    "id": "313563",
-    "field_incident_overview": "<p>The Forest received a smoke report in the Bowles Creek drainage area, following a lightning storm on the evening of July 20, 2023. Ground resources and a helicopter flight confirmed the location. Additional smoke reports, received by the Bitterroot Dispatch Center, were checked and confirmed by ground resources. </p>\n\n<p><span><span><span><span>Ground resources and an early morning helicopter flight on July 21st estimated the Bowles Fire to be approximately 50 acres and the Daly Creek fire on the Bitterroot side of the divide to be approximately 1-2 acres. Initial attack resources lined and “plumbed” (with water and hoselays) the Daly Fire. Fire operations officials pulled those individuals off the active fireline for safety reasons. Due to this active fire behavior and resulting growth, these fires have merged and will be referred to as the Bowles Creek Fire. Active fire behavior due to receptive fuels and hot and dry weather conditions resulted in extensive fire growth throughout the day.</span></span></span></span></p>\n\n<p>The fire is located approximately 27 miles southwest of Philipsburg MT and three miles southwest of Skalkaho Pass in the Sapphire Wilderness Study Area (WSA) in steep terrain.  </p>",
-    "size": "6988",
-    "lat_min": "11",
-    "lat_sec": "25",
-    "urlPath": "/mtbdf-bowles-creek-fire",
-    "long_min": "48",
-    "long_sec": "45",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "MTBDF Bowles Creek Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "MTBDF"
   },
   {
     "title": "Lowline Fire",
@@ -876,7 +854,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "COGMF"
   },
   {
@@ -964,7 +942,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "COGMF"
   },
   {
@@ -1470,7 +1448,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1602,7 +1580,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "3 weeks 2 days ago",
+    "changed": "3 weeks 3 days ago",
     "field_unit_code": "NCNCF"
   },
   {
