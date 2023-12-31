@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "3 days ago",
+    "changed": "3 days 15 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 weeks 3 days ago",
+    "changed": "3 weeks 4 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "3 days ago",
+    "changed": "3 days 15 hours ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "3 days ago",
+    "changed": "3 days 15 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "59",
     "measurement_type": "",
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "CAINF"
   },
   {
@@ -238,7 +238,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "10 seconds ago",
+    "changed": "14 hours 14 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -722,7 +722,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "4 weeks ago",
+    "changed": "4 weeks 1 day ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -856,28 +856,6 @@
     "field_title_and_unit": "COGMF Spring Creek",
     "changed": "2 months 3 weeks ago",
     "field_unit_code": "COGMF"
-  },
-  {
-    "title": "Wolf Creek Fire",
-    "lat_deg": "38",
-    "long_deg": "119",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Wolf Creek Fire started Tuesday 09/12/2023 near Wolf Creek Campground Road and Highland Peak. Resources have controlled the Incident. ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-13T20:33:45-04:00\">2023-09-13</time>\n",
-    "id": "315913",
-    "field_incident_overview": "<p>Update 9/20/2023</p><p>The Wolf Creek Fire, started Tuesday 9/12/23 located near Wolf Creek Campground and Highland Peak, is 100% contained, crews are continuing with mop up operations and addressing hazard trees until the incident is \"controlled\". Resources will remain on scene through Thursday to ensure the approaching cold front does not affect the fire area. </p><p>Incident Management does not foresee any control issues.</p><p>Wolf Creek Campground is now open to the public, Wolf Creek Road, and Alpine County Airport are also now open to the public.</p><p> </p>",
-    "size": "33",
-    "lat_min": "34",
-    "lat_sec": "505",
-    "urlPath": "/nvhtf-wolf-creek-fire",
-    "long_min": "42",
-    "long_sec": "203",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NVHTF Wolf Creek Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "NVHTF"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -1052,7 +1030,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "CAKNF"
   },
   {
@@ -1118,7 +1096,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 weeks 3 days ago",
+    "changed": "3 weeks 4 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -1382,7 +1360,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1426,7 +1404,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1514,7 +1492,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "2 weeks 5 days ago",
+    "changed": "2 weeks 6 days ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1602,7 +1580,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "2 weeks 1 day ago",
+    "changed": "2 weeks 2 days ago",
     "field_unit_code": "NMCAF"
   }
 ]
