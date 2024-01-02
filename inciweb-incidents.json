@@ -13,12 +13,12 @@
     "size": "",
     "lat_min": "33",
     "lat_sec": "32",
-    "urlPath": "/coarf-arapaho--roosevelt-national-forests-pile-burning",
+    "urlPath": "/coarf-arapaho-roosevelt-national-forests-pile-burning",
     "long_min": "5",
     "long_sec": "10",
     "measurement_type": "Acres",
-    "field_title_and_unit": "COARF Arapaho  Roosevelt National Forests Pile Burning",
-    "changed": "5 days 23 hours ago",
+    "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
+    "changed": "38 seconds ago",
     "field_unit_code": "COARF"
   },
   {
@@ -1382,7 +1382,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "CATNF"
   },
   {
