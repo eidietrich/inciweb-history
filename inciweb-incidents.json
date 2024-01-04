@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "4 hours 13 minutes ago",
+    "changed": "14 hours 35 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -238,7 +238,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "4 days 4 hours ago",
+    "changed": "4 days 14 hours ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTHLF Sidney Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "MTHLF"
   },
   {
@@ -814,28 +814,6 @@
     "field_unit_code": "COGMF"
   },
   {
-    "title": "Morgan Fire",
-    "lat_deg": "42",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "95",
-    "type": "Wildfire",
-    "field_incident_description": "This a wind-driven wildfire burning in timber and brush in steep and inaccessible terrain. The wildfire is located on both federal and private lands, just north of the Coleman Rim roadless area, about halfway between Bly and Lakeview, Oregon. A local Type 3 organization engaged in aggressive suppression tactics when the wildfire was first reported, successfully establishing an anchor point and control lines which the current Type 4 incident management team is using to further develop containment features. ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-20T22:54:24-04:00\">2023-09-20</time>\n",
-    "id": "316177",
-    "field_incident_overview": "<p><span>The Morgan Fire is currently burning on the Paisley Ranger District of the Fremont-Winema National Forest, approximately 19 miles east of Bly, 21 miles west of Lakeview, and 8 miles north of Quartz Mountain. The fire was reported at 2:44 p.m., September 18, 2023. Northwest Incident Management Team 7 handed the fire back to the type 4 team made up of the local unit on September 29, 2023 at 7pm. </span></p>",
-    "size": "2289",
-    "lat_min": "25",
-    "lat_sec": "34",
-    "urlPath": "/orfwf-morgan-fire",
-    "long_min": "41",
-    "long_sec": "5",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORFWF Morgan Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "ORFWF"
-  },
-  {
     "title": "Hope Fire ",
     "lat_deg": "37",
     "long_deg": "108",
@@ -964,7 +942,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "4 weeks ago",
+    "changed": "4 weeks 1 day ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -1360,7 +1338,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "3 weeks 2 days ago",
+    "changed": "3 weeks 3 days ago",
     "field_unit_code": "WVNRP"
   },
   {
