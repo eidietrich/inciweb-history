@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "21 hours 16 minutes ago",
+    "changed": "10 seconds ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "4 seconds ago",
+    "changed": "5 hours 26 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "59",
     "measurement_type": "",
     "field_title_and_unit": "CAINF INYO NATIONAL FORESTFLOOD RESPONSE",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "CAINF"
   },
   {
@@ -238,7 +238,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "6 days 23 hours ago",
+    "changed": "1 week ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "1 month 4 weeks ago",
+    "changed": "2 months ago",
     "field_unit_code": "XX1002"
   },
   {
@@ -656,7 +656,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Grizzly Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "ORUPF"
   },
   {
@@ -1184,7 +1184,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 day 19 hours ago",
+    "changed": "2 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1228,7 +1228,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "3 weeks 2 days ago",
+    "changed": "3 weeks 3 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1404,7 +1404,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "3 weeks 1 day ago",
+    "changed": "3 weeks 2 days ago",
     "field_unit_code": "NMCAF"
   }
 ]
