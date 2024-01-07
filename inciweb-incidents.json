@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "17 hours 53 minutes ago",
+    "changed": "17 hours 58 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "23 hours 20 minutes ago",
+    "changed": "23 hours 25 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -1404,7 +1404,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "6 seconds ago",
+    "changed": "8 seconds ago",
     "field_unit_code": "COARF"
   }
 ]
