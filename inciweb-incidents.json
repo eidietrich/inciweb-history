@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "17 hours 58 minutes ago",
+    "changed": "18 hours 14 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "23 hours 25 minutes ago",
+    "changed": "23 hours 41 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -1389,7 +1389,7 @@
     "title": "Lump Gulch Fire",
     "lat_deg": "39",
     "long_deg": "105",
-    "field_percent_of_perimeter": "50",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -1404,7 +1404,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "8 seconds ago",
+    "changed": "14 seconds ago",
     "field_unit_code": "COARF"
   }
 ]
