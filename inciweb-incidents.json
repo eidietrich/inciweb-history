@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "15 hours 50 minutes ago",
+    "changed": "17 hours 53 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "21 hours 17 minutes ago",
+    "changed": "23 hours 20 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "MTBDF"
   },
   {
@@ -570,28 +570,6 @@
     "field_title_and_unit": "ORWIF Petes Lake Fire",
     "changed": "2 months 3 weeks ago",
     "field_unit_code": "ORWIF"
-  },
-  {
-    "title": "Cowlitz Complex",
-    "lat_deg": "46",
-    "long_deg": "121",
-    "field_percent_of_perimeter": "39",
-    "type": "Wildfire",
-    "field_incident_description": "Lightning Complex (Multiple fires caused by lightning).",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-30T21:29:18-04:00\">2023-08-30</time>\n",
-    "id": "315279",
-    "field_incident_overview": "<p><span><strong>Facebook</strong>: </span><a href=\"https://www.facebook.com/GiffordPinchot\"><span>Gifford Pinchot National Forest</span></a><span> on Facebook</span></p><p><span><strong>Twitter: </strong></span><a href=\"https://twitter.com/GPNF\"><span>https://twitter.com/GPNF</span></a></p><p> </p><p><span><strong>Background:</strong> There were 30 fires in the complex. The fires started August 25 after a lightning event across the Gifford Pinchot National Forest. All fires were managed under full suppression strategy. The fires have been contained.</span></p><p><span><strong>Closures</strong>: For all closure updates, visit the </span><a href=\"https://www.fs.usda.gov/main/giffordpinchot/fire\"><span>Gifford Pinchot National Forest wesite</span></a><span>.</span></p><p><span><strong>Gifford Pinchot National Forest</strong>: The </span>Gifford Pinchot National Forest includes over 1.3 million acres of forest, wildlife habitat, watersheds &amp; mountains, including Mt. Adams &amp; Mount St. Helens National Volcanic Monument.  A wide variety of recreational opportunities abound on the Gifford Pinchot National Forest.  <a href=\"https://www.fs.usda.gov/recmain/giffordpinchot/recreation\">View these opportunities.</a></p><p><span>The Cowlitz Valley area is administered by the Cowlitz Valley Ranger District. This area is located in the Northern most portion of the Gifford Pinchot National Forest in southwest Washington, and comprises about 575,000 acres of the Gifford Pinchot National Forest. The Cowlitz Valley area is roughly located among three volcanic peaks: Mt. Rainier to the north, Mt. Adams to the east, and Mt. St. Helens to the west. A line connecting Mt. Adams and Mt. St. Helens following the </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=31494\"><span>Boundary Trail #1</span></a><span> makes up the southern boundary. On clear days this trail affords spectacular views.</span></p><p><span>Nearby towns include Packwood, Glenoma, Morton and Ashford. The area has numerous campgrounds and over 500 miles of trails for a wide variety of users. Cowlitz Valley Ranger District manages four Wilderness areas including the </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79414\"><span>Goat Rocks Wilderness</span></a><span>, </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79409\"><span>Glacier View Wilderness</span></a><span>, </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79412\"><span>Tatoosh Wilderness</span></a><span> and </span><a href=\"http://www.fs.usda.gov/recarea/giffordpinchot/recarea/?recid=79415\"><span>William O Douglass Wilderness</span></a><span>. Major River Drainages include the Cowlitz River, Clear Fork of the Cowlitz, and the Cispus River.</span></p><p><span>Nearby attractions include Mt. Rainier National Park and Mount St. Helens National Monument.</span></p>",
-    "size": "731",
-    "lat_min": "31",
-    "lat_sec": "57",
-    "urlPath": "/wagpf-cowlitz-complex",
-    "long_min": "46",
-    "long_sec": "29",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "WAGPF Cowlitz Complex",
-    "changed": "3 months ago",
-    "field_unit_code": "WAGPF"
   },
   {
     "title": "Brice Creek Fire",
@@ -1184,7 +1162,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 18 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1250,7 +1228,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "2 weeks 4 days ago",
+    "changed": "2 weeks 5 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1411,13 +1389,13 @@
     "title": "Lump Gulch Fire",
     "lat_deg": "39",
     "long_deg": "105",
-    "field_percent_of_perimeter": "",
+    "field_percent_of_perimeter": "50",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-01-06T20:36:52-05:00\">2024-01-06</time>\n",
     "id": "316930",
-    "field_incident_overview": "<p><span>The U.S. Forest Service, Timberline Fire Protection District, and Nederland Fire Protection District responded to reports of smoke in Gilpin County, Boulder Ranger District, near the intersection of Gilpin Road and Highway 119 at 4:30 p.m. on Saturday, January 6, 2024. Crews discovered a machine pile 60 feet by 60 feet burning in a landing on Forest Service land.</span></p><p><span>The Lump Gulch Fire is not part of current pile burning operations in the area. Adjacent piles are currently unignited, but there is spread potential due to low snow cover in the immediate area.</span></p>",
+    "field_incident_overview": "<p><span>The U.S. Forest Service, Timberline Fire Protection District, and Nederland Fire Protection District responded to reports of smoke in Gilpin County, Boulder Ranger District, near the intersection of Gilpin Road and Highway 119 at 4:30 p.m. on Saturday, January 6, 2024. Crews discovered a machine pile 60 feet by 60 feet burning in a landing on Forest Service land.</span></p><p><span>The Lump Gulch Fire is not part of current pile burning operations in the area.</span></p>",
     "size": "",
     "lat_min": "53",
     "lat_sec": "26",
@@ -1426,7 +1404,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "13 hours 42 minutes ago",
+    "changed": "6 seconds ago",
     "field_unit_code": "COARF"
   }
 ]
