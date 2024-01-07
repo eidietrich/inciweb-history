@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 hours 8 minutes ago",
+    "changed": "15 hours 50 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "7 hours 34 minutes ago",
+    "changed": "21 hours 17 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -700,7 +700,7 @@
     "long_sec": "44",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Lions Camp Road Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "LALAS"
   },
   {
@@ -1184,7 +1184,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 2 hours ago",
+    "changed": "2 days 16 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1426,7 +1426,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "4 seconds ago",
+    "changed": "13 hours 42 minutes ago",
     "field_unit_code": "COARF"
   }
 ]
