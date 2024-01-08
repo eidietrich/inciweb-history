@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 20 hours ago",
+    "changed": "1 day 21 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "12 minutes 52 seconds ago",
+    "changed": "1 hour 12 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days 21 hours ago",
+    "changed": "3 days 22 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1096,7 +1096,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1142,28 +1142,6 @@
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
     "changed": "1 month 3 weeks ago",
     "field_unit_code": "VAVAF"
-  },
-  {
-    "title": "2023 Quaker Run Fire",
-    "lat_deg": "38",
-    "long_deg": "78",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-08T15:22:06-05:00\">2023-11-08</time>\n",
-    "id": "316762",
-    "field_incident_overview": "<p><span>The Quaker Run Fire in Shenandoah National Park and Madison County, Virginia, is 100% contained as of November 17, 2023. Visitors to the Park should check for the latest information on </span><a href=\"https://www.nps.gov/shen/planyourvisit/quaker-run-fire-information.htm\"><span>park closures</span></a><span>. Burn bans are in effect in the Park and Madison County. Firefighters are monitoring the fire’s perimeter and also repairing trails, roads and other areas as needed. The cause of the fire has not been determined. </span></p><p><span>At 8 p.m. on November 16, 2023, the Southern Area Gold Incident Management Team transferred command to a Type 3 team. The phone number for information about the portion of the fire in Shenandoah National Park is 540-999-3500 ext. 3183 and the email is claire_comer@NPS.gov. For information about the portion of the fire on private and state lands, follow </span><a href=\"http://www.facebook.com/ForestryVA\"><span>www.facebook.com/ForestryVA</span></a><span> or call 434-981-6761. </span></p>",
-    "size": "3937",
-    "lat_min": "28",
-    "lat_sec": "36",
-    "urlPath": "/vashp-2023-quaker-run-fire",
-    "long_min": "20",
-    "long_sec": "48",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "VASHP 2023 Quaker Run Fire",
-    "changed": "1 month 1 week ago",
-    "field_unit_code": "VASHP"
   },
   {
     "title": "Steep Valley Fire",
@@ -1294,7 +1272,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "18 hours 20 minutes ago",
+    "changed": "19 hours 19 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -1316,7 +1294,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2023",
-    "changed": "1 minute 23 seconds ago",
+    "changed": "1 hour ago",
     "field_unit_code": "AZCOF"
   }
 ]
