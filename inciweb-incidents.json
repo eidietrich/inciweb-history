@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "10 minutes 39 seconds ago",
+    "changed": "12 minutes 52 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -1034,28 +1034,6 @@
     "field_unit_code": "LAJEP"
   },
   {
-    "title": "2023 Maid Fire",
-    "lat_deg": "34",
-    "long_deg": "111",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-05T12:16:10-05:00\">2023-11-05</time>\n",
-    "id": "316727",
-    "field_incident_overview": "<p>The Maid Fire began during the early morning hours of Saturday, Nov. 4, 2023 on the east side of Apache Maid mountain and was reported by a member of the public. The wildfire was human caused and the specific cause of the fire is under investigation. Firefighters were able to fully contain this fire as of Nov. 12, 2023. There may be some small indications of smoke internal to the fire perimeter but hardly noticeable.</p>",
-    "size": "942",
-    "lat_min": "43",
-    "lat_sec": "23.001",
-    "urlPath": "/azcof-2023-maid-fire",
-    "long_min": "32",
-    "long_sec": "37.9998",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZCOF 2023 Maid Fire",
-    "changed": "1 month 3 weeks ago",
-    "field_unit_code": "AZCOF"
-  },
-  {
     "title": "TNF Yuba River Pileburn Projects",
     "lat_deg": "39",
     "long_deg": "121",
@@ -1316,13 +1294,13 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "18 hours 18 minutes ago",
+    "changed": "18 hours 20 minutes ago",
     "field_unit_code": "COARF"
   },
   {
     "title": "Coconino National Forest prescribed fire and pile burns (Winter 2023)",
     "lat_deg": "35",
-    "long_deg": "-111",
+    "long_deg": "111",
     "field_percent_of_perimeter": "",
     "type": "Prescribed Fire",
     "field_incident_description": "Pile burns are an important part of forest restoration projects planned in accordance with the Forest Service’s 10-year Wildfire Crisis Strategy.<br />\r\n<br />\r\nPile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather. <br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our Prescribed Fires and Smoke web page and view the video Misconceptions and Benefits of Fire.",
@@ -1335,10 +1313,10 @@
     "lat_sec": "10.2078",
     "urlPath": "/azcof-coconino-national-forest-prescribed-fire-and-pile-burns-winter-2023",
     "long_min": "40",
-    "long_sec": "31.2738",
+    "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2023",
-    "changed": "5 seconds ago",
+    "changed": "1 minute 23 seconds ago",
     "field_unit_code": "AZCOF"
   }
 ]
