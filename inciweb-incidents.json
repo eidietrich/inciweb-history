@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 15 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "10 seconds ago",
+    "changed": "13 hours 31 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 month 2 weeks ago",
+    "changed": "1 month 3 weeks ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -1162,7 +1162,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days 2 hours ago",
+    "changed": "3 days 16 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1404,7 +1404,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "3 seconds ago",
+    "changed": "13 hours 31 minutes ago",
     "field_unit_code": "COARF"
   }
 ]
