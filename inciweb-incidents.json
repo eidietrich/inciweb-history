@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 15 hours ago",
+    "changed": "1 day 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "13 hours 31 minutes ago",
+    "changed": "10 minutes 39 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -238,7 +238,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -418,28 +418,6 @@
     "field_unit_code": "CASRF"
   },
   {
-    "title": "South Fork Complex",
-    "lat_deg": "40",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "90",
-    "type": "Wildfire",
-    "field_incident_description": "This is a full suppression wildfire.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-19T15:23:52-04:00\">2023-08-19</time>\n",
-    "id": "314752",
-    "field_incident_overview": "<p>This page will no longer be updated unless significant activity occurs. </p><p>The South Fork Complex originally consisted of 10 fires burning in both the Shasta-Trinity and Six Rivers National Forests that were all lightning caused on August 17, 2023.</p><p>The Complex now consists of four main fires due to seven of the fires (3-2, 3-3, 3-4, 3-5, 3-6, 3-7, and 3-8) burning together and being named the Pilot Fire. The remaining three fires of the Complex are the 3-9 Fire, Sulfur Fire, and the Pellitreau Fire.</p><p><span><strong>Evacuation Warning</strong>: As of 8:00 a.m. on September 5, 2023, all Evacuation Warnings have been lifted in both Trinity and Humboldt counties.</span></p><p><span><strong>Forest Closure: </strong>Forest Closure order for the South Fork Complex Fire continues to be in effect for the Six River National Forest and is posted on the </span><a href=\"https://www.fs.usda.gov/detail/srnf/notices/?cid=FSEPRD1096395\"><span>Six Rivers National Forest</span></a><span> website. The </span><a href=\"https://www.fs.usda.gov/detail/stnf/home/?cid=stelprdb5392380\"><span>Shasta-Trinity National Forest</span></a><span> has lifted their closure order for the South Fork Complex Fire.  Please note Route 1 remains closed from the southern border to the northern border of the Six River National Forest closure area.</span></p>",
-    "size": "3929",
-    "lat_min": "38",
-    "lat_sec": "18",
-    "urlPath": "/cashf-south-fork-complex",
-    "long_min": "33",
-    "long_sec": "6",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASHF South Fork Complex",
-    "changed": "3 months ago",
-    "field_unit_code": "CASHF"
-  },
-  {
     "title": "Tiger Island Fire",
     "lat_deg": "30.",
     "long_deg": "93",
@@ -460,28 +438,6 @@
     "field_title_and_unit": "LALAS Tiger Island Fire",
     "changed": "2 months 3 weeks ago",
     "field_unit_code": "LALAS"
-  },
-  {
-    "title": "Camp Creek Fire",
-    "lat_deg": "45",
-    "long_deg": "122",
-    "field_percent_of_perimeter": "62",
-    "type": "Wildfire",
-    "field_incident_description": "10 miles east of Sandy, OR",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-26T17:47:31-04:00\">2023-08-26</time>\n",
-    "id": "315095",
-    "field_incident_overview": "<p>The Camp Creek Fire in the Bull Run Watershed northeast of Sandy started in the early morning hours of August 25, 2023 by lightning that moved across Oregon and Washington. The fire began <span>near the junction of Forest Road 1210 and Forest Road 12.  Firefighters responded quickly. The Great Basin Incident Management Team 1 was ordered to assist with suppression efforts and management of the fire. Command of the Camp Creek Fire was transferred to Pacific Northwest Team 3 Incident Management Team at 8:00 pm on September 11.  Command of the Camp Creek Fire was transferred to the Mt. Hood Local Type 3 team at 6:30 am on September 21.  Command of the Camp Creek Fire was transfered to the Mt. Hood National Forest ICT4 at 0700 on October 4, 2023.</span></p><p><span>Bull Run Watershed is closed to the public but is the primary source of drinking water for approximately 1 million people.</span></p><p> </p>",
-    "size": "2055",
-    "lat_min": "27",
-    "lat_sec": "23",
-    "urlPath": "/ormhf-camp-creek-fire",
-    "long_min": "04",
-    "long_sec": "56",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORMHF Camp Creek Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "ORMHF"
   },
   {
     "title": "2023 Chilcoot Fire UNF",
@@ -656,7 +612,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -744,7 +700,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "WAOLP"
   },
   {
@@ -790,28 +746,6 @@
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
     "changed": "2 months 4 weeks ago",
     "field_unit_code": "COGMF"
-  },
-  {
-    "title": "Hope Fire ",
-    "lat_deg": "37",
-    "long_deg": "108",
-    "field_percent_of_perimeter": "70",
-    "type": "Wildfire",
-    "field_incident_description": "Full Suppression",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-22T14:33:10-04:00\">2023-09-22</time>\n",
-    "id": "316225",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Hope Fire was lightning-caused and detected on September 21st. The fire is being managed under a full suppression strategy by local resources from the Dolores Ranger District of the San Juan National Forest. It is currently burning at Hoppe Point located northwest of the McPhee Dam and Reservoir, east of Bradfield Campground.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The location of the fire is within the boundaries of a prescribed fire burn unit and fire personnel have been working to prepare lines around the area. Firefighters are reinforcing and using previously defined and prepared control lines to allow this naturally caused wildfire to reduce forest fuels and improve forest health within those boundaries. This will decrease risk of future catastrophic wildfire, protect infrastructure and private lands, and improve forage for wildlife.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The intended result of this suppression strategy is to allow a naturally caused wildfire to reduce hazardous fuels, encourage the growth of native plants, promote ponderosa pine regeneration, increase species diversity in the understory, restore ecological resiliency and reduce the potential for future high-severity wildfires. These efforts align with the Forest Service's 10-year Wildfire Crisis Strategy, which aims to increase the use of fire on the landscape as well as other treatments to improve forest resiliency. </span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"> </span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Current</strong> </span><span> </span></p><ul><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Recent weather aided firefighters in preventing further fire growth and containment has increased to 70%.</span><span> </span></li><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Today, firefighters will work to improve the containment lines along the Forest Service 510 road and continue extinguishing heat in isolated pockets.</span><span> </span></li></ul><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"><strong>Outlook</strong>  </span><span> </span></p><ul><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Firefighters will begin to transition to rehab activities, checking fence lines, repairing roads, and applying native seed to prevent erosion concerns.  </span><span> </span></li></ul>",
-    "size": "1290",
-    "lat_min": "36",
-    "lat_sec": "16",
-    "urlPath": "/cosjf-hope-fire",
-    "long_min": "36",
-    "long_sec": "12",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COSJF Hope Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COSJF"
   },
   {
     "title": "2023 Happy Camp Complex BAER Assessment",
@@ -902,28 +836,6 @@
     "field_unit_code": "CAMNF"
   },
   {
-    "title": "Coconino National Forest prescribed fire (Fall 2023)",
-    "lat_deg": "35",
-    "long_deg": "111",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-06T16:08:58-04:00\">2023-10-06</time>\n",
-    "id": "316515",
-    "field_incident_overview": "<p>Information regarding tentative and finalized prescribed fire projects will be posted below to reflect the current status of each prescribed fire project.</p><p>For more information regarding prescribed fire -- including the process and importance of it -- <a href=\"https://www.fs.usda.gov/detail/coconino/home/?cid=stelprdb5344667\">please visit the Coconino National Forest's website</a>.</p><h3><span><strong>Horse Park &amp; Willard Spring Pile Burns - Nov. 29-Dec. 1</strong></span></h3><p><span>The Flagstaff Ranger District plans to conduct large pile burns beginning Nov. 29 through Dec. 1 in two different areas about two miles north of Munds Park (or 13 miles south of Flagstaff).</span></p><ul><li><span>The <strong>Horse Park pile burn</strong> is comprised of approximately 1,200 acres of slash piles just </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001NrK-PDQV_zn--p5-60nFwusTdybTK8NmfYgrsqt0kZE_vH5aV8ushhKI41HslZzU3B_MPLgaBJLKl6OBGUOVnNixT79xmGHgwPmpjQ3L2S8jGTQ0NdW_Hv0TlNfRe2leXh_Zr1yAhUg7FOofPP-lQHHL7jVr7RLUcdc35x1-Ky4%3D%26c%3DVTjD_lSjF-IUf5Y9ZsqpPiKrCV-sO8vm_KeZsFl6ZFGMi4YK9jeCOQ%3D%3D%26ch%3DnMtFowEIXqiITN_DdVRSoqGyr2458EeAg_BleCafdDUSnQ1sPEGXrg%3D%3D&amp;data=05%7C01%7Cbrady.smith%40usda.gov%7C681321a4b5fe4b58b8c408dbf02d635c%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638367850446124744%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=dsSoZbbtCFX%2F3HjzomL%2ByfVDSJyCwQI6NbRQ4v47Aow%3D&amp;reserved=0\"><span><strong>north of Munds Park</strong></span></a><span>, near Forest Road 700.</span></li><li><span>The <strong>Willard Spring pile burn</strong> consists of four acres worth of forest debris and grass within </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001NrK-PDQV_zn--p5-60nFwusTdybTK8NmfYgrsqt0kZE_vH5aV8ushhKI41HslZzUm67ynHWlNL6bfHSzyzWXsare1pyABHqIMruAwa9V3QyL02XjPKi-LgNoWg02gqmUqhuoeXHu6kC0D_jgnYNnaXvrYTiMJisltAVdRabiASk%3D%26c%3DVTjD_lSjF-IUf5Y9ZsqpPiKrCV-sO8vm_KeZsFl6ZFGMi4YK9jeCOQ%3D%3D%26ch%3DnMtFowEIXqiITN_DdVRSoqGyr2458EeAg_BleCafdDUSnQ1sPEGXrg%3D%3D&amp;data=05%7C01%7Cbrady.smith%40usda.gov%7C681321a4b5fe4b58b8c408dbf02d635c%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638367850446131777%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=thRO52aW5W8BG%2BZwsdQPktfWnOErdfgrWL5Hz85D6%2F4%3D&amp;reserved=0\"><span><strong>Willard Spring pit</strong></span></a><span> just west of Interstate 17 near the Willard Springs exit.</span></li></ul><p><span>Smoke may impact areas such as Mountainaire, Kachina Village and I-17 around the pile burns but is forecast to move toward the north/northeast through the day.</span></p><p><span>There are no anticipated road or trail closures due to any of the pile burn projects. Please refrain from calling dispatch lines if you see smoke from these pile burns so lines can remain open for any emergencies.</span></p><p><span>Fire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.</span></p><p><span>For more information about prescribed burns, please visit our </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001NrK-PDQV_zn--p5-60nFwusTdybTK8NmfYgrsqt0kZE_vH5aV8ushiP5WPcz22Ry1QYovgdTVsxJsJ26lrkmrZuC8QhzwM-Oq_0MnewVUwWCFi798pl14fejaPpZ-1oZy6CP8mi4iZe8gkmFoNfBV_xo6dxQ-1q8wlbdey9Ryk8m0RRVgNpt2pSTqRnlZA73IMuFhtmamLmlbgNKXsb2Ug%3D%3D%26c%3DVTjD_lSjF-IUf5Y9ZsqpPiKrCV-sO8vm_KeZsFl6ZFGMi4YK9jeCOQ%3D%3D%26ch%3DnMtFowEIXqiITN_DdVRSoqGyr2458EeAg_BleCafdDUSnQ1sPEGXrg%3D%3D&amp;data=05%7C01%7Cbrady.smith%40usda.gov%7C681321a4b5fe4b58b8c408dbf02d635c%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638367850446137999%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=t9MZMWSVmT4f3boKK24TAvRqfGB8h0nb9nqUEcRL3R0%3D&amp;reserved=0\"><span><strong>Prescribed Fires and Smoke web page</strong></span></a><span> or view the video </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fr20.rs6.net%2Ftn.jsp%3Ff%3D001NrK-PDQV_zn--p5-60nFwusTdybTK8NmfYgrsqt0kZE_vH5aV8ushlQcW6iMvTU3wHBTtBY3pIlkimNYqK8St0fXBX6nihYZ3GskkP0rhoFwiSUMVEucxEsl6weomag3qTbaPtbPFbrBZ8sWoJAEFdaKatPAE77zNi0Wb5BcEESTM9bYAWAQoQ%3D%3D%26c%3DVTjD_lSjF-IUf5Y9ZsqpPiKrCV-sO8vm_KeZsFl6ZFGMi4YK9jeCOQ%3D%3D%26ch%3DnMtFowEIXqiITN_DdVRSoqGyr2458EeAg_BleCafdDUSnQ1sPEGXrg%3D%3D&amp;data=05%7C01%7Cbrady.smith%40usda.gov%7C681321a4b5fe4b58b8c408dbf02d635c%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C1%7C0%7C638367850446144192%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=ykVJs%2BVaYSmm3q2GB%2B3upuR%2FEBO9rD91hoaf5%2Fk%2F%2Fvs%3D&amp;reserved=0\"><em><span><strong>Keeping Fire on the Ground</strong></span></em></a><span>.</span></p>",
-    "size": "",
-    "lat_min": "11",
-    "lat_sec": "09.4",
-    "urlPath": "/azcof-coconino-national-forest-prescribed-fire-fall-2023",
-    "long_min": "40",
-    "long_sec": "26.9",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire Fall 2023",
-    "changed": "1 month 1 week ago",
-    "field_unit_code": "AZCOF"
-  },
-  {
     "title": "2023 - Sourgrass RX Burn",
     "lat_deg": "38",
     "long_deg": "120",
@@ -986,7 +898,7 @@
     "long_sec": "37.8",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1162,7 +1074,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days 16 hours ago",
+    "changed": "3 days 21 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1228,7 +1140,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "2 weeks 5 days ago",
+    "changed": "2 weeks 6 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1382,7 +1294,7 @@
     "long_sec": "45",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "3 weeks 3 days ago",
+    "changed": "3 weeks 4 days ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -1404,7 +1316,29 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "13 hours 31 minutes ago",
+    "changed": "18 hours 18 minutes ago",
     "field_unit_code": "COARF"
+  },
+  {
+    "title": "Coconino National Forest prescribed fire and pile burns (Winter 2023)",
+    "lat_deg": "35",
+    "long_deg": "-111",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "Pile burns are an important part of forest restoration projects planned in accordance with the Forest Service’s 10-year Wildfire Crisis Strategy.<br />\r\n<br />\r\nPile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather. <br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our Prescribed Fires and Smoke web page and view the video Misconceptions and Benefits of Fire.",
+    "field_active": "1",
+    "created": "<time datetime=\"2024-01-08T15:10:11-05:00\">2024-01-08</time>\n",
+    "id": "316935",
+    "field_incident_overview": "<p><span>— Fire managers on the Coconino National Forest plan to take advantage of winter weather conditions by conducting pile burns on both the Flagstaff Ranger District (FRD) and Mogollon Rim Ranger District (MRRD) this week.</span></p><p><span>The FRD has multiple pile burn projects planned between Monday, Jan. 8 and Friday, Jan. 12.</span></p><p><span>The district will burn piles located northwest of Flagstaff </span><a href=\"https://maps.app.goo.gl/ycYwAdxBLw24oBNg8\"><span>along Snowbowl Road</span></a><span> (37 acres) and at </span><a href=\"https://maps.app.goo.gl/impD7SNWiMUyazBb7\"><span>Hotshot Ranch</span></a><span> (5 acres), northeast of Flagstaff at </span><a href=\"https://maps.app.goo.gl/tTCqg4aTS1FdmAkL9\"><span>Mount Elden</span></a><span> (70 acres) and </span><a href=\"https://maps.app.goo.gl/Jvsp2JhJMXgcTeJJ8\"><span>Elden Springs</span></a><span> (80 acres); east of Flagstaff at the </span><a href=\"https://maps.app.goo.gl/oBvVXeuZHQE5knDM8\"><span>Flagstaff Ranger Station</span></a><span>; and south of Flagstaff at </span><a href=\"https://maps.app.goo.gl/pUbM9KHeohecVKYp9\"><span>Mormon Lake Work Center</span></a><span> (19 acres) and </span><a href=\"https://maps.app.goo.gl/rLJZyLe97zt8rAKAA\"><span>Dairy Springs</span></a><span> (37 acres).</span></p><p><span>Smoke impacts are expected to remain light throughout the course of the project work, though minor impact may be felt to surrounding communities and roadways.</span></p><p><span>The MRRD will conduct two pile burns this week, including the </span><a href=\"https://maps.app.goo.gl/V8JAWxUAaWU6svtq8\"><span>Natural Tanks piles</span></a><span> (30 acres) located four miles northeast of Clints Well and the </span><a href=\"https://maps.app.goo.gl/LNSUc4z481ZuFdzC8\"><span>Baker Butte piles</span></a><span> (500 acres) located eight miles southwest of Clints Well.</span></p><p><span>Smoke will be visible from state Route 87, but impact is expected to be light and short in duration with minimal community impact.</span></p><p><span>There are no anticipated road or trail closures due to any of the pile burn projects. Please refrain from calling dispatch lines if you see smoke from these pile burns so lines can remain open for any emergencies.</span></p><p><span>Burn plans may change at any time due to wind and weather conditions and forecasts.</span></p>",
+    "size": "",
+    "lat_min": "11",
+    "lat_sec": "10.2078",
+    "urlPath": "/azcof-coconino-national-forest-prescribed-fire-and-pile-burns-winter-2023",
+    "long_min": "40",
+    "long_sec": "31.2738",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2023",
+    "changed": "5 seconds ago",
+    "field_unit_code": "AZCOF"
   }
 ]
