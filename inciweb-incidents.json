@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 17 hours ago",
+    "changed": "2 days 18 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "21 hours 9 minutes ago",
+    "changed": "2 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "1 week 5 days ago",
+    "changed": "1 week 6 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "1 week 5 days ago",
+    "changed": "1 week 6 days ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "59 minutes 34 seconds ago",
+    "changed": "1 hour 31 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "17 hours 12 minutes ago",
+    "changed": "17 hours 43 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1272,7 +1272,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 hour 1 minute ago",
+    "changed": "1 hour 33 minutes ago",
     "field_unit_code": "AZCOF"
   }
 ]
