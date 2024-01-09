@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 21 hours ago",
+    "changed": "2 days ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 hour 12 minutes ago",
+    "changed": "3 hours 57 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "33",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "COGMF"
   },
   {
@@ -920,7 +920,7 @@
     "long_sec": "18.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days 22 hours ago",
+    "changed": "4 minutes 29 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "2 weeks 6 days ago",
+    "changed": "7 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1272,7 +1272,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "19 hours 19 minutes ago",
+    "changed": "22 hours 5 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -1294,7 +1294,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2023",
-    "changed": "1 hour ago",
+    "changed": "3 hours 46 minutes ago",
     "field_unit_code": "AZCOF"
   }
 ]
