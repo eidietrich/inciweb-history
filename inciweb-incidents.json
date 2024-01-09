@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 17 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "20 hours 10 minutes ago",
+    "changed": "21 hours 9 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "19",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "LALAS"
   },
   {
@@ -656,7 +656,7 @@
     "long_sec": "26",
     "measurement_type": "Acres",
     "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "LALAS"
   },
   {
@@ -678,7 +678,7 @@
     "long_sec": "49.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "COGMF"
   },
   {
@@ -744,7 +744,7 @@
     "long_sec": "25.8000",
     "measurement_type": "Acres",
     "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "COGMF"
   },
   {
@@ -854,7 +854,7 @@
     "long_sec": "167",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "24 seconds ago",
+    "changed": "59 minutes 34 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "16 hours 13 minutes ago",
+    "changed": "17 hours 12 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1232,28 +1232,6 @@
     "field_unit_code": "NCNCF"
   },
   {
-    "title": "Ojo Sarco Piles, Green Fuelwood Areas Project",
-    "lat_deg": "36",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-12-05T12:33:57-05:00\">2023-12-05</time>\n",
-    "id": "316899",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Piles created from 137 acres of thinning to the south of Ojo Sarco, NM (</span><a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/nmcaf-ojo-sarco-piles-rio-trampas-project\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">map</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">), are ready for prescribed fire treatment. Fire managers are monitoring forecasts and ground conditions before ignitions. Once burned, crews will patrol and monitor the piles until they are called out.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The piles were created as are part of the Green Fuelwood Areas Project, which aims to restore forest health and resiliency next to communities while providing fuelwood and other wood product opportunities to residents.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The ponderosa forests around Ojo Sarco are fire-dependent and must undergo fire disturbance on a regular basis to maintain resiliency. After prescribed fires are completed, if a future wildfire reaches an area, the fire behavior will likely be modified to a less intense, more manageable surface fire making it safer for firefighters to engage.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">(Photo: Ojo Sarco piles in March 2023)</span></p><p><em><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">For the Record: An earlier version of this overview mistakenly called the project the Rio Trampas Project. It is the Green Fuelwood Areas Project.</span></em></p>",
-    "size": "137",
-    "lat_min": "06",
-    "lat_sec": "05",
-    "urlPath": "/nmcaf-ojo-sarco-piles-green-fuelwood-areas-project",
-    "long_min": "46",
-    "long_sec": "45",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Ojo Sarco Piles Green Fuelwood Areas Project",
-    "changed": "3 weeks 4 days ago",
-    "field_unit_code": "NMCAF"
-  },
-  {
     "title": "Lump Gulch Fire",
     "lat_deg": "39",
     "long_deg": "105",
@@ -1272,7 +1250,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "1 day 14 hours ago",
+    "changed": "1 day 15 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -1294,7 +1272,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "2 minutes 32 seconds ago",
+    "changed": "1 hour 1 minute ago",
     "field_unit_code": "AZCOF"
   }
 ]
