@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days ago",
+    "changed": "2 days 10 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 hours 57 minutes ago",
+    "changed": "13 hours 29 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "4 minutes 29 seconds ago",
+    "changed": "9 hours 36 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "7 seconds ago",
+    "changed": "9 hours 31 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1162,7 +1162,7 @@
     "long_sec": "40.4106",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVNRP Steep Valley Fire",
-    "changed": "4 weeks ago",
+    "changed": "4 weeks 1 day ago",
     "field_unit_code": "WVNRP"
   },
   {
@@ -1272,7 +1272,7 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "22 hours 5 minutes ago",
+    "changed": "1 day 7 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -1294,7 +1294,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2023",
-    "changed": "3 hours 46 minutes ago",
+    "changed": "13 hours 17 minutes ago",
     "field_unit_code": "AZCOF"
   }
 ]
