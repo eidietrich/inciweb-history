@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 seconds ago",
+    "changed": "9 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 hour 31 minutes ago",
+    "changed": "1 hour 39 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "17 hours 43 minutes ago",
+    "changed": "17 hours 52 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1272,7 +1272,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 hour 33 minutes ago",
+    "changed": "1 hour 41 minutes ago",
     "field_unit_code": "AZCOF"
   }
 ]
