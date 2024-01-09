@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 10 hours ago",
+    "changed": "2 days 16 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "13 hours 29 minutes ago",
+    "changed": "20 hours 10 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "9 hours 36 minutes ago",
+    "changed": "24 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "9 hours 31 minutes ago",
+    "changed": "16 hours 13 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1272,11 +1272,11 @@
     "long_sec": "05",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "1 day 7 hours ago",
+    "changed": "1 day 14 hours ago",
     "field_unit_code": "COARF"
   },
   {
-    "title": "Coconino National Forest prescribed fire and pile burns (Winter 2023)",
+    "title": "Coconino National Forest prescribed fire and pile burns (Winter 2024)",
     "lat_deg": "35",
     "long_deg": "111",
     "field_percent_of_perimeter": "",
@@ -1285,16 +1285,16 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-01-08T15:10:11-05:00\">2024-01-08</time>\n",
     "id": "316935",
-    "field_incident_overview": "<p><span>— Fire managers on the Coconino National Forest plan to take advantage of winter weather conditions by conducting pile burns on both the Flagstaff Ranger District (FRD) and Mogollon Rim Ranger District (MRRD) this week.</span></p><p><span>The FRD has multiple pile burn projects planned between Monday, Jan. 8 and Friday, Jan. 12.</span></p><p><span>The district will burn piles located northwest of Flagstaff </span><a href=\"https://maps.app.goo.gl/ycYwAdxBLw24oBNg8\"><span>along Snowbowl Road</span></a><span> (37 acres) and at </span><a href=\"https://maps.app.goo.gl/impD7SNWiMUyazBb7\"><span>Hotshot Ranch</span></a><span> (5 acres), northeast of Flagstaff at </span><a href=\"https://maps.app.goo.gl/tTCqg4aTS1FdmAkL9\"><span>Mount Elden</span></a><span> (70 acres) and </span><a href=\"https://maps.app.goo.gl/Jvsp2JhJMXgcTeJJ8\"><span>Elden Springs</span></a><span> (80 acres); east of Flagstaff at the </span><a href=\"https://maps.app.goo.gl/oBvVXeuZHQE5knDM8\"><span>Flagstaff Ranger Station</span></a><span>; and south of Flagstaff at </span><a href=\"https://maps.app.goo.gl/pUbM9KHeohecVKYp9\"><span>Mormon Lake Work Center</span></a><span> (19 acres) and </span><a href=\"https://maps.app.goo.gl/rLJZyLe97zt8rAKAA\"><span>Dairy Springs</span></a><span> (37 acres).</span></p><p><span>Smoke impacts are expected to remain light throughout the course of the project work, though minor impact may be felt to surrounding communities and roadways.</span></p><p><span>The MRRD will conduct two pile burns this week, including the </span><a href=\"https://maps.app.goo.gl/V8JAWxUAaWU6svtq8\"><span>Natural Tanks piles</span></a><span> (30 acres) located four miles northeast of Clints Well and the </span><a href=\"https://maps.app.goo.gl/LNSUc4z481ZuFdzC8\"><span>Baker Butte piles</span></a><span> (500 acres) located eight miles southwest of Clints Well.</span></p><p><span>Smoke will be visible from state Route 87, but impact is expected to be light and short in duration with minimal community impact.</span></p><p><span>There are no anticipated road or trail closures due to any of the pile burn projects. Please refrain from calling dispatch lines if you see smoke from these pile burns so lines can remain open for any emergencies.</span></p><p><span>Burn plans may change at any time due to wind and weather conditions and forecasts.</span></p>",
+    "field_incident_overview": "<h3>Pile burns planned today (Jan. 9, 2024):</h3><p>Flagstaff area:<br /><a href=\"https://maps.app.goo.gl/Jvsp2JhJMXgcTeJJ8\">Elden Springs </a>(80 acres)<br /><strong>Smoke will be highly visible from Highway 89 beginning at roughly noon</strong></p><p><span>Clints Well and Happy Jack area:</span><br /><a href=\"https://maps.app.goo.gl/LNSUc4z481ZuFdzC8\"><span>Baker Butte</span></a><span> (500 acres)</span></p><h3>Future pile burn plans:</h3><p><span>There are multiple pile burn projects planned in the Flagstaff area between Monday, Jan. 8 and Friday, Jan. 12.</span></p><p><span>The Flagstaff Ranger District will burn piles located northwest of Flagstaff </span><a href=\"https://maps.app.goo.gl/ycYwAdxBLw24oBNg8\"><span>along Snowbowl Road</span></a><span> (37 acres) and at </span><a href=\"https://maps.app.goo.gl/impD7SNWiMUyazBb7\"><span>Hotshot Ranch</span></a><span> (5 acres), northeast of Flagstaff at </span><a href=\"https://maps.app.goo.gl/tTCqg4aTS1FdmAkL9\"><span>Mount Elden</span></a><span> (70 acres) and </span><a href=\"https://maps.app.goo.gl/Jvsp2JhJMXgcTeJJ8\"><span>Elden Springs</span></a><span> (80 acres); east of Flagstaff at the </span><a href=\"https://maps.app.goo.gl/oBvVXeuZHQE5knDM8\"><span>Flagstaff Ranger Station</span></a><span>; and south of Flagstaff at </span><a href=\"https://maps.app.goo.gl/pUbM9KHeohecVKYp9\"><span>Mormon Lake Work Center</span></a><span> (19 acres) and </span><a href=\"https://maps.app.goo.gl/rLJZyLe97zt8rAKAA\"><span>Dairy Springs</span></a><span> (37 acres).</span></p><p><span>There are two pile burn projects planned in the Happy Jack and Blue Ridge area between Tuesday, Jan. 9 and Wednesday, Jan. 10.</span></p><p><span>Projects include the </span><a href=\"https://maps.app.goo.gl/V8JAWxUAaWU6svtq8\"><span>Natural Tanks piles</span></a><span> (30 acres) located four miles northeast of Clints Well and the </span><a href=\"https://maps.app.goo.gl/LNSUc4z481ZuFdzC8\"><span>Baker Butte piles</span></a><span> (500 acres) located eight miles southwest of Clints Well.</span></p>",
     "size": "",
     "lat_min": "11",
     "lat_sec": "10.2078",
-    "urlPath": "/azcof-coconino-national-forest-prescribed-fire-and-pile-burns-winter-2023",
+    "urlPath": "/azcof-coconino-national-forest-prescribed-fire-and-pile-burns-winter-2024",
     "long_min": "40",
     "long_sec": "26.6",
     "measurement_type": "Acres",
-    "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2023",
-    "changed": "13 hours 17 minutes ago",
+    "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
+    "changed": "2 minutes 32 seconds ago",
     "field_unit_code": "AZCOF"
   }
 ]
