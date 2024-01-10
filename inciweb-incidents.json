@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "6 minutes 46 seconds ago",
+    "changed": "1 hour 58 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 hour 23 minutes ago",
+    "changed": "3 hours 15 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -238,7 +238,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -568,28 +568,6 @@
     "long_sec": "2.3994",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "ORUPF"
-  },
-  {
-    "title": "Grizzly Fire",
-    "lat_deg": "43",
-    "long_deg": "122",
-    "field_percent_of_perimeter": "0",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-31T14:43:34-04:00\">2023-08-31</time>\n",
-    "id": "315319",
-    "field_incident_overview": "<p>The Grizzly Fire was started by lightning on August 24, 2023. It is burning in steep and difficult-to-access terrain.</p><p> </p><p><strong>This page will only be updated if there is significant activity to report.</strong></p>",
-    "size": "324",
-    "lat_min": "35",
-    "lat_sec": "35",
-    "urlPath": "/orupf-grizzly-fire",
-    "long_min": "37",
-    "long_sec": "10",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORUPF Grizzly Fire",
     "changed": "3 months ago",
     "field_unit_code": "ORUPF"
   },
@@ -1052,7 +1030,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "37 seconds ago",
+    "changed": "1 hour 52 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1096,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 day 17 hours ago",
+    "changed": "1 day 19 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1140,7 +1118,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -1250,7 +1228,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 hour 34 minutes ago",
+    "changed": "3 hours 26 minutes ago",
     "field_unit_code": "AZCOF"
   }
 ]
