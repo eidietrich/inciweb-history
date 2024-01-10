@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 days 17 hours ago",
+    "changed": "1 minute 54 seconds ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "5 seconds ago",
+    "changed": "52 minutes 41 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -722,7 +722,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -1052,7 +1052,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 day ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1118,7 +1118,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 day 16 hours ago",
+    "changed": "1 day 17 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1232,28 +1232,6 @@
     "field_unit_code": "NCNCF"
   },
   {
-    "title": "Lump Gulch Fire",
-    "lat_deg": "39",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2024-01-06T20:36:52-05:00\">2024-01-06</time>\n",
-    "id": "316930",
-    "field_incident_overview": "<p><span>The U.S. Forest Service, Timberline Fire Protection District, and Nederland Fire Protection District responded to reports of smoke in Gilpin County, Boulder Ranger District, near the intersection of Gilpin Road and Highway 119 at 4:30 p.m. on Saturday, January 6, 2024. Crews discovered a machine pile 60 feet by 60 feet burning in a landing on Forest Service land.</span></p><p><span>The Lump Gulch Fire is not part of current pile burning operations in the area.</span></p>",
-    "size": "",
-    "lat_min": "53",
-    "lat_sec": "26",
-    "urlPath": "/coarf-lump-gulch-fire",
-    "long_min": "29",
-    "long_sec": "05",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COARF Lump Gulch Fire",
-    "changed": "2 days 14 hours ago",
-    "field_unit_code": "COARF"
-  },
-  {
     "title": "Coconino National Forest prescribed fire and pile burns (Winter 2024)",
     "lat_deg": "35",
     "long_deg": "111",
@@ -1272,7 +1250,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "11 minutes 13 seconds ago",
+    "changed": "1 hour 3 minutes ago",
     "field_unit_code": "AZCOF"
   }
 ]
