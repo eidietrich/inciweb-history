@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 54 minutes ago",
+    "changed": "12 hours 49 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "6 seconds ago",
+    "changed": "10 hours 55 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "CAENF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "13",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASQF Sequoia National Forest Emergency Flood Response",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "CASQF"
   },
   {
@@ -418,50 +418,6 @@
     "field_unit_code": "LALAS"
   },
   {
-    "title": "2023 Chilcoot Fire UNF",
-    "lat_deg": "43",
-    "long_deg": "122",
-    "field_percent_of_perimeter": "96",
-    "type": "Wildfire",
-    "field_incident_description": "Full suppression wildfire",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-27T21:48:57-04:00\">2023-08-27</time>\n",
-    "id": "315142",
-    "field_incident_overview": "<p>The Chilcoot Fire was started by lightning on August 24,2023 at 9:14 PM. The fire is located on the western edge of the Umpqua National Forest boundary, Bureau of Land Management land, and private timber land. It is about five miles north of the Steamboat Creek junction at Highway 138. It is burning in steep terrain in the Chilcoot Ridge area and headwaters of Hipower Creek. </p><p><strong>This page will only be updated if there is significant activity to report.</strong></p>",
-    "size": "1940",
-    "lat_min": "25",
-    "lat_sec": "47",
-    "urlPath": "/orupf-2023-chilcoot-fire-unf",
-    "long_min": "44",
-    "long_sec": "8",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORUPF 2023 Chilcoot Fire UNF",
-    "changed": "3 months ago",
-    "field_unit_code": "ORUPF"
-  },
-  {
-    "title": "2023 Ridge Fire UNF",
-    "lat_deg": "43",
-    "long_deg": "122",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Full Suppression Wildfire",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-28T13:05:52-04:00\">2023-08-28</time>\n",
-    "id": "315172",
-    "field_incident_overview": "<p>The Ridge Fire was started by lightning on August 25, 2023 around 7:03 PM. It is burning on the Calapooya Ridge of the Umpqua National Forest, approximately eight miles northeast of Highway 138. A small portion of the fire has burned into the Boulder Creek Wilderness.</p><p>The Ridge Fire is 95% contained and in patrol status.  </p><p><strong>This page will only be updated if there is significant activity to report.</strong></p>",
-    "size": "214",
-    "lat_min": "23",
-    "lat_sec": "42",
-    "urlPath": "/orupf-2023-ridge-fire-unf",
-    "long_min": "28",
-    "long_sec": "38",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORUPF 2023 Ridge Fire UNF",
-    "changed": "3 months ago",
-    "field_unit_code": "ORUPF"
-  },
-  {
     "title": "2023 Horse Creek Fire",
     "lat_deg": "44",
     "long_deg": "122",
@@ -504,50 +460,6 @@
     "field_title_and_unit": "ORWIF Petes Lake Fire",
     "changed": "3 months ago",
     "field_unit_code": "ORWIF"
-  },
-  {
-    "title": "Brice Creek Fire",
-    "lat_deg": "43",
-    "long_deg": "122",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-31T14:32:45-04:00\">2023-08-31</time>\n",
-    "id": "315317",
-    "field_incident_overview": "<p>The Brice Creek Fire was started by lightning on August 24, 2023.</p><p><strong>This page will only be updated if there is significant activity to report.</strong></p>",
-    "size": "571",
-    "lat_min": "37",
-    "lat_sec": "30",
-    "urlPath": "/orupf-brice-creek-fire",
-    "long_min": "34",
-    "long_sec": "8.4",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORUPF Brice Creek Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "ORUPF"
-  },
-  {
-    "title": "Dinner Fire",
-    "lat_deg": "43",
-    "long_deg": "122",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-31T14:43:27-04:00\">2023-08-31</time>\n",
-    "id": "315318",
-    "field_incident_overview": "<p>The Dinner Fire was started by lightning on August 24, 2023. It is located near Dinner Creek and Hollow Meadows Road.</p><p>The Dinner Fire is 95% contained and in patrol status.</p><p><strong>This page will only be updated if there is significant activity to report.</strong></p>",
-    "size": "304",
-    "lat_min": "42",
-    "lat_sec": "14.4",
-    "urlPath": "/orupf-dinner-fire",
-    "long_min": "41",
-    "long_sec": "2.3994",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "ORUPF Dinner Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "ORUPF"
   },
   {
     "title": "Anvil Fire",
@@ -986,7 +898,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 day 4 hours ago",
+    "changed": "1 day 15 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1052,7 +964,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "2 days 22 hours ago",
+    "changed": "3 days 9 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1184,7 +1096,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "7 hours ago",
+    "changed": "17 hours 55 minutes ago",
     "field_unit_code": "AZCOF"
   }
 ]
