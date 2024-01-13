@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "38 seconds ago",
+    "changed": "21 hours 42 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "22 hours 8 minutes ago",
+    "changed": "1 day 19 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 20232024 Cleveland National Forest Fuel Treatments",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -238,7 +238,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -506,28 +506,6 @@
     "field_unit_code": "LALAS"
   },
   {
-    "title": "Spring Creek",
-    "lat_deg": "38",
-    "long_deg": "108",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "East of Divide road, North of Spring Creek Canyon. The fire is approximately 15 miles southwest of Montrose, Colorado.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-11T14:50:43-04:00\">2023-09-11</time>\n",
-    "id": "315839",
-    "field_incident_overview": "<p><span><span><span>The Spring Creek Fire was reported at approximately 3:44 p.m. Sunday, Sept. 10, 2023. It is located on the Uncompahgre National Forest approximately 15 miles southwest of Montrose, Colorado. As of September 18, 2023, the Spring Creek Fire was 16 acres and 100% contained.</span></span></span></p>\n\n<p>The following trail closures were lifted at 6 p.m. on Friday, Sept. 15, 2023: <span><span><span><span><span><span>National Forest System Road (NFSR) #535 – Paradox road, NFSR #402.9A – Spring Creek Trailhead road, National Forest System Trail (NFST) #116 – Spring Creek Trail (from Dented Door to Paradox), NFST #126 – Paradox Trail and NFST #114.1B – East Fork of Dry Creek Trail</span></span></span></span></span></span></p>\n\n<p><span><span><span><span><span><span>Firefighting resources remain in the area to monitor conditions. If you are recreating in the area of the Spring Creek Fire, please be aware of firefighting personnel and practice caution on roads and trails. </span></span></span></span></span></span></p>\n\n<p><br />\n </p>",
-    "size": "16",
-    "lat_min": "17",
-    "lat_sec": "47.1",
-    "urlPath": "/cogmf-spring-creek",
-    "long_min": "03",
-    "long_sec": "49.3",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COGMF Spring Creek",
-    "changed": "3 months ago",
-    "field_unit_code": "COGMF"
-  },
-  {
     "title": "2023 Olympic National Park Lightning Fires",
     "lat_deg": "47",
     "long_deg": "123",
@@ -570,28 +548,6 @@
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
     "changed": "2 months 2 weeks ago",
     "field_unit_code": "CASTF"
-  },
-  {
-    "title": "Cow Creek Prescribed Burn",
-    "lat_deg": "38",
-    "long_deg": "108",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-18T12:48:20-04:00\">2023-09-18</time>\n",
-    "id": "316082",
-    "field_incident_overview": "<p dir=\"ltr\"><strong>Cow Creek Prescribed Burn Plan: </strong></p><p dir=\"ltr\"><em><strong>Up to 15,000 acres targeted for treatment with prescribed fire in Mesa County </strong></em></p><p dir=\"ltr\"><span>Fire Management Officials from the Grand Mesa,  Uncompahgre, and Gunnison (GMUG) National Forests’ Grand Valley Ranger District are conducting the Cow Creek Prescribed Burn starting on Sept. 24, with ignition decisions being made on an ongoing basis, depending upon weather and fuel conditions. </span></p><p dir=\"ltr\"><span>The Cow Creek Prescribed Burn project area is approximately 9 miles east of Gateway, Colorado, and 25 miles southwest of Grand Junction, Colorado. If conditions are appropriate, about 7,000 acres with the potential of up to 15,000 acres are planned to be burned over multiple days, reducing the threat of catastrophic wildfire and improving wildlife habitat. The project area includes Cow Creek, Calamity Creek, and Indian Creek. The Cow Creek Prescribed Burn is being accomplished using joint-agency fire resources, utilizing both aerial and hand ignitions, and is being closely monitored to ensure that the burn area remains within the designated boundaries. </span></p><p dir=\"ltr\"><span>Prescribed burning is a tool that re-introduces fire into the ecosystem to promote and regenerate healthy trees and habitat conditions. This type of fire management strategy is important to maintain a fire-adapted ecosystem and is essential for wildfire prevention. Before conducting a prescribed burn, extensive planning takes place to establish proper parameters such as weather, fuel conditions, smoke dispersion, staffing, and other agency coordination. A prescribed fire is a planned fire used to accomplish management objectives. One of the objectives for this burn is to reduce the overgrown and crowded fuels in the area, therefore creating a mosaic landscape that is more resistant to catastrophic wildfire. This prescribed fire is also aiming to enhance productive vegetation in the oak brush and mountain shrub parts of the burn area, in order to increase habitat for wildlife and livestock.  </span></p><p dir=\"ltr\"><span>Significant coordinating efforts occur with local landowners, protection partners, and other cooperating agencies to ensure the burn is conducted safely. The safety of firefighters and the public are the most important factors considered when planning prescribed fires. For more information on prescription burning and its use, please visit: </span><a href=\"https://www.fs.usda.gov/managing-land/prescribed-fire\"><span>https://www.fs.usda.gov/managing-land/prescribed-fire</span></a></p><p dir=\"ltr\"><span>Dispersed recreation in the prescribed fire project areas may be impacted. Staff will be making personal contact with recreationists regarding any temporary closures. Signs will be placed on adjacent roads, notifying the public of the project areas as necessary.  </span></p><p dir=\"ltr\"><span>Fire managers have obtained smoke permits from the State of Colorado and will comply with Colorado State air quality regulations. Smoke from the prescribed fire is being managed to have minimal impact on neighboring communities. Smoke may be visible in several communities, including Grand Junction, Whitewater, Gateway, Fruita, Delta, Montrose, and Norwood for multiple days. The public is advised not to call 911 for smoke regarding this prescribed burn. </span></p><p dir=\"ltr\"><span>For more information on how prescribed fire smoke may affect your health, please visit </span><a href=\"https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health\"><span>https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health</span></a></p><p dir=\"ltr\"><span>Prescribed burn updates will be posted on the GMUG Fire Info page. For information on prescribed burns, pile burns, wildfires, and fire restrictions on National Forest System lands, visit </span><a href=\"https://www.westslopefireinformation.com\"><span>https://www.westslopefireinformation.com</span></a></p><p dir=\"ltr\"><span>For information and updates on current fire restrictions, conditions, and recreation opportunities on the Grand  Mesa, Uncompahgre, and Gunnison (GMUG) National Forests, visit the forest website. Connect with us on social media </span><a href=\"https://twitter.com/gmug_nf\"><span>https://twitter.com/gmug_nf</span></a><span> and </span><a href=\"https://www.facebook.com/GMUG.NF/\"><span>https://www.facebook.com/GMUG.NF/</span></a></p><p dir=\"ltr\"> </p>",
-    "size": "",
-    "lat_min": "40",
-    "lat_sec": "52.8000",
-    "urlPath": "/cogmf-cow-creek-prescribed-burn",
-    "long_min": "49",
-    "long_sec": "25.8000",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
-    "changed": "3 months ago",
-    "field_unit_code": "COGMF"
   },
   {
     "title": "2023 Happy Camp Complex BAER Assessment",
@@ -678,7 +634,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -854,7 +810,7 @@
     "long_sec": "47",
     "measurement_type": "Acres",
     "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "COPSF"
   },
   {
@@ -876,7 +832,7 @@
     "long_sec": "36.3",
     "measurement_type": "Acres",
     "field_title_and_unit": "LAJEP Lafitte",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "LAJEP"
   },
   {
@@ -898,7 +854,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 3 hours ago",
+    "changed": "3 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -920,7 +876,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "1 month 1 week ago",
+    "changed": "1 month 2 weeks ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -942,7 +898,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "4 weeks 1 day ago",
+    "changed": "4 weeks 2 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -964,7 +920,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "3 days 21 hours ago",
+    "changed": "4 days 18 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -1030,7 +986,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "CAANF"
   },
   {
@@ -1074,7 +1030,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -1096,7 +1052,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "3 hours 21 minutes ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "AZCOF"
   }
 ]
