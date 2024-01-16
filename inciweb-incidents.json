@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "36 minutes 27 seconds ago",
+    "changed": "2 hours 35 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "4 days 16 hours ago",
+    "changed": "4 days 18 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -352,28 +352,6 @@
     "field_unit_code": "CASRF"
   },
   {
-    "title": "Tiger Island Fire",
-    "lat_deg": "30.",
-    "long_deg": "93",
-    "field_percent_of_perimeter": "96",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-26T12:28:09-04:00\">2023-08-26</time>\n",
-    "id": "315081",
-    "field_incident_overview": "<p><span>The Tiger Island Fire is under the jurisdiction of the Louisiana Department of Agriculture and Forestry. The Florida Forest Service Green Complex Incident Management Team assumed command of the fire at 1900 Wednesday, October 4, 2023. Prior to this, the fire had been under the command of the Southern Area Gold Team (9/23/23 - 20/4/23), the Southern Area Blue Team (9/10/23-9/22/23) and the Southern Area Red Incident Management Team (9/2/23-9/9/23). </span></p>",
-    "size": "31290",
-    "lat_min": "40",
-    "lat_sec": "22",
-    "urlPath": "/lalas-tiger-island-fire",
-    "long_min": "26",
-    "long_sec": "19",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "LALAS Tiger Island Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "LALAS"
-  },
-  {
     "title": "Anvil Fire",
     "lat_deg": "42",
     "long_deg": "124",
@@ -394,28 +372,6 @@
     "field_title_and_unit": "ORRSF Anvil Fire",
     "changed": "1 month 2 weeks ago",
     "field_unit_code": "ORRSF"
-  },
-  {
-    "title": "Elizabeth Fire",
-    "lat_deg": "30",
-    "long_deg": "92",
-    "field_percent_of_perimeter": "98",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-01T17:23:11-04:00\">2023-09-01</time>\n",
-    "id": "315372",
-    "field_incident_overview": "<p><span>The Elizabeth Fire is under the jurisdiction of the Louisiana Department of Agriculture and Forestry. The Florida Forest Service Green Complex Incident Management Team assumed command of the fire at 1900 Wednesday October 4, 2023. Prior to this date, the fire had been under the command of the Southern Area Gold Team (9/23/23 - 10/4/23), the Southern Area Blue Team (9/10/23-9/22/23) and the Southern Area Red Incident Management Team (9/2/23-9/9/23). </span></p>",
-    "size": "940",
-    "lat_min": "55",
-    "lat_sec": "52",
-    "urlPath": "/lalas-elizabeth-fire",
-    "long_min": "48",
-    "long_sec": "26",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "LALAS Elizabeth Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "LALAS"
   },
   {
     "title": "2023 Olympic National Park Lightning Fires",
@@ -548,28 +504,6 @@
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
     "changed": "1 month 1 week ago",
     "field_unit_code": "CAMNF"
-  },
-  {
-    "title": "2023 - Sourgrass RX Burn",
-    "lat_deg": "38",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-12T11:15:51-04:00\">2023-10-12</time>\n",
-    "id": "316566",
-    "field_incident_overview": "<p>The Sourgrass prescribed burn will benefit natural resources and reduce the risk of unwanted wildfires in the future. Managed prescribed fires reduce hazardous fuels and protect communities. Ecosystems need periodic fire to remain healthy, provide forage for wildlife, recycle nutrients back to the soil, promote the growth of trees, wildflowers and other plants.</p>",
-    "size": "40",
-    "lat_min": "20",
-    "lat_sec": "167",
-    "urlPath": "/castf-2023-sourgrass-rx-burn",
-    "long_min": "15",
-    "long_sec": "167",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASTF 2023 Sourgrass RX Burn",
-    "changed": "3 months ago",
-    "field_unit_code": "CASTF"
   },
   {
     "title": "Rabbit Fire",
@@ -766,7 +700,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "5 days 21 hours ago",
+    "changed": "5 days 23 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -832,7 +766,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 week ago",
+    "changed": "15 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -964,7 +898,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 minute 18 seconds ago",
+    "changed": "2 hours ago",
     "field_unit_code": "AZCOF"
   }
 ]
