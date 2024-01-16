@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "32 minutes 43 seconds ago",
+    "changed": "36 minutes 27 seconds ago",
     "field_unit_code": "COARF"
   },
   {
@@ -951,11 +951,11 @@
     "long_deg": "111",
     "field_percent_of_perimeter": "",
     "type": "Prescribed Fire",
-    "field_incident_description": "Pile burns are an important part of forest restoration projects planned in accordance with the Forest Service’s 10-year Wildfire Crisis Strategy.<br />\r\n<br />\r\nPile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather. <br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our Prescribed Fires and Smoke web page and view the video Misconceptions and Benefits of Fire.",
+    "field_incident_description": "Pile burns are an important part of forest restoration projects planned in accordance with the Forest Service’s 10-year Wildfire Crisis Strategy.<br />\r\n<br />\r\nPile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather. <br />\r\n<br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\n<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our website at coconinonationalforest.us.",
     "field_active": "1",
     "created": "<time datetime=\"2024-01-08T15:10:11-05:00\">2024-01-08</time>\n",
     "id": "316935",
-    "field_incident_overview": "<h2>There are no pile burns planned for today (Jan. 16, 2024),</h2>",
+    "field_incident_overview": "<h2>There are no pile burns planned for today (Jan. 16, 2024).</h2>",
     "size": "",
     "lat_min": "11",
     "lat_sec": "10.2078",
@@ -964,7 +964,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "3 seconds ago",
+    "changed": "1 minute 18 seconds ago",
     "field_unit_code": "AZCOF"
   }
 ]
