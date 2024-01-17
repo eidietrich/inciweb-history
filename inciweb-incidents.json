@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 9 minutes ago",
+    "changed": "18 hours 36 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "4 days 23 hours ago",
+    "changed": "5 days 16 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF 2023 SRF Lightning Complex and Redwood Lightning Complex",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -348,7 +348,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "1 month 4 weeks ago",
+    "changed": "2 months ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "40",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "CAKNF"
   },
   {
@@ -634,7 +634,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -700,7 +700,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "57 seconds ago",
+    "changed": "17 hours 27 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -766,7 +766,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "4 hours 59 minutes ago",
+    "changed": "22 hours 26 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -854,7 +854,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -889,7 +889,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-01-08T15:10:11-05:00\">2024-01-08</time>\n",
     "id": "316935",
-    "field_incident_overview": "<h2>There are no pile burns planned for today (Jan. 16, 2024).</h2>",
+    "field_incident_overview": "<h2>There are no pile burns planned for the week of Jan. 16, 2024.</h2>",
     "size": "",
     "lat_min": "11",
     "lat_sec": "10.2078",
@@ -898,7 +898,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "6 hours 59 minutes ago",
+    "changed": "1 minute 30 seconds ago",
     "field_unit_code": "AZCOF"
   }
 ]
