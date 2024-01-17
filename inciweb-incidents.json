@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 hours 42 minutes ago",
+    "changed": "2 hours 44 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -700,7 +700,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "22 hours 57 minutes ago",
+    "changed": "22 hours 59 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -898,7 +898,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 hours 30 minutes ago",
+    "changed": "5 hours 33 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -920,7 +920,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "7 seconds ago",
+    "changed": "16 seconds ago",
     "field_unit_code": "NMCAF"
   }
 ]
