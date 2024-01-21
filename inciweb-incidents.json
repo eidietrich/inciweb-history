@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 14 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "CAENF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 minute 17 seconds ago",
+    "changed": "13 hours 28 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "2 weeks 6 days ago",
+    "changed": "3 weeks ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "XX1002"
   },
   {
@@ -396,28 +396,6 @@
     "field_unit_code": "CASTF"
   },
   {
-    "title": "2023 Happy Camp Complex BAER Assessment",
-    "lat_deg": "41",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "",
-    "type": "Burned Area Emergency Response",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-23T21:16:08-04:00\">2023-09-23</time>\n",
-    "id": "316254",
-    "field_incident_overview": "<p><span><strong>THREE PHASES OF WILDFIRE RECOVERY</strong></span></p><p>There are <strong>three phases of recovery </strong>following wildfires on federal lands:</p><ul><li>Fire Suppression Repair</li><li>Emergency Stabilization-Burned Area Emergency Response (BAER)</li><li><p>Long-Term Recovery and Restoration</p><p><strong>Fire Suppression Repair </strong>is a series of immediate post-fire actions taken to repair damages and minimize potential soil erosion and impacts resulting from fire suppression activities and usually begins before the fire is contained, and before the demobilization of an Incident Management Team. This work repairs the hand and dozer fire lines, roads, trails, staging areas, safety zones, and drop points used during fire suppression efforts.</p><p><strong>Emergency Stabilization-Burned Area Emergency Response (BAER) </strong>is a rapid assessment of burned watersheds by a BAER team to identify imminent post-wildfire threats to human life and safety, property, and critical natural or cultural resources on <strong>National Forest System </strong>lands and take immediate actions to implement emergency stabilization measures before the first post-fire damaging events. Fires result in loss of vegetation, exposure of soil to erosion, and increased water runoff that may lead to flooding, increased sediment, debris flows, and damage to critical natural and cultural resources. BAER actions such as: mulching, seeding, installation of erosion and water run-off control structures, temporary barriers to protect recovering areas, and installation of warning signs may be implemented. BAER work may also replace safety related facilities; remove safety hazards; prevent permanent loss of habitat for threatened and endangered species; prevent the spread of noxious weeds and protect critical cultural resources.</p><p><strong>Long-Term Recovery and Restoration </strong>utilizes non-emergency actions to improve fire-damaged lands that are unlikely to recover naturally and to repair or replace facilities damaged by the fire that are not critical to life and safety. This phase may include restoring burned habitat, reforestation, other planting or seeding, monitoring fire effects, replacing burned fences, interpreting cultural sites, treating noxious weed infestations, and installing interpretive signs.</p></li></ul><p><span><strong>BAER SAFETY MESSAGE</strong>: </span><em><span>Everyone near and downstream from the burned areas should remain alert and stay updated on weather conditions that may result in heavy rains and increased water runoff. Flash flooding may occur quickly during heavy rain events--be prepared to act. Current weather and emergency notifications can be found at the <strong>National Weather Service </strong>website: </span></em><a href=\"http://www.weather.gov/mfr/\"><em><span>www.weather.gov/mfr/</span></em></a><em><span>.</span></em></p>",
-    "size": "",
-    "lat_min": "49",
-    "lat_sec": "5",
-    "urlPath": "/caknf-2023-happy-camp-complex-baer-assessment",
-    "long_min": "0",
-    "long_sec": "40",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAKNF 2023 Happy Camp Complex BAER Assessment",
-    "changed": "3 months ago",
-    "field_unit_code": "CAKNF"
-  },
-  {
     "title": "Smith River Complex Post-Fire BAER",
     "lat_deg": "41",
     "long_deg": "123",
@@ -480,7 +458,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 18 hours ago",
+    "changed": "2 days 7 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -678,7 +656,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days 19 hours ago",
+    "changed": "4 days 9 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -722,7 +700,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -744,7 +722,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 day 20 hours ago",
+    "changed": "2 days 10 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -876,7 +854,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "3 days 2 hours ago",
+    "changed": "3 days 15 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -898,7 +876,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "2 days 20 hours ago",
+    "changed": "3 days 10 hours ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -920,7 +898,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "1 day 20 hours ago",
+    "changed": "2 days 9 hours ago",
     "field_unit_code": "NVHTF"
   }
 ]
