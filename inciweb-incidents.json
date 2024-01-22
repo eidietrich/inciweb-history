@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "22 hours 37 minutes ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day 22 hours ago",
+    "changed": "2 days 1 hour ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "3 weeks 1 day ago",
+    "changed": "3 weeks 2 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -348,30 +348,8 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "1 month 2 weeks ago",
+    "changed": "1 month 3 weeks ago",
     "field_unit_code": "ORRSF"
-  },
-  {
-    "title": "2023 Olympic National Park Lightning Fires",
-    "lat_deg": "47",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-17T00:23:58-04:00\">2023-09-17</time>\n",
-    "id": "316033",
-    "field_incident_overview": "<p><span>All seven active fires in Olympic National Park ignited when a series of lightning strikes occurred on the Olympic Peninsula in the afternoon on August 28.</span></p><p><span><strong>The fires in Olympic National Park have seen minimal growth due to wetting rains over the fire area. There will be no additional updates unless there is a change in fire behavior. </strong></span></p><p>The Delabarre Fire is the largest of the fires and started in the Delabarre Creek drainage and burned to the northeast over a ridge and into the Buckinghorse Creek drainage.</p><p><span>There continues to remain no threat to critical infrastructure or communities from these fires at this time. </span></p><p lang=\"en-US\" xml:lang=\"en-US\" xml:lang=\"en-US\">Fire is an integral part of the forested ecosystems on the Olympic Peninsula; plants and animals here have evolved with fire for thousands of years. Many factors such as weather, topography, and vegetation influence fire behavior and the effects that fires have on natural resources.   </p><p lang=\"en-US\" xml:lang=\"en-US\" xml:lang=\"en-US\"> </p><p><strong>Due to wildfire activity the following closures are in effect until further notice: </strong></p><ul><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Elwha River Trail from Dodger Point Trail junction to Low Divide </span><span> </span></li><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Hayden Pass Trail</span><span> </span></li><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Dosewallips River Trail from Dose Meadows to Hayden Pass</span><span> </span></li><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">North Fork Quinault Trail from Elip Creek trail junction to Low Divide</span><span> </span></li><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Skyline Trail from Elip Creek Trail junction to Low Divide </span><span> </span></li><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Martin Park Trail</span><span> </span></li><li><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Obstruction Point Road and Trailhead </span><span> </span></li></ul><p>Olympic National Park Wilderness Information Center (WIC) will be notifying backcountry permit holders who may be impacted by this closure. Any permit holders who plan to backpack in the above impacted areas should contact the WIC at 360-565-2992 or by emailing OLYM_WIC@nps.gov. </p>",
-    "size": "4795",
-    "lat_min": "44",
-    "lat_sec": "13",
-    "urlPath": "/waolp-2023-olympic-national-park-lightning-fires",
-    "long_min": "31",
-    "long_sec": "40",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "WAOLP 2023 Olympic National Park Lightning Fires",
-    "changed": "3 months ago",
-    "field_unit_code": "WAOLP"
   },
   {
     "title": "2023-STF-Quarry Fire",
@@ -458,7 +436,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 days 16 hours ago",
+    "changed": "3 days 19 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -482,28 +460,6 @@
     "field_title_and_unit": "CASQF Rabbit Fire",
     "changed": "2 months 1 week ago",
     "field_unit_code": "CASQF"
-  },
-  {
-    "title": "2023-STF-Waterhouse Fire ",
-    "lat_deg": "38",
-    "long_deg": "119",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-18T13:58:52-04:00\">2023-10-18</time>\n",
-    "id": "316618",
-    "field_incident_overview": "<p><span>The Waterhouse Fire is being managed with a confine and contain strategy in a 13-year old burn scar.</span></p>",
-    "size": "56",
-    "lat_min": "13",
-    "lat_sec": "29.9",
-    "urlPath": "/castf-2023stfwaterhouse-fire",
-    "long_min": "54",
-    "long_sec": "37.8",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASTF 2023STFWaterhouse Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "CASTF"
   },
   {
     "title": "2023-STF-Peak",
@@ -656,7 +612,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "5 days 18 hours ago",
+    "changed": "5 days 21 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -722,7 +678,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "3 days 19 hours ago",
+    "changed": "3 days 22 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -854,7 +810,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 days ago",
+    "changed": "5 days 3 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -876,7 +832,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "4 days 19 hours ago",
+    "changed": "4 days 22 hours ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -898,7 +854,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "3 days 18 hours ago",
+    "changed": "3 days 21 hours ago",
     "field_unit_code": "NVHTF"
   }
 ]
