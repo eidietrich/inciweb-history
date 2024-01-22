@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "2 days 1 hour ago",
+    "changed": "2 days 3 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 days 19 hours ago",
+    "changed": "3 days 22 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -460,28 +460,6 @@
     "field_title_and_unit": "CASQF Rabbit Fire",
     "changed": "2 months 1 week ago",
     "field_unit_code": "CASQF"
-  },
-  {
-    "title": "2023-STF-Peak",
-    "lat_deg": "38",
-    "long_deg": "119",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-18T16:23:07-04:00\">2023-10-18</time>\n",
-    "id": "316619",
-    "field_incident_overview": "<p><span>There is still active fire in sheltered and jackpot fuels, fire current size is 132.1 acres. It has a small slop over 5n31 with many natural barriers, this gives us the opportunity to build more containment boxes going forward and continue to allow the fire to mimic natural progression.</span></p><p><span>The Peak Fire is being managed with a confine and contain strategy in a 13-year old burn scar.</span></p>",
-    "size": "150",
-    "lat_min": "13",
-    "lat_sec": "40.8",
-    "urlPath": "/castf-2023stfpeak",
-    "long_min": "56",
-    "long_sec": "18.6",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASTF 2023STFPeak",
-    "changed": "3 months ago",
-    "field_unit_code": "CASTF"
   },
   {
     "title": "Trail Springs Fire",
@@ -612,7 +590,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "5 days 21 hours ago",
+    "changed": "5 days 23 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -678,7 +656,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "3 days 22 hours ago",
+    "changed": "4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -792,28 +770,6 @@
     "field_unit_code": "NCNCF"
   },
   {
-    "title": "Coconino National Forest prescribed fire and pile burns (Winter 2024)",
-    "lat_deg": "35",
-    "long_deg": "111",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "Pile burns are an important part of forest restoration projects planned in accordance with the Forest Service’s 10-year Wildfire Crisis Strategy.<br />\r\n<br />\r\nPile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather. <br />\r\n<br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\n<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our website at coconinonationalforest.us.",
-    "field_active": "1",
-    "created": "<time datetime=\"2024-01-08T15:10:11-05:00\">2024-01-08</time>\n",
-    "id": "316935",
-    "field_incident_overview": "<h2>There are no pile burns planned for the week of Jan. 16, 2024.</h2>",
-    "size": "",
-    "lat_min": "11",
-    "lat_sec": "10.2078",
-    "urlPath": "/azcof-coconino-national-forest-prescribed-fire-and-pile-burns-winter-2024",
-    "long_min": "40",
-    "long_sec": "26.6",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 days 3 hours ago",
-    "field_unit_code": "AZCOF"
-  },
-  {
     "title": "Fuertes Piles, Canjilon Wildland Urban Interface Project",
     "lat_deg": "36",
     "long_deg": "106",
@@ -832,7 +788,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "4 days 22 hours ago",
+    "changed": "5 days ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -854,7 +810,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "3 days 21 hours ago",
+    "changed": "4 days ago",
     "field_unit_code": "NVHTF"
   }
 ]
