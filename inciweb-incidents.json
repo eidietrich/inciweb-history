@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "16 hours 39 minutes ago",
+    "changed": "22 hours 39 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "12 hours 41 minutes ago",
+    "changed": "18 hours 41 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "2 months ago",
+    "changed": "2 months 1 week ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "30",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "5 days 11 hours ago",
+    "changed": "5 days 17 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -524,7 +524,7 @@
     "long_sec": "46.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -656,7 +656,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "5 days 13 hours ago",
+    "changed": "5 days 19 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -788,7 +788,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "16 hours 58 minutes ago",
+    "changed": "22 hours 58 minutes ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -810,7 +810,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "16 hours 14 minutes ago",
+    "changed": "22 hours 14 minutes ago",
     "field_unit_code": "NVHTF"
   }
 ]
