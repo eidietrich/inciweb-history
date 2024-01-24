@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "22 hours 39 minutes ago",
+    "changed": "23 hours 29 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "3 weeks 6 days ago",
+    "changed": "4 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Mountainair RD Capilla Prescribed Fire  Pile Burn",
-    "changed": "3 weeks 6 days ago",
+    "changed": "4 weeks ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "18 hours 41 minutes ago",
+    "changed": "19 hours 31 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -656,7 +656,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "5 days 19 hours ago",
+    "changed": "5 days 20 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -788,7 +788,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "22 hours 58 minutes ago",
+    "changed": "5 seconds ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -810,7 +810,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "22 hours 14 minutes ago",
+    "changed": "23 hours 4 minutes ago",
     "field_unit_code": "NVHTF"
   }
 ]
