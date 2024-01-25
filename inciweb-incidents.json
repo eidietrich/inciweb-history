@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 hours 17 minutes ago",
+    "changed": "3 hours 29 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "9 seconds ago",
+    "changed": "0 seconds hence",
     "field_unit_code": "CACNF"
   },
   {
@@ -810,7 +810,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "6 hours 15 minutes ago",
+    "changed": "6 hours 26 minutes ago",
     "field_unit_code": "NVHTF"
   }
 ]
