@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "36 seconds ago",
+    "changed": "20 hours 27 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 weeks 1 day ago",
+    "changed": "2 weeks 2 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "31.458",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Sandia RD Sulphur Canyon Prescribed Fire Pile Burn",
-    "changed": "22 hours 9 minutes ago",
+    "changed": "1 day 18 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "CAENF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day 14 hours ago",
+    "changed": "2 days 10 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "3 weeks 6 days ago",
+    "changed": "4 weeks ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "XX1002"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -590,7 +590,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -634,7 +634,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 month 1 week ago",
+    "changed": "1 month 2 weeks ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -656,7 +656,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -788,7 +788,7 @@
     "long_sec": "21",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "3 days ago",
+    "changed": "3 days 20 hours ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -810,7 +810,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "2 days 1 hour ago",
+    "changed": "2 days 21 hours ago",
     "field_unit_code": "NVHTF"
   }
 ]
