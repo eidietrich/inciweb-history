@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "8 hours 41 minutes ago",
+    "changed": "8 hours 46 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 hours 47 minutes ago",
+    "changed": "3 hours 53 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -788,30 +788,8 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "6 hours 50 minutes ago",
+    "changed": "6 hours 55 minutes ago",
     "field_unit_code": "AZCOF"
-  },
-  {
-    "title": "Fuertes Piles, Canjilon Wildland Urban Interface Project",
-    "lat_deg": "36",
-    "long_deg": "106",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2024-01-16T12:51:21-05:00\">2024-01-16</time>\n",
-    "id": "316950",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Fuertes Piles, named after the nearby Cañada Fuertes, were made from 102 acres of thinning on Forest Service land near private land.</span><span> </span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">They are surrounded and covered by snow. Ignitions are expected to last at least two days and smoke will likely be visible.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The work will further progress on the Canjilon Wildland Urban Interface Project. Since 2011, Forest Service staff and partners have been thinning and applying prescribed fire around the communities of Canjilon and Placita Garcia, which are surrounded by Carson National Forest. Many adjacent private landowners, with the assistance of the state, are contributing by thinning and applying prescribed fire on their properties.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Canjilon project is also part of the 3.8 million-acre </span><a href=\"https://www.fs.usda.gov/features/common-ground-rio-chama\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Rio Chama Collaborative Forest Landscape Restoration Project</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">, which supports the national </span><a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\"><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">Wildfire Crisis Strategy</span></a><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">.</span><span> </span></p>",
-    "size": "",
-    "lat_min": "30",
-    "lat_sec": "30",
-    "urlPath": "/nmcaf-fuertes-piles-canjilon-wildland-urban-interface-project",
-    "long_min": "24",
-    "long_sec": "21",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NMCAF Fuertes Piles Canjilon Wildland Urban Interface Project",
-    "changed": "5 days 9 hours ago",
-    "field_unit_code": "NMCAF"
   },
   {
     "title": "2024 HTNF FOREST WIDE Winter Pile Burning",
