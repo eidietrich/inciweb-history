@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "21 hours 1 minute ago",
+    "changed": "21 hours 25 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "31.458",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Sandia RD Sulphur Canyon Prescribed Fire Pile Burn",
-    "changed": "3 days 19 hours ago",
+    "changed": "3 days 20 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "16 hours 8 minutes ago",
+    "changed": "16 hours 32 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -788,7 +788,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "4 minutes 42 seconds ago",
+    "changed": "28 minutes 39 seconds ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -810,7 +810,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "4 days 22 hours ago",
+    "changed": "4 days 23 hours ago",
     "field_unit_code": "NVHTF"
   }
 ]
