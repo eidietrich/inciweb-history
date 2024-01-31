@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "11 hours 35 minutes ago",
+    "changed": "5 seconds ago",
     "field_unit_code": "COARF"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "1",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "MTBDF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "31.458",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Sandia RD Sulphur Canyon Prescribed Fire Pile Burn",
-    "changed": "15 hours 42 minutes ago",
+    "changed": "1 day ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "12 hours 16 minutes ago",
+    "changed": "20 hours 52 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "30.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "2 months 1 week ago",
+    "changed": "2 months 2 weeks ago",
     "field_unit_code": "CASRF"
   },
   {
@@ -328,28 +328,6 @@
     "field_title_and_unit": "ORRSF Anvil Fire",
     "changed": "1 month 4 weeks ago",
     "field_unit_code": "ORRSF"
-  },
-  {
-    "title": "2023-STF-Quarry Fire",
-    "lat_deg": "38",
-    "long_deg": "119",
-    "field_percent_of_perimeter": "75",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire.",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-17T15:13:18-04:00\">2023-09-17</time>\n",
-    "id": "316056",
-    "field_incident_overview": "<p><span>The Quarry fire was one of many fires ignited by lightning strikes across the forest on September 9, 2023.  District fire managers immediately worked to ensure these naturally ignited fires stayed within pre-determined boundaries. Fire personnel with the Stanislaus National Forest are currently managing the Quarry Fire to achieve multiple resource objectives.</span></p>",
-    "size": "8645",
-    "lat_min": "3",
-    "lat_sec": "39.4194",
-    "urlPath": "/castf-2023stfquarry-fire",
-    "long_min": "59",
-    "long_sec": "30",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASTF 2023STFQuarry Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "CASTF"
   },
   {
     "title": "Smith River Complex Post-Fire BAER",
@@ -414,7 +392,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 9 hours ago",
+    "changed": "1 day 17 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -484,28 +462,6 @@
     "field_unit_code": "COSJF"
   },
   {
-    "title": "H&amp;H Complex",
-    "lat_deg": "29",
-    "long_deg": "94",
-    "field_percent_of_perimeter": "95",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-24T19:52:57-04:00\">2023-10-24</time>\n",
-    "id": "316659",
-    "field_incident_overview": "<p>The H&amp;H Complex is being monitored by local personnel from the county and US Fish and Wildlife; see the October 26th daily updated for more information. This page will not be updated daily, but will be updated to included any major changes in fire behavior or containment.</p><p>---</p><p><span>On October 24th, Texas A&amp;M Forest Service received a request for assistance for multiple fires off State Highway (SH) 73 and State Highway 87, approximately 7 miles west of Port Arthur, Texas. The fires are actively burning in a marsh grassland.</span></p><p><span>The H&amp;H Complex is currently comprised of two fires. The North fire was estimated at 10,000 acres South fire was estimated at 1,200 acres during the first operational period. The acreage of each fire is subject to change as better mapping occurs.</span></p><p><span>In coordination with local fire departments, crews from Texas A&amp;M Forest Service, Texas Parks and Wildlife Department, Texas Division of Emergency Management, Jefferson County EMC, and U.S. Fish and Wildlife Service (USFWS) as well as several aviation resources responded to the incident.</span></p><p><span>Dozers constructed containment line where possible during initial attack and a marsh-master from USFWS assisted where the ground is too wet for dozers or other heavy equipment to operate. Two large air tankers dropped water, working to slow forward progression on both fires.</span></p><p><span>There are no road closures currently. Any information on road accessibility in the area can be found on </span><a href=\"http://www.drivetexas.org/\"><span><strong>www.drivetexas.org</strong></span></a><span>.</span></p>",
-    "size": "10559",
-    "lat_min": "47",
-    "lat_sec": "10.9",
-    "urlPath": "/txtxs-hh-complex",
-    "long_min": "02",
-    "long_sec": "46.7",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS HH Complex",
-    "changed": "3 months ago",
-    "field_unit_code": "TXTXS"
-  },
-  {
     "title": "Saint Charles Fire",
     "lat_deg": "37",
     "long_deg": "105",
@@ -568,7 +524,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "10 hours 16 minutes ago",
+    "changed": "18 hours 53 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -612,7 +568,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "10 hours 20 minutes ago",
+    "changed": "18 hours 56 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -766,7 +722,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "9 hours 40 minutes ago",
+    "changed": "18 hours 16 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -788,7 +744,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "5 days 15 hours ago",
+    "changed": "6 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -810,7 +766,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "15 hours 19 minutes ago",
+    "changed": "23 hours 55 minutes ago",
     "field_unit_code": "NMCAF"
   }
 ]
