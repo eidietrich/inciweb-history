@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 6 hours ago",
+    "changed": "2 days 7 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,30 +40,8 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 days 3 hours ago",
+    "changed": "3 days 5 hours ago",
     "field_unit_code": "COSJD"
-  },
-  {
-    "title": "Trail Ridge Fire",
-    "lat_deg": "45",
-    "long_deg": "113",
-    "field_percent_of_perimeter": "80",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2022-08-30T08:32:47-04:00\">2022-08-30</time>\n",
-    "id": "310603",
-    "field_incident_overview": "<p> <br /></p>   <br /><p>INCIDENT COMMANDER: Cache Gibbons </p> <p>October 25, 2022</p> <p>Trail Ridge Fire</p> <h2>Fire Summary</h2> <p>Approx. 5 miles SE Sula, MT</p> <p>Approx. 11 miles NW of Big Hole National Battlefield</p> <p>Size: 18,138 acres Completion: 80%</p> <p>Personnel: 37</p> <p> </p> <p> </p> <p> </p> <p> </p> <br /> CURRENT STATUS <p>The Trail Ridge Fire is burning on the Wisdom District of the Beaverhead-Deerlodge National Forest and the Darby-Sula District of the Bitterroot National Forest.  A Type 4 team assumed command of the fire October 19, 2022.  The incoming Incident Commander is Cache Gibbons with Incident Commander (t) Cody Hoover.  Both are from Bitterroot National Forest, Darby Ranger District. </p> <p> </p> <p>Currently the fire is 18,138 acres.  On Saturday, October 22, the fire received a wetting rain with snow starting around 3,800 feet.  This moisture has considerately dampened fire activity.  With more moisture expected over the fire in the coming days the fire will likely continue to smolder and put up very little smoke.  Today fire officials will reassess conditions and begin repair work where needed.</p>   <p>The main objective for this fire continues to be firefighter and public safety.  Other primary objectives include keeping the fire    from impacting private lands and values along Highway 93 and East Fork of the Bitterroot corridors utilizing point protection and indirect lines where needed. Suppression repair work will continue if needed.</p> <p> </p>   <h2>FIRE WEATHER AND BEHAVIOR<br />Today will be mostly sunny with a chance of a rain snow mix this afternoon. Highs will be in the 40’s with winds south southeast 5-10 mph.  Gusts could be as high as 21 mph.  Tonight will have a low of around 21, with winds gusts as high as 21 mph.  Chance of precipitation will be 90%. Moisture will continue throughout this week. </h2>   <h2>TRAIL RIDGE CLOSURES AND SPECIAL MESSAGES</h2> <p>Trail Ridge Closure has been rescinded effective October 24, 2023</p> <p> </p> <p> </p> <p>This will be the last update for the Trail Ridge Fire.  If you want information, please call the Darby RD or the Wisdom RD.</p> <p> </p>   Information:  Darby RD                                                                                                  Bitterroot National Forest 406.821.3913 Wisdom RD                                                                                             Beaverhead-Deerlodge National Forest 406.689.3242",
-    "size": "18138",
-    "lat_min": "46",
-    "lat_sec": "48",
-    "urlPath": "/mtbdf-trail-ridge-fire",
-    "long_min": "52",
-    "long_sec": "1",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "MTBDF Trail Ridge Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "MTBDF"
   },
   {
     "title": "STF RX BURN - Experimental Forest",
@@ -128,7 +106,7 @@
     "long_sec": "31.458",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Sandia RD Sulphur Canyon Prescribed Fire Pile Burn",
-    "changed": "4 days 8 hours ago",
+    "changed": "5 days 10 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -150,7 +128,7 @@
     "long_sec": "10.102",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "CAENF"
   },
   {
@@ -172,7 +150,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "10 seconds ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -216,7 +194,7 @@
     "long_sec": "14",
     "measurement_type": "Acres",
     "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "2 months 3 weeks ago",
+    "changed": "2 months 4 weeks ago",
     "field_unit_code": "XX1002"
   },
   {
@@ -330,50 +308,6 @@
     "field_unit_code": "ORRSF"
   },
   {
-    "title": "Smith River Complex Post-Fire BAER",
-    "lat_deg": "41",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "",
-    "type": "Burned Area Emergency Response",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-26T19:09:15-04:00\">2023-09-26</time>\n",
-    "id": "316332",
-    "field_incident_overview": "<p><span><strong>THREE PHASES OF WILDFIRE RECOVERY</strong></span></p><p>There are <strong>three phases of recovery </strong>following wildfires on federal lands:</p><ul><li>Fire Suppression Repair</li><li>Emergency Stabilization-Burned Area Emergency Response (BAER)</li><li>Long-Term Recovery and Restoration</li></ul><p><strong>Fire Suppression Repair </strong>is a series of immediate post-fire actions taken to repair damages and minimize potential soil erosion and impacts resulting from fire suppression activities and usually begins before the fire is contained, and before the demobilization of an Incident Management Team. This work repairs the hand and dozer fire lines, roads, trails, staging areas, safety zones, and drop points used during fire suppression efforts.</p><p><strong>Emergency Stabilization-Burned Area Emergency Response (BAER) </strong>is a rapid assessment of burned watersheds by a BAER team to identify imminent post-wildfire threats to human life and safety, property, and critical natural or cultural resources on <strong>National Forest System </strong>lands and take immediate actions to implement emergency stabilization measures before the first post-fire damaging events. Fires result in loss of vegetation, exposure of soil to erosion, and increased water runoff that may lead to flooding, increased sediment, debris flows, and damage to critical natural and cultural resources. BAER actions such as: mulching, seeding, installation of erosion and water run-off control structures, temporary barriers to protect recovering areas, and installation of warning signs may be implemented. BAER work may also replace safety related facilities; remove safety hazards; prevent permanent loss of habitat for threatened and endangered species; prevent the spread of noxious weeds and protect critical cultural resources.</p><p><strong>Long-Term Recovery and Restoration </strong>utilizes non-emergency actions to improve fire-damaged lands that are unlikely to recover naturally and to repair or replace facilities damaged by the fire that are not critical to life and safety. This phase may include restoring burned habitat, reforestation, other planting or seeding, monitoring fire effects, replacing burned fences, interpreting cultural sites, treating noxious weed infestations, and installing interpretive signs.</p><p><span><strong>BAER SAFETY MESSAGE</strong>: </span><em><span>Everyone near and downstream from the burned areas should remain alert and stay updated on weather conditions that may result in heavy rains and increased water runoff. Flash flooding may occur quickly during heavy rain events--be prepared to act. Current weather and emergency notifications can be found at the <strong>National Weather Service </strong>websites: </span></em><a href=\"http://www.weather.gov/sto/\"><em><span>www.weather.gov/sto/</span></em></a><em><span> and </span></em><a href=\"http://www.weather.gov/eka/\"><em><span>www.weather.gov/eka/</span></em></a><em><span>.</span></em></p>",
-    "size": "",
-    "lat_min": "56",
-    "lat_sec": "45.4",
-    "urlPath": "/casrf-smith-river-complex-postfire-baer",
-    "long_min": "50",
-    "long_sec": "30.2",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASRF Smith River Complex PostFire BAER",
-    "changed": "3 months ago",
-    "field_unit_code": "CASRF"
-  },
-  {
-    "title": "2023 SRF Lightning Complex Post-Fire BAER",
-    "lat_deg": "41",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "",
-    "type": "Burned Area Emergency Response",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-09-26T19:13:01-04:00\">2023-09-26</time>\n",
-    "id": "316333",
-    "field_incident_overview": "<p><span><strong>THREE PHASES OF WILDFIRE RECOVERY</strong></span></p><p>There are <strong>three phases of recovery </strong>following wildfires on federal lands:</p><ul><li>Fire Suppression Repair</li><li>Emergency Stabilization-Burned Area Emergency Response (BAER)</li><li>Long-Term Recovery and Restoration</li></ul><p><strong>Fire Suppression Repair </strong>is a series of immediate post-fire actions taken to repair damages and minimize potential soil erosion and impacts resulting from fire suppression activities and usually begins before the fire is contained, and before the demobilization of an Incident Management Team. This work repairs the hand and dozer fire lines, roads, trails, staging areas, safety zones, and drop points used during fire suppression efforts.</p><p><strong>Emergency Stabilization-Burned Area Emergency Response (BAER) </strong>is a rapid assessment of burned watersheds by a BAER team to identify imminent post-wildfire threats to human life and safety, property, and critical natural or cultural resources on <strong>National Forest System </strong>lands and take immediate actions to implement emergency stabilization measures before the first post-fire damaging events. Fires result in loss of vegetation, exposure of soil to erosion, and increased water runoff that may lead to flooding, increased sediment, debris flows, and damage to critical natural and cultural resources. BAER actions such as: mulching, seeding, installation of erosion and water run-off control structures, temporary barriers to protect recovering areas, and installation of warning signs may be implemented. BAER work may also replace safety related facilities; remove safety hazards; prevent permanent loss of habitat for threatened and endangered species; prevent the spread of noxious weeds and protect critical cultural resources.</p><p><strong>Long-Term Recovery and Restoration </strong>utilizes non-emergency actions to improve fire-damaged lands that are unlikely to recover naturally and to repair or replace facilities damaged by the fire that are not critical to life and safety. This phase may include restoring burned habitat, reforestation, other planting or seeding, monitoring fire effects, replacing burned fences, interpreting cultural sites, treating noxious weed infestations, and installing interpretive signs.</p><p><span><strong>BAER SAFETY MESSAGE</strong>: </span><em><span>Everyone near and downstream from the burned areas should remain alert and stay updated on weather conditions that may result in heavy rains and increased water runoff. Flash flooding may occur quickly during heavy rain events--be prepared to act. Current weather and emergency notifications can be found at the <strong>National Weather Service </strong>websites: </span></em><a href=\"http://www.weather.gov/sto/\"><em><span>www.weather.gov/sto/</span></em></a><em><span> and </span></em><a href=\"http://www.weather.gov/eka/\"><em><span>www.weather.gov/eka/</span></em></a><em><span>.</span></em></p>",
-    "size": "",
-    "lat_min": "25",
-    "lat_sec": "12",
-    "urlPath": "/casrf-2023-srf-lightning-complex-postfire-baer",
-    "long_min": "37",
-    "long_sec": "51",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASRF 2023 SRF Lightning Complex PostFire BAER",
-    "changed": "3 months ago",
-    "field_unit_code": "CASRF"
-  },
-  {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
     "lat_deg": "39",
     "long_deg": "122",
@@ -392,7 +326,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "5 days 2 hours ago",
+    "changed": "6 days 3 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -524,7 +458,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "4 days 3 hours ago",
+    "changed": "5 days 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -568,7 +502,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "4 days 3 hours ago",
+    "changed": "5 days 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -590,7 +524,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -700,7 +634,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "4 days 2 hours ago",
+    "changed": "5 days 4 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -722,7 +656,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -744,7 +678,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "2 days 4 hours ago",
+    "changed": "3 days 5 hours ago",
     "field_unit_code": "NMCAF"
   }
 ]
