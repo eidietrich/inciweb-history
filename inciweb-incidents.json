@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 17 minutes ago",
+    "changed": "6 hours 17 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "0 seconds hence",
+    "changed": "4 hours 59 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "31.458",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Sandia RD Sulphur Canyon Prescribed Fire Pile Burn",
-    "changed": "6 days 5 hours ago",
+    "changed": "6 days 10 hours ago",
     "field_unit_code": "NMCIF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "2 hours 28 minutes ago",
+    "changed": "7 hours 28 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -196,28 +196,6 @@
     "field_title_and_unit": "XX1002 Flat Fire",
     "changed": "2 months 4 weeks ago",
     "field_unit_code": "XX1002"
-  },
-  {
-    "title": "Lowline Fire",
-    "lat_deg": "38",
-    "long_deg": "107",
-    "field_percent_of_perimeter": "55",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-26T20:57:48-04:00\">2023-07-26</time>\n",
-    "id": "313697",
-    "field_incident_overview": "<p>The Lowline Fire was reported at approximately 8 a.m. on Wednesday, July 26, located on the ridgeline between Squirrel Creek and Mill Creek approximately 10 miles north of Gunnison, Colorado. After 12 hours of fire activity, the Lowline Fire was at 400 acres. Rocky Mountain Complex Incident Management Team 1 assumed command of the fire on July 28th at 7 a.m. On August 9th, management of the fire was transitioned to a Type 3 Team as fire behavior slowed and as the confine and contain management strategy for the fire reached 55% containment. At 7 a.m. on August 16, management of the Lowline Fire transitioned back to the Gunnison Ranger District. </p><p> </p><p dir=\"ltr\"><span>Recent aerial mapping of the Lowline Fire indicates that the fire is now at 1999 acres, with some growth occurring along the western edge of the fire toward the wilderness area. Smoke continues to be visible from County Road 730 and Ohio Creek and will likely persist until the area receives a season-ending weather event. </span></p><p> </p><p><span>The Lowline Fire is a long-duration wildfire event that is currently being administered under a “confine and contain” management strategy. Using this strategy, firefighters concentrate their fire suppression and containment efforts around the values at risk to the north, east and south of the Lowline Fire. On the western edge of this fire, the goal is to confine fire growth toward the wilderness boundary, where fire can be helpfully utilized toward forest health and future fire suppression needs. This management strategy is also a safer and more effective use of firefighting personnel, as the western area of the Lowline Fire presents a significant safety risk to firefighters due to heavy amounts of dead and downed trees. Firefighter and public safety remain our priorities. </span></p><p> </p><p><span>All evacuation notices have been lifted for the Lowline Fire. However, the area along Mill Creek and County Road 727 remains in pre-evacuation status. Area residents should remain informed of evacuation and pre-evacuation status as determined by Gunnison County. Evacuation information is located </span><a href=\"https://www.gunnisoncounty.org/852/Wildfire-Information\"><span>here.</span></a><span> </span></p><p> </p><p>In the interest of public safety, a Gunnison National Forest Closure Order remains in effect and is expected to remain in place until a season-ending weather event occurs on the fire area. Go to <a href=\"https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1129908.pdf\">signed Order.pdf (usda.gov)</a> or click on the Closures tab above for more information on this closure. </p>",
-    "size": "1999",
-    "lat_min": "43",
-    "lat_sec": "12",
-    "urlPath": "/cogmf-lowline-fire",
-    "long_min": "4",
-    "long_sec": "33",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COGMF Lowline Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COGMF"
   },
   {
     "title": "Quartz Ridge Fire",
@@ -326,7 +304,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "6 days 22 hours ago",
+    "changed": "1 week ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -458,7 +436,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "5 days 23 hours ago",
+    "changed": "6 days 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -502,7 +480,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "5 days 23 hours ago",
+    "changed": "6 days 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -568,7 +546,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "2 months 2 weeks ago",
+    "changed": "2 months 3 weeks ago",
     "field_unit_code": "CAANF"
   },
   {
@@ -634,7 +612,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 days 23 hours ago",
+    "changed": "6 days 4 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -678,7 +656,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "4 days ago",
+    "changed": "4 days 5 hours ago",
     "field_unit_code": "NMCAF"
   }
 ]
