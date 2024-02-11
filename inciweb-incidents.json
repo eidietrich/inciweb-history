@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "20 hours 26 minutes ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 days 19 hours ago",
+    "changed": "4 days 4 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "4 days 23 hours ago",
+    "changed": "5 days 8 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -174,28 +174,6 @@
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
     "changed": "1 month 1 week ago",
     "field_unit_code": "NVHTF"
-  },
-  {
-    "title": "Flat Fire",
-    "lat_deg": "42",
-    "long_deg": "124",
-    "field_percent_of_perimeter": "93",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-07-17T23:05:09-04:00\">2023-07-17</time>\n",
-    "id": "313499",
-    "field_incident_overview": "<p><span><strong>The Flat Fire started south of Agness, Oregon, near Oak Flat Campground on July 15, 2023.</strong> The human-caused fire is burning through several old fire scars on the Rogue River-Siskiyou National Forest. The Forest and Incident Management Team (IMT) are working in close coordination with Coos Forest Protective Association, Douglas Forest Protective Association and Curry County Sheriff. The IMT's top priority is public and firefighter safety. They are using a full suppression strategy to contain the fire as small as possible, as safely as possible. More information can be found on </span><a href=\"https://www.facebook.com/flatfireoregon2023\"><span><strong>Facebook</strong></span></a><span> and</span><a href=\"twitter.com/RRSNF\"><span> </span></a><a href=\"https://twitter.com/RRSNF\"><span><strong>X (formerly known as Twitter)</strong></span></a></p><p><span><strong>Evacuations: </strong>Curry County Sheriff has removed the Level One Fire Evacuation Zone around the Anvil Fire east of Port Orford effective 3:00pm on Oct. 16, 2023. Sign up for Curry Co. emergency alerts at </span><a href=\"https://bit.ly/CurryCoEM.\"><span><strong>https://bit.ly/CurryCoEM</strong>.</span></a><span> </span><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">Sign up for Curry Co. emergency alerts at</span><a href=\"https://bit.ly/CurryCoEM\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong> </strong></span></a><a href=\"https://bit.ly/CurryCoEM.\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>https://bit.ly/CurryCoEM.</strong></span></a></p><p><strong>Area and Road Closures: </strong><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">For the safety of firefighters and the public, the Rogue River-Siskiyou National Forest (RRSNF) and Coos Bay District Bureau of Land Management have issued closure orders for the Flat Fire area.  Check the latest maps and </span><a href=\"https://inciweb.wildfire.gov/incident-closures/xx1002-flat-fire\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>closure information</strong></span></a><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">. </span></p><p><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>Road Conditions: </strong>For specific information on road access, please see the Caltrans QuickMap site</span><a href=\"https://quickmap.dot.ca.gov/\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>, https://quickmap.dot.ca.gov/ </strong></span></a><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">and Oregon Department of Transportation site, </span><a href=\"https://www.tripcheck.com/\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>https://www.tripcheck.com/.</strong></span></a><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">  <strong>Do not use forest roads for alternate routes</strong>.</span></p>",
-    "size": "34242",
-    "lat_min": "30",
-    "lat_sec": "57",
-    "urlPath": "/xx1002-flat-fire",
-    "long_min": "02",
-    "long_sec": "14",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "XX1002 Flat Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "XX1002"
   },
   {
     "title": "Quartz Ridge Fire",
@@ -304,7 +282,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -414,7 +392,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days 2 hours ago",
+    "changed": "3 days 11 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -458,7 +436,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "3 days 2 hours ago",
+    "changed": "3 days 11 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -480,7 +458,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "3 weeks 1 day ago",
+    "changed": "3 weeks 2 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -590,7 +568,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -612,7 +590,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "23 hours 39 minutes ago",
+    "changed": "1 day 8 hours ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -634,7 +612,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "NMCAF"
   }
 ]
