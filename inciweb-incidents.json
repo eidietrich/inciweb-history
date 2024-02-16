@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 2 hours ago",
+    "changed": "7 seconds ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 4 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "5 seconds ago",
+    "changed": "3 hours 33 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days ago",
+    "changed": "2 days 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -436,30 +436,8 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 day 19 hours ago",
+    "changed": "1 day 23 hours ago",
     "field_unit_code": "CATNF"
-  },
-  {
-    "title": "Heavener Mountain Fire",
-    "lat_deg": "38",
-    "long_deg": "79",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-08T11:42:31-05:00\">2023-11-08</time>\n",
-    "id": "316758",
-    "field_incident_overview": "<h2>Heavener Mountain Fire Update for Sunday, November 12, 2023</h2><h3> </h3><p><strong>Current Status:</strong><span><strong>  </strong></span>The Heavener Mountain Fire located on Heavener Mountain is approximately 2 miles east of Brandywine, West Virginia in Pendleton County. </p><p><span><strong>Estimated Acreage:  </strong>1078 acres</span></p><p><span><strong>County;  </strong>Pendleton County</span></p><p><span><strong>Containment:  </strong>100% contained<strong> </strong></span></p><p><span><strong>Date and Cause Reported: </strong>The fire was reported on Tuesday, November 7, 2023.  The cause of this fire is undetermined.  </span></p><p><span><strong>Resources on the Fire:  </strong>Approximately 70 firefighters and support staff, </span>two<span> </span>20-person crews, 1 dozer, and 2 Type-6 engines.</p><p><strong>Cooperators:</strong><span><strong> </strong></span>Pendleton<span> </span>County<span> </span>Emergency<span> </span>Management<span> </span>and<span> </span>South<span> </span>Fork<span> </span>Volunteer<span> </span>Fire <span>Company. Fire personnel have traveled from Colorado, California, Oregon, South Carolina and North Carolina. </span></p><p><span><strong>Restrictions and Closures:  </strong>The West Side Shooting Range is temporarily closed to provide for public health and safety. Forest Service Road 151 is closed south of Stony Run.  Use caution and obey all road signs for your safety. Motorists should be alert for firefighter vehicles and smoke.<strong> </strong></span></p><p><span><strong>Fire Weather:  </strong>Temperatures:<strong>  </strong>High 58, Low 33, Min. RH 45%; afternoon winds northeast around 7 mph late in the afternoon.</span></p><p><span><strong>General Fire Information: </strong></span></p><ul><li><span>Safety of the public and firefighters is always the number one priority when dealing with wildfires.</span></li><li><span>Homeowners can learn how to make their homes less susceptible to wildfires by visiting:  www.firewise.org </span></li></ul><p><span>For fire updates:  </span><a href=\"https://inciweb.nwcg.gov/incident-information/vavaf-heavener-mountain-fire\"><span>inciweb.nwcg.gov/incident-information/vavaf-heavener-mountain-fire</span></a></p><p><span>Visit forest information visit the George Washington &amp; Jefferson National Forests website </span><a href=\"http://www.fs.usda.gov/gwj\"><span>www.fs.usda.gov/gwj</span></a><span> or follow us on Facebook: </span><a href=\"http://www.facebook.com/GWJNF\"><span>www.facebook.com/GWJNF</span></a><span> </span></p>",
-    "size": "1078",
-    "lat_min": "36",
-    "lat_sec": "67",
-    "urlPath": "/vavaf-heavener-mountain-fire",
-    "long_min": "11",
-    "long_sec": "11",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "VAVAF Heavener Mountain Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "VAVAF"
   },
   {
     "title": "Pine Flat Prescribed Fire",
@@ -568,7 +546,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "6 days 22 hours ago",
+    "changed": "1 week ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -590,7 +568,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "53 seconds ago",
+    "changed": "3 hours 34 minutes ago",
     "field_unit_code": "NMCAF"
   }
 ]
