@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "41 minutes 58 seconds ago",
+    "changed": "4 hours 30 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 5 hours ago",
+    "changed": "1 day 9 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "6 seconds ago",
+    "changed": "3 hours 49 minutes ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "4 hours 15 minutes ago",
+    "changed": "1 minute 2 seconds ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 4 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 5 hours ago",
+    "changed": "2 days 8 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 day 6 hours ago",
+    "changed": "1 day 10 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "2 days ago",
+    "changed": "2 days 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -546,7 +546,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -590,7 +590,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "4 hours 16 minutes ago",
+    "changed": "8 hours 5 minutes ago",
     "field_unit_code": "NMCAF"
   }
 ]
