@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "19 hours 44 minutes ago",
+    "changed": "2 days 7 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 days ago",
+    "changed": "3 days 12 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "616",
     "measurement_type": "Acres",
     "field_title_and_unit": "CASTF STF RX BURN  Experimental Forest",
-    "changed": "1 month 2 weeks ago",
+    "changed": "1 month 3 weeks ago",
     "field_unit_code": "CASTF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "19 hours 3 minutes ago",
+    "changed": "2 days 7 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,30 +106,8 @@
     "long_sec": "31.458",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCIF Sandia RD Sulphur Canyon Prescribed Fire Pile Burn",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 5 days ago",
     "field_unit_code": "NMCIF"
-  },
-  {
-    "title": "2023 - Eldorado National Forest Projects",
-    "lat_deg": "38",
-    "long_deg": "120",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-04-10T12:42:29-04:00\">2023-04-10</time>\n",
-    "id": "312716",
-    "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-news/caenf-2023-eldorado-national-forest-projects\">Updates</a> <a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/caenf-2023-eldorado-national-forest-projects\">|Photo</a> <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/caenf-2023-eldorado-national-forest-projects\">|Maps</a></p>\n\n<p> </p>\n\n<p><span><span>The Eldorado National Forest fire crews have been preparing to conduct fuel treatment projects throughout 2023. These fuel treatment operations will include prescribed fire, vegetation cutting, removal and burning of piles, and low-intensity understory burning, all are an important tool for the Forest Service’s mission to reduce unnatural vegetation loading and restore natural fire regimes, which in the long-term help communities live more safely with fire.</span></span></p>\n\n<p><span><span>Fire managers follow a risk-management approach when conducting these projects and mitigate impacts to local communities, residences, and infrastructure. Fire managers will conduct prescribed fire activities during the safest possible “burn windows” in the coming months. Numerous factors including wind, humidity, air quality, fuel moisture and availability of fire crew personnel must be met before crews are authorized to move forward with burning.</span></span></p>\n\n<p><span><span>Residents and visitors are asked to avoid areas where prescribed fires are being conducted. Some smoke may be visible. People should not be alarmed as the fires are carefully monitored. Local fire and government authorities are notified prior to burn days and kept informed throughout prescribed fire operations.</span></span></p>\n\n<p><span><span>Along with fuel treatment projects continued work is going on over on the Mosquito Fire footprint and restoration work is occurring on the Caldor fire footprint.<br /><br />\nUpdates on all Fuel Treatment Projects, Mosquito Recovery Projects, and Caldor Restoration Projects will be shared on this page and the forest’s social media page on Twitter at <a href=\"https://twitter.com/EldoradoNF\">https://twitter.com/EldoradoNF</a> and Facebook at <a href=\"https://www.facebook.com/eldoradonf\">https://www.facebook.com/eldoradonf</a></span></span></p>",
-    "size": "",
-    "lat_min": "56",
-    "lat_sec": "7.764",
-    "urlPath": "/caenf-2023-eldorado-national-forest-projects",
-    "long_min": "19",
-    "long_sec": "10.102",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAENF 2023 Eldorado National Forest Projects",
-    "changed": "3 months ago",
-    "field_unit_code": "CAENF"
   },
   {
     "title": "2024 - Cleveland National Forest Fuel Treatments ",
@@ -150,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "15 hours 15 minutes ago",
+    "changed": "2 days 3 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -282,30 +260,8 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 weeks 4 days ago",
+    "changed": "2 weeks 6 days ago",
     "field_unit_code": "CAMNF"
-  },
-  {
-    "title": "Rabbit Fire",
-    "lat_deg": "36 ",
-    "long_deg": "118 ",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "The Rabbit Wildfire originated from a September 30, 2023, lightning strike on the Sequoia National Forest, Hume Lake Ranger District. The Rabbit Fire has grown to approximately 28 acres. It continues burning with a low fire intensity as it creeps through and consumes the dead and downed trees and brush that cover the ground’s surface around the fire’s perimeter. Fire managers continue to evaluate the Rabbit Wildfire to determine the initial and long-term risks associated with the wildfire. <br />\r\n<br />\r\nThis process considers of the firefighters and public safety, natural and cultural resources, and values to be protected. This revolving evaluation ensures fire managers apply a risk management process that minimizes unnecessary risk in wildfire response while maximizing the opportunities to achieve agency management objectives by providing for safety first. <br />\r\n<br />\r\nA significant role of the Forest Service is to manage natural resources on public lands, and the Rabbit Fire response decision includes objectives that include improving and enhancing natural resources while managing naturally occurring wildfires. To achieve that objective, Land and Resource Management Plans identify that fire plays a role in managing natural systems which is a primary mission<br />\r\n",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-13T13:39:04-04:00\">2023-10-13</time>\n",
-    "id": "316580",
-    "field_incident_overview": "<p><strong>Tuesday 24th, Morning update</strong>:<span> The Rabbit Fire Incident Type 4 team’s main objective for the incident is full suppression with significant resource enhancement. Firefighters are consolidating unburned fuels and felling hazard trees as the Rabbit Fire incident completes the active fire portion of the project. Emphasis has switched to mainly cleaning up control lines and beginning mop-up operations. At the outset, the plan for this fire was to eliminate excess fuel loading on a portion of forest that had not had a fire in nearly 100 years. That plan has come successfully to its expected conclusion, and as soon as safely possible, the forest will be returned to full visitation. Drivers are advised that Quail Flat, Kings Canyon Overlook, and Big Meadows Road off the Generals Highway will require care and awareness as firefighters are using these areas as gathering points to conduct operations. Crews remain alert and extinguish smoldering material in areas close to public use. Patrols of all fire lines and interior fuel pockets continue to confirm that unburned fuels are consumed Firefighters are focusing on safeguarding the fire's perimeter while clean-up of the forest floor continues. Hazard tree crews will work with traffic controllers to safely limit delays while cutting to reduce impacts to forest visitors. Short delays on Generals Highway may be expected if hazard trees are deemed too close to the road. The assigned Air Resource Advisor and the San Joaquin Valley Air Pollution Control District for air quality will be advised of activities until the incident is closed. Visitors and travelers should be aware that smoke is expected to continue for several days. Potential smoke impacts on local communities should ease daily. Previous ignitions on the Rabbit Fire and the Big Stump prescribed fire will continue to see a clean-up of unburned fuels today.  </span></p><p> </p><p><strong>Monday 23rd, Morning update: </strong><span>The Rabbit Fire Incident Type 4 team’s main objective for the incident is full suppression with significant resource enhancement. The Rabbit Fire incident is winding down from a very successful day of ignitions and firing on Saturday. The team expertly used the weather, fuel conditions, and fire personnel to accomplish all the day’s objectives. Those activities tied in control lines and effectively put the incident into clean-up mode. Firefighters are now consolidating and burning piles of excess fuel, felling additional hazard trees, cleaning up control lines, and beginning mop-up operations. Crews will continue verifying and extinguishing smoke (smoldering material) in areas close to public use. Patrols of all fire lines and interior fuel pockets continue to confirm that unburned fuels are consumed. Firefighters will focus on continuing line maintenance and clean-up of the forest floor. Quail Flat, Kings Canyon Overlook, and Big Meadows Road off the Generals Highway still warrant extreme caution as fire crews continue falling large trees in these areas. Short delays on Generals Highway may be expected if hazard trees are deemed too close to the road. Falling crews will attempt to keep delays as short as safely possible to limit inconvenience to forest visitors. The assigned Air Resource Advisor and the San Joaquin Valley Air Pollution Control District for air quality will be advised of any activities until the incident is closed, and potential smoke impacts to local communities should ease daily going forward<strong>. </strong>Visitors are advised that smoke will continue for several days, possibly weeks. They are NOT reportable occurrences.</span></p><p><strong>Sunday 22nd, Morning update:</strong> <span>The Rabbit Fire Incident Type 4 team’s main objective is full suppression with significant resource enhancement. Active fire from firing and ignition operations performed yesterday continues to burn today in the interior. Fire behavior has increased slightly in intensity with the weather. The fire will continue to slowly creep and back into the interior fuel pockets with occasional single tree torching. Fire crews have accomplished incident ignition objectives and are working on additional tree falling, fire line fortification, and monitoring over the next week. Quail Flat, Kings Canyon Overlook, and Big Meadows Road off the Generals Highway still warrant extreme caution as fire crews continue falling large trees in these areas. Short delays on Generals Highway can be expected for firefighter and public safety. Crews are busy closing off lines around yesterday’s firing operations and overseeing fire growth to planned specific areas. Firefighting crews’ emphasis is now mainly on line maintenance activities. Patrols are monitoring all fire lines and interior fuel pockets within the fire burn area. Unmanned aircraft systems (UAS) or drones assist with mapping and monitoring fire on tough/dangerous terrain. Today’s operations will be closely monitored by the assigned Air Resource Advisor and the San Joaquin Valley Air Pollution Control District for air quality and potential smoke impacts on local communities. Previous ignitions on the Rabbit Fire and the Big Stump prescribed fire will continue to see a clean-up of unburned fuels today. Ignitions have stopped on the Big Stump prescribed fire until more favorable conditions for ventilations occur, likely this coming weekend.</span></p>",
-    "size": "2856",
-    "lat_min": "43",
-    "lat_sec": "5",
-    "urlPath": "/casqf-rabbit-fire",
-    "long_min": "53",
-    "long_sec": "0",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASQF Rabbit Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "CASQF"
   },
   {
     "title": "Trail Springs Fire",
@@ -352,28 +308,6 @@
     "field_unit_code": "COSJF"
   },
   {
-    "title": "Saint Charles Fire",
-    "lat_deg": "37",
-    "long_deg": "105",
-    "field_percent_of_perimeter": "99",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-25T11:01:04-04:00\">2023-10-25</time>\n",
-    "id": "316662",
-    "field_incident_overview": "<p><span>The Saint Charles Fire in the Pike-San National Forest &amp; Cimarron and Comanche National Grasslands (PSICC) was reported on October 14th, 2023, at 6:19 p.m. The lightning caused fire is located approximately 1.5 miles NE of San Isabel, in Pueblo County, Colorado.</span></p><p><span>The local </span>Incident Management team, type 4, assumes command of the Saint Charles Fire October 31, 2023 at 2100.</p><p>For more information contact San Carlos Ranger District 719-269-8500</p><p><span>Additional Information can be found on </span><a href=\"https://www.facebook.com/SaintCharlesFire\"><span>2023 Saint Charles Fire Facebook page</span></a><span>.</span></p>",
-    "size": "492",
-    "lat_min": "59",
-    "lat_sec": "39",
-    "urlPath": "/copsf-saint-charles-fire",
-    "long_min": "1",
-    "long_sec": "47",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COPSF Saint Charles Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COPSF"
-  },
-  {
     "title": "TNF Yuba River Pileburn Projects",
     "lat_deg": "39",
     "long_deg": "121",
@@ -392,7 +326,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days ago",
+    "changed": "4 days 12 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -436,7 +370,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "2 days 1 hour ago",
+    "changed": "3 days 13 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -458,30 +392,8 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "2 days 19 hours ago",
+    "changed": "4 days 7 hours ago",
     "field_unit_code": "CATNF"
-  },
-  {
-    "title": "Pine Flat Prescribed Fire",
-    "lat_deg": "34.324381350050245",
-    "long_deg": "-117.83553559465481",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-14T22:03:06-05:00\">2023-11-14</time>\n",
-    "id": "316822",
-    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">The Pine Flats Prescribed Fire is planned for Wednesday, November 15 (morning), if conditions allow, at the Crystal Lake Recreation Area above Azusa, CA. </span></p><p>This planned fire will <span>reduce the risk of unwanted wildfires in nearby communities; help reduce risks for wildland firefighters; protect buildings, campgrounds, and picnic areas; and/or benefit forest health.</span></p>",
-    "size": "",
-    "lat_min": "",
-    "lat_sec": "",
-    "urlPath": "/caanf-pine-flat-prescribed-fire",
-    "long_min": "",
-    "long_sec": "",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CAANF Pine Flat Prescribed Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "CAANF"
   },
   {
     "title": "947 Fire",
@@ -502,7 +414,7 @@
     "long_sec": "41.2",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF 947 Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -546,7 +458,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 5 days ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -568,7 +480,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "1 week ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -590,7 +502,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "23 hours 19 minutes ago",
+    "changed": "2 days 11 hours ago",
     "field_unit_code": "NMCAF"
   }
 ]
