@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "4 days 11 hours ago",
+    "changed": "4 days 19 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "5 days 15 hours ago",
+    "changed": "6 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "4 days 10 hours ago",
+    "changed": "4 days 18 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "8 hours 34 minutes ago",
+    "changed": "13 seconds ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -196,28 +196,6 @@
     "field_title_and_unit": "COSJF Bear Creek Fire",
     "changed": "2 months 4 weeks ago",
     "field_unit_code": "COSJF"
-  },
-  {
-    "title": "Smith River Complex ",
-    "lat_deg": "41",
-    "long_deg": "123",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Wildland fires. The fire was declared contained and controlled at 1700 on November 13, 2023. ",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-16T15:01:26-04:00\">2023-08-16</time>\n",
-    "id": "314628",
-    "field_incident_overview": "<p><span>On the evening of August 15, 2023, the Six Rivers National Forest experienced approximately 150 lightning strikes, which triggered the outbreak of wildfires. Ther were at least 27 confirmed fires as a result of the lightning strikes Out of 27 confirmed fires, 12 were located on the Gasquet Ranger District in Del Norte County, and they are included in the Smith River Complex.</span><br /><br /><span>Given the threat to life and property, resources were focused on identifying fire locations and triaging suppression efforts on those posing the highest risk. This is a challenging task due to the rugged terrain and limited access.  </span></p><p><span>This situation is exacerbated by the fact that the area has experienced a year of below-average rainfall, which has let the vegetation unusually dry, The dryness adds a difficulty to control the fires.  Despite these difficult conditions, ground and air resources have been engaged in full suppression efforts. </span></p><p><span><strong>Timeline</strong></span><br /><span>August 18, 2023          California Interagency Incident Management Team 15 assumed command of the complex. </span></p><p><span>August 21, 2023          Northwest Incident Management Team 13 assumed command of the Smith River Complex North.</span></p><p>August 29, 2023          Oregon State Fire Marshal Blue Team joined NWIMT 13 in unified command of the Smith River Complex North. The OSFM resources left as they completed their mission, with the last engines leaving September 2, 2023.</p><p>August 31, 2023          Southwest Area Incident Management Team 2 (SWAIMT2) assumed command of the Smith River Complex – South Zone from California Interagency Incident Management Team 15.</p><p>September 6, 2023      Alaska Interagency Incident Management Team (AIIMT) <span>assumed command of the Smith River Complex North from Northwest Incident Management Team 13.</span></p><p><span>September 13, 2023    California Interagency Incident Management Team 4 (CAIIMT4) assumed command of the Smith River Complex South from  Southwest Area Incident Management Team 2</span></p><p><span>September 19, 2023    Northwest Incident Management Team 8 (NWIMT8) assumed command of the Smith River Complex North from AIIMT. </span></p><p>September 27, 2023    California Interagency Incident Management Team 12 (CAIIMT12) assumed command of the Smith River Complex South from California Interagency Incident Management Team 4 (CIIMT4)</p><p>October 10, 2023 Smith River Complex Type 3 assumed command of the Smith River Complex from California Interagency Incident Management Team 12 (CAIIMT12)</p><p><strong>*********</strong></p><p><em><span><strong>US-199</strong></span></em><span>. In Del Norte County, Highway 199, one way traffic control Monday - Friday 8 am - 5 pm from Grassy Flat Bridge to USFS Road due to fire and rock slides. Expect one hour delays. For additional information on road conditions, please see the Caltrans QuickMap site </span><a href=\"https://quickmap.dot.ca.gov/\"><span>https://quickmap.dot.ca.gov/</span></a><span> and Oregon Department of Transportation’s </span><a href=\"https://www.tripcheck.com/\"><span>https://www.tripcheck.com/</span></a><span>.</span></p><p>Check for closures on the <a href=\"https://www.fs.usda.gov/detail/srnf/notices/?cid=FSEPRD1096395\">Six Rivers National Forest</a>.</p><p>For closures on the Rogue River - Siskiyou National Forest, see their <a href=\"https://www.fs.usda.gov/alerts/rogue-siskiyou/alerts-notices\">Alerts &amp; Notices page</a>.</p><p>For Bureau of Land Management - Medford District, see their <a href=\"https://www.blm.gov/programs/public-safety-and-fire/fire-and-aviation/regional-info/oregon-washington/fire-restrictions\">Closures and Restrictions</a>.</p><p> </p>",
-    "size": "95107",
-    "lat_min": "51",
-    "lat_sec": "31",
-    "urlPath": "/casrf-smith-river-complex",
-    "long_min": "53",
-    "long_sec": "30.2",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "CASRF Smith River Complex",
-    "changed": "3 months ago",
-    "field_unit_code": "CASRF"
   },
   {
     "title": "Anvil Fire",
@@ -326,7 +304,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "6 days 15 hours ago",
+    "changed": "1 week ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -370,7 +348,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "5 days 16 hours ago",
+    "changed": "6 days 1 hour ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -392,7 +370,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "6 days 10 hours ago",
+    "changed": "6 days 19 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -502,7 +480,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "4 days 14 hours ago",
+    "changed": "4 days 23 hours ago",
     "field_unit_code": "NMCAF"
   }
 ]
