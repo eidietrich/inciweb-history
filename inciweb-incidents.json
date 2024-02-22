@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "5 days 2 hours ago",
+    "changed": "5 days 3 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "6 days 7 hours ago",
+    "changed": "6 days 8 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "5 days 1 hour ago",
+    "changed": "5 days 2 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "7 hours 1 minute ago",
+    "changed": "7 hours 44 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "6 days 8 hours ago",
+    "changed": "6 days 9 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -463,24 +463,24 @@
   },
   {
     "title": "Palmas Fire",
-    "lat_deg": "33° 27&#039; 59.33&quot;",
-    "long_deg": "115° 50&#039; 50.86&quot;",
-    "field_percent_of_perimeter": "10",
+    "lat_deg": "33",
+    "long_deg": "115",
+    "field_percent_of_perimeter": "40",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-21T14:37:12-05:00\">2024-02-21</time>\n",
     "id": "317007",
-    "field_incident_overview": "<p>The Palmas Fire is located within the Dos Palmas Preserve, public lands managed by the Bureau of Land Management in Riverside County. As of the latest report, the fire has burned 350 acres and is 10% contained. There are approximately 70 fire personnel working towards full suppression and will begin to mop up interior portions of the fire. Crews from the San Bernardino and Cleveland National Forest are assisting. The public is asked to stay away from the Preserve to allow firefighters to work safely. There is currently no threat to neighboring communities, as the fire is being contained within the preserve.</p>",
-    "size": "350",
-    "lat_min": "",
-    "lat_sec": "",
+    "field_incident_overview": "<p>The Palmas Fire is located within the Dos Palmas Preserve, public lands managed by the Bureau of Land Management in Riverside County. As of the latest report, the fire has burned 285 acres and is 40% contained (acreage reduced due to more accurate mapping). There are approximately 70 fire personnel working towards full suppression and will begin to mop up interior portions of the fire. Crews from the San Bernardino and Cleveland National Forest are assisting. The public is asked to stay away from the Preserve to allow firefighters to work safely. There is currently no threat to neighboring communities, as the fire is being contained within the preserve.</p>",
+    "size": "285",
+    "lat_min": "27",
+    "lat_sec": "59",
     "urlPath": "/cacdd-palmas-fire",
-    "long_min": "",
-    "long_sec": "",
+    "long_min": "50",
+    "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "9 seconds ago",
+    "changed": "1 minute 8 seconds ago",
     "field_unit_code": "CACDD"
   }
 ]
