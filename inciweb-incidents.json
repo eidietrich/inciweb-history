@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 3 hours ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 week 4 days ago",
+    "changed": "9 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "5 days 3 hours ago",
+    "changed": "5 days 5 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "4 hours 6 minutes ago",
+    "changed": "5 hours 33 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,29 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "3 hours 42 minutes ago",
+    "changed": "5 hours 9 minutes ago",
     "field_unit_code": "CACDD"
+  },
+  {
+    "title": "Juliet Pass Fire",
+    "lat_deg": "35° 3′ 22.14″ N",
+    "long_deg": "101° 21′ 46.08″ W",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2024-02-26T16:56:21-05:00\">2024-02-26</time>\n",
+    "id": "317011",
+    "field_incident_overview": "<p>There is currently a wildfire south of Claude, along Highway 207 in Armstrong County. Resources are currently on scene. The cause of the fire is undetermined and information will be updated as the incident continues.</p>",
+    "size": "750",
+    "lat_min": "",
+    "lat_sec": "",
+    "urlPath": "/txtxs-juliet-pass-fire",
+    "long_min": "",
+    "long_sec": "",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Juliet Pass Fire",
+    "changed": "3 minutes 57 seconds ago",
+    "field_unit_code": "TXTXS"
   }
 ]
