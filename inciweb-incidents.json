@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "13 minutes 50 seconds ago",
+    "changed": "9 minutes 33 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "5 days 5 hours ago",
+    "changed": "5 days 6 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 hours 54 minutes ago",
+    "changed": "6 hours 10 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,13 +370,13 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "5 hours 30 minutes ago",
+    "changed": "5 hours 46 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
-    "title": "Juliet Pass Fire",
-    "lat_deg": "35° 3′ 22.14″ N",
-    "long_deg": "101° 21′ 46.08″ W",
+    "title": "Juliet Pass",
+    "lat_deg": "35",
+    "long_deg": "101",
     "field_percent_of_perimeter": "0",
     "type": "Wildfire",
     "field_incident_description": "",
@@ -385,14 +385,14 @@
     "id": "317011",
     "field_incident_overview": "<p>There is currently a wildfire south of Claude, along Highway 207 in Armstrong County. Resources are currently on scene. The cause of the fire is undetermined and information will be updated as the incident continues.</p>",
     "size": "750",
-    "lat_min": "",
-    "lat_sec": "",
-    "urlPath": "/txtxs-juliet-pass-fire",
-    "long_min": "",
-    "long_sec": "",
+    "lat_min": "3",
+    "lat_sec": "22.14",
+    "urlPath": "/txtxs-juliet-pass",
+    "long_min": "21",
+    "long_sec": "46.08",
     "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "20 seconds ago",
+    "field_title_and_unit": "TXTXS Juliet Pass",
+    "changed": "6 seconds ago",
     "field_unit_code": "TXTXS"
   }
 ]
