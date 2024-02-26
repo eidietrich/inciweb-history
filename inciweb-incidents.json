@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "23 hours 47 minutes ago",
+    "changed": "1 day ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "4 days 23 hours ago",
+    "changed": "5 days ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "7 seconds ago",
+    "changed": "24 minutes 10 seconds ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -361,7 +361,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-21T14:37:12-05:00\">2024-02-21</time>\n",
     "id": "317007",
-    "field_incident_overview": "<p>The Palmas Fire is located within the Dos Palmas Preserve, public lands managed by the Bureau of Land Management in Riverside County. As of the latest report, the fire has burned 285 acres and is 40% contained (acreage reduced due to more accurate mapping). There are approximately 70 fire personnel working towards full suppression and will begin to mop up interior portions of the fire. Crews from the San Bernardino and Cleveland National Forest are assisting. The public is asked to stay away from the Preserve to allow firefighters to work safely. There is currently no threat to neighboring communities, as the fire is being contained within the preserve.</p>",
+    "field_incident_overview": "<p>The Palmas Fire is now 100% contained. Some trial closures remain in effect. There is no threat to neighboring communities, as the fire was contained within the preserve.</p>",
     "size": "239",
     "lat_min": "27",
     "lat_sec": "59",
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "1 day 15 hours ago",
+    "changed": "28 seconds ago",
     "field_unit_code": "CACDD"
   }
 ]
