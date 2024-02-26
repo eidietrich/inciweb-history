@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "9 seconds ago",
+    "changed": "13 minutes 50 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 hours 33 minutes ago",
+    "changed": "5 hours 54 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "5 hours 9 minutes ago",
+    "changed": "5 hours 30 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "3 minutes 57 seconds ago",
+    "changed": "20 seconds ago",
     "field_unit_code": "TXTXS"
   }
 ]
