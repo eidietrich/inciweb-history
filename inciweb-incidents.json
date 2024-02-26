@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "5 days 2 hours ago",
+    "changed": "5 days 3 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "2 hours 49 minutes ago",
+    "changed": "4 hours 6 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "2 hours 26 minutes ago",
+    "changed": "3 hours 42 minutes ago",
     "field_unit_code": "CACDD"
   }
 ]
