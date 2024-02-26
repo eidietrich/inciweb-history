@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "33 seconds ago",
+    "changed": "23 hours 47 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "4 days ago",
+    "changed": "4 days 23 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -130,50 +130,6 @@
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
     "changed": "1 month 3 weeks ago",
     "field_unit_code": "NVHTF"
-  },
-  {
-    "title": "Quartz Ridge Fire",
-    "lat_deg": "37",
-    "long_deg": "106",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "Completion of objectives 100%<br />\r\n<br />\r\nConfine              75<br />\r\nFull Suppression 25",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-07T17:07:20-04:00\">2023-08-07</time>\n",
-    "id": "314226",
-    "field_incident_overview": "<p><span>The Quartz Ridge Fire on the San Juan National Forest, Pagosa Ranger District was reported on August 5th, 2023 at 9:01am. The lightning started fire is located approximately three miles into the South San Juan Wilderness, 13 miles northeast of Pagosa Springs, Colorado.</span></p><p><span>Firefighters are unable to directly engage the fire due to the remote location, and firefighter risk associated with the terrain and working in dead and down trees. Fire managers developed a strategic plan to suppress the fire should it move into terrain more favorable to engagement. </span></p><p><span>The Quartz Ridge Fire is expected to remain in a very remote location of the South San Juan Wilderness. The Quartz Creek Trail (NFST#571) is no longer closed and has been re-opened to recreational use. District Staff remind visitors that the presence of smoldering logs and dispersed areas of smoke may remain and be visible from the trail. Please use caution when traveling through previously burned areas on the Pagosa Springs Ranger District.</span></p><p><span>The Quartz Fire was called contained on November 21, 2023.</span></p><p> </p>",
-    "size": "2850",
-    "lat_min": "21",
-    "lat_sec": "44",
-    "urlPath": "/cosjf-quartz-ridge-fire",
-    "long_min": "48",
-    "long_sec": "09",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COSJF Quartz Ridge Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COSJF"
-  },
-  {
-    "title": "Bear Creek Fire",
-    "lat_deg": "37",
-    "long_deg": "107",
-    "field_percent_of_perimeter": "",
-    "type": "Wildfire",
-    "field_incident_description": "83% of the objectives have been achieved.  <br />\r\n<br />\r\n25% full suppression <br />\r\n75% confinement",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-08-07T18:36:26-04:00\">2023-08-07</time>\n",
-    "id": "314232",
-    "field_incident_overview": "<p><span>The Bear Creek Fire is located on the San Juan National Forest, Pagosa Ranger District approximately 2.5 miles west of the Weminuche Valley. The trail closure was lifted on 11-9-23.</span></p><p><span>Firefighters have been unable to directly engage the Bear Creek fire due to the steep remote terrain and heavy fuel loading of dead standing and down trees. Fire managers developed a strategic plan to suppress the Bear Creek fire, taking into consideration the risk posed to responders. Rain and snow have slowed the fire’s growth, but the fire continues to smolder and produce smoke from within the perimeter of the fireline. This InciWeb page will not be updated again unless significant changes occur. </span></p>",
-    "size": "1093",
-    "lat_min": "31",
-    "lat_sec": "17",
-    "urlPath": "/cosjf-bear-creek-fire",
-    "long_min": "18",
-    "long_sec": "60",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COSJF Bear Creek Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COSJF"
   },
   {
     "title": "Anvil Fire",
@@ -216,52 +172,8 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "3 weeks 5 days ago",
+    "changed": "3 weeks 6 days ago",
     "field_unit_code": "CAMNF"
-  },
-  {
-    "title": "Trail Springs Fire",
-    "lat_deg": "37",
-    "long_deg": "107",
-    "field_percent_of_perimeter": "43",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-23T13:27:01-04:00\">2023-10-23</time>\n",
-    "id": "316649",
-    "field_incident_overview": "<p><span>The Trail Springs Fire is located on the San Juan National Forest, west of Pagosa Springs. The lightning-caused wildfire is in steep, thickly-forested terrain above West Devil Creek, about three miles northwest of Chris Mountain. Rain and snow during Thanksgiving week have dampened fire behavior. Interior pockets of vegetation continue to smolder and burn out, but no significant fire activity is expected. A second round of moisture is anticipated over the Thanksgiving holiday.</span></p><p>The San Juan National Forest Pagosa Ranger District is now managing this, the Bear Creek, and the Mill Creek 2 fires. Fire managers have used tactics that protect values while developing fire control lines with the best probability of success. An area closure is in effect. See a map and full details under the closures tab of this website.</p><p>This InciWeb page will not be updated unless significant activity occurs. </p>",
-    "size": "1358",
-    "lat_min": "18",
-    "lat_sec": "1.7526",
-    "urlPath": "/cosjf-trail-springs-fire",
-    "long_min": "14",
-    "long_sec": "46.9068",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COSJF Trail Springs Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COSJF"
-  },
-  {
-    "title": "Mill Creek 2 Fire",
-    "lat_deg": "37",
-    "long_deg": "106",
-    "field_percent_of_perimeter": "0",
-    "type": "Wildfire",
-    "field_incident_description": "Wildfire",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-10-23T13:36:04-04:00\">2023-10-23</time>\n",
-    "id": "316650",
-    "field_incident_overview": "<p>The Mill Creek 2 Fire is located approximately 12 miles northeast of Pagosa Springs on the San Juan National Forest in high, remote terrain, near the border of the South San Juan Wilderness Area. The fire initially burned aggressively through a heavy load of mixed conifer and dead and down logs.  The fire has continued to creep through grasses and other ground fuels, burning through isolated pockets of wood. <span>Rain and snow during Thanksgiving week have dampened fire behavior. Interior pockets of vegetation continue to smolder and burn out, but no significant fire activity is expected. A second round of moisture is anticipated over the Thanksgiving holiday.</span></p><p><span>B</span>ecause of the extremely difficult access and safety risks, firefighters have not been sent in to directly engage this fire. No homes, ranches or private holdings are at risk.</p><p>No closures are in place because of this fire.</p>",
-    "size": "150",
-    "lat_min": "18",
-    "lat_sec": "31.5612",
-    "urlPath": "/cosjf-mill-creek-2-fire",
-    "long_min": "50",
-    "long_sec": "43.7388",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "COSJF Mill Creek 2 Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "COSJF"
   },
   {
     "title": "TNF Yuba River Pileburn Projects",
@@ -326,7 +238,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -348,7 +260,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -383,7 +295,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-01-08T15:10:11-05:00\">2024-01-08</time>\n",
     "id": "316935",
-    "field_incident_overview": "<h2>Pile burns planned for the week of Jan. 29, 2024:</h2><p> </p><p><strong>Willard Machine Piles</strong><br />Tentative date: Jan. 31<br />Location: <a href=\"https://maps.app.goo.gl/XoKrGrACKjbS2BC49\">5 miles north of Munds Park</a><br />Size: 1,320 acres<br />Smoke impact: Possible smoke impact to Interstate 17 in the early morning hours<br /> </p><p><strong>Bly Pit piles</strong><br />Tentative date: Jan. 31, 2024<br />Location: 14 miles northeast of Clints Well<br />Size: 2 acres<br />Smoke impact: Smoke will be slightly noticeable from the Blue Ridge communities<br /> </p>",
+    "field_incident_overview": "<h4>There are no pile burns or prescribed fire projects planned for the week of Feb. 26, 2024, on Coconino National Forest land.<br /> </h4>",
     "size": "",
     "lat_min": "11",
     "lat_sec": "10.2078",
@@ -392,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "3 weeks 4 days ago",
+    "changed": "7 seconds ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -414,7 +326,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "2 weeks 1 day ago",
+    "changed": "2 weeks 2 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -436,7 +348,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -458,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "15 hours 25 minutes ago",
+    "changed": "1 day 15 hours ago",
     "field_unit_code": "CACDD"
   }
 ]
