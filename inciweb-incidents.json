@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 2 hours ago",
+    "changed": "2 days 3 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "21 hours 8 minutes ago",
+    "changed": "21 hours 37 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 hour 58 minutes ago",
+    "changed": "2 hours 26 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,11 +392,11 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass",
-    "changed": "19 hours 23 minutes ago",
+    "changed": "19 hours 52 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
-    "title": "Windy Deuce",
+    "title": "Windy Deuce Fire",
     "lat_deg": "35",
     "long_deg": "101",
     "field_percent_of_perimeter": "20",
@@ -405,20 +405,20 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
-    "field_incident_overview": "<p>Emergency Evacuation Alert! 🚨 📍 Location: Double Diamond Arrowhead addition Maverick Village 📅 Date: 02/27/24 🕒 Time: 12:53pm 🚨 Why: Due to an the approaching fire it's imperative to evacuate the area for your safety and well-being. Evacuation Shelter: Celebration Family Church. <span>811 E. Broadway, Fritch, Tx</span>. Please enter through the West door. Please proceed there for assistance and accommodations. Stay Informed: Follow City of Fritch-Official Facebook and Everbridge. Pay attention to emergency alerts and notifications. 🚫 Do Not: Do not delay evacuation if instructed to do so. Do not forget essential items like medications, important documents, etc.. 🛣️ Road closure: HIGHWAY 136 West-to Amarillo is being shutdown at this time due to heavy smoke. East bound remains open. 1:15pm Fritch City Hall <span>104 N. Robey Ave. Fritch,Tx 79036</span> (806)857-3143 Please always call 911 in the event of an emergency. If you have not signed up for Everbridge Emergency Notifications please do that as well! 💻 📱 Everbridge Link to sign up: <a href=\"https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmember.everbridge.net%2F397890065268803%2Fnew&amp;data=05%7C02%7CJessie.Inderman%40tfs.tamu.edu%7C2093b7c125bc414afdeb08dc37cc4c04%7C2c2bb68df2344baaa640ede7b35d9620%7C0%7C0%7C638446597798691886%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=z6qQHf3IanJK%2BH%2BOICb1muVRJuRuyj0LtrCejsuZjYo%3D&amp;reserved=0\">https://member.everbridge.net/397890065268803/new</a> 02/27/24 12:53pm<br /> </p><p><br />At 6:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Moore County. Texas A&amp;M Forest Service crews are working in unified command with Potter Count and National Park Service. Residents in the Plum Creek area of the Canadian River were asked to evacuate on the afternoon of ignition.   </p><p>The fire started six miles east of Masterson, Texas along Cig Road. High winds from the west spread the fire east towards Lake Meredith National Recreation Area.  The high winds of the first day afternoon slightly decreased around dusk and are expected to increase on the morning of the 27th, with a wind shift from the north expected due to a cold front entering the area in the afternoon.</p><p><br />Overnight, crews worked on building containment line with heavy equipment, focusing on the northern edge of the fire.  </p><p> </p>",
+    "field_incident_overview": "<p><strong>Emergency Evacuation Alert! </strong></p><p><strong>Location: Double Diamond Arrowhead addition Maverick Village </strong></p><p><strong> As of February 27th at 12:55 pm, evacuations are in order for Double Diamond Arrowhead addition Maverick Village. Due to an the approaching fire it's imperative to evacuate the area for your safety and well-being. Evacuation Shelter: Celebration Family Church. </strong><span><strong>811 E. Broadway, Fritch, Tx</strong></span><strong>. Please enter through the West door. Please proceed there for assistance and accommodations. Do not delay evacuation if instructed to do so. </strong></p><p><strong> Road closure: HIGHWAY 136 West-to Amarillo is being shutdown at this time due to heavy smoke. East bound remains open</strong></p><p><br />At 6:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Moore County. Texas A&amp;M Forest Service crews are working in unified command with Potter Count and National Park Service. Residents in the Plum Creek area of the Canadian River were asked to evacuate on the afternoon of ignition.   </p><p>The fire started six miles east of Masterson, Texas along Cig Road. High winds from the west spread the fire east towards Lake Meredith National Recreation Area.  The high winds of the first day afternoon slightly decreased around dusk and are expected to increase on the morning of the 27th, with a wind shift from the north expected due to a cold front entering the area in the afternoon.</p><p><br />Overnight, crews worked on building containment line with heavy equipment, focusing on the northern edge of the fire.  </p><p> </p>",
     "size": "8000",
     "lat_min": "37",
     "lat_sec": "51.6",
-    "urlPath": "/txtxs-windy-deuce",
+    "urlPath": "/txtxs-windy-deuce-fire",
     "long_min": "51",
     "long_sec": "3.6",
     "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Windy Deuce",
-    "changed": "1 second ago",
+    "field_title_and_unit": "TXTXS Windy Deuce Fire",
+    "changed": "6 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
-    "title": "Smokehouse Creek ",
+    "title": "Smokehouse Creek Fire",
     "lat_deg": "35",
     "long_deg": "101",
     "field_percent_of_perimeter": "0",
@@ -431,12 +431,12 @@
     "size": "100000",
     "lat_min": "50",
     "lat_sec": "52.35",
-    "urlPath": "/txtxs-smokehouse-creek",
+    "urlPath": "/txtxs-smokehouse-creek-fire",
     "long_min": "25",
     "long_sec": "57.53",
     "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Smokehouse Creek",
-    "changed": "6 minutes 48 seconds ago",
+    "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
+    "changed": "19 minutes 56 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "6 hours 22 minutes ago",
+    "changed": "6 hours 51 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
