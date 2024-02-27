@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "20 hours 12 minutes ago",
+    "changed": "20 hours 45 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 hour 1 minute ago",
+    "changed": "1 hour 35 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass",
-    "changed": "18 hours 27 minutes ago",
+    "changed": "19 hours ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce",
-    "changed": "26 minutes 48 seconds ago",
+    "changed": "1 hour ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -428,7 +428,7 @@
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
     "field_incident_overview": "<p>At approximately 2:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Hutchinson County. Texas A&amp;M Forest Service crews are working in unified command with local resources.</p><p>The fire ignited one mile north of Sinnett, Texas and east of Highway 207, with initial fire behavior reported as extremely active in tall grasses due to high winds and low relative humidity. Winds gusting over 40- 50 mph pushed the fire east from Highway 207 approximately 30 miles to Highway 70 north of Pampa, Texas.  Heavy equipment and fire engines <span>on scene are focusing on life safety and the safe creation of containment line. </span></p><p><span>Additional resources have been requested and are in bound.                    </span></p>",
-    "size": "40000",
+    "size": "100000",
     "lat_min": "50",
     "lat_sec": "52.35",
     "urlPath": "/txtxs-smokehouse-creek",
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "5 hours 26 minutes ago",
+    "changed": "5 hours 59 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
