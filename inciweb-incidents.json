@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 13 hours ago",
+    "changed": "1 day 19 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "7 hours 47 minutes ago",
+    "changed": "13 hours 22 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "5 days 13 hours ago",
+    "changed": "5 days 19 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "13 hours 48 minutes ago",
+    "changed": "19 hours 23 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "13 hours 24 minutes ago",
+    "changed": "19 hours ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,20 +392,20 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass",
-    "changed": "6 hours 2 minutes ago",
+    "changed": "11 hours 37 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
     "title": "Windy Deuce",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "0",
+    "field_percent_of_perimeter": "5",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
-    "field_incident_overview": "<p>At 6:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Moore County. Texas A&amp;M Forest Service crews are working in unified command with Potter Count and National Park Service.</p><p>The fire ignited six miles east of Masterson, Texas along Cig Road. High winds from the west spread the fire east towards Lake Meredith National Recreation Area.  Winds slightly decreased around dusk and are expected to increase on the morning of the 27th, with a wind shift from the north expected due to a cold front entering the area tomorrow afternoon.</p><p> </p>",
+    "field_incident_overview": "<p>At 6:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Moore County. Texas A&amp;M Forest Service crews are working in unified command with Potter Count and National Park Service. Residents in the Plum Creek area of the Canadian River were asked to evacuate on the afternoon of ignition.   </p><p>The fire started six miles east of Masterson, Texas along Cig Road. High winds from the west spread the fire east towards Lake Meredith National Recreation Area.  The high winds of the first day afternoon slightly decreased around dusk and are expected to increase on the morning of the 27th, with a wind shift from the north expected due to a cold front entering the area in the afternoon.</p><p><br />Overnight, crews worked on building containment line with heavy equipment, focusing on the northern edge of the fire.  </p><p> </p>",
     "size": "4000",
     "lat_min": "37",
     "lat_sec": "51.6",
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce",
-    "changed": "32 seconds ago",
+    "changed": "12 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek",
-    "changed": "39 minutes 13 seconds ago",
+    "changed": "6 hours 14 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "2 minutes 35 seconds ago",
+    "changed": "5 hours 38 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
