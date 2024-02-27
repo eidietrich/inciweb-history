@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "22 hours 28 minutes ago",
+    "changed": "22 hours 47 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "3 hours 17 minutes ago",
+    "changed": "3 hours 36 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "1 day 4 hours ago",
+    "changed": "1 second ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "9 minutes 17 seconds ago",
+    "changed": "27 minutes 44 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "2 minutes 35 seconds ago",
+    "changed": "21 minutes 2 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -427,7 +427,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
-    "field_incident_overview": "<p><strong>Emergency Evacuation Alert</strong></p><p><strong>As of early afternoon on February 27, 2024, the cities of Canadian and Glazer are evacuating at this time in the areas between South River Road and Highway 83 North. Highway 83 is closed in Hemphill County going both directions. Highway 83 and 23 in Lipscomb County are also closed.  The current evacuation route is going south towards Wheeler County. </strong></p><p>At approximately 2:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Hutchinson County. Texas A&amp;M Forest Service crews are working in unified command with local resources.</p><p>The fire ignited one mile north of Sinnett, Texas and east of Highway 207, with initial fire behavior reported as extremely active in tall grasses due to high winds and low relative humidity. Winds gusting over 40- 50 mph pushed the fire east from Highway 207 approximately 30 miles to Highway 70 north of Pampa, Texas.  Heavy equipment and fire engines <span>on scene are focusing on life safety and the safe creation of containment line. </span></p><p><span>Additional resources have been requested and are in bound.                    </span></p>",
+    "field_incident_overview": "<p><strong>Emergency  Alert</strong></p><p><strong>As of 3:00 pm on February 27, 2024, the city of Canadian and glazer being advised to shelter in place.  Highway 83 is closed in Hemphill County going both directions. Highway 83 and 23 in Lipscomb County are also closed. </strong></p><p>At approximately 2:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Hutchinson County. Texas A&amp;M Forest Service crews are working in unified command with local resources.</p><p>The fire ignited one mile north of Sinnett, Texas and east of Highway 207, with initial fire behavior reported as extremely active in tall grasses due to high winds and low relative humidity. Winds gusting over 40- 50 mph pushed the fire east from Highway 207 approximately 30 miles to Highway 70 north of Pampa, Texas.  Heavy equipment and fire engines <span>on scene are focusing on life safety and the safe creation of containment line. </span></p><p><span>Additional resources have been requested and are in bound.                    </span></p>",
     "size": "200000",
     "lat_min": "50",
     "lat_sec": "52.35",
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 second ago",
+    "changed": "3 minutes 57 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "24 minutes 6 seconds ago",
+    "changed": "42 minutes 33 seconds ago",
     "field_unit_code": "TXTXS"
   }
 ]
