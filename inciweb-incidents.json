@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 hours 30 minutes ago",
+    "changed": "3 hours 46 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "9 hours 31 minutes ago",
+    "changed": "9 hours 47 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "9 hours 8 minutes ago",
+    "changed": "9 hours 24 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass",
-    "changed": "1 hour 45 minutes ago",
+    "changed": "2 hours 1 minute ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,29 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce",
-    "changed": "3 seconds ago",
+    "changed": "16 minutes 3 seconds ago",
+    "field_unit_code": "TXTXS"
+  },
+  {
+    "title": "Hutchinson 0317",
+    "lat_deg": "35",
+    "long_deg": "101",
+    "field_percent_of_perimeter": "0",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
+    "id": "317014",
+    "field_incident_overview": "<p>Active wildfire in Hutchinson County, North of the town of Sinnett, east of Highway 207. <span>Resources are currently on scene. The cause of the fire is undetermined and information will be updated as the incident continues.</span></p>",
+    "size": "40000",
+    "lat_min": "50",
+    "lat_sec": "52.35",
+    "urlPath": "/txtxs-hutchinson-0317",
+    "long_min": "25",
+    "long_sec": "57.53",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "TXTXS Hutchinson 0317",
+    "changed": "14 seconds ago",
     "field_unit_code": "TXTXS"
   }
 ]
