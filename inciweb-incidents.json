@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 1 hour ago",
+    "changed": "2 days 2 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "19 hours 45 minutes ago",
+    "changed": "20 hours 12 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "34 minutes 44 seconds ago",
+    "changed": "1 hour 1 minute ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTF 2023 Initial Attack",
-    "changed": "1 month 3 weeks ago",
+    "changed": "1 month 4 weeks ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass",
-    "changed": "18 hours ago",
+    "changed": "18 hours 27 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce",
-    "changed": "3 seconds ago",
+    "changed": "26 minutes 48 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek",
-    "changed": "2 hours 19 minutes ago",
+    "changed": "3 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "4 hours 59 minutes ago",
+    "changed": "5 hours 26 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
