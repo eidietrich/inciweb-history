@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 12 hours ago",
+    "changed": "2 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 6 hours ago",
+    "changed": "1 day 14 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 second ago",
+    "changed": "7 hours 21 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 day 12 hours ago",
+    "changed": "1 day 20 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "8 hours 7 minutes ago",
+    "changed": "15 hours 29 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "2 hours 42 minutes ago",
+    "changed": "10 hours 3 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -406,7 +406,7 @@
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
     "field_incident_overview": "<p><strong>Emergency Evacuation Alert</strong></p><p><strong>Location: Fritch</strong></p><p><strong>As of February 27th at 8:00 pm, the following communities have been evacuated:</strong><span><strong>Double Diamond, Arrowhead Addition, Maverick, Alibates, McBride, Mullinaw, Harbory Bay, Chisolm Trail, Arroyo Grande, and Sage Brush</strong>. </span></p><p><strong>Evacuation Shelter: City of Borger has two locations for evacuees, Church of Christ and Fairlands Baptist Church </strong></p><p><strong>Road closure: HIGHWAY 136 is closed on both sides of Fritch, TX. Please evacuate north towards Sanford.</strong></p><p><br /><span>The Windy Deuce fire is currently burning in Hutchinson County. Texas A&amp;M Forest Service is currently working in unified command with the city of Fritch, Hutchinson County, and National Park Service. Crews are working to protect public lives, properties, and slow fire spread in high wind conditions.Crews continue to battle high winds and are working diligently to slow fire progression and protect the town of Fritch. The fire did enter into the south side of the town and crews are working to protect structures</span></p><p><span>High winds, high temperatures, and low humidities all day have caused extreme fire behavior to occur and a rapid rate of spread. Winds were predominantly out of the east until a frontal passage came through causing winds to shift to out of the north. Winds are expected to continue into the night and tomorrow. Fire behavior has shown long range spotting and high rates of spread.</span></p><p> </p>",
-    "size": "20000",
+    "size": "40000",
     "lat_min": "37",
     "lat_sec": "51.6",
     "urlPath": "/txtxs-windy-deuce-fire",
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "3 hours 22 minutes ago",
+    "changed": "1 second ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -428,7 +428,7 @@
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
     "field_incident_overview": "<p><strong>Emergency  Alert</strong></p><p><strong>As of 3:00 pm on February 27, 2024, the city of Canadian is being advised to shelter in place.  Highway 83 is closed in Hemphill County going both directions. Highway 83 and 23 in Lipscomb County are also closed. </strong></p><p> </p><p>At approximately 2:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Hutchinson County. Texas A&amp;M Forest Service crews are working in unified command with local resources.</p><p>The fire ignited one mile north of Sinnett, Texas and east of Highway 207, with initial fire behavior reported as extremely active in tall grasses due to high winds and low relative humidity. Winds gusting over 40- 50 mph pushed the fire east from Highway 207 approximately 30 miles to Highway 70 north of Pampa, Texas.  Heavy equipment and fire engines <span>on scene are focusing on life safety and the safe creation of containment line. </span></p><p><span>Additional resources have been requested and are in bound.                    </span></p>",
-    "size": "250000",
+    "size": "500000",
     "lat_min": "50",
     "lat_sec": "52.35",
     "urlPath": "/txtxs-smokehouse-creek-fire",
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 hour 59 minutes ago",
+    "changed": "35 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "2 hours 44 minutes ago",
+    "changed": "10 hours 5 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
