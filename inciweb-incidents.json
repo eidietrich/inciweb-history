@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 22 hours ago",
+    "changed": "2 days 23 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "15 minutes 43 seconds ago",
+    "changed": "53 minutes 36 seconds ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "10 hours 6 minutes ago",
+    "changed": "10 hours 44 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "18 hours 14 minutes ago",
+    "changed": "18 hours 52 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "12 hours 48 minutes ago",
+    "changed": "13 hours 26 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "2 hours 44 minutes ago",
+    "changed": "3 hours 22 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "2 seconds ago",
+    "changed": "37 minutes 55 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -449,7 +449,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T23:22:27-05:00\">2024-02-26</time>\n",
     "id": "317015",
-    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews are working to create a control line along the east and southern side of the fire. Several agencies and local officials are in unified command over the incident. Winds shifted directions throughout the day, and as of 8:00pm, February 27th, the winds are now predominantly blowing from the north. </p><p> </p><p>At approximately 3:10 pm on February 26th, 2024, Texas A&amp;M Forest service  received a request for assistance for a wildfire in Gray County. <span>Texas A&amp;M Forest Service crews are working in unified command with local officials from Gray County.</span></p><p> </p>",
+    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews are working to create a control line along the east and southern side of the fire. Several agencies and local officials are in unified command over the incident. as og Febuary 28th, <span>Northwest winds are predicted throughout the morning, shifting to the east around 6 mph late in the afternoon, then shifting to the south late in the afternoon.</span></p><p> </p><p>At approximately 3:10 pm on February 26th, 2024, Texas A&amp;M Forest service  received a request for assistance for this wildfire in Gray County. </p><p> </p>",
     "size": "30000",
     "lat_min": "27",
     "lat_sec": "35.39",
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "2 hours 44 minutes ago",
+    "changed": "0 seconds hence",
     "field_unit_code": "TXTXS"
   },
   {
@@ -480,7 +480,7 @@
     "long_sec": "23.83",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS 687 Reamer fire",
-    "changed": "2 hours 37 minutes ago",
+    "changed": "3 hours 15 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -502,7 +502,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "2 hours 21 minutes ago",
+    "changed": "2 hours 59 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
