@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 8 hours ago",
+    "changed": "2 days 9 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "7 hours 19 minutes ago",
+    "changed": "8 hours 21 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 day 8 hours ago",
+    "changed": "1 day 9 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "3 hours 43 minutes ago",
+    "changed": "4 hours 45 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "4 hours 10 minutes ago",
+    "changed": "5 hours 13 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -405,7 +405,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
-    "field_incident_overview": "<p><strong>Emergency Evacuation Alert</strong></p><p><strong>Location: Fritch</strong></p><p><strong>As of February 27th at 12:55 pm, evacuations were ordered for</strong><span><strong> Double Diamond, Alibates, McBride, Mullinaw, Harbor Bay and then expanded hours later for the entirety of Fritch</strong></span><strong>. </strong></p><p><strong>Evacuation Shelter: City of Borger has two locations for evacuees, Church of Christ and Fairlands Bastist Church </strong></p><p><strong>Road closure: HIGHWAY 136 is closed on both sides of Fritch, TX. Please evacuate north towards Sanford.</strong></p><p><br />At 6:20 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Moore County. Texas A&amp;M Forest Service crews are working in unified command with Potter Count and National Park Service. Residents in the Plum Creek area of the Canadian River were asked to evacuate on the afternoon of ignition.   </p><p>The fire started six miles east of Masterson, Texas along Cig Road. High winds from the west spread the fire east towards Lake Meredith National Recreation Area.  The high winds of the first day afternoon slightly decreased around dusk and are expected to increase on the morning of the 27th, with a wind shift from the north expected due to a cold front entering the area in the afternoon.</p><p> </p>",
+    "field_incident_overview": "<p><strong>Emergency Evacuation Alert</strong></p><p><strong>Location: Fritch</strong></p><p><strong>As of February 27th at 8:00 pm, the following communities have been evacuated:</strong><span><strong>Double Diamond, Arrowhead Addition, Maverick, Alibates, McBride, Mullinaw, Harbory Bay, Chisolm Trail, Arroyo Grande, and Sage Brush</strong>. </span></p><p><strong>Evacuation Shelter: City of Borger has two locations for evacuees, Church of Christ and Fairlands Baptist Church </strong></p><p><strong>Road closure: HIGHWAY 136 is closed on both sides of Fritch, TX. Please evacuate north towards Sanford.</strong></p><p><br /><span>The Windy Deuce fire is currently burning in Hutchinson County. Texas A&amp;M Forest Service is currently working in unified command with the city of Fritch, Hutchinson County, and National Park Service. Crews are working to protect public lives, properties, and slow fire spread in high wind conditions.Crews continue to battle high winds and are working diligently to slow fire progression and protect the town of Fritch. The fire did enter into the south side of the town and crews are working to protect structures</span></p><p><span>High winds, high temperatures, and low humidities all day have caused extreme fire behavior to occur and a rapid rate of spread. Winds were predominantly out of the east until a frontal passage came through causing winds to shift to out of the north. Winds are expected to continue into the night and tomorrow. Fire behavior has shown long range spotting and high rates of spread.</span></p><p> </p>",
     "size": "20000",
     "lat_min": "37",
     "lat_sec": "51.6",
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "3 seconds ago",
+    "changed": "1 second ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "12 minutes 8 seconds ago",
+    "changed": "1 hour 14 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "14 minutes 3 seconds ago",
+    "changed": "1 hour 16 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
