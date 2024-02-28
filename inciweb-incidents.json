@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 3 hours ago",
+    "changed": "1 day 4 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "8 hours 21 minutes ago",
+    "changed": "8 hours 59 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 day 9 hours ago",
+    "changed": "1 day 10 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "4 hours 45 minutes ago",
+    "changed": "5 hours 23 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "5 hours 13 minutes ago",
+    "changed": "5 hours 51 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "1 second ago",
+    "changed": "37 minutes 58 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 hour 14 minutes ago",
+    "changed": "1 hour 52 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -449,7 +449,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T23:22:27-05:00\">2024-02-26</time>\n",
     "id": "317015",
-    "field_incident_overview": "<p>At approximately 3:10 pm on February 26th, 2024, Texas A&amp;M Forest service  received a request for assistance for a wildfire in Gray County. <span>Texas A&amp;M Forest Service crews are working in unified command with local officials from Gray County.</span></p><p><span>The fire started 9.5 miles southwest of Lefors, Texas and was pushed east by a strong western wind, burning in dormant grass and shrubs. </span></p>",
+    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews are working to create a control line along the east and southern side of the fire. Several agencies and local officials are in unified command over the incident. Winds shifted directions throughout the day, and as of 8:00pm, February 27th, the winds are now predominantly blowing from the north. </p><p> </p><p>At approximately 3:10 pm on February 26th, 2024, Texas A&amp;M Forest service  received a request for assistance for a wildfire in Gray County. <span>Texas A&amp;M Forest Service crews are working in unified command with local officials from Gray County.</span></p><p> </p>",
     "size": "30000",
     "lat_min": "27",
     "lat_sec": "35.39",
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "1 hour 16 minutes ago",
+    "changed": "1 second ago",
     "field_unit_code": "TXTXS"
   }
 ]
