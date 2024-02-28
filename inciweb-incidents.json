@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 hours 25 minutes ago",
+    "changed": "3 hours 43 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "54 minutes 59 seconds ago",
+    "changed": "1 hour 13 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 weeks ago",
+    "changed": "1 second ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -370,30 +370,8 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "21 hours 24 minutes ago",
+    "changed": "21 hours 42 minutes ago",
     "field_unit_code": "CACDD"
-  },
-  {
-    "title": "Juliet Pass Fire",
-    "lat_deg": "35",
-    "long_deg": "101",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2024-02-26T16:56:21-05:00\">2024-02-26</time>\n",
-    "id": "317011",
-    "field_incident_overview": "<p><strong>State resources have been released and, pending any significant change in fire activity, this incident will no longer be updated.</strong></p><p>At approximately 1:50 pm on February 26, 2024, Texas A&amp;M Forest Service received a request for assistance for a wildfire in Armstrong County. Texas A&amp;M Forest Service crews are working in unified command with local resources.</p><p>The fire ignited 3.5 miles south Claude, Texas and along Highway 207, with initial fire behavior reported as extremely active in tall grasses due to high winds and low relative humidity. Winds gusting over 40- 50 mph pushed the fire east from Highway 207 approximately 30 miles to Highway 70 north of Pampa, Texas.  Heavy equipment and fire engines <span>on scene are focusing the safe creation of containment line. </span></p><p> </p>",
-    "size": "2963",
-    "lat_min": "3",
-    "lat_sec": "22.14",
-    "urlPath": "/txtxs-juliet-pass-fire",
-    "long_min": "21",
-    "long_sec": "46.08",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "15 hours 58 minutes ago",
-    "field_unit_code": "TXTXS"
   },
   {
     "title": "Windy Deuce Fire",
@@ -414,7 +392,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "29 minutes 50 seconds ago",
+    "changed": "47 minutes 59 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +414,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 second ago",
+    "changed": "16 minutes 38 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +436,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "40 minutes 11 seconds ago",
+    "changed": "58 minutes 20 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -480,7 +458,7 @@
     "long_sec": "23.83",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS 687 Reamer fire",
-    "changed": "5 hours 47 minutes ago",
+    "changed": "6 hours 5 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -493,7 +471,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-28T08:15:08-05:00\">2024-02-28</time>\n",
     "id": "317033",
-    "field_incident_overview": "<p>Fire currently burning in Oldham county, Texas. Multiple crews under unified command are engaging  with the fire. </p>",
+    "field_incident_overview": "<p>Fire currently burning in Oldham county, Texas. At approximately 5:50 pm February 27th, the Texas A&amp;M Forest service responded to a fire near HW 283 and CR 1061. Throughout the night locals protected structure from the fire. Crews are engaging with the fire and progress has been made.</p>",
     "size": "2000",
     "lat_min": "30",
     "lat_sec": "11.39",
@@ -502,7 +480,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "5 hours 31 minutes ago",
+    "changed": "4 minutes 53 seconds ago",
     "field_unit_code": "TXTXS"
   }
 ]
