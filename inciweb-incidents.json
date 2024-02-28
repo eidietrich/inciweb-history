@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 9 hours ago",
+    "changed": "2 days 10 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "8 hours 59 minutes ago",
+    "changed": "9 hours 23 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -370,14 +370,14 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "5 hours 23 minutes ago",
+    "changed": "5 hours 47 minutes ago",
     "field_unit_code": "CACDD"
   },
   {
     "title": "Juliet Pass Fire",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "90",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -392,7 +392,7 @@
     "long_sec": "46.08",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Juliet Pass Fire",
-    "changed": "5 hours 51 minutes ago",
+    "changed": "21 minutes 39 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "37 minutes 58 seconds ago",
+    "changed": "1 hour 1 minute ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 hour 52 minutes ago",
+    "changed": "2 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "1 second ago",
+    "changed": "23 minutes 42 seconds ago",
     "field_unit_code": "TXTXS"
   }
 ]
