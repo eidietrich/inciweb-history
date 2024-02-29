@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "21 hours 50 minutes ago",
+    "changed": "23 hours 2 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "21 hours 14 minutes ago",
+    "changed": "22 hours 25 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 day 3 hours ago",
+    "changed": "1 day 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "3 days 5 hours ago",
+    "changed": "3 days 6 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "2 days ago",
+    "changed": "2 days 1 hour ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "1 second ago",
+    "changed": "1 hour 11 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "4 hours 38 minutes ago",
+    "changed": "5 hours 50 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,43 +436,21 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "17 hours 31 minutes ago",
-    "field_unit_code": "TXTXS"
-  },
-  {
-    "title": "687 Reamer fire",
-    "lat_deg": "35",
-    "long_deg": "101",
-    "field_percent_of_perimeter": "10",
-    "type": "Wildfire",
-    "field_incident_description": "Fire started 6 miles SE of Stinnett and has burned east into the Smokehouse fire",
-    "field_active": "1",
-    "created": "<time datetime=\"2024-02-28T07:57:48-05:00\">2024-02-28</time>\n",
-    "id": "317032",
-    "field_incident_overview": "<p>Fire currently burning in <span>Hutchinson county Texas. The fire started 6 miles SE of Stinnett and has burned east into the Smokehouse fire.</span></p><p><span>Multiple Local agencies assisting.</span></p>",
-    "size": "2000",
-    "lat_min": "44",
-    "lat_sec": "1.30",
-    "urlPath": "/txtxs-687-reamer-fire",
-    "long_min": "31",
-    "long_sec": "23.83",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "TXTXS 687 Reamer fire",
-    "changed": "17 hours 45 minutes ago",
+    "changed": "18 hours 42 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
     "title": "Magenta fire",
     "lat_deg": "35",
     "long_deg": "102",
-    "field_percent_of_perimeter": "65",
+    "field_percent_of_perimeter": "85",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-28T08:15:08-05:00\">2024-02-28</time>\n",
     "id": "317033",
     "field_incident_overview": "<p>Fire currently burning in Oldham county, Texas. At approximately 5:50 pm February 27th, the Texas A&amp;M Forest service responded to a fire near HW 283 and CR 1061. Throughout the night locals protected structure from the fire. As of 6:00 PM February 28th, crews are engaging with the fire and progress has been made on its containment.</p>",
-    "size": "2500",
+    "size": "3300",
     "lat_min": "30",
     "lat_sec": "11.39",
     "urlPath": "/txtxs-magenta-fire",
@@ -480,7 +458,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "17 hours 39 minutes ago",
+    "changed": "1 minute 1 second ago",
     "field_unit_code": "TXTXS"
   }
 ]
