@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "23 hours 2 minutes ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "22 hours 25 minutes ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "4 weeks 2 days ago",
+    "changed": "1 month ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 day 4 hours ago",
+    "changed": "1 day 8 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "3 days 6 hours ago",
+    "changed": "3 days 10 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "2 days 1 hour ago",
+    "changed": "2 days 5 hours ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -383,7 +383,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
-    "field_incident_overview": "<p><strong>Emergency Evacuation Alert</strong></p><p><strong>Location: Fritch</strong></p><p><strong> following communities have been evacuated:</strong><span><strong> Alibates, McBride, Mullinaw, Harbory Bay, Chisolm Trail, Arroyo Grande, and Sage Brush</strong>. </span></p><p><strong>Evacuation Shelter: City of Borger has two locations for evacuees, Church of Christ and Fairlands Baptist Church </strong></p><p><strong>Road closure: HIGHWAY 136 is closed on both sides of Fritch, TX. Please evacuate north towards Sanford.</strong></p><p> </p><p><br /><span>The Windy Deuce fire is currently burning in Hutchinson County. Texas A&amp;M Forest Service is currently working in unified command with the city of Fritch, Hutchinson County, and National Park Service. Multiple fire Personal groups are working to protect public lives and property. Crews continue to battle wind and tough terrain and are working diligently to slow fire progression. <strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></span></p><p><span>Fire personnel continue to work on the fire with safety as their top priority. Dozer Crews are engaged on the south side of Highway 136 to control the fire. Engine crews continue to work on structure protection and areas within the fire interior. Large pockets of grass remain within the fire and are being monitored. Wind is blowing from the south/southwest.</span></p><p><span>2/28/24 weather forecast- Northwest winds are predicted throughout the morning, shifting to the east around 6 mph late in the afternoon, then shifting to the south late in the afternoon. Low chances for precipitation may follow late tonight with better chances to follow Thursday morning</span></p><p> </p>",
+    "field_incident_overview": "<p><strong>Emergency Evacuation Alert</strong></p><p><strong>Location: Fritch</strong></p><p><strong> following communities have been evacuated:</strong><span><strong> Alibates, McBride, Mullinaw, Harbory Bay, Chisolm Trail, Arroyo Grande, and Sage Brush</strong>. </span></p><p><strong>Evacuation Shelter: City of Borger has two locations for evacuees, Church of Christ and Fairlands Baptist Church </strong></p><p><strong>Road closure: HIGHWAY 136 is closed on both sides of Fritch, TX. Please evacuate north towards Sanford.</strong></p><p> </p><p><br /><span>The Windy Deuce fire is currently burning in Hutchinson County. Texas A&amp;M Forest Service is currently working in unified command with the city of Fritch, Hutchinson County, and National Park Service. Multiple fire Personal groups are working to protect public lives and property. Crews continue to battle wind and tough terrain and are working diligently to slow fire progression. <strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></span></p><p><span>Fire personnel continue to work on the fire with safety as their top priority. Dozer Crews are engaged on the south side of Highway 136 to control the fire. Engine crews continue to work on structure protection and areas within the fire interior. Large pockets of grass remain within the fire and are being monitored. Wind is blowing from the south/southwest.</span></p><p><span>  Weather  2/29/2024-  Tonight, expect winds to shift back to westerly during the overnight but stay under 10 mph. Friday weather will result in relatively low winds, but high winds and low relative humidity are expected in the area on Saturday and Sunday.</span></p><p> </p>",
     "size": "142000",
     "lat_min": "37",
     "lat_sec": "51.6",
@@ -392,7 +392,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "1 hour 11 minutes ago",
+    "changed": "33 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -405,7 +405,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
-    "field_incident_overview": "<p><strong>As of 12:40 February 28th, Evacuations and road closures have been lifted for the town of Canadian.</strong></p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. On February 28th, the fire was active , wind driven, and creating Spotfire. There is currently moderate potential for growth as ground crews make slow progress with heavy equipment due to rough terrain. Official information will continue to be posted as it arrived.</span></p><p><span>  Weather  </span>2/29/2024- Snow is falling this morning on large portions of the fire. Winds<span> will remain southerly throughout the majority of the day with speeds increasing to around 15 to 20 mph during the afternoon and evening hours. Tonight, expect winds to shift back to westerly during the overnight but stay under 10 mph.</span></p>",
+    "field_incident_overview": "<p><strong>As of 12:40 February 28th, Evacuations and road closures have been lifted for the town of Canadian.</strong></p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. On February 29th, the area received precipitation in the form of snow and rain. There is currently moderate potential for growth as ground crews make slow progress with heavy equipment due to rough and muddy terrain. More indecent personal arrived on Thursday. Official information will continue to be posted as it arrived.</span></p><p><span>  Weather  </span>2/29/2024- <span> Tonight, expect winds to shift back to westerly during the overnight but stay under 10 mph. Friday weather will result in relatively low winds, but high winds and low relative humidity are expected in the area on Saturday and Sunday.</span></p>",
     "size": "1075000",
     "lat_min": "50",
     "lat_sec": "52.35",
@@ -414,7 +414,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "5 hours 50 minutes ago",
+    "changed": "2 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "18 hours 42 minutes ago",
+    "changed": "22 hours 41 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -449,7 +449,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-28T08:15:08-05:00\">2024-02-28</time>\n",
     "id": "317033",
-    "field_incident_overview": "<p>Fire currently burning in Oldham county, Texas. At approximately 5:50 pm February 27th, the Texas A&amp;M Forest service responded to a fire near HW 283 and CR 1061. Throughout the night locals protected structure from the fire. As of 6:00 PM February 28th, crews are engaging with the fire and progress has been made on its containment.</p>",
+    "field_incident_overview": "<p>Fire currently burning in Oldham county, Texas. At approximately 5:50 pm February 27th, the Texas A&amp;M Forest service responded to a fire near HW 283 and CR 1061. <span>  Weather  2/29/2024-  Tonight, expect winds to shift back to westerly during the overnight but stay under 10 mph. Friday weather will result in relatively low winds, but high winds and low relative humidity are expected in the area on Saturday and Sunday.</span></p>",
     "size": "3300",
     "lat_min": "30",
     "lat_sec": "11.39",
@@ -458,7 +458,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "1 minute 1 second ago",
+    "changed": "7 minutes 36 seconds ago",
     "field_unit_code": "TXTXS"
   }
 ]
