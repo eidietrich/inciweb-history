@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 20 hours ago",
+    "changed": "1 day 21 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 17 hours ago",
+    "changed": "1 day 18 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day 17 hours ago",
+    "changed": "1 day 18 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 day 23 hours ago",
+    "changed": "2 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "4 days 1 hour ago",
+    "changed": "4 days 2 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "2 days 20 hours ago",
+    "changed": "2 days 21 hours ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,21 +392,21 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "3 minutes 4 seconds ago",
+    "changed": "1 hour 2 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
     "title": "Smokehouse Creek Fire",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "5",
+    "field_percent_of_perimeter": "15",
     "type": "Wildfire",
     "field_incident_description": "Wildfire",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
-    "field_incident_overview": "<p><strong>As of 12:40 February 28th, Evacuations and road closures have been lifted for the town of Canadian.</strong></p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. On February 29th, the area received precipitation in the form of snow and rain. There is currently moderate potential for growth as ground crews make slow progress with heavy equipment due to rough and muddy terrain. More indecent personal arrived on Thursday. Official information will continue to be posted as it arrived.</span><strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></p><p><span>  Weather  </span>2/29/2024- <span> Tonight, expect winds to shift back to westerly during the overnight but stay under 10 mph. Friday weather will result in relatively low winds, but high winds and low relative humidity are expected in the area on Saturday and Sunday.</span></p>",
-    "size": "1075000",
+    "field_incident_overview": "<p> </p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. On February 29th, the area received precipitation in the form of snow and rain. There is currently moderate potential for growth as ground crews make slow progress with heavy equipment due to rough and muddy terrain. More indecent personal arrived on Thursday. Official information will continue to be posted as it arrived.</span><strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></p><p><span>  Weather  3</span>/1/2024- <span> </span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">A drying trend will dissipate the traces of snowfall from Thursday. High temperatures in the lower 70s with winds from the SW ranging 10-20 mph. Relative humidity will drop into the mid-teens. Fire has the potential to move at 1-2 mph and burn 250 to 500 acres an hour if a spot fire occurs. These conditions will set up a Fire Weather Watch starting at noon on Saturday. Weekend winds will be strong with gusting up to 40 mph.  Low Relative Humidity over the weekend will range from 9-11 percent with temps rising to the mid-70s.</span><span> </span></p>",
+    "size": "1078086",
     "lat_min": "50",
     "lat_sec": "52.35",
     "urlPath": "/txtxs-smokehouse-creek-fire",
@@ -436,7 +436,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "7 minutes 27 seconds ago",
+    "changed": "1 hour 6 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "14 hours 42 minutes ago",
+    "changed": "15 hours 41 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
