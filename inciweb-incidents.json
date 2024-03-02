@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "2 days 17 hours ago",
+    "changed": "2 days 18 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "5 seconds ago",
+    "changed": "15 minutes 8 seconds ago",
     "field_unit_code": "AZPNF"
   },
   {
@@ -405,7 +405,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
-    "field_incident_overview": "<p><strong>Emergency Evacuation Alert</strong></p><p><strong>Location: Fritch</strong></p><p><strong> following communities have been evacuated:</strong><span><strong> Alibates, McBride, Mullinaw, Harbory Bay, Chisolm Trail, Arroyo Grande, and Sage Brush</strong>. </span></p><p><strong>Evacuation Shelter: City of Borger has two locations for evacuees, Church of Christ and Fairlands Baptist Church </strong></p><p><strong>Road closure: HIGHWAY 136 is closed on both sides of Fritch, TX. Please evacuate north towards Sanford.</strong></p><p> </p><p><br /><span>The Windy Deuce fire is currently burning in Hutchinson County. Texas A&amp;M Forest Service is currently working in unified command with the city of Fritch, Hutchinson County, and National Park Service. Multiple fire Personal groups are working to protect public lives and property. Crews continue to battle wind and tough terrain and are working diligently to slow fire progression. <strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></span></p><p><span>Fire personnel continue to work on the fire with safety as their top priority. Dozer Crews are engaged on the south side of Highway 136 to control the fire. Engine crews continue to work on structure protection and areas within the fire interior. Large pockets of grass remain within the fire and are being monitored. Wind is blowing from the south/southwest.</span></p><p><span>  Weather  2/29/2024-  Tonight, expect winds to shift back to westerly during the overnight but stay under 10 mph. Friday weather will result in relatively low winds, but high winds and low relative humidity are expected in the area on Saturday and Sunday.</span></p><p> </p>",
+    "field_incident_overview": "<p> </p><p><br /><span>The Windy Deuce fire is currently burning in Hutchinson County. Texas A&amp;M Forest Service is currently working in unified command with the city of Fritch, Hutchinson County, and National Park Service. Multiple fire Personal groups are working to protect public lives and property. Crews continue to battle wind and tough terrain and are working diligently to slow fire progression. <strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></span></p><p><span>Fire personnel continue to work on the fire with safety as their top priority. Dozer Crews are engaged on the south side of Highway 136 to control the fire. Engine crews continue to work on structure protection and areas within the fire interior. Large pockets of grass remain within the fire and are being monitored. Wind is blowing from the south/southwest.</span></p><p><strong>3/2/2024-A RED FLAG warning has been issued starting at noon March 2nd and will last through Sunday. Temperatures will reach into the mid-70s, with winds out of the southwest ranging from 15-25 mph and gusts up to 40 mph are predicted. Relative humidity may reach into single digits. Any moisture received two days ago is expected to be completely gone by mid-day. Grass fuels will be very receptive to any heat sources remaining in the fire. Fire has the potential to move at 1-3 mph and burn as quickly as 900-1500 acres in an hour.</strong></p><p> </p>",
     "size": "142000",
     "lat_min": "37",
     "lat_sec": "51.6",
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "5 seconds ago",
+    "changed": "3 minutes 45 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -427,7 +427,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
-    "field_incident_overview": "<p> </p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. On February 29th, the area received precipitation in the form of snow and rain. There is currently moderate potential for growth as ground crews make slow progress with heavy equipment due to rough and muddy terrain. More incident personal arrived on Friday. Official information will continue to be posted as it arrived. </span><strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></p><p><span> </span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">A drying trend will dissipate the traces of snowfall from Thursday. High temperatures in the lower 70s with winds from the SW ranging 10-20 mph. Relative humidity will drop into the mid-teens. Fire has the potential to move at 1-2 mph and burn 250 to 500 acres an hour if a spot fire occurs. These conditions will set up a Fire Weather Watch starting at noon on Saturday. Weekend winds will be strong with gusting up to 40 mph.  Low Relative Humidity over the weekend will range from 9-11 percent with temps rising to the mid-70s.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span><span> </span></p>",
+    "field_incident_overview": "<p> </p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. Official information will continue to be posted as it arrived. </span><strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></p><p><strong>3/2/2024-A RED FLAG warning has been issued starting at noon March 2nd and will last through Sunday. Temperatures will reach into the mid-70s, with winds out of the southwest ranging from 15-25 mph and gusts up to 40 mph are predicted. Relative humidity may reach into single digits. Any moisture received two days ago is expected to be completely gone by mid-day. Grass fuels will be very receptive to any heat sources remaining in the fire. Fire has the potential to move at 1-3 mph and burn as quickly as 900-1500 acres in an hour.</strong></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span><span> </span></p>",
     "size": "1075545",
     "lat_min": "50",
     "lat_sec": "52.35",
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "6 seconds ago",
+    "changed": "3 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -449,7 +449,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T23:22:27-05:00\">2024-02-26</time>\n",
     "id": "317015",
-    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p> </p><p> </p>",
+    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p><strong>3/2/2024-A RED FLAG warning has been issued starting at noon March 2nd and will last through Sunday. Temperatures will reach into the mid-70s, with winds out of the southwest ranging from 15-25 mph and gusts up to 40 mph are predicted. Relative humidity may reach into single digits. Any moisture received two days ago is expected to be completely gone by mid-day. Grass fuels will be very receptive to any heat sources remaining in the fire. Fire has the potential to move at 1-3 mph and burn as quickly as 900-1500 acres in an hour.</strong></p><p> </p>",
     "size": "30000",
     "lat_min": "27",
     "lat_sec": "35.39",
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "23 minutes 28 seconds ago",
+    "changed": "3 minutes 16 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
