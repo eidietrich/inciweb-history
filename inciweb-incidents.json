@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 19 hours ago",
+    "changed": "2 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 18 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 17 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 22 hours ago",
+    "changed": "2 days 23 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 days ago",
+    "changed": "5 days 1 hour ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -348,7 +348,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "2 weeks ago",
+    "changed": "2 weeks 1 day ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "3 days 19 hours ago",
+    "changed": "3 days 20 hours ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "17 hours 10 minutes ago",
+    "changed": "3 minutes 53 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -406,7 +406,7 @@
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
     "field_incident_overview": "<p> </p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. On February 29th, the area received precipitation in the form of snow and rain. There is currently moderate potential for growth as ground crews make slow progress with heavy equipment due to rough and muddy terrain. More incident personal arrived on Friday. Official information will continue to be posted as it arrived. </span><strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></p><p><span> </span><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">A drying trend will dissipate the traces of snowfall from Thursday. High temperatures in the lower 70s with winds from the SW ranging 10-20 mph. Relative humidity will drop into the mid-teens. Fire has the potential to move at 1-2 mph and burn 250 to 500 acres an hour if a spot fire occurs. These conditions will set up a Fire Weather Watch starting at noon on Saturday. Weekend winds will be strong with gusting up to 40 mph.  Low Relative Humidity over the weekend will range from 9-11 percent with temps rising to the mid-70s.</span><span> </span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span><span> </span></p>",
-    "size": "1078086",
+    "size": "1075545",
     "lat_min": "50",
     "lat_sec": "52.35",
     "urlPath": "/txtxs-smokehouse-creek-fire",
@@ -414,7 +414,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "3 seconds ago",
+    "changed": "10 minutes 49 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "20 hours 12 minutes ago",
+    "changed": "1 minute 50 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "1 day 13 hours ago",
+    "changed": "1 day 14 hours ago",
     "field_unit_code": "TXTXS"
   }
 ]
