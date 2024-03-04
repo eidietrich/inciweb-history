@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "4 days 19 hours ago",
+    "changed": "4 days 21 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "4 days 16 hours ago",
+    "changed": "4 days 18 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "4 days 16 hours ago",
+    "changed": "4 days 18 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "1 day 20 hours ago",
+    "changed": "1 day 22 hours ago",
     "field_unit_code": "AZPNF"
   },
   {
@@ -216,30 +216,8 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "4 days 22 hours ago",
+    "changed": "4 days 23 hours ago",
     "field_unit_code": "CATNF"
-  },
-  {
-    "title": "2023 Collett Ridge Fire",
-    "lat_deg": "35",
-    "long_deg": "83",
-    "field_percent_of_perimeter": "100",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-06T16:14:25-05:00\">2023-11-06</time>\n",
-    "id": "316738",
-    "field_incident_overview": "<p><strong>Highlights November 22, 2023: </strong><span>The Collett Ridge Fire received 1.25 inches of rain resulting in minimal fire activity, no additional growth, and wetting of light fuels such as leaf litter, which was the primary fuel source for the fire. There may continue to be smoke within the interior of the fire perimeter, due to heavier fuels such as logs or stumps that may continue to smolder. No additional fire growth is expected. This will be the final update. </span></p>",
-    "size": "5505",
-    "lat_min": "9",
-    "lat_sec": "37",
-    "urlPath": "/ncncf-2023-collett-ridge-fire",
-    "long_min": "46",
-    "long_sec": "40",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NCNCF 2023 Collett Ridge Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "NCNCF"
   },
   {
     "title": "TNF American River Pileburn Projects",
@@ -370,7 +348,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -392,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "5 days 19 hours ago",
+    "changed": "5 days 21 hours ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -414,7 +392,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "7 seconds ago",
+    "changed": "0 seconds hence",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +414,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "6 seconds ago",
+    "changed": "4 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -458,7 +436,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "6 seconds ago",
+    "changed": "3 minutes 37 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -480,7 +458,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "3 days 13 hours ago",
+    "changed": "3 days 15 hours ago",
     "field_unit_code": "TXTXS"
   }
 ]
