@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "4 days 14 hours ago",
+    "changed": "4 days 15 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 4 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "1 second ago",
+    "changed": "9 minutes 53 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "11 minutes 37 seconds ago",
+    "changed": "58 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -449,7 +449,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T23:22:27-05:00\">2024-02-26</time>\n",
     "id": "317015",
-    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p><strong>3/2/2024-A RED FLAG warning has been issued starting at noon March 2nd and will last through Sunday. Temperatures will reach into the mid-70s, with winds out of the southwest ranging from 15-25 mph and gusts up to 40 mph are predicted. Relative humidity may reach into single digits. Any moisture received two days ago is expected to be completely gone by mid-day. Grass fuels will be very receptive to any heat sources remaining in the fire. Fire has the potential to move at 1-3 mph and burn as quickly as 900-1500 acres in an hour.</strong></p><p> </p>",
+    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p><span>3/4/2024 weather - Today we expect southwest  of winds 5 to 10 and gust near 15 mph, becoming northwest before 10:00 this morning and turning more northerly by the end of the day. The weather is predicted to be moderate tonight and tomorrow.</span></p><p> </p>",
     "size": "34882",
     "lat_min": "27",
     "lat_sec": "35.39",
@@ -458,7 +458,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "16 hours 19 minutes ago",
+    "changed": "11 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
