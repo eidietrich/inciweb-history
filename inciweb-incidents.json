@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "23 hours 12 minutes ago",
+    "changed": "23 hours 36 minutes ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "20 hours 35 minutes ago",
+    "changed": "20 hours 59 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "3 days 18 hours ago",
+    "changed": "3 days 19 hours ago",
     "field_unit_code": "AZPNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 18 hours ago",
+    "changed": "1 day 19 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "18",
     "measurement_type": "Acres",
     "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "2 months 4 weeks ago",
+    "changed": "3 months ago",
     "field_unit_code": "NCNCF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "18 hours 20 minutes ago",
+    "changed": "18 hours 44 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "4 seconds ago",
+    "changed": "24 minutes 3 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,20 +414,20 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 hour 45 minutes ago",
+    "changed": "17 minutes 7 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
     "title": "Grape Vine Creek Fire",
     "lat_deg": "35",
     "long_deg": "100",
-    "field_percent_of_perimeter": "60",
+    "field_percent_of_perimeter": "77",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T23:22:27-05:00\">2024-02-26</time>\n",
     "id": "317015",
-    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p>march 5th weather-Yesterday’s cold front moderated burning conditions, allowing crews to make good progress with mop-up. Today’s weather will again be favorable to gain on containment. Temperatures will reach into the mid-60s, with winds out of the northeast ranging up to 15 mph. Relative humidity will range 21 to 26 percent. The overnight humidity recovery was 65-75 percent, giving firefighters a good headstart. Fire still has the potential to move at 1 mph and burn 300 acres in an hour with flame lengths in tall thick grass up to 8 to 12 feet during the peak period of the day. Overall, burn conditions are markedly improved and the ability to fight fire on the ground is greatly enhanced.</p><p> </p>",
+    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p><strong>Grape Vine Creek Fire:</strong> Engines will continue to cool and control any flare-ups and mop-up hot spots. <span>    </span></p><p> </p>",
     "size": "34882",
     "lat_min": "27",
     "lat_sec": "35.39",
@@ -436,7 +436,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "22 hours 13 minutes ago",
+    "changed": "2 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
