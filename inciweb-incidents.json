@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 19 hours ago",
+    "changed": "2 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "1 day 23 hours ago",
+    "changed": "2 days ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "19 hours 27 minutes ago",
+    "changed": "19 hours 40 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "22 hours 41 minutes ago",
+    "changed": "22 hours 55 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 day 18 hours ago",
+    "changed": "1 day 19 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "13 hours 5 minutes ago",
+    "changed": "13 hours 19 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -355,14 +355,14 @@
     "title": "Windy Deuce Fire",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "81",
+    "field_percent_of_perimeter": "89",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
     "field_incident_overview": "<p><span><strong>Windy Deuce Fire:</strong></span>Yesterday, firefighters found and mopped up several areas of significant heat in the McBride Canyon area on the western fire perimeter. These efforts have led to increased containment along the fire perimeter. Today engine crews will continue to construct and strengthen containment lines and mop-up hot spots. Dozers will continue to build and strengthen control lines. </p><p><strong>Important:</strong> Incident command has been employing air operations to suppress the fires in the Panhandle. The use of drones and non-dispatched aircraft not only causes delays but also poses safety risks for incident personnel in the air and on the ground.</p>",
-    "size": "144206",
+    "size": "144207",
     "lat_min": "37",
     "lat_sec": "51.6",
     "urlPath": "/txtxs-windy-deuce-fire",
@@ -370,7 +370,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "13 hours 2 minutes ago",
+    "changed": "7 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -392,21 +392,21 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "4 seconds ago",
+    "changed": "8 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
     "title": "Grape Vine Creek Fire",
     "lat_deg": "35",
     "long_deg": "100",
-    "field_percent_of_perimeter": "77",
+    "field_percent_of_perimeter": "96",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T23:22:27-05:00\">2024-02-26</time>\n",
     "id": "317015",
     "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p><strong>Grape Vine Creek Fire:</strong> Engines will continue to cool and control any flare-ups and mop-up hot spots. <span>    </span></p><p> </p>",
-    "size": "34882",
+    "size": "34883",
     "lat_min": "27",
     "lat_sec": "35.39",
     "urlPath": "/txtxs-grape-vine-creek-fire",
@@ -414,7 +414,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "13 hours 10 minutes ago",
+    "changed": "8 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "9.01",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Magenta fire",
-    "changed": "6 days 12 hours ago",
+    "changed": "6 days 13 hours ago",
     "field_unit_code": "TXTXS"
   }
 ]
