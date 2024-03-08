@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 days 18 hours ago",
+    "changed": "3 days 19 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 days 18 hours ago",
+    "changed": "3 days 20 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "2 days 22 hours ago",
+    "changed": "2 days 23 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day 17 hours ago",
+    "changed": "1 day 19 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "5 days 17 hours ago",
+    "changed": "5 days 19 hours ago",
     "field_unit_code": "AZPNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 21 hours ago",
+    "changed": "1 day 22 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "3 days 18 hours ago",
+    "changed": "3 days 19 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF American River Pileburn Projects",
-    "changed": "3 weeks ago",
+    "changed": "3 weeks 1 day ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "2 days 17 hours ago",
+    "changed": "2 days 19 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "1 day 11 hours ago",
+    "changed": "1 day 13 hours ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "3 days 17 hours ago",
+    "changed": "3 days 19 hours ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -355,14 +355,14 @@
     "title": "Windy Deuce Fire",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "89",
+    "field_percent_of_perimeter": "92",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
-    "field_incident_overview": "<p><span><strong>Windy Deuce Fire:</strong></span>Yesterday, firefighters found and mopped up several areas of significant heat in the McBride Canyon area on the western fire perimeter. These efforts have led to increased containment along the fire perimeter. Today engine crews will continue to construct and strengthen containment lines and mop-up hot spots. Dozers will continue to build and strengthen control lines. </p><p><strong>Important:</strong> Incident command has been employing air operations to suppress the fires in the Panhandle. The use of drones and non-dispatched aircraft not only causes delays but also poses safety risks for incident personnel in the air and on the ground.</p>",
-    "size": "144207",
+    "field_incident_overview": "<p><span><strong>Windy Deuce Fire:</strong></span> <span>Today’s cooler weather will further reduce fire behavior on any residual pockets of heat. Dozers, engines and aerial resources are available to assist as required. As resources are no longer needed, they will be reassigned or released home. The incident will be transitioning from the Southern Area Blue Team back to the Texas A&amp;M Forest Service local unit, who will manage the Smokehouse Creek, Windy Deuce and Grape Vine Creek Fires until 100 percent containment.</span></p><p><strong>Important:</strong> Incident command has been employing air operations to suppress the fires in the Panhandle. The use of drones and non-dispatched aircraft not only causes delays but also poses safety risks for incident personnel in the air and on the ground.</p>",
+    "size": "144045",
     "lat_min": "37",
     "lat_sec": "51.6",
     "urlPath": "/txtxs-windy-deuce-fire",
@@ -370,20 +370,20 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "22 hours 5 minutes ago",
+    "changed": "4 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
     "title": "Smokehouse Creek Fire",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "74",
+    "field_percent_of_perimeter": "87",
     "type": "Wildfire",
     "field_incident_description": "Wildfire",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
-    "field_incident_overview": "<p> </p><p><span>The Smokehouse Creek Fire has spread across multiple counties in the northeastern Texas panhandle and western Oklahoma.  Personnel on the fire are continuously planning and adapting to the circumstances as more resources arrive. Official information will continue to be posted as it arrived. </span><strong>Official updates can be found under the \"announcement tab\" on Inci web.</strong></p><p> </p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span><em><span><strong> Important:</strong></span></em><span> Incident command has been employing air operations to suppress the fires in the Panhandle. The use of <strong>drones and non-dispatched aircraft</strong> not only causes delays but also poses safety risks for incident personnel in the air and on the ground.</span></p>",
+    "field_incident_overview": "<p><span>Today’s cooler weather will further reduce fire behavior on any residual pockets of heat. Dozers, engines and aerial resources are available to assist as required. As resources are no longer needed, they will be reassigned or released home. The incident will be transitioning from the Southern Area Blue Team back to the Texas A&amp;M Forest Service local unit, who will manage the Smokehouse Creek, Windy Deuce and Grape Vine Creek Fires until 100 percent containment.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span><em><span><strong> Important:</strong></span></em><span> Incident command has been employing air operations to suppress the fires in the Panhandle. The use of <strong>drones and non-dispatched aircraft</strong> not only causes delays but also poses safety risks for incident personnel in the air and on the ground.</span></p>",
     "size": "1058482",
     "lat_min": "50",
     "lat_sec": "52.35",
@@ -392,7 +392,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "22 hours 5 minutes ago",
+    "changed": "4 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -405,7 +405,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T23:22:27-05:00\">2024-02-26</time>\n",
     "id": "317015",
-    "field_incident_overview": "<p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. </p><p><strong>Grape Vine Creek Fire:</strong> Engines will continue to cool and control any flare-ups and mop-up hot spots. <span>    </span></p><p> </p>",
+    "field_incident_overview": "<p><span>Today’s cooler weather will further reduce fire behavior on any residual pockets of heat. Dozers, engines and aerial resources are available to assist as required. As resources are no longer needed, they will be reassigned or released home. The incident will be transitioning from the Southern Area Blue Team back to the Texas A&amp;M Forest Service local unit, who will manage the Smokehouse Creek, Windy Deuce and Grape Vine Creek Fires until 100 percent containment.</span></p><p>The Grape Vine Creek is currently burning in Gray county, south of Lefors along HW 283. Crews have created and are maintaining  a control line around the fire. <span> </span></p><p> </p>",
     "size": "34883",
     "lat_min": "27",
     "lat_sec": "35.39",
@@ -414,7 +414,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "22 hours 5 minutes ago",
+    "changed": "3 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
