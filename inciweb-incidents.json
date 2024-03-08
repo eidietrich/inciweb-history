@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 days 19 hours ago",
+    "changed": "3 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "2 days 23 hours ago",
+    "changed": "3 days ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "4 seconds ago",
+    "changed": "3 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
