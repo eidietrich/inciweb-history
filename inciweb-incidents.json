@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 21 hours ago",
+    "changed": "3 days 4 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "6 days 21 hours ago",
+    "changed": "1 week ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "6 days ago",
+    "changed": "6 days 8 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "33 minutes 26 seconds ago",
+    "changed": "8 hours 7 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "1 week 1 day ago",
+    "changed": "1 week 2 days ago",
     "field_unit_code": "AZPNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "4 days 23 hours ago",
+    "changed": "5 days 7 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "6 days 20 hours ago",
+    "changed": "1 week ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -238,30 +238,8 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "3 weeks 4 days ago",
+    "changed": "3 weeks 5 days ago",
     "field_unit_code": "CATNF"
-  },
-  {
-    "title": "2023 Black Bear Fire",
-    "lat_deg": "35",
-    "long_deg": "83",
-    "field_percent_of_perimeter": "90",
-    "type": "Wildfire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-11-17T09:59:57-05:00\">2023-11-17</time>\n",
-    "id": "316843",
-    "field_incident_overview": "<p><strong>Highlights December 4, 2023: </strong><span>There was increased fire activity on the Black Bear Fire beginning on December 1, 2023. Fire crews were monitoring containment and working in the area when they noticed that the fire had moved across Snowbird Creek, through 1000-hour fuels. The estimated size of the fire grew by 120 acres. Crews recovered containment lines and secured the area around Snowbird Creek and Painter Branch in the days that followed. They will continue to monitor and secure firelines throughout the week.</span></p><p><span><strong>Closures December 4, 2023:</strong> The section of the Appalachian Trail from I-40 to Brown Gap Rd. remains closed. Brown Gap Road will also remain closed for firefighter safety as crews continue to work in the area. </span></p>",
-    "size": "2008",
-    "lat_min": "45",
-    "lat_sec": "20",
-    "urlPath": "/ncncf-2023-black-bear-fire",
-    "long_min": "3",
-    "long_sec": "18",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "NCNCF 2023 Black Bear Fire",
-    "changed": "3 months ago",
-    "field_unit_code": "NCNCF"
   },
   {
     "title": "Coconino National Forest prescribed fire and pile burns (Winter 2024)",
@@ -282,7 +260,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "5 days 19 hours ago",
+    "changed": "6 days 3 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -304,7 +282,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "4 days 13 hours ago",
+    "changed": "4 days 21 hours ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -326,7 +304,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "6 days 20 hours ago",
+    "changed": "1 week ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -348,7 +326,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "1 week 5 days ago",
+    "changed": "1 week 6 days ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -370,7 +348,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "3 days ago",
+    "changed": "3 days 8 hours ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -392,7 +370,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "3 days ago",
+    "changed": "3 days 8 hours ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +392,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "4 seconds ago",
+    "changed": "7 hours 34 minutes ago",
     "field_unit_code": "TXTXS"
   }
 ]
