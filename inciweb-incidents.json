@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 days 20 hours ago",
+    "changed": "3 days 21 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF San Juan National Forest Prescribed Fire Program",
-    "changed": "59 minutes 23 seconds ago",
+    "changed": "1 hour 54 minutes ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "5 days 23 hours ago",
+    "changed": "6 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "4 seconds ago",
+    "changed": "55 minutes 17 seconds ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -247,11 +247,11 @@
     "long_deg": "111",
     "field_percent_of_perimeter": "",
     "type": "Prescribed Fire",
-    "field_incident_description": "Pile burns are an important part of forest restoration projects planned in accordance with the Forest Service’s 10-year Wildfire Crisis Strategy.<br />\r\n<br />\r\nPile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather. <br />\r\n<br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\n<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our website at coconinonationalforest.us.",
+    "field_incident_description": "Prescribed fire projects usually commence during the months of March and April. If you want to sign up to receive news releases about prescribed fire and other projects on Coconino National Forest, please visit https://www.fs.usda.gov/news/coconino/news-events and click on the blue &quot;Sign Up!&quot; icon in the right column.<br />\r\n<br />\r\nPile burns are an important part of forest restoration projects planned in accordance with the Forest Service’s 10-year Wildfire Crisis Strategy.<br />\r\n<br />\r\nPile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather. <br />\r\n<br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\n<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our website at coconinonationalforest.us.",
     "field_active": "1",
     "created": "<time datetime=\"2024-01-08T15:10:11-05:00\">2024-01-08</time>\n",
     "id": "316935",
-    "field_incident_overview": "<h4>There are currently no pile burns or prescribed fire projects planned. Prescribed burns will begin again when weather and conditions are adequate and safe to do so, which usually begins after the snow has melted and conditions are a bit drier.</h4><h4>Prescribed burn projects usually commence during the months of March and April. If you want to sign up to receive news releases about prescribed burn and other projects on Coconino National Forest, please visit <a href=\"https://www.fs.usda.gov/news/coconino/news-events\">https://www.fs.usda.gov/news/coconino/news-events</a> and click on the blue \"Sign Up!\" icon in the right column.</h4>",
+    "field_incident_overview": "<h2>Prescribed fire plans for the week of March 11, 2024:</h2><h2> </h2><h2>Bly Pit</h2><p>Tentative date: March 13<br />Size: 2.5 acres<br />Location: <a href=\"https://maps.app.goo.gl/Zth1xRn78QZMD89V9\">10 miles east of Happy Jack</a><br />Smoke impacts: Potential impacts to Highway 87 and Mogollon Estates. Smoke may linger in the area for a few days following the project.<br />Closures: None planned<br />Notes: This project is composed of burn pit debris from local homeowners who are reducing fuel loading and fire danger on their property. This is normal seasonal burning to reduce fuels in the pit prior to spring cleaning activities.</p>",
     "size": "",
     "lat_min": "11",
     "lat_sec": "10.2078",
@@ -260,7 +260,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "6 days 19 hours ago",
+    "changed": "22 seconds ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "5 days 13 hours ago",
+    "changed": "5 days 14 hours ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -348,7 +348,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "1 hour 1 minute ago",
+    "changed": "1 hour 56 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 hour 1 minute ago",
+    "changed": "1 hour 57 minutes ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "23 hours 36 minutes ago",
+    "changed": "1 day ago",
     "field_unit_code": "TXTXS"
   }
 ]
