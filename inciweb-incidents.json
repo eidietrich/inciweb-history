@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 days 16 hours ago",
+    "changed": "4 days 7 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "15 hours 21 minutes ago",
+    "changed": "1 day 6 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "17 hours 18 minutes ago",
+    "changed": "1 day 7 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "18 hours 34 minutes ago",
+    "changed": "1 day 9 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "AZPNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 20 hours ago",
+    "changed": "3 days 10 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "3 days 19 hours ago",
+    "changed": "4 days 10 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE Winter Pile Burning",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -326,20 +326,20 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "2 weeks 3 days ago",
+    "changed": "2 weeks 4 days ago",
     "field_unit_code": "CACDD"
   },
   {
     "title": "Windy Deuce Fire",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "94",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:06:18-05:00\">2024-02-26</time>\n",
     "id": "317013",
-    "field_incident_overview": "<p><span><strong>Windy Deuce Fire:</strong></span> <span>Today’s cooler weather will further reduce fire behavior on any residual pockets of heat. Dozers, engines and aerial resources are available to assist as required. As resources are no longer needed, they will be reassigned or released home. The incident will be transitioning from the Southern Area Blue Team back to the Texas A&amp;M Forest Service local unit, who will manage the Smokehouse Creek, Windy Deuce and Grape Vine Creek Fires until 100 percent containment.</span></p><p><strong>Important:</strong> Incident command has been employing air operations to suppress the fires in the Panhandle. The use of drones and non-dispatched aircraft not only causes delays but also poses safety risks for incident personnel in the air and on the ground.</p>",
+    "field_incident_overview": "<p><span><strong>Windy Deuce Fire:</strong></span> Recent <span>cool and moist weather reduced fire behavior on any residual pockets of heat. </span></p><p><strong>Federal and state resources have been released and pending any significant change in fire activity this incident will no longer be updated. </strong></p>",
     "size": "144045",
     "lat_min": "37",
     "lat_sec": "51.6",
@@ -348,20 +348,20 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "3 days 21 hours ago",
+    "changed": "3 minutes 12 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
     "title": "Smokehouse Creek Fire",
     "lat_deg": "35",
     "long_deg": "101",
-    "field_percent_of_perimeter": "89",
+    "field_percent_of_perimeter": "100",
     "type": "Wildfire",
     "field_incident_description": "Wildfire",
     "field_active": "1",
     "created": "<time datetime=\"2024-02-26T21:22:06-05:00\">2024-02-26</time>\n",
     "id": "317014",
-    "field_incident_overview": "<p><span>Today’s cooler weather will further reduce fire behavior on any residual pockets of heat. Dozers, engines and aerial resources are available to assist as required. As resources are no longer needed, they will be reassigned or released home. The incident will be transitioning from the Southern Area Blue Team back to the Texas A&amp;M Forest Service local unit, who will manage the Smokehouse Creek, Windy Deuce and Grape Vine Creek Fires until 100 percent containment.</span></p><p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\"></span><em><span><strong> Important:</strong></span></em><span> Incident command has been employing air operations to suppress the fires in the Panhandle. The use of <strong>drones and non-dispatched aircraft</strong> not only causes delays but also poses safety risks for incident personnel in the air and on the ground.</span></p>",
+    "field_incident_overview": "<p><span>Cool and moist weather reduced fire behavior on any residual pockets of heat. </span><br /><br /><span><strong>Federal and state resources have been released and pending any significant change in fire activity this incident will no longer be updated.</strong></span></p>",
     "size": "1058482",
     "lat_min": "50",
     "lat_sec": "52.35",
@@ -370,7 +370,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "1 day 21 hours ago",
+    "changed": "5 seconds ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "28.64",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Grape Vine Creek Fire",
-    "changed": "4 days 20 hours ago",
+    "changed": "5 days 10 hours ago",
     "field_unit_code": "TXTXS"
   }
 ]
