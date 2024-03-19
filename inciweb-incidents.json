@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "58 minutes 12 seconds ago",
+    "changed": "1 hour 13 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "6 days 1 hour ago",
+    "changed": "6 days 2 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -405,7 +405,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-03-19T12:12:31-04:00\">2024-03-19</time>\n",
     "id": "317071",
-    "field_incident_overview": "<p>Monongahela National Forest staff plan to conduct prescribed burns on 3,667 acres in Pocahontas, Greenbrier and Tucker counties from March through June, weather permitting. </p><p>The purposes of these treatments are to re-establish fire’s natural role in the forest ecosystem, improve forest health and wildlife habitat, and reduce the threat of catastrophic wildfires. </p><p>Project areas planned for prescribed burns this spring include:</p><ul><li>Guinn Ridge – 1,462 acres (Pocahontas County)</li><li>Ramshorn Ridge – 1,005 acres (Pocahontas County)</li><li>Upper Greenbrier North – 514 acres (Pocahontas County)</li><li><span>Lake Sherwood Piles and Dam – 5 acres (Greenbrier County)</span></li><li><span>Meadow Creek Units 1 &amp; 2 – 243 acres (Greenbrier County)</span></li><li><span>Rucker Gap – 384 acres (Greenbrier County)</span></li><li>Nursery Bottom – 54 acres (Tucker County) </li></ul>",
+    "field_incident_overview": "<p>Monongahela National Forest staff plan to conduct prescribed burns on 3,667 acres in Pocahontas, Greenbrier and Tucker counties from March through June, weather permitting. </p><p>Project areas planned for prescribed burns this spring include:</p><ul><li>Guinn Ridge – 1,462 acres (Pocahontas County)</li><li>Ramshorn Ridge – 1,005 acres (Pocahontas County)</li><li>Upper Greenbrier North – 514 acres (Pocahontas County)</li><li><span>Lake Sherwood Piles and Dam – 5 acres (Greenbrier County)</span></li><li><span>Meadow Creek Units 1 &amp; 2 – 243 acres (Greenbrier County)</span></li><li><span>Rucker Gap – 384 acres (Greenbrier County)</span></li><li>Nursery Bottom – 54 acres (Tucker County) </li></ul><p><span><strong>Why do we burn?</strong></span></p><p><span>Reintroducing fire into the forest will: </span></p><ul type=\"disc\"><li><span>Restore historic fire regimes</span></li><li><span>Improve wildlife habitat</span></li><li><span>Enhance forest structure and age diversity</span></li><li><span>Improve oak regeneration</span></li><li><span>Control tree diseases and insects</span></li><li><span>Reduce hazardous fuel levels</span></li></ul><p><span><strong>How do we manage a prescribed burn?</strong></span></p><p><span>Fire managers prepare a burn plan for each prescribed burn describing the appropriate conditions needed to conduct the burn safely and achieve the desired results. Burn plans consider public safety, protection of private property, staffing and equipment needs, temperature, humidity, wind, moisture of the vegetation, and conditions for the dispersal of smoke. Appropriate conditions must be met before igniting prescribed burns. A control line is established around each burn area before ignition, using hand tools and other equipment, roads, trails, and natural features such as creeks and other water sources.</span></p><p><span><strong>Public Safety</strong></span></p><p><span>Each burn area will be closed to the public on the day of the burn. The area may be closed for several days for public safety. Signs will be posted along the fire line and at entry points into the area. Area residents and travelers may see or smell smoke during fire operations. If you encounter smoke on the highway, slow down, turn on your vehicle’s lights and drive appropriately for the conditions. </span></p><p><span><strong>Public Notification</strong></span></p><p><span>The Forest Service will notify local 911 centers and radio stations on the day of the burn. Information, maps and the latest updates are available at </span><a href=\"https://inciweb.nwcg.gov/\"><span>inciweb.gov</span></a><span>.</span></p>",
     "size": "",
     "lat_min": "22",
     "lat_sec": "57.4",
@@ -414,7 +414,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "3 minutes 8 seconds ago",
+    "changed": "1 second ago",
     "field_unit_code": "WVMOF"
   }
 ]
