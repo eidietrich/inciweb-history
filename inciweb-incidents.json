@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 hour 54 minutes ago",
+    "changed": "3 hours 50 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "3 days 22 hours ago",
+    "changed": "4 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "4 days ago",
+    "changed": "4 days 2 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 4 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,8 +150,30 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "2 weeks 2 days ago",
+    "changed": "2 weeks 3 days ago",
     "field_unit_code": "AZPNF"
+  },
+  {
+    "title": "Lolo National Forest Prescribed Fire Operations ",
+    "lat_deg": "46",
+    "long_deg": "113",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "Prescribed fires help reduce hazardous fuels, restore wildlife habitat, and create better protection around communities from future wildfires.",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-09-10T09:58:41-04:00\">2023-09-10</time>\n",
+    "id": "315767",
+    "field_incident_overview": "<p><a href=\"https://inciweb.nwcg.gov/incident-announcement/mtlnf-lolo-national-forest-fall-prescribed-fires\">Announcements</a>    <a href=\"https://inciweb.nwcg.gov/incident-closures/mtlnf-lolo-national-forest-fall-prescribed-fires\">Closures</a>   <a href=\"https://inciweb.nwcg.gov/incident-news/mtlnf-lolo-national-forest-fall-prescribed-fires\">News</a>     <a href=\"https://inciweb.nwcg.gov/incident-photos-gallery/mtlnf-lolo-national-forest-fall-prescribed-fires\">Photographs</a>    <a href=\"https://inciweb.nwcg.gov/incident-maps-gallery/mtlnf-lolo-national-forest-fall-prescribed-fires\">Maps</a></p><p>The Lolo National Forest, along with their interagency partners and neighbors, is preparing to conduct spring prescribed fire projects to reduce hazardous fuels, restore wildlife habitat, and create better protection around communities from future wildfires. </p><p>“As snow melts and opens access to planned burn units, we will take advantage of favorable conditions to start prescribed burning as soon as this week, ” said<span> </span>Jeff<span> </span>Hayes,<span> </span>Lolo<span> </span>National<span> </span>Forest<span> </span>Fuels<span> </span>Specialist. <span> </span>“Over the next two-three months, we will plan burn operations on days which minimize smoke impacts, restore healthy forest conditions and wildlife habitat, and/or meet fuels reduction goals.”</p><p>Prescribed fire operations are a key component of the <a href=\"https://www.fs.usda.gov/managing-land/wildfire-crisis\">Wildfire Crisis Strategy </a>that works with partners to reduce wildfire risk to communities, critical infrastructure, natural resources and improve the resilience of America’s Forests. Prescribed<span> </span>fires<span> </span>are<span> </span>carefully<span> </span>planned<span> </span>and<span> </span>implemented<span> </span>in<span> </span>accordance<span> </span>with<span> </span>a<span> </span>written<span> </span>burn<span> </span>plan. Prior to implementation, local fire managers coordinate with local cooperators, counties, and partners. When prescription criteria are met, firefighters implement, monitor, and patrol each burn to ensure it meets forest health and public safety goals.</p><p>All prescribed fires will be implemented in compliance with Montana air quality standards and coordinated with the Montana Department of Environmental Quality and the appropriate county health departments to minimize<span> </span>the impacts of smoke to neighbors, cooperators, and surrounding<span> </span>communities.<span> </span>Smoke<span> </span>may<span> </span>settle<span> </span>in<span> </span>valley<span> </span>bottoms<span> </span>and<span> </span>drainages<span> </span>overnight,<span> </span>but<span> </span>it<span> </span>is expected to dissipate within a few days.</p><p>Some<span> </span>of<span> </span>these<span> </span>prescribed<span> </span>fires<span> </span>are<span> </span>supported through<span> </span>partnerships<span> </span>with<span> </span>Montana<span> </span>DNRC,<span> </span>Nature Conservancy, Missoula and Frenchtown Rural Fire Departments, Bureau of Land Management, Rocky<span> </span>Mountain<span> </span>Elk<span> </span>Foundation,<span> </span>Mule<span> </span>Deer<span> </span>Foundation,<span> </span>National<span> </span>Wild<span> </span>Turkey<span> </span>Federation,<span> </span>and Upland Game Bird Enhancement Group.<span> </span></p><p>For<span> </span>additional<span> </span>information<span> </span>about<span> </span>these<span> </span>burns<span> </span>follow<span> </span>the<span> </span><a href=\"https://www.facebook.com/lolonationalforest\"><span>Lolo National Forest on Facebook</span></a><span> </span>or visit <a href=\"https://inciweb.nwcg.gov/incident-information/mtlnf-lolo-national-forest-prescribed-fire-operations\"><span>InciWeb</span></a>.</p><p><span><strong>See the </strong></span><a href=\"https://inciweb.nwcg.gov/incident-announcement/mtlnf-lolo-national-forest-fall-prescribed-fires\"><span><strong>'Announcements'</strong></span></a><span><strong> and </strong></span><a href=\"https://inciweb.nwcg.gov/incident-news/mtlnf-lolo-national-forest-fall-prescribed-fires\"><span><strong>'News'</strong></span></a><span><strong> Tabs for the latest information on planned prescribed fires.</strong></span><br /><br /> </p>",
+    "size": "",
+    "lat_min": "49",
+    "lat_sec": "76",
+    "urlPath": "/mtlnf-lolo-national-forest-prescribed-fire-operations",
+    "long_min": "55",
+    "long_sec": "73",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
+    "changed": "5 seconds ago",
+    "field_unit_code": "MTLNF"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -194,7 +216,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "6 days 2 hours ago",
+    "changed": "6 days 4 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -304,7 +326,7 @@
     "long_sec": "34",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMCAF Rio Trampas Project Pile Burning",
-    "changed": "2 weeks ago",
+    "changed": "2 weeks 1 day ago",
     "field_unit_code": "NMCAF"
   },
   {
@@ -326,7 +348,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "2 weeks 6 days ago",
+    "changed": "3 weeks ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -348,7 +370,7 @@
     "long_sec": "3.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Windy Deuce Fire",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 18 hours ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -370,7 +392,7 @@
     "long_sec": "57.53",
     "measurement_type": "Acres",
     "field_title_and_unit": "TXTXS Smokehouse Creek Fire",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 18 hours ago",
     "field_unit_code": "TXTXS"
   },
   {
@@ -414,7 +436,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "12 seconds ago",
+    "changed": "1 hour 55 minutes ago",
     "field_unit_code": "WVMOF"
   }
 ]
