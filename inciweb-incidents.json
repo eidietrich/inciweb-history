@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 16 hours ago",
+    "changed": "2 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 day 21 hours ago",
+    "changed": "2 days 1 hour ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 days 19 hours ago",
+    "changed": "2 days 23 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "16 hours 21 minutes ago",
+    "changed": "19 hours 51 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 day 22 hours ago",
+    "changed": "2 days 2 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns Winter 2024",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "1 day 21 hours ago",
+    "changed": "2 days 1 hour ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -383,8 +383,8 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-03-21T16:02:08-04:00\">2024-03-21</time>\n",
     "id": "317080",
-    "field_incident_overview": "",
-    "size": "1188",
+    "field_incident_overview": "<p><span lang=\"EN-US\" xml:lang=\"EN-US\" xml:lang=\"EN-US\">After a major wind event early afternoon March 20, 2024, a fire was reported on private land in the Rocky Branch area of Luray, Virginia, just north of Shenandoah National Park Headquarters. Initial responders included Luray Fire Department and National Park Service (NPS) firefighters. The fire progressed into the Park, and NPS firefighters assembled a crew to contain it. On March 23, the Southern Area Incident Management Team assumed command of the fire. The cause of the fire is undetermined. </span><span> </span></p>",
+    "size": "987",
     "lat_min": "41",
     "lat_sec": "44",
     "urlPath": "/vashp-rocky-branch-fire",
@@ -392,7 +392,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "9 seconds ago",
+    "changed": "1 second ago",
     "field_unit_code": "VASHP"
   }
 ]
