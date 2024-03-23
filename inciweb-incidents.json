@@ -172,7 +172,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 days 2 hours ago",
+    "changed": "3 days 3 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "23 hours 10 minutes ago",
+    "changed": "23 hours 39 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -392,11 +392,33 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "2 hours 21 minutes ago",
+    "changed": "2 hours 50 minutes ago",
     "field_unit_code": "VASHP"
   },
   {
-    "title": "2024 Cove Mountain Fire VAVAF",
+    "title": "2024 Edith Gap/Serenity Ridge Fire (North Zone Complex)",
+    "lat_deg": "38",
+    "long_deg": "78",
+    "field_percent_of_perimeter": "",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2024-03-23T15:10:23-04:00\">2024-03-23</time>\n",
+    "id": "317085",
+    "field_incident_overview": "",
+    "size": "829",
+    "lat_min": "43",
+    "lat_sec": "23",
+    "urlPath": "/vavaf-2024-edith-gapserenity-ridge-fire-north-zone-complex",
+    "long_min": "30",
+    "long_sec": "23",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
+    "changed": "1 second ago",
+    "field_unit_code": "VAVAF"
+  },
+  {
+    "title": "2024 Cove Mountain Fire (North Zone Complex)",
     "lat_deg": "38",
     "long_deg": "78",
     "field_percent_of_perimeter": "100",
@@ -409,16 +431,16 @@
     "size": "75",
     "lat_min": "51",
     "lat_sec": "51",
-    "urlPath": "/vavaf-2024-cove-mountain-fire-vavaf",
+    "urlPath": "/vavaf-2024-cove-mountain-fire-north-zone-complex",
     "long_min": "50",
     "long_sec": "43",
     "measurement_type": "Acres",
-    "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire VAVAF",
-    "changed": "3 seconds ago",
+    "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire North Zone Complex",
+    "changed": "16 minutes 8 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
-    "title": "2024 North Zone Complex VAVAF",
+    "title": "2024 North Zone Complex",
     "lat_deg": "38",
     "long_deg": "78",
     "field_percent_of_perimeter": "",
@@ -431,12 +453,12 @@
     "size": "",
     "lat_min": "49",
     "lat_sec": "21",
-    "urlPath": "/vavaf-2024-north-zone-complex-vavaf",
+    "urlPath": "/vavaf-2024-north-zone-complex",
     "long_min": "33",
     "long_sec": "55",
     "measurement_type": "Acres",
-    "field_title_and_unit": "VAVAF 2024 North Zone Complex VAVAF",
-    "changed": "41 minutes 55 seconds ago",
+    "field_title_and_unit": "VAVAF 2024 North Zone Complex",
+    "changed": "9 minutes 45 seconds ago",
     "field_unit_code": "VAVAF"
   }
 ]
