@@ -84,7 +84,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "1 week ago",
+    "changed": "1 week 1 day ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 days 23 hours ago",
+    "changed": "3 days ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "20 hours 6 minutes ago",
+    "changed": "20 hours 39 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "8 seconds ago",
+    "changed": "10 minutes 30 seconds ago",
     "field_unit_code": "VASHP"
   }
 ]
