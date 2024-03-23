@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "2 days 22 hours ago",
+    "changed": "2 days 23 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "2 days 3 hours ago",
+    "changed": "2 days 4 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 days 1 hour ago",
+    "changed": "3 days 2 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "22 hours 28 minutes ago",
+    "changed": "23 hours 10 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 4 hours ago",
+    "changed": "2 days 5 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "2 days 3 hours ago",
+    "changed": "2 days 4 hours ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -392,8 +392,30 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "1 hour 39 minutes ago",
+    "changed": "2 hours 21 minutes ago",
     "field_unit_code": "VASHP"
+  },
+  {
+    "title": "2024 Cove Mountain Fire VAVAF",
+    "lat_deg": "38",
+    "long_deg": "78",
+    "field_percent_of_perimeter": "100",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2024-03-23T15:13:03-04:00\">2024-03-23</time>\n",
+    "id": "317086",
+    "field_incident_overview": "",
+    "size": "75",
+    "lat_min": "51",
+    "lat_sec": "51",
+    "urlPath": "/vavaf-2024-cove-mountain-fire-vavaf",
+    "long_min": "50",
+    "long_sec": "43",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire VAVAF",
+    "changed": "3 seconds ago",
+    "field_unit_code": "VAVAF"
   },
   {
     "title": "2024 North Zone Complex VAVAF",
@@ -414,7 +436,7 @@
     "long_sec": "55",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex VAVAF",
-    "changed": "2 seconds ago",
+    "changed": "41 minutes 55 seconds ago",
     "field_unit_code": "VAVAF"
   }
 ]
