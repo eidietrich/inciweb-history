@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 days ago",
+    "changed": "3 days 3 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "2 days 5 hours ago",
+    "changed": "2 days 8 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 days 3 hours ago",
+    "changed": "3 days 6 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "2 days 6 hours ago",
+    "changed": "2 days 9 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "2 days 5 hours ago",
+    "changed": "2 days 8 hours ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -392,14 +392,14 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "3 hours 43 minutes ago",
+    "changed": "6 hours 42 minutes ago",
     "field_unit_code": "VASHP"
   },
   {
     "title": "2024 Waterfall Mountain/Shenandoah Forest/211 Fire (North Zone Complex)",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "",
+    "field_percent_of_perimeter": "20",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -414,7 +414,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waterfall MountainShenandoah Forest211 Fire North Zone Complex",
-    "changed": "3 minutes 42 seconds ago",
+    "changed": "41 minutes 7 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -436,14 +436,14 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waites Run Fire North Zone Complex",
-    "changed": "8 seconds ago",
+    "changed": "41 minutes 42 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
     "title": "2024 Capon/Brush Run Fire (North Zone Complex)",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "",
+    "field_percent_of_perimeter": "45",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -458,14 +458,14 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 CaponBrush Run Fire North Zone Complex",
-    "changed": "11 minutes 32 seconds ago",
+    "changed": "43 minutes 54 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
     "title": "2024 Edith Gap/Serenity Ridge Fire (North Zone Complex)",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "",
+    "field_percent_of_perimeter": "8",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -480,7 +480,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "24 minutes 43 seconds ago",
+    "changed": "42 minutes 14 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -502,29 +502,29 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire North Zone Complex",
-    "changed": "18 minutes 13 seconds ago",
+    "changed": "42 minutes 57 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
     "title": "2024 North Zone Complex",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "",
+    "field_percent_of_perimeter": "0",
     "type": "Wildfire",
-    "field_incident_description": "",
+    "field_incident_description": "Complex",
     "field_active": "1",
     "created": "<time datetime=\"2024-03-23T16:45:37-04:00\">2024-03-23</time>\n",
     "id": "317087",
-    "field_incident_overview": "<p>Today, at 7 a.m., the Southern Area Complex Incident Management Gold Team, led by Incident Commander Debbie Beard, joined the Virginia Department of Forestry and the West Virginia Division of Forestry in managing the North Zone Complex. The Gold Team thanks all the firefighters and other resources for their excellent work on managing the multiple wildfires in the area during the last few days. The team also expresses condolences to the families who have lost homes and other structures.</p><p><strong>Fire Update</strong></p><p>The North Zone Complex covers six wildfires burning in the George Washington and Jefferson National Forests and on state and private land in West Virginia and Virginia. They are:</p><ol><li><strong>Waterfall Mountain/Shenandoah Forest/211 Fire (5,692 acres)</strong> – Yesterday, firefighters worked on the south and west sides of the fire to tie it in with a previous burn area on the northwest all the way around to Hwy. 211. On the south end of the fire, crews are working behind the homes there. The Virginia Department of Forestry is managing the east side of the fire, north and south of Hwy. 211. Residents in the area of Sundance Retreat, New Market have been asked to evacuate. For more information, visit <a href=\"https://www.facebook.com/shencosheriff\">https://www.facebook.com/shencosheriff.</a></li><li><strong>Waites Run Fire (3,760 acres) – </strong>Firefighters have completed work on the east side of the fire. Today, they will continue to work on structure protection along the southwest side. Crews will scout the northeast and east sides of the fire to explore ways to pull containment lines together.</li><li><strong>Capon/Brush Run Fire (2,559 acres) </strong>– Crews have surrounded the outer perimeter of the fire and are working in areas on the northside where fire has moved beyond the intended control line. Firefighters continue to look for natural barriers to establish a containment box around the fire. </li><li><strong>Edith Gap/Serenity Ridge Fire (829 acres)</strong> – Firefighters are working along the southwest side to tie it in with the road system going west and south into a previous burn area. On the north side, toward Kennedy Peak, firefighters have a plan in place to continue work there. Firefighters were able to protect the Kennedy Peak observation tower.</li><li><strong>Cove Mountain Fire (75 acres) – </strong>This fire is 100% contained. Firefighters continue to patrol and mop up.</li><li><strong>New Start at Runions Creek (9 acres) – </strong>Firefighters will scout the fire today and work to contain it quickly<strong>.</strong></li></ol><p><span>Firefighters have tied the <strong>Waites Run</strong> and <strong>Edith Gap/Serenity Ridge Fires</strong> into an existing fuels treatment area that has reduced the risk of fire spread</span>.</p><p>The cause of the fires is undetermined but under investigation.</p><p><strong>Weather </strong></p><p>Overnight approximately 0.25 - 0.5 inch of rain fell across the region along the I-81 corridor. Another 0.25 inch is possible before the rain event ends around midday. After that, cooler air will bring wind gusts up to 40-45 mph on the ridge tops and 30-35 mph in the valleys late into the evening.</p><p><strong>Fire Behavior </strong></p><p>Rain fell on all fires overnight so minimal fire behavior is expected today. The fires east of Hwy. 81 received some rain, although fires west of Hwy. 81 may not have received as much. As a result, when the sun comes out later today and wind gusts pick up, some fire activity could occur on the fires west of I-81. <span> </span></p><p><strong>Evacuations</strong></p><p>Residents in the area of Sundance Retreat, New Market have been asked to evacuate. For more information, visit <a href=\"https://www.facebook.com/shencosheriff\">https://www.facebook.com/shencosheriff.</a></p>",
-    "size": "",
-    "lat_min": "49",
-    "lat_sec": "21",
+    "field_incident_overview": "<p>Saturday March 23, 2024, at 7 a.m., the Southern Area Complex Incident Management Gold Team, led by Incident Commander Debbie Beard, joined the Virginia Department of Forestry and the West Virginia Division of Forestry in managing the North Zone Complex. The Gold Team thanks all the firefighters and other resources for their excellent work on managing the multiple wildfires in the area during the last few days. The team also expresses condolences to the families who have lost homes and other structures.</p><p><strong>Fire Update</strong></p><p>The North Zone Complex covers six wildfires burning in the George Washington and Jefferson National Forests and on state and private land in West Virginia and Virginia. They are:</p><ol><li><strong>Waterfall Mountain/Shenandoah Forest/211 Fire (5,692 acres)</strong> – Yesterday, firefighters worked on the south and west sides of the fire to tie it in with a previous burn area on the northwest all the way around to Hwy. 211. On the south end of the fire, crews are working behind the homes there. The Virginia Department of Forestry is managing the east side of the fire, north and south of Hwy. 211. Residents in the area of Sundance Retreat, New Market have been asked to evacuate. For more information, visit <a href=\"https://www.facebook.com/shencosheriff\">https://www.facebook.com/shencosheriff.</a></li><li><strong>Waites Run Fire (3,760 acres) – </strong>Firefighters have completed work on the east side of the fire. Today, they will continue to work on structure protection along the southwest side. Crews will scout the northeast and east sides of the fire to explore ways to pull containment lines together.</li><li><strong>Capon/Brush Run Fire (2,559 acres) </strong>– Crews have surrounded the outer perimeter of the fire and are working in areas on the northside where fire has moved beyond the intended control line. Firefighters continue to look for natural barriers to establish a containment box around the fire. </li><li><strong>Edith Gap/Serenity Ridge Fire (829 acres)</strong> – Firefighters are working along the southwest side to tie it in with the road system going west and south into a previous burn area. On the north side, toward Kennedy Peak, firefighters have a plan in place to continue work there. Firefighters were able to protect the Kennedy Peak observation tower.</li><li><strong>Cove Mountain Fire (75 acres) – </strong>This fire is 100% contained. Firefighters continue to patrol and mop up.</li><li><strong>New Start at Runions Creek (9 acres) – </strong>Firefighters will scout the fire today and work to contain it quickly<strong>.</strong></li></ol><p><span>Firefighters have tied the <strong>Waites Run</strong> and <strong>Edith Gap/Serenity Ridge Fires</strong> into an existing fuels treatment area that has reduced the risk of fire spread</span>.</p><p>The cause of the fires is undetermined but under investigation.</p><p><strong>Weather </strong></p><p>Overnight approximately 0.25 - 0.5 inch of rain fell across the region along the I-81 corridor. Another 0.25 inch is possible before the rain event ends around midday. After that, cooler air will bring wind gusts up to 40-45 mph on the ridge tops and 30-35 mph in the valleys late into the evening.</p><p><strong>Fire Behavior </strong></p><p>Rain fell on all fires overnight so minimal fire behavior is expected today. The fires east of Hwy. 81 received some rain, although fires west of Hwy. 81 may not have received as much. As a result, when the sun comes out later today and wind gusts pick up, some fire activity could occur on the fires west of I-81. <span> </span></p>",
+    "size": "12915",
+    "lat_min": "46",
+    "lat_sec": "8",
     "urlPath": "/vavaf-2024-north-zone-complex",
-    "long_min": "33",
-    "long_sec": "55",
+    "long_min": "37",
+    "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "1 hour 2 minutes ago",
+    "changed": "4 seconds ago",
     "field_unit_code": "VAVAF"
   }
 ]
