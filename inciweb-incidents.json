@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "4 days 23 hours ago",
+    "changed": "5 days ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Fuel Treatments",
-    "changed": "1 hour 56 minutes ago",
+    "changed": "3 hours 14 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "5 days 2 hours ago",
+    "changed": "5 days 3 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "2 days 23 hours ago",
+    "changed": "3 days ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "4 days 5 hours ago",
+    "changed": "4 days 6 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -282,7 +282,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "44 minutes 55 seconds ago",
+    "changed": "2 hours 3 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "12 minutes 22 seconds ago",
+    "changed": "1 hour 30 minutes ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -392,14 +392,14 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "5 hours 43 minutes ago",
+    "changed": "7 hours 1 minute ago",
     "field_unit_code": "VASHP"
   },
   {
     "title": "2024 Waterfall Mountain/Shenandoah Forest/211 Fire (North Zone Complex)",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "20",
+    "field_percent_of_perimeter": "29",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -414,7 +414,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waterfall MountainShenandoah Forest211 Fire North Zone Complex",
-    "changed": "5 hours 8 minutes ago",
+    "changed": "15 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -436,14 +436,14 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waites Run Fire North Zone Complex",
-    "changed": "5 hours 7 minutes ago",
+    "changed": "6 hours 26 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
     "title": "2024 Capon/Brush Run Fire (North Zone Complex)",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "45",
+    "field_percent_of_perimeter": "75",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -458,7 +458,7 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 CaponBrush Run Fire North Zone Complex",
-    "changed": "5 hours 7 minutes ago",
+    "changed": "2 minutes 38 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -472,7 +472,7 @@
     "created": "<time datetime=\"2024-03-23T15:10:23-04:00\">2024-03-23</time>\n",
     "id": "317085",
     "field_incident_overview": "",
-    "size": "1245",
+    "size": "1198",
     "lat_min": "43",
     "lat_sec": "23",
     "urlPath": "/vavaf-2024-edith-gapserenity-ridge-fire-north-zone-complex",
@@ -480,14 +480,14 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "5 hours 6 minutes ago",
+    "changed": "1 minute 7 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
     "title": "2024 Cove Mountain Fire (North Zone Complex)",
     "lat_deg": "38",
     "long_deg": "78",
-    "field_percent_of_perimeter": "70",
+    "field_percent_of_perimeter": "75",
     "type": "Wildfire",
     "field_incident_description": "",
     "field_active": "1",
@@ -502,7 +502,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire North Zone Complex",
-    "changed": "5 hours 6 minutes ago",
+    "changed": "2 minutes 11 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -516,7 +516,7 @@
     "created": "<time datetime=\"2024-03-23T16:45:37-04:00\">2024-03-23</time>\n",
     "id": "317087",
     "field_incident_overview": "<p>The North Zone Complex covers five wildfires burning in the George Washington and Jefferson National Forests and on state and private land in West Virginia and Virginia. They are: <strong>Waterfall Mountain/Shenandoah Forest/211 Fire, Waites Run Fire, Capon/Brush Run Fire, Edith Gap/Serenity Ridge Fire, and Cove Mountain Fire. </strong>On Saturday March 23, 2024, at 7 a.m., the Southern Area Complex Incident Management Gold Team, led by Incident Commander Debbie Beard, joined the Virginia Department of Forestry and the West Virginia Division of Forestry in managing the North Zone Complex. </p><p><strong>Fire Update - </strong><span><strong>Monday March 25, 2024</strong></span></p><p><em><strong>**Strategic Firing Operations Possible This Week**</strong></em></p><p><span>Residents will see increased smoke in the Waites Run and Capon Fires fire areas starting Tuesday. Firefighters will use strategic firing operations to bring uncontrolled fire to a more manageable location within fire control lines. Strategic firing operations are also used to bring fire to a specific control feature (road, trail, handline, dozer line) where firefighters can safely and effectively manage and monitor the fire. Strategic firing operations can be conducted on the ground by hand, by helicopter or drone when conditions are too dangerous to place firefighters in the area.  </span></p><p><span>Please follow the George Washington and Jefferson National Forests on Facebook </span><a href=\"///C:/Users/cdowd/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/DT37VHBS/https/www.facebook.come/gwjnf\"><span>https//www.facebook.come/gwjnf</span></a><span> for current information about strategic firing operations. We will post notification alerts so surrounding communities will know when smoke is from planned operations. </span></p><p><strong>Individual Fire Updates</strong></p><ol><li><strong>Waterfall Mountain/Shenandoah Forest/211 West Fire (6,257 acres, 20% contained) Shenandoah and Page Counties, VA</strong> – Helicopters dropped approximately eight buckets of water yesterday on the fire’s north side. Today firefighters will continue to improve current lines and make progress on constructing lines to the north and south along private lands.</li><li><strong>Waites Run Fire (4,361 acres, 42% contained) Hardy County, WV – </strong>Firefighters will continue to build control lines to tie into roads on the east side of the fire. Crews will look for pockets of unburned fuels for potential strategic firing operations.</li><li><strong>Capon/Brush Run Fire (2,622 acres, 45% contained) Rockingham County, VA </strong>– Firefighters completed dozer and hand line on the north side of the fire yesterday and will patrol and monitor the fire today. Crews also will look for pockets of unburned fuels for potential strategic firing operations.</li><li><strong>Edith Gap/Serenity Ridge Fire (1,245 acres, 8% contained) Shenandoah and Page Counties, VA</strong> – Firefighters will patrol, monitor and mop up around the fire, especially in the area where control lines were tied into a previous hazardous fuels treatment area.</li><li><strong>Cove Mountain Fire (155 acres, 70% contained)</strong> <strong>Hardy County, WV</strong>– Firefighters will continue securing the control line on the southeast portion of the fire. Once this is complete, the fire will move into patrol and monitor status. Fire management officials have reduced the containment percentage based on information gathered from better mapping and firefighters working in the area. </li></ol><p>Air attack is scheduled to fly today around 3 p.m. to assess fire activity and coordinate with ground resources.<span>   </span></p><p>The cause of the fires is undetermined but under investigation.</p><p><strong>Resources </strong></p><ul><li>2 Type 1 crews<span>    </span></li><li>2 Type 2IA crews<span>       </span></li><li>3 Type 1 and 3 Type 3 helicopters<span>     </span></li><li>14 engines<span>             </span></li><li>2 dozers<span>       </span></li><li>258 personnel</li></ul><p><strong>Weather </strong></p><p><span>Today will be sunny and dry with terrain-driven winds; light easterly winds on the ridgetops. Temperatures will warm into the mid-50s which is close to normal for this time of year. Relative humidity should again slip down to about 30% in the afternoon. On Tuesday, increasing clouds are expected ahead of an approaching cold front which could bring rain showers on Tuesday night into Wednesday. Behind the front, gusty winds are forecasted for later this week.</span></p><p><strong>Fire Behavior </strong></p><p><span>Fuels continue to dry under full sunshine. Fire activity remains minimal, but isolated smokes are visible around the perimeter. Fuels may dry to the point of allowing for creeping or very low intensity fire spread during late afternoon. Significant activity is not expected.</span></p><p><strong>Closures </strong>on the National Forests are in effect - see <a href=\"https://www.fs.usda.gov/detail/gwj/home/?cid=fseprd1169242&amp;fbclid=IwAR17H0plIHNaCOR9rv54NSG-8cWodGAaspc21IgEqgfPVa4zIIQv7qiiJOI\"><span><strong>https://www.fs.usda.gov/detail/gwj/home/?cid=fseprd1169242</strong></span></a></p><p><strong>Smoke and Air Quality</strong></p><p>Air quality is currently good.<span> Additional information is available at </span><a href=\"http://www.airnow.gov\">www.airnow.gov</a>.<span> </span></p><p><strong>Safety</strong></p><p>We ask the public to avoid areas with active fire for their own safety and to allow firefighters to work safely. Public and firefighter safety is always our top priority. In addition, please do not fly drones near or over a wildfire. Drones and firefighting aircraft are a dangerous mix and could lead to accidents or slow down wildfire suppression, including water drops. <strong>If you fly, we can’t.</strong> </p><p><strong>Burn Ban</strong></p><p>Virginia’s 4 p.m. Burning Law remains in effect until April 30, 2024. It bans open-air burning before 4 p.m. if the fire is within 300 feet of the woods or dry grass which could carry fire to the woods. Burning is allowed between 4 p.m. and midnight as long as the burner takes proper precautions and attends the fire at all times. For more information, please visit <a href=\"https://dof.virginia.gov/wildland-prescribed-fire/fire-laws/4-pm-burning-law\">https://dof.virginia.gov/wildland-prescribed-fire/fire-laws/4-pm-burning-law</a>.</p>",
-    "size": "14504",
+    "size": "14593",
     "lat_min": "46",
     "lat_sec": "8",
     "urlPath": "/vavaf-2024-north-zone-complex",
@@ -524,7 +524,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "2 seconds ago",
+    "changed": "3 minutes 31 seconds ago",
     "field_unit_code": "VAVAF"
   }
 ]
