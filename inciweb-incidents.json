@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "12 minutes 30 seconds ago",
+    "changed": "26 minutes 51 seconds ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 day 10 hours ago",
+    "changed": "1 day 11 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waterfall MountainShenandoah Forest211 Fire North Zone Complex",
-    "changed": "8 minutes 39 seconds ago",
+    "changed": "23 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waites Run Fire North Zone Complex",
-    "changed": "9 minutes 5 seconds ago",
+    "changed": "23 minutes 26 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 CaponBrush Run Fire North Zone Complex",
-    "changed": "10 minutes 30 seconds ago",
+    "changed": "24 minutes 51 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -480,7 +480,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "9 minutes 33 seconds ago",
+    "changed": "23 minutes 54 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -502,7 +502,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire North Zone Complex",
-    "changed": "10 minutes 8 seconds ago",
+    "changed": "24 minutes 29 seconds ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -524,7 +524,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "7 seconds ago",
+    "changed": "12 seconds ago",
     "field_unit_code": "VAVAF"
   }
 ]
