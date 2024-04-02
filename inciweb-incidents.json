@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "6 days 19 hours ago",
+    "changed": "6 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "14 hours 43 minutes ago",
+    "changed": "15 hours 10 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "20 hours 3 minutes ago",
+    "changed": "20 hours 30 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "27 seconds ago",
+    "changed": "4 seconds ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "13 hours 6 minutes ago",
+    "changed": "13 hours 33 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "14 hours 18 minutes ago",
+    "changed": "14 hours 45 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waterfall MountainShenandoah Forest211 Fire North Zone Complex",
-    "changed": "23 hours 12 minutes ago",
+    "changed": "23 hours 38 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waites Run Fire North Zone Complex",
-    "changed": "23 hours 12 minutes ago",
+    "changed": "23 hours 39 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 CaponBrush Run Fire North Zone Complex",
-    "changed": "23 hours 13 minutes ago",
+    "changed": "23 hours 39 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "23 hours 14 minutes ago",
+    "changed": "23 hours 40 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -502,7 +502,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "21 hours 43 minutes ago",
+    "changed": "22 hours 9 minutes ago",
     "field_unit_code": "VAVAF"
   }
 ]
