@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "20 hours 31 minutes ago",
+    "changed": "20 hours 49 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "39 minutes 2 seconds ago",
+    "changed": "56 minutes 56 seconds ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "5 hours 21 minutes ago",
+    "changed": "5 hours 39 minutes ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "18 hours 54 minutes ago",
+    "changed": "19 hours 12 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "20 hours 6 minutes ago",
+    "changed": "20 hours 24 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "3 hours 24 minutes ago",
+    "changed": "3 hours 42 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -502,7 +502,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "3 hours 14 minutes ago",
+    "changed": "3 hours 32 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -524,7 +524,7 @@
     "long_sec": "50.78",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
-    "changed": "31 minutes 43 seconds ago",
+    "changed": "49 minutes 37 seconds ago",
     "field_unit_code": "PAALF"
   },
   {
@@ -546,7 +546,7 @@
     "long_sec": "49.16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF 2024 Upper Peninsula Fire Management Unit Prescribed Fire Ottawa National Forest",
-    "changed": "10 seconds ago",
+    "changed": "4 seconds ago",
     "field_unit_code": "MIOTF"
   }
 ]
