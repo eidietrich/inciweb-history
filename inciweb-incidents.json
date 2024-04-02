@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "20 hours ago",
+    "changed": "20 hours 31 minutes ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,30 +84,8 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "7 minutes 27 seconds ago",
+    "changed": "39 minutes 2 seconds ago",
     "field_unit_code": "CACNF"
-  },
-  {
-    "title": "2024 UPFMU West Zone Prescribed Fire Operations ",
-    "lat_deg": "46",
-    "long_deg": "89",
-    "field_percent_of_perimeter": "",
-    "type": "Prescribed Fire",
-    "field_incident_description": "",
-    "field_active": "1",
-    "created": "<time datetime=\"2023-06-20T16:21:51-04:00\">2023-06-20</time>\n",
-    "id": "313134",
-    "field_incident_overview": "<p><span>2024 USDA Forest Service Upper Peninsula Fire Management Unit Prescribed Fire Projects </span></p><p><span>Ottawa National Forests including 7,128 acres (12 projects) on the East Zone of the Hiawatha, 2752 acres (24 projects) on the Hiawatha's West Zone, and 348 acres (11 projects) on the Ottawa. Prescribed burning is a tool that can help accomplish a variety of objectives. Such burns are weather-dependent and will likely be conducted between late April and early fall, when appropriate moisture, fuel and wind conditions are more likely. </span></p><p><span>Listed below are each project, its acreage, administrative unit.</span></p><p><strong>Hiawatha National Forest West Zone Proposed Prescribed Fire Activity</strong></p><p><strong>Project name - Acres - Purpose of project </strong></p><p>Little Ridge #3, 70 acres,  Wildlife Habitat Improvement and Maintenance </p><p>East Point #1, 48 acres, Wildlife Habitat Improvement and Maintenance </p><p>East Point #4, 10 acres, Wildlife Habitat Improvement and Maintenance </p><p>Pine Plains #7, 87 acres, Wildlife Habitat Improvement and Maintenance </p><p>Pine Plains #10, 8 acres, Wildlife Habitat Improvement and Maintenance </p><p>Ready Lake,  467 acres, Wildlife Habitat Improvement and Maintenance </p><p>Mormon Creek,  73 acres,  Wildlife Habitat Improvement and Maintenance </p><p>Highbridge #2,  25 acres, Wildlife Habitat Improvement and Maintenance </p><p>Kilpecker,  25 acres,  Wildlife Habitat Improvement and Maintenance </p><p>8 Mile Unit,  183 acres,  Wildlife Habitat Improvement and Maintenance </p><p>Farm Field,  4 acres,  Wildlife Habitat Improvement and Maintenance </p><p>Mike White #1,  79 acres,  Wildlife Habitat Improvement and Maintenance </p><p>Mike White #2,  129 acres,  Wildlife Habitat Improvement and Maintenance </p><p>Dutch Mill #3,  82 acres,  Wildlife Habitat Improvement and Maintenance </p><p>East Lake #1, 566 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>East Lake #2,  60 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>East Lake #3,  54 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>East Lake #4,  8 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>Indian River #2,  75 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>Indian River #3,  60 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>Stueben Lake#1,  98 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>Tombolo,  34 acres, 1 Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>Au Train,  170 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p>Jack Pine Lodge,  30 acres,  Reintroduce Fire in a Fire-Dependent Ecosystem</p><p><strong>Total Acres 2752</strong></p><p><strong>Hiawatha National Forest East Zone Proposed Prescribed Fire Activity</strong></p><p><strong>Project Name - Acres - Purpose of project</strong></p><p>Betchler,  4675 acres, Wildlife Habitat Improvement and Maintenance</p><p>Bramley, 161 acres,  Seed Collection</p><p>Cape Cod,  45 acres, Site Prep for Regeneration</p><p>Crimson, 34 acres,  Wildlife Habitat Improvement and Maintenance</p><p>Fugi,  345 acres,  Site Prep for Regeneration</p><p>Gala,  402 acres,  Wildlife Habitat Improvement and Maintenance</p><p>Highbanks,  977 acres, Site Prep for Regeneration/ Reduce Hazardous Fuels</p><p>Inkwell,  138 acres,  Wildlife Habitat Improvement and Maintenance</p><p>North Rifle Range,  99 acres,  Wildlife Habitat Improvement and Maintenance</p><p>Paula Red,  64 acres,  Site Prep for Regeneration</p><p>Plantation,  38 acres,  Reduce Hazardous Fuels</p><p>Rusty Waikiki,  50 acres,  Site Prep for Regeneration</p><p><strong>Total Acres 7,128</strong></p><p><strong>Ottawa National Forest Proposed Prescribed Fire Activity</strong></p><p><strong>Project Name - Acres - Purpose of project</strong></p><p>Little Falls,  20 acres,  Wildlife Habitat Improvement and Maintenance</p><p>1300 Railroad,  27 acres, Wildlife Habitat Improvement and Maintenance</p><p>Bond Falls,  80 acres,  Wildlife Habitat Improvement and Maintenance</p><p>Black Spruce,  3 acres, Wildlife Habitat Improvement and Maintenance</p><p>Lucky Charm, 55 acres,  Enhance Oak Regeneration</p><p>Soo Hemlock,  10 acres,  Enhance Hemlock Regeneration</p><p>Black Harbor 2 Enhance Native Plants/Pollinators</p><p>Cooks,  93 acres,  Reduce Hazardous Fuels</p><p>Camp Nesbit,  18 acres,  Reduce Hazardous Fuels</p><p>Dinner Lake Piles,  21 acres,  Reduce Hazardous Fuels</p><p>Paystreak Piles,  19 acres,  Reduce Hazardous Fuels</p><p><strong>Total Acres 348</strong></p><p> </p><p><span>Maps for the units' possible 2024 prescribed fire are available here:</span></p><ul><li><a href=\"https://usfs.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0b202f990a244b669a85acff82bc66c5\"><span>Upper Peninsula Fire Management Map</span></a></li></ul><p> </p><p><span>During active burning, smoke and flames may be visible from roads and in areas downwind of the burn site. Smoke may settle in some areas in the evening hours; however, ignition days and times will be adjusted to avoid smoke sensitive areas. If you have health problems that may be aggravated by smoke, please contact your nearest Zone Fire Management Officer. Affected individuals will be notified of prescribed fires that are conducted on Forest Service Lands in their vicinity the day of the burn.</span></p><ul><li><span>Hiawatha East Zone: Brian Wolvert,(906) 630-1386</span></li><li><span>Hiawatha West Zone: Cory Henry,  (906) 474-6442 ex 1014</span></li><li><span>Ottawa National Forest: Forest Paukert,  (906) 358-4036</span></li></ul><p><span>Prescribed burning provides benefits to our natural resources as well as reducing hazardous fuels on our National Forests. The Forest Service’s goals in burning wildlife openings are:</span></p><ul><li><span>Provide improved breeding and foraging habitat for early successional and cavity dependent species.</span></li><li><span>Set back vegetative succession and maintain wildlife openings.</span></li><li><span>Maintain burn units as part of a system of fuel breaks (including safety zones, escape routes, staging areas and control lines).</span></li><li><span>Remove or reduce the impact of non-native invasive species.</span></li><li><span>Reduce the risk of wildfires by reducing hazardous fuels.</span></li><li><span>Train personnel in the use of wildland fire in a safe and efficient manner.</span></li></ul><p><span>The Forest Service’s goals in conducting site preparation burns are:</span></p><ul><li><span>Naturally regenerate pine using prescribed fire.</span></li><li><span>Kill red pinecone borer larvae.</span></li><li><span>Stress over-story red pine to enhance cone production.</span></li><li><span>Reduce hazardous fuel loading within unit.</span></li></ul><p>Please contact your local Forest Service office (<a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fs.usda.gov%2Fdetail%2Fhiawatha%2Fabout-forest%2Foffices&amp;data=05%7C01%7C%7C3b8d7b3f47cb42a5f59b08db34805475%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C638161497993859060%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=SZkbm8EYVuEHhzlgk6%2B1DcvKdpeykMiRFSDYMGvqETk%3D&amp;reserved=0\">Hiawatha offices</a>, <a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fs.usda.gov%2Fdetail%2Fottawa%2Fabout-forest%2Foffices&amp;data=05%7C01%7C%7C3b8d7b3f47cb42a5f59b08db34805475%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C638161497993859060%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=w%2F8FCspTxl1hi9%2FEfPB3tcLsGTddMTlurHaGMEHi0zA%3D&amp;reserved=0\">Ottawa offices</a>) if you have any questions.</p><p> </p>",
-    "size": "",
-    "lat_min": "15",
-    "lat_sec": "71.32",
-    "urlPath": "/miotf-2024-upfmu-west-zone-prescribed-fire-operations",
-    "long_min": "10",
-    "long_sec": "49.16",
-    "measurement_type": "Acres",
-    "field_title_and_unit": "MIOTF 2024 UPFMU West Zone Prescribed Fire Operations",
-    "changed": "17 minutes 17 seconds ago",
-    "field_unit_code": "MIOTF"
   },
   {
     "title": "HTF 2023 Initial Attack ",
@@ -172,7 +150,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "4 hours 50 minutes ago",
+    "changed": "5 hours 21 minutes ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "18 hours 23 minutes ago",
+    "changed": "18 hours 54 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -282,7 +260,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "19 hours 35 minutes ago",
+    "changed": "20 hours 6 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +348,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "6 days 21 hours ago",
+    "changed": "6 days 22 hours ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -392,7 +370,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "5 days 5 hours ago",
+    "changed": "5 days 6 hours ago",
     "field_unit_code": "VASHP"
   },
   {
@@ -414,7 +392,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waterfall MountainShenandoah Forest211 Fire North Zone Complex",
-    "changed": "1 day 4 hours ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -436,7 +414,7 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waites Run Fire North Zone Complex",
-    "changed": "1 day 4 hours ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -458,7 +436,7 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 CaponBrush Run Fire North Zone Complex",
-    "changed": "1 day 4 hours ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -480,7 +458,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "2 hours 52 minutes ago",
+    "changed": "3 hours 24 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -502,7 +480,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire North Zone Complex",
-    "changed": "3 days 18 hours ago",
+    "changed": "3 days 19 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -524,7 +502,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "2 hours 43 minutes ago",
+    "changed": "3 hours 14 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -546,7 +524,29 @@
     "long_sec": "50.78",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
-    "changed": "8 seconds ago",
+    "changed": "31 minutes 43 seconds ago",
     "field_unit_code": "PAALF"
+  },
+  {
+    "title": "2024 Upper Peninsula Fire Management Unit Prescribed Fire – Ottawa National Forest ",
+    "lat_deg": "46",
+    "long_deg": "89",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2024-04-02T14:00:40-04:00\">2024-04-02</time>\n",
+    "id": "317117",
+    "field_incident_overview": "<p>All planned prescribed fires are weather-dependent and will likely be conducted between late April and early fall, when appropriate moisture, fuel and wind conditions are more likely. </p><p><span><strong>Ottawa National Forest Proposed Prescribed Fire Projects</strong></span></p><p><span><strong>Project Name - Acres - Purpose of project</strong></span></p><p><span>Little Falls,  20 acres,  Wildlife Habitat Improvement and Maintenance</span></p><p><span>1300 Railroad,  27 acres, Wildlife Habitat Improvement and Maintenance</span></p><p><span>Bond Falls,  80 acres,  Wildlife Habitat Improvement and Maintenance</span></p><p><span>Black Spruce,  3 acres, Wildlife Habitat Improvement and Maintenance</span></p><p><span>Lucky Charm, 55 acres,  Enhance Oak Regeneration</span></p><p><span>Soo Hemlock,  10 acres,  Enhance Hemlock Regeneration</span></p><p><span>Black Harbor 2 Enhance Native Plants/Pollinators</span></p><p><span>Cooks,  93 acres,  Reduce Hazardous Fuels</span></p><p><span>Camp Nesbit,  18 acres,  Reduce Hazardous Fuels</span></p><p><span>Dinner Lake Piles,  21 acres,  Reduce Hazardous Fuels</span></p><p><span>Paystreak Piles,  19 acres,  Reduce Hazardous Fuels</span></p><p><span><strong>Total Acres 348</strong></span></p><p><span> </span></p><p><span>Maps for the units' possible 2024 prescribed fire are available here:</span></p><ul type=\"disc\"><li><a href=\"https://usfs.maps.arcgis.com/apps/instant/sidebar/index.html?appid=0b202f990a244b669a85acff82bc66c5\"><span>Upper Peninsula Fire Management Map</span></a></li></ul><p> </p><p><span>During active burning, smoke and flames may be visible from roads and in areas downwind of the burn site. Smoke may settle in some areas in the evening hours; however, ignition days and times will be adjusted to avoid smoke sensitive areas. If you have health problems that may be aggravated by smoke, please contact your nearest Zone Fire Management Officer. Affected individuals will be notified of prescribed fires that are conducted on Forest Service Lands in their vicinity the day of the burn.</span></p><ul type=\"disc\"><li><span>Ottawa National Forest: Forest Paukert,  (906) 358-4036</span></li></ul><p><span>Prescribed burning provides benefits to our natural resources as well as reducing hazardous fuels on our National Forests. The Forest Service’s goals in burning wildlife openings are:</span></p><ul type=\"disc\"><li><span>Provide improved breeding and foraging habitat for early successional and cavity dependent species.</span></li><li><span>Set back vegetative succession and maintain wildlife openings.</span></li><li><span>Maintain burn units as part of a system of fuel breaks (including safety zones, escape routes, staging areas and control lines).</span></li><li><span>Remove or reduce the impact of non-native invasive species.</span></li><li><span>Reduce the risk of wildfires by reducing hazardous fuels.</span></li><li><span>Train personnel in the use of wildland fire in a safe and efficient manner.</span></li></ul><p><span>The Forest Service’s goals in conducting site preparation burns are:</span></p><ul type=\"disc\"><li><span>Naturally regenerate pine using prescribed fire.</span></li><li><span>Kill red pinecone borer larvae.</span></li><li><span>Stress over-story red pine to enhance cone production.</span></li><li><span>Reduce hazardous fuel loading within unit.</span></li></ul><p><span>Please contact your local Forest Service office (</span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fs.usda.gov%2Fdetail%2Fhiawatha%2Fabout-forest%2Foffices&amp;data=05%7C01%7C%7C3b8d7b3f47cb42a5f59b08db34805475%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C638161497993859060%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=SZkbm8EYVuEHhzlgk6%2B1DcvKdpeykMiRFSDYMGvqETk%3D&amp;reserved=0\"><span>Hiawatha offices</span></a><span>, </span><a href=\"https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fs.usda.gov%2Fdetail%2Fottawa%2Fabout-forest%2Foffices&amp;data=05%7C01%7C%7C3b8d7b3f47cb42a5f59b08db34805475%7Ced5b36e701ee4ebc867ee03cfa0d4697%7C0%7C0%7C638161497993859060%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=w%2F8FCspTxl1hi9%2FEfPB3tcLsGTddMTlurHaGMEHi0zA%3D&amp;reserved=0\"><span>Ottawa offices</span></a><span>) if you have any questions.</span></p><p><span> </span></p>",
+    "size": "",
+    "lat_min": "15",
+    "lat_sec": "71.32",
+    "urlPath": "/miotf-2024-upper-peninsula-fire-management-unit-prescribed-fire-ottawa-national-forest",
+    "long_min": "10",
+    "long_sec": "49.16",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "MIOTF 2024 Upper Peninsula Fire Management Unit Prescribed Fire Ottawa National Forest",
+    "changed": "10 seconds ago",
+    "field_unit_code": "MIOTF"
   }
 ]
