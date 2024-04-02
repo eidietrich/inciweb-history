@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "6 days 22 hours ago",
+    "changed": "6 days 23 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "17 hours 17 minutes ago",
+    "changed": "19 hours 1 minute ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "22 hours 37 minutes ago",
+    "changed": "1 day ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 hours 7 minutes ago",
+    "changed": "3 hours 51 minutes ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "15 hours 40 minutes ago",
+    "changed": "17 hours 24 minutes ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "04",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Yuba River Pileburn Projects",
-    "changed": "1 week 4 days ago",
+    "changed": "1 week 5 days ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -260,7 +260,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "16 hours 52 minutes ago",
+    "changed": "18 hours 36 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -348,7 +348,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "6 days 19 hours ago",
+    "changed": "6 days 20 hours ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "11",
     "measurement_type": "Acres",
     "field_title_and_unit": "VASHP Rocky Branch Fire",
-    "changed": "5 days 2 hours ago",
+    "changed": "5 days 4 hours ago",
     "field_unit_code": "VASHP"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "9",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waterfall MountainShenandoah Forest211 Fire North Zone Complex",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "36",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Waites Run Fire North Zone Complex",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -436,7 +436,7 @@
     "long_sec": "31",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 CaponBrush Run Fire North Zone Complex",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "10 minutes ago",
+    "changed": "1 hour 54 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -480,7 +480,7 @@
     "long_sec": "43",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Cove Mountain Fire North Zone Complex",
-    "changed": "3 days 15 hours ago",
+    "changed": "3 days 17 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -502,7 +502,29 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "5 seconds ago",
+    "changed": "1 hour 44 minutes ago",
     "field_unit_code": "VAVAF"
+  },
+  {
+    "title": "Spring Prescribed Fire Plan 2024",
+    "lat_deg": "41",
+    "long_deg": "79",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "We conduct prescribed fires with the safety of the public and firefighters as our highest priority. We use fire as a tool only when the parameters of our approved burn plan are met, including acceptable wind speed and direction, relative humidities, temperatures, fire danger, seasonal restrictions, and mitigation of potential smoke impacts.<br />\r\n<br />\r\nFire management staff, in collaboration with Forest resource specialists, identified several ecological objectives for the planned burn activities. Objectives include hazardous wildfire fuels reduction, improving forest health with vegetation diversity and enhancing important wildlife habitat.<br />\r\n<br />\r\nFires are a historic and natural process for some ecosystems in the Allegheny National Forest, grasslands and oak-hickory forests are two prime examples. Oak-hickory forests, which comprise approximately 16 percent of the Forest, require periodic fires to reduce competing undesirable vegetation, recycle soil nutrients and stimulate the increased production of acorns, blueberries, blackberries, and other mast crops. <br />\r\n",
+    "field_active": "1",
+    "created": "<time datetime=\"2024-04-02T12:36:35-04:00\">2024-04-02</time>\n",
+    "id": "317115",
+    "field_incident_overview": "<p><span>The US Department of Agriculture, Forest Service plans to use prescribed fire as a forest management tool from early-April until mid-May on the Allegheny National Forest. We do not have exact dates yet. Our operations are weather dependent, and we will implement prescribed fires at the optimal time to achieve the best results. This spring, we plan to treat 400 acres spread across five project areas located in the Warren County portion of the Bradford Ranger District. We will notify communities near the burn sites 24 to 48 hours before ignitions.  To keep community members well informed during the burns, we will post road signs and utilize road guards if necessary. Information on our social media channels, </span><a href=\"https://twitter.com/Allegheny_NF\"><span>@Allegheny_NF / Twitter</span></a><span> and </span><a href=\"https://www.facebook.com/AlleghenyNF\"><span>AlleghenyNF / Facebook</span></a><span>. </span></p>",
+    "size": "400",
+    "lat_min": "41",
+    "lat_sec": "4.3",
+    "urlPath": "/paalf-spring-prescribed-fire-plan-2024",
+    "long_min": "21",
+    "long_sec": "28.3",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
+    "changed": "11 seconds ago",
+    "field_unit_code": "PAALF"
   }
 ]
