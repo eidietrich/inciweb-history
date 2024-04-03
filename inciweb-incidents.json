@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 day 15 hours ago",
+    "changed": "1 day 16 hours ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "19 hours 40 minutes ago",
+    "changed": "20 hours 23 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "50 seconds ago",
+    "changed": "15 seconds ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 day 13 hours ago",
+    "changed": "1 day 14 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -458,7 +458,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "22 hours 26 minutes ago",
+    "changed": "23 hours 9 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -502,7 +502,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "15 hours 3 minutes ago",
+    "changed": "15 hours 46 minutes ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -524,7 +524,7 @@
     "long_sec": "50.78",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
-    "changed": "15 hours 59 minutes ago",
+    "changed": "16 hours 42 minutes ago",
     "field_unit_code": "PAALF"
   },
   {
@@ -546,7 +546,7 @@
     "long_sec": "49.16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF 2024 Upper Peninsula Fire Management Unit Prescribed Fire Ottawa National Forest",
-    "changed": "18 hours 36 minutes ago",
+    "changed": "19 hours 19 minutes ago",
     "field_unit_code": "MIOTF"
   },
   {
@@ -568,7 +568,7 @@
     "long_sec": "19.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIHIF 2024 Upper Peninsula Unit Prescribed Fire Hiawatha NF West Zone",
-    "changed": "18 hours 9 minutes ago",
+    "changed": "18 hours 52 minutes ago",
     "field_unit_code": "MIHIF"
   },
   {
@@ -590,7 +590,7 @@
     "long_sec": "50.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIHIF 2024 Upper Peninsula Unit Prescribed Fire Hiawatha NF East Zone",
-    "changed": "18 hours ago",
+    "changed": "18 hours 43 minutes ago",
     "field_unit_code": "MIHIF"
   }
 ]
