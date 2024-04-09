@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "22 hours 54 minutes ago",
+    "changed": "23 hours 29 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "13 seconds ago",
+    "changed": "35 minutes 15 seconds ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "6 days 2 hours ago",
+    "changed": "6 days 3 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "17 hours 17 minutes ago",
+    "changed": "17 hours 52 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "3 hours 25 minutes ago",
+    "changed": "4 hours ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,8 +150,30 @@
     "long_sec": "16",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZPNF 2023 Grapevine Fire",
-    "changed": "1 month ago",
+    "changed": "1 month 1 week ago",
     "field_unit_code": "AZPNF"
+  },
+  {
+    "title": "Anvil Fire",
+    "lat_deg": "42",
+    "long_deg": "124",
+    "field_percent_of_perimeter": "95",
+    "type": "Wildfire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-08-31T23:09:52-04:00\">2023-08-31</time>\n",
+    "id": "315330",
+    "field_incident_overview": "<p><strong>The Anvil Fire was discovered on August 25th.</strong> The fire is located 7.5 miles east of Port Orford, OR, on Anvil Mountain. <span>The Forest and Incident Management Team (IMT) are working in close coordination with Coos Forest Protective Association, Douglas Forest Protective Association and Curry County Sheriff. The IMT's top priority is public and firefighter safety. They are using a full suppression strategy to contain the fire as small as possible, as safely as possible. More information can be found on </span><a href=\"https://www.facebook.com/flatfireoregon2023\"><span>Facebook</span></a><span> and</span><a href=\"twitter.com/RRSNF\"><span> </span></a><a href=\"https://twitter.com/RRSNF\"><span>X (formerly known as Twitter)</span></a></p><p><span><strong>Evacuations: </strong>All evacuation levels have been lifted.</span><a href=\"https://bit.ly/CurryCoEM\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong> </strong></span></a><a href=\"https://bit.ly/CurryCoEM.\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>https://bit.ly/CurryCoEM.</strong></span></a></p><p><strong>Area and Road Closures: </strong></p><p><span>The Rogue River-Siskiyou National Forest/Powers Ranger District has determined that the Anvil Fire closure, which was scheduled to be in effect through July 1, 2024, is now safe and open for public entry.</span></p><p><span>The Anvil Fire closure included the Grassy Knob Wilderness area; Forest Service Roads 5201 (Sixes River Road) and 5201-90 (Butler Creek Road) and the Grassy Knob Trail #1241</span></p><p><span> Please continue to be cautious when driving through the area and maintain situational awareness around any snags in the burned area.</span></p><p><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>Road Conditions: </strong>For specific information on road access, please see the Caltrans QuickMap site</span><a href=\"https://quickmap.dot.ca.gov/\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>, https://quickmap.dot.ca.gov/ </strong></span></a><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">and Oregon Department of Transportation site, </span><a href=\"https://www.tripcheck.com/\"><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\"><strong>https://www.tripcheck.com/.</strong></span></a><span lang=\"EN\" xml:lang=\"EN\" xml:lang=\"EN\">  <strong>Do not use forest roads for alternate routes</strong>.</span></p><p> </p>",
+    "size": "22170",
+    "lat_min": "44",
+    "lat_sec": "45",
+    "urlPath": "/orrsf-anvil-fire",
+    "long_min": "20",
+    "long_sec": "37",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "ORRSF Anvil Fire",
+    "changed": "15 seconds ago",
+    "field_unit_code": "ORRSF"
   },
   {
     "title": "Lolo National Forest Prescribed Fire Operations ",
@@ -172,7 +194,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "4 days 6 hours ago",
+    "changed": "4 days 7 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -194,7 +216,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "6 days 2 hours ago",
+    "changed": "6 days 3 hours ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -282,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "59 minutes 42 seconds ago",
+    "changed": "1 hour 34 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -348,7 +370,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "3 days 23 hours ago",
+    "changed": "4 days ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -502,7 +524,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "6 days 4 hours ago",
+    "changed": "6 days 5 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -524,7 +546,7 @@
     "long_sec": "50.78",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
-    "changed": "6 days 22 hours ago",
+    "changed": "6 days 23 hours ago",
     "field_unit_code": "PAALF"
   },
   {
@@ -612,7 +634,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "1 hour 29 minutes ago",
+    "changed": "2 hours 4 minutes ago",
     "field_unit_code": "NMLNF"
   }
 ]
