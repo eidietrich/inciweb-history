@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "23 hours 29 minutes ago",
+    "changed": "23 hours 35 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "35 minutes 15 seconds ago",
+    "changed": "41 minutes 15 seconds ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "17 hours 52 minutes ago",
+    "changed": "17 hours 58 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "4 hours ago",
+    "changed": "4 hours 6 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "15 seconds ago",
+    "changed": "13 seconds ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "1 hour 34 minutes ago",
+    "changed": "1 hour 40 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -634,7 +634,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "2 hours 4 minutes ago",
+    "changed": "2 hours 10 minutes ago",
     "field_unit_code": "NMLNF"
   }
 ]
