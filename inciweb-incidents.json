@@ -62,7 +62,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "1 day 20 hours ago",
+    "changed": "1 day 21 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 4 minutes ago",
+    "changed": "3 hours 11 minutes ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "1 day 21 hours ago",
+    "changed": "1 day 22 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -617,8 +617,8 @@
   },
   {
     "title": "Lincoln National Forest prescribed fire and pile burns (Spring 2024)",
-    "lat_deg": "32 56&#039;3",
-    "long_deg": "105 58&#039;29",
+    "lat_deg": "32.934174",
+    "long_deg": "105.974632",
     "field_percent_of_perimeter": "",
     "type": "Prescribed Fire",
     "field_incident_description": "Pile burns work alongside both prescribed fire and mechanical thinning to remove fuels such as woody debris and logging scraps from the forest floor during times of opportune weather.<br />\r\n<br />\r\nFire managers make every effort to effectively plan and execute burn plans at times when weather allows for smoke impacts to be minimized and transport up and over communities.<br />\r\n<br />\r\nFor more information about prescribed burns and why wildfire is a necessary part of this ecosystem, please visit our website at coconinonationalforest.us.",
@@ -634,7 +634,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "1 second ago",
+    "changed": "18 seconds ago",
     "field_unit_code": "NMLNF"
   }
 ]
