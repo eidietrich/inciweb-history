@@ -84,7 +84,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 week ago",
+    "changed": "1 week 1 day ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "1 day 17 hours ago",
+    "changed": "1 day 18 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "1 day ago",
+    "changed": "1 day 1 hour ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "3 hours 11 minutes ago",
+    "changed": "17 seconds ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "44.676",
     "measurement_type": "Acres",
     "field_title_and_unit": "CAMNF Mendocino NF Fall 2023Spring 2024 RX Fire Projects",
-    "changed": "1 week ago",
+    "changed": "1 week 1 day ago",
     "field_unit_code": "CAMNF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "5 days 20 hours ago",
+    "changed": "5 days 21 hours ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -524,7 +524,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -634,7 +634,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "18 seconds ago",
+    "changed": "37 minutes 36 seconds ago",
     "field_unit_code": "NMLNF"
   }
 ]
