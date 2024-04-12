@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "12 minutes 24 seconds ago",
+    "changed": "2 hours 58 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -40,7 +40,7 @@
     "long_sec": "32",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJD Southwest District BLM Prescribed Fire",
-    "changed": "1 week 3 days ago",
+    "changed": "1 week 4 days ago",
     "field_unit_code": "COSJD"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "2 days 23 hours ago",
+    "changed": "3 days 2 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "10 minutes 54 seconds ago",
+    "changed": "2 hours 56 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "2 days 20 hours ago",
+    "changed": "2 days 22 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,8 +128,30 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "2 days 2 hours ago",
+    "changed": "2 days 5 hours ago",
     "field_unit_code": "CACNF"
+  },
+  {
+    "title": "Bighorn / Stateline Prescribed Fire",
+    "lat_deg": "36",
+    "long_deg": "106",
+    "field_percent_of_perimeter": "0",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-06-19T12:01:10-04:00\">2023-06-19</time>\n",
+    "id": "313115",
+    "field_incident_overview": "<p><strong>This project has been indefinitely postponed. Please see the news release. </strong></p><p>The Rio Grande National Forest (RGNF) in Colorado and Carson National Forest in New Mexico are planning to initiate a broadcast prescribed fire to the south of Mogote, CO and northeast of Chama, NM. Fire managers are currently monitoring conditions, including snowmelt and fuel moistures. A date for planned ignitions is not yet being estimated. Careful consideration of weather, fuels conditions and resource availability in the area will be given, prior to the fire being started.</p><p>Three separate burn units are planned for this 700 to 900-acre prescribed fire which includes 192 acres on the Carson National Forest in New Mexico. Fire managers from both agencies are closely coordinating on this prescribed fire.</p><p>The general location of the prescribed fire is south of Mogote, CO just southeast of RGNF Forest Road 103, along the 103.2B on the west and 125.2B on the east. The south units are bound by Carson NF Road 75 and on the west by the 494 Road. The forest roads will be open to the public, but fire crew traffic may limit access.<span> </span></p><p>The purpose of the Bighorn/Stateline Prescribed Fire, which is within the <a href=\"https://232partnership.org/rio-chama-cflrp/\">Rio Chama Collaborative Forest Landscape Restoration Project</a> boundaries, is to reduce thinning slash that was generated several years ago and to return fire to both the mixed conifer and ponderosa forest settings. This condition more closely resembles its natural state, where frequent and low intensity surface fires burn ground fuels and small trees while maintaining an open stand of larger trees.</p><p>Conejos Canyon Prescribed Fire information will be added at a later date.</p>",
+    "size": "900",
+    "lat_min": "59",
+    "lat_sec": "39.59",
+    "urlPath": "/corgf-bighorn-stateline-prescribed-fire",
+    "long_min": "11",
+    "long_sec": "36.20",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "CORGF Bighorn Stateline Prescribed Fire",
+    "changed": "31 seconds ago",
+    "field_unit_code": "CORGF"
   },
   {
     "title": "2023 Grapevine Fire",
@@ -172,7 +194,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "2 days 22 hours ago",
+    "changed": "3 days 1 hour ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -194,7 +216,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "2 seconds ago",
+    "changed": "2 hours 45 minutes ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -304,7 +326,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "3 days ago",
+    "changed": "3 days 3 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -348,7 +370,7 @@
     "long_sec": "51",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACDD Palmas Fire",
-    "changed": "1 month 1 week ago",
+    "changed": "1 month 2 weeks ago",
     "field_unit_code": "CACDD"
   },
   {
@@ -370,7 +392,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "9 minutes 17 seconds ago",
+    "changed": "2 hours 55 minutes ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -524,7 +546,7 @@
     "long_sec": "17",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 North Zone Complex",
-    "changed": "2 days 4 hours ago",
+    "changed": "2 days 7 hours ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -546,7 +568,7 @@
     "long_sec": "50.78",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "PAALF"
   },
   {
@@ -590,7 +612,7 @@
     "long_sec": "19.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIHIF 2024 Upper Peninsula Unit Prescribed Fire Hiawatha NF West Zone",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "MIHIF"
   },
   {
@@ -612,7 +634,7 @@
     "long_sec": "50.7",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIHIF 2024 Upper Peninsula Unit Prescribed Fire Hiawatha NF East Zone",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "MIHIF"
   },
   {
@@ -634,7 +656,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "3 hours 54 minutes ago",
+    "changed": "6 hours 39 minutes ago",
     "field_unit_code": "NMLNF"
   }
 ]
