@@ -62,7 +62,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "2 days 18 hours ago",
+    "changed": "2 days 19 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "2 days 15 hours ago",
+    "changed": "2 days 16 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "57 minutes 13 seconds ago",
+    "changed": "1 hour 28 minutes ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "2 days 19 hours ago",
+    "changed": "2 days 20 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "27 seconds ago",
+    "changed": "31 minutes 44 seconds ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -480,7 +480,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "1 week 2 days ago",
+    "changed": "1 week 3 days ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -625,7 +625,7 @@
     "field_active": "1",
     "created": "<time datetime=\"2024-04-09T13:18:04-04:00\">2024-04-09</time>\n",
     "id": "317128",
-    "field_incident_overview": "<p><strong>NAME: </strong>Cedar Creek Prescribed Burn Area</p><p><strong>DISTRICT: </strong>Smokey Bear Ranger District 1</p><p><strong>PLANNED ACRES: </strong>87</p><p><strong>DATES: </strong>April<strong> </strong>9-19</p><p><strong>CURRENT STATUS: </strong>ACTIVE</p><p>_____________________________________________________________________________________</p><p><strong>NAME: </strong>16 Springs Prescribed Burn Area</p><p><strong>DISTRICT: </strong>Sacramento Ranger District 2</p><p><strong>PLANNED ACRES: </strong>500</p><p><strong>DATES: </strong>April<strong> </strong>11-26</p><p><strong>CURRENT STATUS: </strong>ACTIVE</p>",
+    "field_incident_overview": "<p><strong>NAME: </strong>Cedar Creek Prescribed Burn Area</p><p><strong>DISTRICT: </strong>Smokey Bear Ranger District 1</p><p><strong>PLANNED ACRES: </strong>87</p><p><strong>DATES: </strong>April<strong> </strong>9-19</p><p><strong>CURRENT STATUS: </strong>Ignitions have ceased, crews will continue to monitor the area for hotspots. Smoke conditions should continue to improve throughout the day (April 12, 2024).</p><p>_____________________________________________________________________________________</p><p><strong>NAME: </strong>16 Springs Prescribed Burn Area</p><p><strong>DISTRICT: </strong>Sacramento Ranger District 2</p><p><strong>PLANNED ACRES: </strong>500</p><p><strong>DATES: </strong>April<strong> </strong>11-26</p><p><strong>CURRENT STATUS: </strong>Ignitions completed April 11, 2024, crews will continue to monitor. Next week, prescribed burns will continue if conditions allow.</p>",
     "size": "",
     "lat_min": "",
     "lat_sec": "",
@@ -634,7 +634,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "20 hours 46 minutes ago",
+    "changed": "9 seconds ago",
     "field_unit_code": "NMLNF"
   }
 ]
