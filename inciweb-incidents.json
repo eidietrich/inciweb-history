@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "1 day 20 hours ago",
+    "changed": "1 day 21 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "8 seconds ago",
+    "changed": "33 seconds ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -634,7 +634,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "19 hours 41 minutes ago",
+    "changed": "19 hours 50 minutes ago",
     "field_unit_code": "NMLNF"
   }
 ]
