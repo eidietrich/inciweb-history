@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho Roosevelt National Forests Pile Burning",
-    "changed": "3 days 19 hours ago",
+    "changed": "3 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -62,7 +62,7 @@
     "long_sec": "34.8822",
     "measurement_type": "Acres",
     "field_title_and_unit": "COSJF 2024 San Juan National Forest Prescribed Fire Program",
-    "changed": "6 days 18 hours ago",
+    "changed": "6 days 19 hours ago",
     "field_unit_code": "COSJF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "3 days 19 hours ago",
+    "changed": "3 days 20 hours ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "17 hours 30 minutes ago",
+    "changed": "18 hours 2 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "36.20",
     "measurement_type": "Acres",
     "field_title_and_unit": "CORGF Bighorn Stateline Prescribed Fire",
-    "changed": "3 days 16 hours ago",
+    "changed": "3 days 17 hours ago",
     "field_unit_code": "CORGF"
   },
   {
@@ -194,7 +194,7 @@
     "long_sec": "37",
     "measurement_type": "Acres",
     "field_title_and_unit": "ORRSF Anvil Fire",
-    "changed": "6 days 17 hours ago",
+    "changed": "6 days 18 hours ago",
     "field_unit_code": "ORRSF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "41 minutes 48 seconds ago",
+    "changed": "1 hour 13 minutes ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "18 hours 27 minutes ago",
+    "changed": "18 hours 59 minutes ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "6 days 19 hours ago",
+    "changed": "6 days 20 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "3 days 19 hours ago",
+    "changed": "9 seconds ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -502,7 +502,7 @@
     "long_sec": "23",
     "measurement_type": "Acres",
     "field_title_and_unit": "VAVAF 2024 Edith GapSerenity Ridge Fire North Zone Complex",
-    "changed": "1 week 6 days ago",
+    "changed": "2 weeks ago",
     "field_unit_code": "VAVAF"
   },
   {
@@ -568,7 +568,7 @@
     "long_sec": "50.78",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
-    "changed": "17 hours 34 minutes ago",
+    "changed": "18 hours 6 minutes ago",
     "field_unit_code": "PAALF"
   },
   {
@@ -656,7 +656,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "7 seconds ago",
+    "changed": "32 minutes 4 seconds ago",
     "field_unit_code": "NMLNF"
   }
 ]
