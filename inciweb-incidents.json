@@ -62,7 +62,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "1 hour 4 minutes ago",
+    "changed": "1 hour 11 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "18 hours 42 minutes ago",
+    "changed": "18 hours 48 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "1 hour 22 minutes ago",
+    "changed": "1 hour 28 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTNF 2024 Initial Attack",
-    "changed": "3 hours 50 minutes ago",
+    "changed": "3 hours 56 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -218,6 +218,28 @@
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
     "changed": "1 day 5 hours ago",
     "field_unit_code": "MTLNF"
+  },
+  {
+    "title": "Cow Creek Prescribed Burn",
+    "lat_deg": "38",
+    "long_deg": "108",
+    "field_percent_of_perimeter": "",
+    "type": "Prescribed Fire",
+    "field_incident_description": "",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-09-18T12:48:20-04:00\">2023-09-18</time>\n",
+    "id": "316082",
+    "field_incident_overview": "<p dir=\"ltr\"><strong>Cow Creek Prescribed Burn Plan:&nbsp;</strong></p><p dir=\"ltr\"><em><strong>Up to 15,000 acres targeted for treatment with prescribed fire in Mesa County&nbsp;</strong></em></p><p dir=\"ltr\"><span>Fire Management Officials from the Grand Mesa,&nbsp; Uncompahgre, and Gunnison (GMUG) National Forests’ Grand Valley Ranger District are conducting the Cow&nbsp;Creek Prescribed Burn starting on Sept. 24, with ignition decisions being made on an ongoing basis, depending upon weather and fuel conditions.&nbsp;</span></p><p dir=\"ltr\"><span>The Cow Creek Prescribed Burn project area is approximately 9 miles east of Gateway, Colorado, and 25 miles southwest of Grand Junction, Colorado. If conditions are appropriate, about 7,000 acres with the potential of up to 15,000 acres are planned to be burned over multiple days, reducing the threat of catastrophic wildfire and improving wildlife habitat. The project area includes Cow Creek, Calamity Creek, and Indian Creek. The Cow Creek Prescribed Burn is being accomplished using joint-agency fire resources, utilizing both aerial and hand ignitions, and&nbsp;is being closely monitored to ensure that the burn area remains within the designated boundaries.&nbsp;</span></p><p dir=\"ltr\"><span>Prescribed burning is a tool that re-introduces fire into the ecosystem to promote and regenerate healthy trees and habitat conditions. This type of fire management strategy is important to maintain a fire-adapted ecosystem and is essential for wildfire prevention. Before conducting a prescribed burn, extensive planning takes place to establish proper parameters such as weather, fuel conditions, smoke dispersion, staffing, and other agency coordination. A prescribed fire is a planned fire used to accomplish management objectives. One of the objectives for this burn is to reduce the overgrown and crowded fuels in the area, therefore creating a mosaic landscape that is more resistant to catastrophic wildfire. This prescribed fire is also aiming to enhance productive vegetation in the oak brush and mountain shrub parts of the burn area, in order to increase habitat for wildlife and livestock. &nbsp;</span></p><p dir=\"ltr\"><span>Significant coordinating efforts occur with local landowners, protection partners, and other cooperating agencies to ensure the burn is conducted safely.&nbsp;The safety of firefighters and the public are the most important factors considered when planning prescribed fires.&nbsp;For more information on prescription burning and its use, please visit: </span><a href=\"https://www.fs.usda.gov/managing-land/prescribed-fire\"><span>https://www.fs.usda.gov/managing-land/prescribed-fire</span></a></p><p dir=\"ltr\"><span>Dispersed recreation in the prescribed fire project areas may be impacted. Staff will be making personal contact with recreationists regarding any temporary closures. Signs will be placed on adjacent roads, notifying the public of the project areas as necessary.&nbsp;&nbsp;</span></p><p dir=\"ltr\"><span>Fire managers have obtained smoke permits from the State of Colorado and will comply with&nbsp;Colorado State air quality regulations. Smoke from the prescribed fire is being managed to have minimal impact on neighboring communities. Smoke may be visible in several communities, including Grand Junction, Whitewater, Gateway, Fruita, Delta, Montrose, and Norwood for multiple days. The public is advised not to call 911 for smoke regarding this prescribed burn.&nbsp;</span></p><p dir=\"ltr\"><span>For more information on how prescribed fire smoke may affect your health, please visit&nbsp;</span><a href=\"https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health\"><span>https://www.colorado.gov/pacific/cdphe/wood-smoke-and-health</span></a></p><p dir=\"ltr\"><span>Prescribed burn updates will be posted on the&nbsp;GMUG Fire Info&nbsp;page. For information on prescribed burns, pile burns, wildfires, and fire restrictions on National Forest System lands, visit&nbsp;</span><a href=\"https://www.westslopefireinformation.com\"><span>https://www.westslopefireinformation.com</span></a></p><p dir=\"ltr\"><span>For information and updates on current fire restrictions, conditions, and recreation opportunities on the Grand&nbsp; Mesa, Uncompahgre, and Gunnison (GMUG) National Forests, visit the&nbsp;forest website. Connect with us on social media </span><a href=\"https://twitter.com/gmug_nf\"><span>https://twitter.com/gmug_nf</span></a><span> and </span><a href=\"https://www.facebook.com/GMUG.NF/\"><span>https://www.facebook.com/GMUG.NF/</span></a></p><p dir=\"ltr\">&nbsp;</p>",
+    "size": "",
+    "lat_min": "40",
+    "lat_sec": "52.8000",
+    "urlPath": "/cogmf-cow-creek-prescribed-burn",
+    "long_min": "49",
+    "long_sec": "25.8000",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "COGMF Cow Creek Prescribed Burn",
+    "changed": "1 minute 7 seconds ago",
+    "field_unit_code": "COGMF"
   },
   {
     "title": "Mendocino NF Fall 2023/Spring 2024 RX Fire Projects",
@@ -304,7 +326,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 day 22 hours ago",
+    "changed": "1 day 23 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -348,7 +370,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE PRESCRIBED FIRE",
-    "changed": "3 hours 59 minutes ago",
+    "changed": "4 hours 5 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -392,7 +414,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "22 hours 13 minutes ago",
+    "changed": "22 hours 19 minutes ago",
     "field_unit_code": "WVMOF"
   },
   {
