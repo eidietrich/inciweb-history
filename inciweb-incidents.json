@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho and Roosevelt National Forests Pile Burning",
-    "changed": "17 hours 2 minutes ago",
+    "changed": "17 hours 11 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "14 hours 45 minutes ago",
+    "changed": "14 hours 53 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "14 hours 22 minutes ago",
+    "changed": "14 hours 31 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -152,6 +152,28 @@
     "field_title_and_unit": "CORGF Bighorn Stateline Prescribed Fire",
     "changed": "4 days 17 hours ago",
     "field_unit_code": "CORGF"
+  },
+  {
+    "title": "HTNF 2024 Initial Attack ",
+    "lat_deg": "39",
+    "long_deg": "119",
+    "field_percent_of_perimeter": "100",
+    "type": "Wildfire",
+    "field_incident_description": "The Humboldt-Toiyabe NF acknowledges the wildfire suppression and wildfire preparedness efforts for the 2024 fire season. The Forest extends great respect and gratitude towards the active work of firefighters in containing and controlling wildfires through techniques such as removing fuels, suffocating the fire with dirt, and cooling vegetation with targeted water.<br />\r\n<br />\r\nWe wish to emphasize the importance of families and communities taking a hands-on approach to wildfire preparedness, including creating defensible space around homes and buildings, making homes more fire-resistant, and having emergency plans in place. Several Nevadans live in a high-risk fire zone, making these efforts even more crucial.<br />\r\n<br />\r\nThe Forest Service&#039;s 10-year Wildfire Crisis Strategy is of the utmost importance for the HTNF with the announcement of 10 landscape project areas and the addition of 11 more in January 2023. These landscapes represent investments in high-risk fire sheds in the western United States, which are large, forested landscapes and rangelands with a high likelihood of destructive wildfires. The agency treated 3.2 million acres nationally in the previous year, thanks to funding from the Bipartisan Infrastructure Law and Inflation Reduction Act.<br />\r\n<br />\r\nWe encourage Nevadans to access the Living With Fire website, https://www.livingwithfire.com/, which provides local alerts, preparedness checklists, evacuation plans, and other resources.<br />\r\n<br />\r\nFOR UP-TO-DATE INFORMATION ON ALL HTF FIRE INCIDENTS - Please follow us on FACEBOOK https://www.facebook.com/HumboldtToiyabeNF and TWITTER https://twitter.com/HumboldtToiyabe/ <br />\r\n<br />\r\nRemember - Only you can prevent wildfires!",
+    "field_active": "1",
+    "created": "<time datetime=\"2023-07-17T14:51:04-04:00\">2023-07-17</time>\n",
+    "id": "313492",
+    "field_incident_overview": "<p><em><strong>HTNF Initial Attack Incidents less than 10 acres in size will be placed here. All others will have their own page. Exception - Cal Fire Incidents in HTNF Coverage areas</strong></em></p><p><em><strong>&nbsp; &nbsp; &nbsp; &nbsp; DATE/TIME&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LOCATION&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NAME&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LAT/LONG&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SIZE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; STATUS&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></em></p><p>1.</p><p>&nbsp;</p>",
+    "size": "0",
+    "lat_min": "31",
+    "lat_sec": "25",
+    "urlPath": "/nvhtf-htnf-2024-initial-attack",
+    "long_min": "43",
+    "long_sec": "10",
+    "measurement_type": "Acres",
+    "field_title_and_unit": "NVHTF HTNF 2024 Initial Attack",
+    "changed": "1 minute 43 seconds ago",
+    "field_unit_code": "NVHTF"
   },
   {
     "title": "2023 Grapevine Fire",
@@ -326,7 +348,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "23 hours 28 minutes ago",
+    "changed": "23 hours 36 minutes ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -348,7 +370,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE PRESCRIBED FIRE",
-    "changed": "1 minute 58 seconds ago",
+    "changed": "10 minutes 40 seconds ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -392,7 +414,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "18 hours 16 minutes ago",
+    "changed": "18 hours 24 minutes ago",
     "field_unit_code": "WVMOF"
   },
   {
