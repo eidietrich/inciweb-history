@@ -18,7 +18,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Arapaho and Roosevelt National Forests Pile Burning",
-    "changed": "19 hours 26 minutes ago",
+    "changed": "19 hours 37 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "17 hours 8 minutes ago",
+    "changed": "17 hours 20 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "6 seconds ago",
+    "changed": "19 seconds ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -172,7 +172,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTNF 2024 Initial Attack",
-    "changed": "2 hours 16 minutes ago",
+    "changed": "2 hours 28 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -348,7 +348,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "1 day 1 hour ago",
+    "changed": "1 day 2 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -370,7 +370,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE PRESCRIBED FIRE",
-    "changed": "2 hours 25 minutes ago",
+    "changed": "2 hours 37 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -414,7 +414,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "20 hours 39 minutes ago",
+    "changed": "20 hours 51 minutes ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -678,7 +678,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "NMLNF"
   }
 ]
