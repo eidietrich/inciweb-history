@@ -62,7 +62,7 @@
     "long_sec": "16.692",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Magic Feather Prescribed Burn",
-    "changed": "29 seconds ago",
+    "changed": "1 hour 4 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -84,7 +84,7 @@
     "long_sec": "5",
     "measurement_type": "Acres",
     "field_title_and_unit": "COARF Forsythe II Prescribed Burn",
-    "changed": "17 hours 37 minutes ago",
+    "changed": "18 hours 42 minutes ago",
     "field_unit_code": "COARF"
   },
   {
@@ -106,7 +106,7 @@
     "long_sec": "57.568",
     "measurement_type": "Acres",
     "field_title_and_unit": "CACNF 2024 Cleveland National Forest Forest Health Treatments",
-    "changed": "17 minutes 54 seconds ago",
+    "changed": "1 hour 22 minutes ago",
     "field_unit_code": "CACNF"
   },
   {
@@ -128,7 +128,7 @@
     "long_sec": "36.20",
     "measurement_type": "Acres",
     "field_title_and_unit": "CORGF Bighorn Stateline Prescribed Fire",
-    "changed": "4 days 19 hours ago",
+    "changed": "4 days 21 hours ago",
     "field_unit_code": "CORGF"
   },
   {
@@ -150,7 +150,7 @@
     "long_sec": "10",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF HTNF 2024 Initial Attack",
-    "changed": "2 hours 45 minutes ago",
+    "changed": "3 hours 50 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -216,7 +216,7 @@
     "long_sec": "73",
     "measurement_type": "Acres",
     "field_title_and_unit": "MTLNF Lolo National Forest Prescribed Fire Operations",
-    "changed": "1 day 4 hours ago",
+    "changed": "1 day 5 hours ago",
     "field_unit_code": "MTLNF"
   },
   {
@@ -304,7 +304,7 @@
     "long_sec": "54",
     "measurement_type": "Acres",
     "field_title_and_unit": "CATNF TNF Eastside Pileburn Projects",
-    "changed": "1 day 21 hours ago",
+    "changed": "1 day 22 hours ago",
     "field_unit_code": "CATNF"
   },
   {
@@ -326,7 +326,7 @@
     "long_sec": "26.6",
     "measurement_type": "Acres",
     "field_title_and_unit": "AZCOF Coconino National Forest prescribed fire and pile burns WinterSpring 2024",
-    "changed": "1 day 2 hours ago",
+    "changed": "1 day 3 hours ago",
     "field_unit_code": "AZCOF"
   },
   {
@@ -348,7 +348,7 @@
     "long_sec": "29",
     "measurement_type": "Acres",
     "field_title_and_unit": "NVHTF 2024 HTNF FOREST WIDE PRESCRIBED FIRE",
-    "changed": "2 hours 54 minutes ago",
+    "changed": "3 hours 59 minutes ago",
     "field_unit_code": "NVHTF"
   },
   {
@@ -392,7 +392,7 @@
     "long_sec": "58.4",
     "measurement_type": "Acres",
     "field_title_and_unit": "WVMOF Monongahela National Forest Spring 2024 Prescribed Fire Operations",
-    "changed": "21 hours 8 minutes ago",
+    "changed": "22 hours 13 minutes ago",
     "field_unit_code": "WVMOF"
   },
   {
@@ -568,7 +568,7 @@
     "long_sec": "50.78",
     "measurement_type": "Acres",
     "field_title_and_unit": "PAALF Spring Prescribed Fire Plan 2024",
-    "changed": "1 day 21 hours ago",
+    "changed": "1 day 22 hours ago",
     "field_unit_code": "PAALF"
   },
   {
@@ -590,7 +590,7 @@
     "long_sec": "49.16",
     "measurement_type": "Acres",
     "field_title_and_unit": "MIOTF 2024 Upper Peninsula Fire Management Unit Prescribed Fire Ottawa National Forest",
-    "changed": "2 weeks ago",
+    "changed": "2 weeks 1 day ago",
     "field_unit_code": "MIOTF"
   },
   {
@@ -656,7 +656,7 @@
     "long_sec": "",
     "measurement_type": "Acres",
     "field_title_and_unit": "NMLNF Lincoln National Forest prescribed fire and pile burns Spring 2024",
-    "changed": "1 day 3 hours ago",
+    "changed": "1 day 4 hours ago",
     "field_unit_code": "NMLNF"
   }
 ]
